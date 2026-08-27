@@ -1,14 +1,14 @@
 {
- "generated_utc": "2026-08-27T17:27:14.319439+00:00",
+ "generated_utc": "2026-08-27T18:05:06.448057+00:00",
  "paper": true,
  "strategy": "the wheel (cash-secured puts -> covered calls)",
  "since": "2026-07-13",
  "trading_days": 29,
- "green_days": 17,
+ "green_days": 18,
  "red_days": 2,
- "total_fills": 93,
+ "total_fills": 95,
  "symbols_traded": 20,
- "cumulative_realized": 6489.4,
+ "cumulative_realized": 6669.4,
  "days": [
   {
    "date": "2026-07-13",
@@ -208,10 +208,10 @@
   },
   {
    "date": "2026-08-27",
-   "fills": 1,
-   "realized": 0.0,
+   "fills": 3,
+   "realized": 180.0,
    "commission": 0.0,
-   "cumulative": 6489.4
+   "cumulative": 6669.4
   }
  ],
  "open_legs": [
@@ -238,7 +238,7 @@
    "engine": true,
    "agree": true,
    "entry": 0.7,
-   "upnl": -105.0,
+   "upnl": -120.0,
    "lane": "OPTIONS"
   },
   {
@@ -251,7 +251,7 @@
    "engine": true,
    "agree": true,
    "entry": 1.4,
-   "upnl": -330.0,
+   "upnl": -405.0,
    "lane": "OPTIONS"
   },
   {
@@ -303,7 +303,20 @@
    "engine": true,
    "agree": true,
    "entry": 0.39,
-   "upnl": -94.0,
+   "upnl": -81.0,
+   "lane": "OPTIONS"
+  },
+  {
+   "instrument": "CLSK 09/04 P12",
+   "raw": "CLSK260904P00012500",
+   "strategy": "HT_WHEEL",
+   "side": "short 1",
+   "broker": true,
+   "db": true,
+   "engine": true,
+   "agree": true,
+   "entry": 0.37,
+   "upnl": -6.0,
    "lane": "OPTIONS"
   },
   {
@@ -316,7 +329,7 @@
    "engine": true,
    "agree": true,
    "entry": 12.61,
-   "upnl": 55.5,
+   "upnl": 45.0,
    "lane": "OPTIONS"
   },
   {
@@ -329,7 +342,7 @@
    "engine": true,
    "agree": true,
    "entry": 0.25,
-   "upnl": -350.0,
+   "upnl": -280.0,
    "lane": "OPTIONS"
   },
   {
@@ -355,20 +368,7 @@
    "engine": true,
    "agree": true,
    "entry": 13.68,
-   "upnl": 1015.0,
-   "lane": "OPTIONS"
-  },
-  {
-   "instrument": "NOK 08/28 P10",
-   "raw": "NOK260828P00010500",
-   "strategy": "HT_WHEEL",
-   "side": "short 10",
-   "broker": true,
-   "db": true,
-   "engine": true,
-   "agree": true,
-   "entry": 0.26,
-   "upnl": 170.0,
+   "upnl": 952.0,
    "lane": "OPTIONS"
   },
   {
@@ -385,19 +385,19 @@
    "lane": "OPTIONS"
   }
  ],
- "open_upnl": 421.5,
+ "open_upnl": 165.0,
  "reconciliation": "13/13 open legs verified against the broker (engine, database and broker statements agree)",
  "stats": {
-  "closed_trades": 31,
-  "win_rate": 83.9,
-  "avg_win": 284.36,
+  "closed_trades": 32,
+  "win_rate": 84.4,
+  "avg_win": 280.5,
   "avg_loss": -180.8,
-  "profit_factor": 8.18,
-  "expectancy": 209.34,
-  "sharpe_daily_ann": 6.01,
-  "capital_at_risk": 84387.0,
-  "period_return_pct": 7.69,
-  "ann_pace_pct": 61.0,
+  "profit_factor": 8.38,
+  "expectancy": 208.42,
+  "sharpe_daily_ann": 6.19,
+  "capital_at_risk": 75137.0,
+  "period_return_pct": 8.88,
+  "ann_pace_pct": 70.4,
   "elapsed_days": 46
  },
  "assigned": [
@@ -405,8 +405,8 @@
    "symbol": "CLSK",
    "shares": 100,
    "entry": 12.61,
-   "basis": 11.25,
-   "reduced_pct": 10.8
+   "basis": 10.88,
+   "reduced_pct": 13.7
   },
   {
    "symbol": "DLO",
