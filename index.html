@@ -1,0 +1,84 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AAT Wheel Book</title>
+<style>
+ body{background:#101620;color:#e8ecf0;font:16px/1.5 system-ui,sans-serif;
+      max-width:1000px;margin:0 auto;padding:24px}
+ h1{font-size:28px;margin:0 0 4px} .sub{color:#828e9e;margin:0 0 20px}
+ .badge{font-weight:700;padding:3px 10px;border-radius:6px;font-size:13px;
+        vertical-align:middle;margin-left:10px}
+ .paper{background:#ffc83c;color:#101620} .live{background:#34c77a;color:#101620}
+ .stats{display:flex;gap:14px;flex-wrap:wrap;margin:18px 0}
+ .stat{background:#182030;border-radius:10px;padding:14px 20px;min-width:150px}
+ .stat b{display:block;font-size:24px} .stat span{color:#828e9e;font-size:13px}
+ table{border-collapse:collapse;width:100%;margin:10px 0 26px;font-size:14px}
+ td,th{padding:6px 10px;border-bottom:1px solid #232d3f;text-align:right}
+ td:first-child,th:first-child{text-align:left}
+ .g{color:#34c77a} .r{color:#eb5757}
+ .curve{background:#182030;border-radius:10px;padding:14px;overflow-x:auto}
+ .curve svg{width:100%;height:220px;display:block}
+ .foot{color:#828e9e;font-size:13px;margin-top:26px}
+</style>
+<h1>The Wheel — live book <span class="badge paper">PAPER ACCOUNT</span></h1>
+<p class="sub">Automated wheel engine · every fill, unedited, red days included
+ · updated after each session · strategy: the wheel (cash-secured puts -> covered calls)</p>
+<div class="stats">
+ <div class="stat"><b>$+6,489</b>
+   <span>realized since 2026-07-13</span></div>
+ <div class="stat"><b>29</b><span>trading days</span></div>
+ <div class="stat"><b>17 / 2</b>
+   <span>green / red days</span></div>
+ <div class="stat"><b>13</b>
+   <span>open legs ($+380 unrealized)</span></div>
+</div>
+<div class="curve"><svg viewBox="0 0 960 300" preserveAspectRatio="none"><line x1="0" y1="269.3" x2="960" y2="269.3" stroke="#3a4556" stroke-dasharray="4 4"/><polyline points="0.0,300.0 34.3,300.0 68.6,300.0 102.9,300.0 137.1,289.0 171.4,281.7 205.7,280.4 240.0,280.4 274.3,280.4 308.6,278.3 342.9,260.7 377.1,258.0 411.4,258.0 445.7,241.2 480.0,241.2 514.3,228.5 548.6,217.6 582.9,210.2 617.1,199.2 651.4,73.6 685.7,55.6 720.0,61.4 754.3,39.5 788.6,27.1 822.9,27.1 857.1,27.1 891.4,18.9 925.7,0.0 960.0,0.0" fill="none" stroke="#34c77a" stroke-width="3"/></svg></div>
+<h2>Open book</h2>
+<p class="sub">13/13 open legs verified against the broker (engine, database and broker statements agree)</p>
+<table><tr><th>instrument</th><th>side</th><th>entry</th><th>unrealized</th>
+<th>verified</th></tr><tr><td>DLO 09/18 C15</td><td>short 7</td><td>0.25</td><td class="r">-385.00</td><td>✓</td></tr>
+<tr><td>AS 09/18 P32</td><td>short 3</td><td>1.4</td><td class="r">-300.00</td><td>✓</td></tr>
+<tr><td>ADEA 09/18 P25</td><td>short 4</td><td>0.75</td><td class="r">-100.00</td><td>✓</td></tr>
+<tr><td>CLSK 08/28 C12</td><td>short 1</td><td>0.39</td><td class="r">-91.00</td><td>✓</td></tr>
+<tr><td>AS 09/18 P30</td><td>short 3</td><td>0.7</td><td class="r">-90.00</td><td>✓</td></tr>
+<tr><td>BLDR 09/18 P70</td><td>short 1</td><td>3.8</td><td class="r">-80.00</td><td>✓</td></tr>
+<tr><td>Z 09/18 P35</td><td>short 2</td><td>1.6</td><td class="r">-50.00</td><td>✓</td></tr>
+<tr><td>DLO 09/18 P13</td><td>short 6</td><td>0.1</td><td class="r">+0.00</td><td>✓</td></tr>
+<tr><td>CLSK shares</td><td>long 100</td><td>12.61</td><td class="g">+48.50</td><td>✓</td></tr>
+<tr><td>NOK 08/28 P10</td><td>short 10</td><td>0.26</td><td class="g">+70.00</td><td>✓</td></tr>
+<tr><td>ASX 09/18 P35</td><td>short 1</td><td>2.05</td><td class="g">+135.00</td><td>✓</td></tr>
+<tr><td>BHP 09/18 P90</td><td>short 1</td><td>3.1</td><td class="g">+165.00</td><td>✓</td></tr>
+<tr><td>DLO shares</td><td>long 700</td><td>13.68</td><td class="g">+1,057.00</td><td>✓</td></tr></table>
+<h2>Every day</h2>
+<table><tr><th>date</th><th>fills</th><th>realized $</th><th>cumulative $</th></tr>
+<tr><td>2026-08-27</td><td>1</td><td class="">+0.00</td><td>+6,489.40</td></tr>
+<tr><td>2026-08-26</td><td>2</td><td class="g">+455.00</td><td>+6,489.40</td></tr>
+<tr><td>2026-08-25</td><td>1</td><td class="g">+198.00</td><td>+6,034.40</td></tr>
+<tr><td>2026-08-24</td><td>1</td><td class="">+0.00</td><td>+5,836.40</td></tr>
+<tr><td>2026-08-21</td><td>1</td><td class="">+0.00</td><td>+5,836.40</td></tr>
+<tr><td>2026-08-20</td><td>5</td><td class="g">+300.00</td><td>+5,836.40</td></tr>
+<tr><td>2026-08-19</td><td>8</td><td class="g">+527.00</td><td>+5,536.40</td></tr>
+<tr><td>2026-08-18</td><td>8</td><td class="r">-140.00</td><td>+5,009.40</td></tr>
+<tr><td>2026-08-17</td><td>3</td><td class="g">+434.00</td><td>+5,149.40</td></tr>
+<tr><td>2026-08-15</td><td>2</td><td class="g">+3,025.40</td><td>+4,715.40</td></tr>
+<tr><td>2026-08-14</td><td>6</td><td class="g">+265.00</td><td>+1,690.00</td></tr>
+<tr><td>2026-08-13</td><td>5</td><td class="g">+180.00</td><td>+1,425.00</td></tr>
+<tr><td>2026-08-12</td><td>5</td><td class="g">+261.00</td><td>+1,245.00</td></tr>
+<tr><td>2026-08-11</td><td>3</td><td class="g">+306.00</td><td>+984.00</td></tr>
+<tr><td>2026-08-07</td><td>5</td><td class="">+0.00</td><td>+678.00</td></tr>
+<tr><td>2026-08-06</td><td>6</td><td class="g">+406.00</td><td>+678.00</td></tr>
+<tr><td>2026-08-05</td><td>2</td><td class="">+0.00</td><td>+272.00</td></tr>
+<tr><td>2026-08-04</td><td>2</td><td class="g">+66.00</td><td>+272.00</td></tr>
+<tr><td>2026-08-03</td><td>3</td><td class="g">+422.00</td><td>+206.00</td></tr>
+<tr><td>2026-07-31</td><td>1</td><td class="g">+52.00</td><td>-216.00</td></tr>
+<tr><td>2026-07-30</td><td>3</td><td class="">+0.00</td><td>-268.00</td></tr>
+<tr><td>2026-07-29</td><td>1</td><td class="">+0.00</td><td>-268.00</td></tr>
+<tr><td>2026-07-28</td><td>6</td><td class="g">+32.00</td><td>-268.00</td></tr>
+<tr><td>2026-07-27</td><td>2</td><td class="g">+175.00</td><td>-300.00</td></tr>
+<tr><td>2026-07-24</td><td>5</td><td class="g">+265.00</td><td>-475.00</td></tr>
+<tr><td>2026-07-23</td><td>2</td><td class="">+0.00</td><td>-740.00</td></tr>
+<tr><td>2026-07-21</td><td>2</td><td class="">+0.00</td><td>-740.00</td></tr>
+<tr><td>2026-07-15</td><td>1</td><td class="">+0.00</td><td>-740.00</td></tr>
+<tr><td>2026-07-13</td><td>1</td><td class="r">-740.00</td><td>-740.00</td></tr></table>
+<p class="foot">Generated 2026-08-27T15:26:11.433073+00:00 from the engine's own trade
+records. Paper account — no real money at risk. 
+Not investment advice; nothing here is a recommendation to trade.</p>
