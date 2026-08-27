@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-08-27T15:58:34.790891+00:00",
+ "generated_utc": "2026-08-27T17:03:55.783119+00:00",
  "paper": true,
  "strategy": "the wheel (cash-secured puts -> covered calls)",
  "since": "2026-07-13",
@@ -225,7 +225,7 @@
    "engine": true,
    "agree": true,
    "entry": 0.75,
-   "upnl": -100.0,
+   "upnl": -120.0,
    "lane": "OPTIONS"
   },
   {
@@ -251,7 +251,7 @@
    "engine": true,
    "agree": true,
    "entry": 1.4,
-   "upnl": -360.0,
+   "upnl": -330.0,
    "lane": "OPTIONS"
   },
   {
@@ -264,7 +264,7 @@
    "engine": true,
    "agree": true,
    "entry": 2.05,
-   "upnl": 130.0,
+   "upnl": 135.0,
    "lane": "OPTIONS"
   },
   {
@@ -290,7 +290,7 @@
    "engine": true,
    "agree": true,
    "entry": 3.8,
-   "upnl": -100.0,
+   "upnl": -120.0,
    "lane": "OPTIONS"
   },
   {
@@ -303,7 +303,7 @@
    "engine": true,
    "agree": true,
    "entry": 0.39,
-   "upnl": -79.0,
+   "upnl": -76.0,
    "lane": "OPTIONS"
   },
   {
@@ -316,7 +316,7 @@
    "engine": true,
    "agree": true,
    "entry": 12.61,
-   "upnl": 49.5,
+   "upnl": 47.5,
    "lane": "OPTIONS"
   },
   {
@@ -355,7 +355,7 @@
    "engine": true,
    "agree": true,
    "entry": 13.68,
-   "upnl": 1022.0,
+   "upnl": 1036.0,
    "lane": "OPTIONS"
   },
   {
@@ -368,7 +368,7 @@
    "engine": true,
    "agree": true,
    "entry": 0.26,
-   "upnl": 80.0,
+   "upnl": 160.0,
    "lane": "OPTIONS"
   },
   {
@@ -381,10 +381,10 @@
    "engine": true,
    "agree": true,
    "entry": 1.6,
-   "upnl": -30.0,
+   "upnl": 0.0,
    "lane": "OPTIONS"
   }
  ],
- "open_upnl": 337.5,
+ "open_upnl": 457.5,
  "reconciliation": "13/13 open legs verified against the broker (engine, database and broker statements agree)"
 }
