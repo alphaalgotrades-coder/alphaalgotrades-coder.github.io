@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-08-27T17:03:55.783119+00:00",
+ "generated_utc": "2026-08-27T17:11:13.976277+00:00",
  "paper": true,
  "strategy": "the wheel (cash-secured puts -> covered calls)",
  "since": "2026-07-13",
@@ -238,7 +238,7 @@
    "engine": true,
    "agree": true,
    "entry": 0.7,
-   "upnl": -105.0,
+   "upnl": -90.0,
    "lane": "OPTIONS"
   },
   {
@@ -251,7 +251,7 @@
    "engine": true,
    "agree": true,
    "entry": 1.4,
-   "upnl": -330.0,
+   "upnl": -315.0,
    "lane": "OPTIONS"
   },
   {
@@ -316,7 +316,7 @@
    "engine": true,
    "agree": true,
    "entry": 12.61,
-   "upnl": 47.5,
+   "upnl": 39.0,
    "lane": "OPTIONS"
   },
   {
@@ -355,7 +355,7 @@
    "engine": true,
    "agree": true,
    "entry": 13.68,
-   "upnl": 1036.0,
+   "upnl": 1063.16,
    "lane": "OPTIONS"
   },
   {
@@ -385,6 +385,15 @@
    "lane": "OPTIONS"
   }
  ],
- "open_upnl": 457.5,
- "reconciliation": "13/13 open legs verified against the broker (engine, database and broker statements agree)"
+ "open_upnl": 506.16,
+ "reconciliation": "13/13 open legs verified against the broker (engine, database and broker statements agree)",
+ "stats": {
+  "closed_trades": 31,
+  "win_rate": 83.9,
+  "avg_win": 284.36,
+  "avg_loss": -180.8,
+  "profit_factor": 8.18,
+  "expectancy": 209.34,
+  "sharpe_daily_ann": 6.01
+ }
 }
