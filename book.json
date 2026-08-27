@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-08-27T17:11:13.976277+00:00",
+ "generated_utc": "2026-08-27T17:19:36.381944+00:00",
  "paper": true,
  "strategy": "the wheel (cash-secured puts -> covered calls)",
  "since": "2026-07-13",
@@ -394,6 +394,26 @@
   "avg_loss": -180.8,
   "profit_factor": 8.18,
   "expectancy": 209.34,
-  "sharpe_daily_ann": 6.01
- }
+  "sharpe_daily_ann": 6.01,
+  "capital_at_risk": 84387.0,
+  "period_return_pct": 7.69,
+  "ann_pace_pct": 61.0,
+  "elapsed_days": 46
+ },
+ "assigned": [
+  {
+   "symbol": "CLSK",
+   "shares": 100,
+   "entry": 12.61,
+   "basis": 11.25,
+   "reduced_pct": 10.8
+  },
+  {
+   "symbol": "DLO",
+   "shares": 700,
+   "entry": 13.68,
+   "basis": 13.04,
+   "reduced_pct": 4.6
+  }
+ ]
 }
