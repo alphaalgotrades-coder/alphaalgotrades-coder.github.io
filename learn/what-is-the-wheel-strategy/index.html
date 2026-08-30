@@ -1,69 +1,152 @@
 <!doctype html>
+<html lang="en"><head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>What is a wheel strategy in options trading? | Alpha Algo Trader</title>
-<meta name="description" content="What is the wheel strategy?. Answered with a live, publicly posted
- wheel book - every fill, wins and losses.">
+<meta name="description" content="Two option strategies used in sequence, so that you get paid at every step — including the step most people fear.">
 <link rel="canonical" href="https://alphaalgotrader.com/learn/what-is-the-wheel-strategy/">
+<meta property="og:title" content="What is a wheel strategy in options trading?">
+<meta property="og:description" content="Two option strategies used in sequence, so that you get paid at every step — including the step most people fear.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://alphaalgotrader.com/learn/what-is-the-wheel-strategy/">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%230a0c14'/%3E%3Cpolyline points='5,24 12,20 18,12 27,7' stroke='%2334c77a' stroke-width='3.5' fill='none' stroke-linecap='round'/%3E%3C/svg%3E">
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap"
- rel="stylesheet">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap" rel="stylesheet">
 <style>
-:root{--bg:#0b101b;--panel:#141c2b;--line:#ffffff10;--ink:#e8ecf0;
- --dim:#8b96a5;--gold:#c9a227;--green:#34c77a}
+:root{--bg:#0b101b;--panel:#141c2b;--line:#ffffff12;--ink:#e8ecf0;
+ --dim:#8b96a5;--gold:#c9a227;--green:#34c77a;--red:#eb5757}
 *{box-sizing:border-box}
-body{background:radial-gradient(1100px 500px at 70% -10%,#16233a55,transparent),
- var(--bg);color:var(--ink);font:17px/1.7 Inter,system-ui,sans-serif;
- max-width:760px;margin:0 auto;padding:40px 24px 72px}
-a{color:var(--gold)}
-.eyebrow{color:var(--gold);font-size:13px;letter-spacing:.14em;
- text-transform:uppercase;font-weight:600}
-h1{font-size:clamp(28px,5vw,40px);line-height:1.2;margin:.3em 0 .1em}
-.sub{color:var(--dim);margin-bottom:2em}
-.body{white-space:pre-wrap;background:var(--panel);border:1px solid var(--line);
- border-radius:14px;padding:26px 28px;font-size:17px}
-.cta{margin:34px 0 10px;padding:24px 26px;background:var(--panel);
- border:1px solid var(--line);border-radius:14px}
-.cta b{color:var(--green)}
-.btn{display:inline-block;margin-top:14px;padding:12px 20px;border-radius:10px;
- background:var(--gold);color:#0b101b;font-weight:700;text-decoration:none}
-nav{margin:38px 0 0;padding-top:22px;border-top:1px solid var(--line)}
-nav a{display:block;padding:7px 0;color:var(--ink);text-decoration:none}
-nav a:hover{color:var(--gold)}
-footer{margin-top:34px;color:var(--dim);font-size:13px}
+html{scroll-behavior:smooth}
+body{margin:0;background:radial-gradient(1100px 500px at 70% -10%,#16233a55,
+ transparent),var(--bg);color:var(--ink);
+ font:17px/1.75 Inter,system-ui,-apple-system,sans-serif;
+ -webkit-font-smoothing:antialiased}
+a{color:var(--gold);text-decoration:none}
+a:hover{text-decoration:underline}
+.wrap{max-width:760px;margin:0 auto;padding:0 24px}
+header{border-bottom:1px solid var(--line);position:sticky;top:0;
+ background:#0b101bE6;backdrop-filter:blur(10px);z-index:5}
+header .wrap{display:flex;align-items:center;justify-content:space-between;
+ gap:16px;height:62px}
+.brand{display:flex;align-items:center;gap:9px;color:var(--ink);
+ font-weight:800;letter-spacing:-.01em;font-size:15px}
+.brand svg{display:block}
+header nav{display:flex;gap:20px;font-size:14px}
+header nav a{color:var(--dim)}
+header nav a:hover{color:var(--ink);text-decoration:none}
+.eyebrow{color:var(--gold);font-size:12px;letter-spacing:.16em;
+ text-transform:uppercase;font-weight:700;margin:44px 0 10px}
+h1{font-size:clamp(30px,5.4vw,44px);line-height:1.15;margin:0 0 14px;
+ letter-spacing:-.02em}
+.standfirst{color:var(--dim);font-size:19px;line-height:1.6;margin:0 0 8px}
+.meta{color:var(--dim);font-size:13px;border-bottom:1px solid var(--line);
+ padding-bottom:24px;margin-bottom:34px}
+h2{font-size:23px;margin:40px 0 12px;letter-spacing:-.01em}
+p{margin:0 0 18px}
+.lead{font-size:19px}
+ol.steps{counter-reset:s;list-style:none;padding:0;margin:22px 0}
+ol.steps li{counter-increment:s;position:relative;padding:0 0 20px 46px;
+ margin:0}
+ol.steps li::before{content:counter(s);position:absolute;left:0;top:-2px;
+ width:30px;height:30px;border-radius:50%;background:var(--panel);
+ border:1px solid var(--line);color:var(--gold);font-weight:700;
+ font-size:14px;display:flex;align-items:center;justify-content:center}
+ol.steps b{display:block;margin-bottom:2px}
+.callout{border-left:3px solid var(--gold);background:var(--panel);
+ padding:18px 22px;border-radius:0 10px 10px 0;margin:28px 0;
+ font-size:19px;line-height:1.55}
+.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));
+ gap:12px;margin:26px 0}
+.stat{background:var(--panel);border:1px solid var(--line);border-radius:12px;
+ padding:16px 18px}
+.stat .v{font-size:26px;font-weight:800;letter-spacing:-.02em}
+.stat .l{color:var(--dim);font-size:13px;line-height:1.4;margin-top:3px}
+.v.up{color:var(--green)}.v.down{color:var(--red)}
+table.tl{width:100%;border-collapse:collapse;margin:24px 0;font-size:15px}
+table.tl th{text-align:left;color:var(--dim);font-weight:600;font-size:12px;
+ letter-spacing:.08em;text-transform:uppercase;padding:0 12px 10px 0;
+ border-bottom:1px solid var(--line)}
+table.tl td{padding:13px 12px 13px 0;border-bottom:1px solid var(--line);
+ vertical-align:top}
+table.tl td:first-child{color:var(--dim);white-space:nowrap;font-size:14px}
+table.tl td:last-child{text-align:right;white-space:nowrap;font-weight:600}
+.cta{margin:44px 0 8px;padding:28px;background:var(--panel);
+ border:1px solid var(--line);border-radius:16px}
+.cta h3{margin:0 0 8px;font-size:20px}
+.cta p{color:var(--dim);margin:0 0 18px}
+.btn{display:inline-block;padding:12px 22px;border-radius:10px;
+ background:var(--gold);color:#0b101b;font-weight:700;font-size:15px}
+.btn.ghost{background:transparent;color:var(--ink);
+ border:1px solid var(--line)}
+.btn:hover{text-decoration:none;opacity:.92}
+.more{margin:48px 0 0;padding-top:26px;border-top:1px solid var(--line)}
+.more h3{font-size:14px;letter-spacing:.08em;text-transform:uppercase;
+ color:var(--dim);margin:0 0 14px}
+.more a{display:block;padding:13px 16px;background:var(--panel);
+ border:1px solid var(--line);border-radius:11px;margin-bottom:9px;
+ color:var(--ink);font-weight:600;font-size:15px}
+.more a:hover{border-color:#ffffff24;text-decoration:none}
+.more a span{display:block;color:var(--dim);font-weight:400;font-size:13px;
+ margin-top:2px}
+footer{margin-top:56px;padding:26px 0 44px;border-top:1px solid var(--line);
+ color:var(--dim);font-size:13px;line-height:1.7}
+.badge{display:inline-block;border:1px solid var(--gold);color:var(--gold);
+ border-radius:999px;padding:3px 11px;font-size:11px;font-weight:700;
+ letter-spacing:.1em;text-transform:uppercase;vertical-align:middle}
 </style>
-<p class="eyebrow">Alpha Algo Trader</p>
-<h1>What is the wheel strategy?</h1>
-<p class="sub">What is a wheel strategy in options trading?</p>
-<div class="body">What the wheel actually is
+</head><body><header><div class="wrap">
+ <a class="brand" href="https://alphaalgotrader.com/"><svg width="22" height="22" viewBox="0 0 32 32"><rect width="32" height="32" rx="7" fill="#141c2b"/><polyline points="5,24 12,20 18,12 27,7" stroke="#34c77a" stroke-width="3.5" fill="none" stroke-linecap="round"/></svg> Alpha Algo Trader</a>
+ <nav>
+  <a href="https://alphaalgotrader.com/">The live book</a>
+  <a href="https://alphaalgotrader.com/learn/" style="color:#e8ecf0">Learn</a>
+  <a href="https://whop.com/alpha-algo-trader-98e3">Start free</a>
+ </nav></div></header><div class="wrap"><article><p class="eyebrow">The wheel, explained</p><h1>What is the wheel strategy?</h1><p class="standfirst">Two option strategies used in sequence, so that you get paid at every step — including the step most people fear.</p><p class="meta">Written from a live book — day 30, 100 fills posted.</p>
+<p class="lead">The wheel is a loop. You sell puts on a stock you would be
+happy to own. If the stock holds, you keep the premium and sell another. If
+it falls, you buy the shares — at a discount, because the premium came off
+your cost. Then you sell calls against those shares until they get called
+away, and the loop starts again.</p>
 
-Two strategies, used together.
+<ol class="steps">
+ <li><b>Sell a cash-secured put</b>Choose a company you would own anyway, and
+ a strike you would be content to pay. You are paid a premium up front for
+ taking that obligation.</li>
+ <li><b>Keep the premium, or take the shares</b>If the stock stays above your
+ strike, the put expires and you keep the credit. If it falls below, you are
+ assigned the shares at your strike, minus everything you have collected.</li>
+ <li><b>Sell covered calls against the shares</b>Now you own stock, so it goes
+ to work. Every call you sell lowers your cost basis again.</li>
+ <li><b>Get called away, and start over</b>When the stock recovers past your
+ call strike the shares are sold, you take the gain, and the loop restarts.</li>
+</ol>
 
-1. Sell a cash-secured put on a stock you would own.
-   The stock holds, you keep the premium and sell another.
-   The stock falls below your strike, you are assigned the shares -
-   at a discount, because the premium came off your cost.
+<div class="callout">Most strategies pay you only when you are right. The
+wheel pays you for waiting, pays you for being assigned, and pays you again
+while you hold.</div>
 
-2. Now you own shares. So you sell covered calls against them.
-   Every call you sell lowers your basis again.
-   The shares get called away, you take the gain, and you start over.
+<h2>Where it can go wrong</h2>
+<p>Assignment is not the risk — owning the wrong company is. If the business
+deteriorates, no amount of premium fixes that. This is why the first decision
+matters more than any other: the strike, the timing and the premium are all
+secondary to whether you would own the company at all.</p>
 
-That is the loop. Puts until assigned, calls until called away.
-You get paid at every step, including the step everyone fears.
-
-Paper account. Not financial advice.</div>
+<h2>What running it automatically changes</h2>
+<p>The mechanics above are simple to describe and tedious to execute. Every
+week there are strikes to choose, expiries to compare, calls to roll and
+assignments to handle. Our engine does that on a fixed set of rules, at the
+same time every day, without the hesitation that costs discretionary traders
+their edge. Then it posts the result publicly, whether it is green or red.</p>
 <div class="cta">
- <b>This is not theory.</b> The algo runs this every day and every fill is
- posted publicly - wins and losses, on a paper account, updated hourly.
- <br><a class="btn" href="https://alphaalgotrader.com/">See the live book</a>
- &nbsp; <a class="btn" href="https://whop.com/alpha-algo-trader-98e3">Try it free for 30 days</a>
-</div>
-<nav><b>More on the wheel</b>
-   <a href="../how-the-wheel-works-step-by-step/">How does a wheel strategy work step by step?</a>
-   <a href="../what-assignment-actually-looks-like/">What does selling options in a wheel strategy actually mean?</a>
-   <a href="../how-the-cost-basis-comes-down/">How does the wheel strategy lower your cost basis?</a>
-   <a href="../wheel-strategy-risks/">What are the main risks of using a wheel strategy?</a>
-   <a href="../wheel-vs-covered-calls/">How does a wheel strategy compare with a covered call strategy?</a>
-</nav>
-<footer>Paper account - simulated results. Not financial advice.
- &middot; <a href="https://alphaalgotrader.com/">alphaalgotrader.com</a></footer>
+ <h3>This is not theory.</h3>
+ <p>The algo runs this every trading day and every fill is posted publicly —
+ wins and losses, updated hourly, on a paper account.</p>
+ <a class="btn" href="https://alphaalgotrader.com/">See the live book</a>
+ <a class="btn ghost" href="https://whop.com/alpha-algo-trader-98e3">Try it free for 30 days</a>
+</div><div class="more"><h3>More on the wheel</h3><a href="../how-the-wheel-works-step-by-step/">How to pick a stock you would own<span>How does a wheel strategy work step by step?</span></a><a href="../what-assignment-actually-looks-like/">What assignment actually looks like<span>What does selling options in a wheel strategy actually mean?</span></a><a href="../how-the-cost-basis-comes-down/">How the cost basis comes down<span>How does the wheel strategy lower your cost basis?</span></a><a href="../wheel-strategy-risks/">The risks, and what we do about them<span>What are the main risks of using a wheel strategy?</span></a><a href="../wheel-vs-covered-calls/">Wheel vs covered calls<span>How does a wheel strategy compare with a covered call strategy?</span></a></div></article></div><footer><div class="wrap">
+ <span class="badge">Paper account</span> &nbsp;Results shown are from a
+ paper (simulated) account and are not a guarantee of future results.
+ Alpha Algo Trader is software you operate on your own brokerage account.
+ Nothing here is financial advice.<br>
+ <a href="https://alphaalgotrader.com/">alphaalgotrader.com</a>
+</div></footer></body></html>
