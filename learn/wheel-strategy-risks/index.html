@@ -1,0 +1,73 @@
+<!doctype html>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>What are the main risks of using a wheel strategy? | Alpha Algo Trader</title>
+<meta name="description" content="The risks, and what we do about them. Answered with a live, publicly posted
+ wheel book - every fill, wins and losses.">
+<link rel="canonical" href="https://alphaalgotrader.com/learn/wheel-strategy-risks/">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap"
+ rel="stylesheet">
+<style>
+:root{--bg:#0b101b;--panel:#141c2b;--line:#ffffff10;--ink:#e8ecf0;
+ --dim:#8b96a5;--gold:#c9a227;--green:#34c77a}
+*{box-sizing:border-box}
+body{background:radial-gradient(1100px 500px at 70% -10%,#16233a55,transparent),
+ var(--bg);color:var(--ink);font:17px/1.7 Inter,system-ui,sans-serif;
+ max-width:760px;margin:0 auto;padding:40px 24px 72px}
+a{color:var(--gold)}
+.eyebrow{color:var(--gold);font-size:13px;letter-spacing:.14em;
+ text-transform:uppercase;font-weight:600}
+h1{font-size:clamp(28px,5vw,40px);line-height:1.2;margin:.3em 0 .1em}
+.sub{color:var(--dim);margin-bottom:2em}
+.body{white-space:pre-wrap;background:var(--panel);border:1px solid var(--line);
+ border-radius:14px;padding:26px 28px;font-size:17px}
+.cta{margin:34px 0 10px;padding:24px 26px;background:var(--panel);
+ border:1px solid var(--line);border-radius:14px}
+.cta b{color:var(--green)}
+.btn{display:inline-block;margin-top:14px;padding:12px 20px;border-radius:10px;
+ background:var(--gold);color:#0b101b;font-weight:700;text-decoration:none}
+nav{margin:38px 0 0;padding-top:22px;border-top:1px solid var(--line)}
+nav a{display:block;padding:7px 0;color:var(--ink);text-decoration:none}
+nav a:hover{color:var(--gold)}
+footer{margin-top:34px;color:var(--dim);font-size:13px}
+</style>
+<p class="eyebrow">Alpha Algo Trader</p>
+<h1>The risks, and what we do about them</h1>
+<p class="sub">What are the main risks of using a wheel strategy?</p>
+<div class="body">The stock drops after you sell the put. Three choices.
+
+Do nothing.
+   You hold shares above the market and wait. The basis never moves.
+
+Average down.
+   Buy more shares cheaper. The basis falls, but you have added
+   capital with nothing paying you for the risk.
+
+Sell into it.
+   Calls against the shares, another put below the market.
+   The basis falls AND you get paid to wait.
+
+SPCX opened with a $740 loss on the first put.
+Basis at assignment $120.77. Basis at the end $111.55.
+Closed +$2,460.40.
+
+The stock never got back to where it started. It did not have to.
+
+Every fill, including the red ones: https://alphaalgotrader.com/
+Paper account. Not financial advice.</div>
+<div class="cta">
+ <b>This is not theory.</b> The algo runs this every day and every fill is
+ posted publicly - wins and losses, on a paper account, updated hourly.
+ <br><a class="btn" href="https://alphaalgotrader.com/">See the live book</a>
+ &nbsp; <a class="btn" href="https://whop.com/alpha-algo-trader-98e3">Try it free for 30 days</a>
+</div>
+<nav><b>More on the wheel</b>
+   <a href="../what-is-the-wheel-strategy/">What is a wheel strategy in options trading?</a>
+   <a href="../how-the-wheel-works-step-by-step/">How does a wheel strategy work step by step?</a>
+   <a href="../what-assignment-actually-looks-like/">What does selling options in a wheel strategy actually mean?</a>
+   <a href="../how-the-cost-basis-comes-down/">How does the wheel strategy lower your cost basis?</a>
+   <a href="../wheel-vs-covered-calls/">How does a wheel strategy compare with a covered call strategy?</a>
+</nav>
+<footer>Paper account - simulated results. Not financial advice.
+ &middot; <a href="https://alphaalgotrader.com/">alphaalgotrader.com</a></footer>

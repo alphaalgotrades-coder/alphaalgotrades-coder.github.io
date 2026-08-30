@@ -1,0 +1,66 @@
+<!doctype html>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>How does a wheel strategy work step by step? | Alpha Algo Trader</title>
+<meta name="description" content="How the wheel works, step by step. Answered with a live, publicly posted
+ wheel book - every fill, wins and losses.">
+<link rel="canonical" href="https://alphaalgotrader.com/learn/how-the-wheel-works-step-by-step/">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap"
+ rel="stylesheet">
+<style>
+:root{--bg:#0b101b;--panel:#141c2b;--line:#ffffff10;--ink:#e8ecf0;
+ --dim:#8b96a5;--gold:#c9a227;--green:#34c77a}
+*{box-sizing:border-box}
+body{background:radial-gradient(1100px 500px at 70% -10%,#16233a55,transparent),
+ var(--bg);color:var(--ink);font:17px/1.7 Inter,system-ui,sans-serif;
+ max-width:760px;margin:0 auto;padding:40px 24px 72px}
+a{color:var(--gold)}
+.eyebrow{color:var(--gold);font-size:13px;letter-spacing:.14em;
+ text-transform:uppercase;font-weight:600}
+h1{font-size:clamp(28px,5vw,40px);line-height:1.2;margin:.3em 0 .1em}
+.sub{color:var(--dim);margin-bottom:2em}
+.body{white-space:pre-wrap;background:var(--panel);border:1px solid var(--line);
+ border-radius:14px;padding:26px 28px;font-size:17px}
+.cta{margin:34px 0 10px;padding:24px 26px;background:var(--panel);
+ border:1px solid var(--line);border-radius:14px}
+.cta b{color:var(--green)}
+.btn{display:inline-block;margin-top:14px;padding:12px 20px;border-radius:10px;
+ background:var(--gold);color:#0b101b;font-weight:700;text-decoration:none}
+nav{margin:38px 0 0;padding-top:22px;border-top:1px solid var(--line)}
+nav a{display:block;padding:7px 0;color:var(--ink);text-decoration:none}
+nav a:hover{color:var(--gold)}
+footer{margin-top:34px;color:var(--dim);font-size:13px}
+</style>
+<p class="eyebrow">Alpha Algo Trader</p>
+<h1>How the wheel works, step by step</h1>
+<p class="sub">How does a wheel strategy work step by step?</p>
+<div class="body">Before any trade: pick a stock you are willing to OWN.
+
+Selling a cash-secured put means one of two things happens.
+The stock holds, you keep the premium.
+The stock drops, you buy the shares at your strike.
+
+So the only question that matters up front:
+would I be fine owning this company at that price?
+If the answer is no, the premium does not matter.
+
+What the machine screens for: liquid options, premium worth the collateral, and names that are not one headline from zero.
+High premium is usually high premium for a reason.
+
+Paper account. Not financial advice.</div>
+<div class="cta">
+ <b>This is not theory.</b> The algo runs this every day and every fill is
+ posted publicly - wins and losses, on a paper account, updated hourly.
+ <br><a class="btn" href="https://alphaalgotrader.com/">See the live book</a>
+ &nbsp; <a class="btn" href="https://whop.com/alpha-algo-trader-98e3">Try it free for 30 days</a>
+</div>
+<nav><b>More on the wheel</b>
+   <a href="../what-is-the-wheel-strategy/">What is a wheel strategy in options trading?</a>
+   <a href="../what-assignment-actually-looks-like/">What does selling options in a wheel strategy actually mean?</a>
+   <a href="../how-the-cost-basis-comes-down/">How does the wheel strategy lower your cost basis?</a>
+   <a href="../wheel-strategy-risks/">What are the main risks of using a wheel strategy?</a>
+   <a href="../wheel-vs-covered-calls/">How does a wheel strategy compare with a covered call strategy?</a>
+</nav>
+<footer>Paper account - simulated results. Not financial advice.
+ &middot; <a href="https://alphaalgotrader.com/">alphaalgotrader.com</a></footer>
