@@ -1,12 +1,12 @@
 {
- "generated_utc": "2026-08-31T14:05:02.406735+00:00",
+ "generated_utc": "2026-08-31T15:05:02.215970+00:00",
  "paper": true,
  "strategy": "the wheel (cash-secured puts -> covered calls)",
  "since": "2026-07-13",
- "trading_days": 30,
+ "trading_days": 31,
  "green_days": 19,
  "red_days": 2,
- "total_fills": 100,
+ "total_fills": 101,
  "symbols_traded": 21,
  "cumulative_realized": 6814.4,
  "days": [
@@ -219,6 +219,13 @@
    "realized": 145.0,
    "commission": 0.0,
    "cumulative": 6814.4
+  },
+  {
+   "date": "2026-08-31",
+   "fills": 1,
+   "realized": 0.0,
+   "commission": 0.0,
+   "cumulative": 6814.4
   }
  ],
  "open_legs": [
@@ -232,7 +239,7 @@
    "engine": true,
    "agree": true,
    "entry": 0.75,
-   "upnl": -160.0,
+   "upnl": -200.0,
    "lane": "OPTIONS"
   },
   {
@@ -258,7 +265,7 @@
    "engine": true,
    "agree": true,
    "entry": 1.4,
-   "upnl": -435.0,
+   "upnl": -480.0,
    "lane": "OPTIONS"
   },
   {
@@ -271,7 +278,7 @@
    "engine": true,
    "agree": true,
    "entry": 3.1,
-   "upnl": 155.0,
+   "upnl": 130.0,
    "lane": "OPTIONS"
   },
   {
@@ -297,7 +304,7 @@
    "engine": true,
    "agree": true,
    "entry": 3.8,
-   "upnl": -260.0,
+   "upnl": -160.0,
    "lane": "OPTIONS"
   },
   {
@@ -310,7 +317,7 @@
    "engine": true,
    "agree": true,
    "entry": 0.56,
-   "upnl": 6.0,
+   "upnl": 14.0,
    "lane": "OPTIONS"
   },
   {
@@ -336,7 +343,7 @@
    "engine": true,
    "agree": true,
    "entry": 12.61,
-   "upnl": -113.5,
+   "upnl": -122.5,
    "lane": "OPTIONS"
   },
   {
@@ -349,7 +356,7 @@
    "engine": true,
    "agree": true,
    "entry": 0.25,
-   "upnl": -350.0,
+   "upnl": -315.0,
    "lane": "OPTIONS"
   },
   {
@@ -375,7 +382,7 @@
    "engine": true,
    "agree": true,
    "entry": 13.68,
-   "upnl": 889.0,
+   "upnl": 917.0,
    "lane": "OPTIONS"
   },
   {
@@ -388,7 +395,20 @@
    "engine": true,
    "agree": true,
    "entry": 0.49,
-   "upnl": -225.0,
+   "upnl": -145.0,
+   "lane": "OPTIONS"
+  },
+  {
+   "instrument": "HL 09/11 P19",
+   "raw": "HL260911P00019000",
+   "strategy": "HT_WHEEL",
+   "side": "short 5",
+   "broker": true,
+   "db": true,
+   "engine": true,
+   "agree": true,
+   "entry": 0.49,
+   "upnl": -35.0,
    "lane": "OPTIONS"
   },
   {
@@ -405,8 +425,8 @@
    "lane": "OPTIONS"
   }
  ],
- "open_upnl": -727.5,
- "reconciliation": "14/14 open legs reconciled against the broker statement and our own database",
+ "open_upnl": -630.5,
+ "reconciliation": "15/15 open legs reconciled against the broker statement and our own database",
  "stats": {
   "closed_trades": 33,
   "win_rate": 84.8,
@@ -414,11 +434,11 @@
   "avg_loss": -180.8,
   "profit_factor": 8.54,
   "expectancy": 206.5,
-  "sharpe_daily_ann": 6.22,
-  "capital_at_risk": 88137.0,
-  "period_return_pct": 7.73,
-  "ann_pace_pct": 60.0,
-  "elapsed_days": 47
+  "sharpe_daily_ann": 6.11,
+  "capital_at_risk": 97637.0,
+  "period_return_pct": 6.98,
+  "ann_pace_pct": 50.9,
+  "elapsed_days": 50
  },
  "assigned": [
   {
