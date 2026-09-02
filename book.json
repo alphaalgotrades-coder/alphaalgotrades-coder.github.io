@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-02T18:05:02.613803+00:00",
+ "generated_utc": "2026-09-02T19:05:03.192193+00:00",
  "paper": true,
  "strategy": "the wheel (cash-secured puts -> covered calls)",
  "since": "2026-07-13",
@@ -253,7 +253,7 @@
    "engine": true,
    "agree": true,
    "entry": 0.75,
-   "upnl": -340.0,
+   "upnl": -220.0,
    "lane": "OPTIONS"
   },
   {
@@ -266,7 +266,7 @@
    "engine": true,
    "agree": true,
    "entry": 0.7,
-   "upnl": -315.0,
+   "upnl": -330.0,
    "lane": "OPTIONS"
   },
   {
@@ -279,7 +279,7 @@
    "engine": true,
    "agree": true,
    "entry": 1.4,
-   "upnl": -750.0,
+   "upnl": -780.0,
    "lane": "OPTIONS"
   },
   {
@@ -305,7 +305,7 @@
    "engine": true,
    "agree": true,
    "entry": 2.45,
-   "upnl": -105.0,
+   "upnl": -115.0,
    "lane": "OPTIONS"
   },
   {
@@ -318,7 +318,7 @@
    "engine": true,
    "agree": true,
    "entry": 3.8,
-   "upnl": -320.0,
+   "upnl": -330.0,
    "lane": "OPTIONS"
   },
   {
@@ -331,7 +331,7 @@
    "engine": true,
    "agree": true,
    "entry": 0.37,
-   "upnl": -125.0,
+   "upnl": -97.0,
    "lane": "OPTIONS"
   },
   {
@@ -344,7 +344,7 @@
    "engine": true,
    "agree": true,
    "entry": 0.38,
-   "upnl": -25.0,
+   "upnl": -39.0,
    "lane": "OPTIONS"
   },
   {
@@ -357,7 +357,7 @@
    "engine": true,
    "agree": true,
    "entry": 12.61,
-   "upnl": -149.5,
+   "upnl": -129.5,
    "lane": "OPTIONS"
   },
   {
@@ -370,7 +370,7 @@
    "engine": true,
    "agree": true,
    "entry": 0.25,
-   "upnl": -490.0,
+   "upnl": -455.0,
    "lane": "OPTIONS"
   },
   {
@@ -396,7 +396,7 @@
    "engine": true,
    "agree": true,
    "entry": 13.68,
-   "upnl": 1246.0,
+   "upnl": 1291.5,
    "lane": "OPTIONS"
   },
   {
@@ -409,7 +409,7 @@
    "engine": true,
    "agree": true,
    "entry": 0.49,
-   "upnl": 85.0,
+   "upnl": 115.0,
    "lane": "OPTIONS"
   },
   {
@@ -452,7 +452,7 @@
    "lane": "OPTIONS"
   }
  ],
- "open_upnl": -1053.5,
+ "open_upnl": -854.0,
  "reconciliation": "16/16 open legs reconciled against the broker statement and our own database",
  "stats": {
   "closed_trades": 33,
