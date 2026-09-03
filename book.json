@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-03T04:05:02.857058+00:00",
+ "generated_utc": "2026-09-03T05:05:02.806287+00:00",
  "paper": true,
  "strategy": "the wheel (cash-secured puts -> covered calls)",
  "since": "2026-07-13",
@@ -242,218 +242,9 @@
    "cumulative": 6814.4
   }
  ],
- "open_legs": [
-  {
-   "instrument": "ADEA 09/18 P25",
-   "raw": "ADEA260918P00025000",
-   "strategy": "HT_WHEEL",
-   "side": "short 4",
-   "broker": true,
-   "db": true,
-   "engine": true,
-   "agree": true,
-   "entry": 0.75,
-   "upnl": -440.0,
-   "lane": "OPTIONS"
-  },
-  {
-   "instrument": "AS 09/18 P30",
-   "raw": "AS260918P00030000",
-   "strategy": "HT_WHEEL",
-   "side": "short 3",
-   "broker": true,
-   "db": true,
-   "engine": true,
-   "agree": true,
-   "entry": 0.7,
-   "upnl": -390.0,
-   "lane": "OPTIONS"
-  },
-  {
-   "instrument": "AS 09/18 P32",
-   "raw": "AS260918P00032500",
-   "strategy": "HT_WHEEL",
-   "side": "short 3",
-   "broker": true,
-   "db": true,
-   "engine": true,
-   "agree": true,
-   "entry": 1.4,
-   "upnl": -810.0,
-   "lane": "OPTIONS"
-  },
-  {
-   "instrument": "BHP 09/18 P90",
-   "raw": "BHP260918P00090000",
-   "strategy": "HT_WHEEL",
-   "side": "short 1",
-   "broker": true,
-   "db": true,
-   "engine": true,
-   "agree": true,
-   "entry": 3.1,
-   "upnl": 125.0,
-   "lane": "OPTIONS"
-  },
-  {
-   "instrument": "BLDR 09/18 P65",
-   "raw": "BLDR260918P00065000",
-   "strategy": "HT_WHEEL",
-   "side": "short 1",
-   "broker": true,
-   "db": true,
-   "engine": true,
-   "agree": true,
-   "entry": 2.45,
-   "upnl": -345.0,
-   "lane": "OPTIONS"
-  },
-  {
-   "instrument": "BLDR 09/18 P70",
-   "raw": "BLDR260918P00070000",
-   "strategy": "HT_WHEEL",
-   "side": "short 1",
-   "broker": true,
-   "db": true,
-   "engine": true,
-   "agree": true,
-   "entry": 3.8,
-   "upnl": -570.0,
-   "lane": "OPTIONS"
-  },
-  {
-   "instrument": "CLSK 09/04 P12",
-   "raw": "CLSK260904P00012500",
-   "strategy": "HT_WHEEL",
-   "side": "short 1",
-   "broker": true,
-   "db": true,
-   "engine": true,
-   "agree": true,
-   "entry": 0.37,
-   "upnl": -134.0,
-   "lane": "OPTIONS"
-  },
-  {
-   "instrument": "CLSK 09/11 C11",
-   "raw": "CLSK260911C00011000",
-   "strategy": "HT_WHEEL",
-   "side": "short 1",
-   "broker": true,
-   "db": true,
-   "engine": true,
-   "agree": true,
-   "entry": 0.38,
-   "upnl": -39.0,
-   "lane": "OPTIONS"
-  },
-  {
-   "instrument": "CLSK shares",
-   "raw": "CLSK",
-   "strategy": "HT_WHEEL",
-   "side": "long 100",
-   "broker": true,
-   "db": true,
-   "engine": true,
-   "agree": true,
-   "entry": 12.61,
-   "upnl": -124.0,
-   "lane": "OPTIONS"
-  },
-  {
-   "instrument": "DLO 09/18 C15",
-   "raw": "DLO260918C00015000",
-   "strategy": "HT_WHEEL",
-   "side": "short 7",
-   "broker": true,
-   "db": true,
-   "engine": true,
-   "agree": true,
-   "entry": 0.25,
-   "upnl": -560.0,
-   "lane": "OPTIONS"
-  },
-  {
-   "instrument": "DLO 09/18 P13",
-   "raw": "DLO260918P00013000",
-   "strategy": "HT_WHEEL",
-   "side": "short 6",
-   "broker": true,
-   "db": true,
-   "engine": true,
-   "agree": true,
-   "entry": 0.1,
-   "upnl": 30.0,
-   "lane": "OPTIONS"
-  },
-  {
-   "instrument": "DLO shares",
-   "raw": "DLO",
-   "strategy": "HT_WHEEL",
-   "side": "long 700",
-   "broker": true,
-   "db": true,
-   "engine": true,
-   "agree": true,
-   "entry": 13.68,
-   "upnl": 1274.0,
-   "lane": "OPTIONS"
-  },
-  {
-   "instrument": "HL 09/04 P20",
-   "raw": "HL260904P00020000",
-   "strategy": "HT_WHEEL",
-   "side": "short 5",
-   "broker": true,
-   "db": true,
-   "engine": true,
-   "agree": true,
-   "entry": 0.49,
-   "upnl": 145.0,
-   "lane": "OPTIONS"
-  },
-  {
-   "instrument": "HL 09/11 P19",
-   "raw": "HL260911P00019000",
-   "strategy": "HT_WHEEL",
-   "side": "short 5",
-   "broker": true,
-   "db": true,
-   "engine": true,
-   "agree": true,
-   "entry": 0.49,
-   "upnl": 135.0,
-   "lane": "OPTIONS"
-  },
-  {
-   "instrument": "Z 09/18 P32",
-   "raw": "Z260918P00032500",
-   "strategy": "HT_WHEEL",
-   "side": "short 2",
-   "broker": true,
-   "db": true,
-   "engine": true,
-   "agree": true,
-   "entry": 1.05,
-   "upnl": 90.0,
-   "lane": "OPTIONS"
-  },
-  {
-   "instrument": "Z 09/18 P35",
-   "raw": "Z260918P00035000",
-   "strategy": "HT_WHEEL",
-   "side": "short 2",
-   "broker": true,
-   "db": true,
-   "engine": true,
-   "agree": true,
-   "entry": 1.6,
-   "upnl": -160.0,
-   "lane": "OPTIONS"
-  }
- ],
- "open_upnl": -1773.0,
- "reconciliation": "16/16 open legs reconciled against the broker statement and our own database",
+ "open_legs": [],
+ "open_upnl": 0,
+ "reconciliation": "0/0 open legs reconciled against the broker statement and our own database",
  "stats": {
   "closed_trades": 33,
   "win_rate": 84.8,
@@ -462,25 +253,10 @@
   "profit_factor": 8.54,
   "expectancy": 206.5,
   "sharpe_daily_ann": 5.9,
-  "capital_at_risk": 104137.0,
-  "period_return_pct": 6.54,
-  "ann_pace_pct": 45.9,
+  "capital_at_risk": 0.0,
+  "period_return_pct": null,
+  "ann_pace_pct": null,
   "elapsed_days": 52
  },
- "assigned": [
-  {
-   "symbol": "CLSK",
-   "shares": 100,
-   "entry": 12.61,
-   "basis": 10.2,
-   "reduced_pct": 19.1
-  },
-  {
-   "symbol": "DLO",
-   "shares": 700,
-   "entry": 13.68,
-   "basis": 13.04,
-   "reduced_pct": 4.6
-  }
- ]
+ "assigned": []
 }
