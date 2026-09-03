@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-03T19:05:02.276082+00:00",
+ "generated_utc": "2026-09-03T20:05:02.335128+00:00",
  "paper": true,
  "strategy": "the wheel (cash-secured puts -> covered calls)",
  "since": "2026-07-13",
@@ -273,7 +273,7 @@
    "engine": true,
    "agree": true,
    "entry": 0.7,
-   "upnl": -390.0,
+   "upnl": -435.0,
    "lane": "OPTIONS"
   },
   {
@@ -286,7 +286,7 @@
    "engine": true,
    "agree": true,
    "entry": 1.4,
-   "upnl": -810.0,
+   "upnl": -960.0,
    "lane": "OPTIONS"
   },
   {
@@ -299,7 +299,7 @@
    "engine": true,
    "agree": true,
    "entry": 3.1,
-   "upnl": 115.0,
+   "upnl": 110.0,
    "lane": "OPTIONS"
   },
   {
@@ -312,7 +312,7 @@
    "engine": true,
    "agree": true,
    "entry": 2.45,
-   "upnl": -85.0,
+   "upnl": -185.0,
    "lane": "OPTIONS"
   },
   {
@@ -325,7 +325,7 @@
    "engine": true,
    "agree": true,
    "entry": 3.8,
-   "upnl": -300.0,
+   "upnl": -460.0,
    "lane": "OPTIONS"
   },
   {
@@ -338,7 +338,7 @@
    "engine": true,
    "agree": true,
    "entry": 0.37,
-   "upnl": 7.0,
+   "upnl": 13.0,
    "lane": "OPTIONS"
   },
   {
@@ -351,7 +351,7 @@
    "engine": true,
    "agree": true,
    "entry": 0.38,
-   "upnl": -121.0,
+   "upnl": -144.0,
    "lane": "OPTIONS"
   },
   {
@@ -364,7 +364,7 @@
    "engine": true,
    "agree": true,
    "entry": 12.61,
-   "upnl": -13.0,
+   "upnl": -3.5,
    "lane": "OPTIONS"
   },
   {
@@ -403,7 +403,7 @@
    "engine": true,
    "agree": true,
    "entry": 13.68,
-   "upnl": 1564.5,
+   "upnl": 1452.5,
    "lane": "OPTIONS"
   },
   {
@@ -416,7 +416,7 @@
    "engine": true,
    "agree": true,
    "entry": 1.05,
-   "upnl": 110.0,
+   "upnl": 120.0,
    "lane": "OPTIONS"
   },
   {
@@ -429,11 +429,11 @@
    "engine": true,
    "agree": true,
    "entry": 1.6,
-   "upnl": 60.0,
+   "upnl": 0.0,
    "lane": "OPTIONS"
   }
  ],
- "open_upnl": -597.5,
+ "open_upnl": -1227.0,
  "reconciliation": "14/14 open legs reconciled against the broker statement and our own database",
  "stats": {
   "closed_trades": 36,
