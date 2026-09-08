@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-08T13:05:02.223720+00:00",
+ "generated_utc": "2026-09-08T14:05:02.387238+00:00",
  "paper": true,
  "strategy": "the wheel (cash-secured puts -> covered calls)",
  "since": "2026-07-13",
@@ -267,7 +267,7 @@
    "engine": true,
    "agree": true,
    "entry": 0.75,
-   "upnl": 80.0,
+   "upnl": 0.0,
    "lane": "OPTIONS"
   },
   {
@@ -280,7 +280,7 @@
    "engine": true,
    "agree": true,
    "entry": 0.7,
-   "upnl": -225.0,
+   "upnl": -315.0,
    "lane": "OPTIONS"
   },
   {
@@ -293,7 +293,7 @@
    "engine": true,
    "agree": true,
    "entry": 1.4,
-   "upnl": -690.0,
+   "upnl": -750.0,
    "lane": "OPTIONS"
   },
   {
@@ -306,7 +306,7 @@
    "engine": true,
    "agree": true,
    "entry": 3.1,
-   "upnl": 110.0,
+   "upnl": 205.0,
    "lane": "OPTIONS"
   },
   {
@@ -319,7 +319,7 @@
    "engine": true,
    "agree": true,
    "entry": 2.45,
-   "upnl": -35.0,
+   "upnl": -75.0,
    "lane": "OPTIONS"
   },
   {
@@ -332,7 +332,7 @@
    "engine": true,
    "agree": true,
    "entry": 3.8,
-   "upnl": -360.0,
+   "upnl": -300.0,
    "lane": "OPTIONS"
   },
   {
@@ -345,7 +345,7 @@
    "engine": true,
    "agree": true,
    "entry": 0.38,
-   "upnl": -162.0,
+   "upnl": -200.0,
    "lane": "OPTIONS"
   },
   {
@@ -358,7 +358,7 @@
    "engine": true,
    "agree": true,
    "entry": 12.61,
-   "upnl": 11.0,
+   "upnl": 21.0,
    "lane": "OPTIONS"
   },
   {
@@ -397,7 +397,7 @@
    "engine": true,
    "agree": true,
    "entry": 13.68,
-   "upnl": 1274.0,
+   "upnl": 1064.0,
    "lane": "OPTIONS"
   },
   {
@@ -410,7 +410,7 @@
    "engine": true,
    "agree": true,
    "entry": 1.05,
-   "upnl": 90.0,
+   "upnl": 30.0,
    "lane": "OPTIONS"
   },
   {
@@ -423,11 +423,11 @@
    "engine": true,
    "agree": true,
    "entry": 1.6,
-   "upnl": 0.0,
+   "upnl": -150.0,
    "lane": "OPTIONS"
   }
  ],
- "open_upnl": -262.0,
+ "open_upnl": -825.0,
  "reconciliation": "13/13 open legs reconciled against the broker statement and our own database",
  "stats": {
   "closed_trades": 35,
