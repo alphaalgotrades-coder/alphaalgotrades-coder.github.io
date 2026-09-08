@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-08T14:05:02.387238+00:00",
+ "generated_utc": "2026-09-08T15:05:02.220692+00:00",
  "paper": true,
  "strategy": "the wheel (cash-secured puts -> covered calls)",
  "since": "2026-07-13",
@@ -280,7 +280,7 @@
    "engine": true,
    "agree": true,
    "entry": 0.7,
-   "upnl": -315.0,
+   "upnl": -360.0,
    "lane": "OPTIONS"
   },
   {
@@ -293,7 +293,7 @@
    "engine": true,
    "agree": true,
    "entry": 1.4,
-   "upnl": -750.0,
+   "upnl": -840.0,
    "lane": "OPTIONS"
   },
   {
@@ -306,7 +306,7 @@
    "engine": true,
    "agree": true,
    "entry": 3.1,
-   "upnl": 205.0,
+   "upnl": 210.0,
    "lane": "OPTIONS"
   },
   {
@@ -319,7 +319,7 @@
    "engine": true,
    "agree": true,
    "entry": 2.45,
-   "upnl": -75.0,
+   "upnl": -105.0,
    "lane": "OPTIONS"
   },
   {
@@ -332,7 +332,7 @@
    "engine": true,
    "agree": true,
    "entry": 3.8,
-   "upnl": -300.0,
+   "upnl": -350.0,
    "lane": "OPTIONS"
   },
   {
@@ -345,7 +345,7 @@
    "engine": true,
    "agree": true,
    "entry": 0.38,
-   "upnl": -200.0,
+   "upnl": -187.0,
    "lane": "OPTIONS"
   },
   {
@@ -358,7 +358,7 @@
    "engine": true,
    "agree": true,
    "entry": 12.61,
-   "upnl": 21.0,
+   "upnl": 55.0,
    "lane": "OPTIONS"
   },
   {
@@ -371,7 +371,7 @@
    "engine": true,
    "agree": true,
    "entry": 0.25,
-   "upnl": -385.0,
+   "upnl": -245.0,
    "lane": "OPTIONS"
   },
   {
@@ -397,7 +397,7 @@
    "engine": true,
    "agree": true,
    "entry": 13.68,
-   "upnl": 1064.0,
+   "upnl": 1004.5,
    "lane": "OPTIONS"
   },
   {
@@ -410,7 +410,7 @@
    "engine": true,
    "agree": true,
    "entry": 1.05,
-   "upnl": 30.0,
+   "upnl": 20.0,
    "lane": "OPTIONS"
   },
   {
@@ -423,11 +423,11 @@
    "engine": true,
    "agree": true,
    "entry": 1.6,
-   "upnl": -150.0,
+   "upnl": -190.0,
    "lane": "OPTIONS"
   }
  ],
- "open_upnl": -825.0,
+ "open_upnl": -957.5,
  "reconciliation": "13/13 open legs reconciled against the broker statement and our own database",
  "stats": {
   "closed_trades": 35,
