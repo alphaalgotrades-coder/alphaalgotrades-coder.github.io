@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-09T14:05:02.880531+00:00",
+ "generated_utc": "2026-09-09T15:05:02.959839+00:00",
  "paper": true,
  "strategy": "the wheel (cash-secured puts -> covered calls)",
  "since": "2026-07-13",
@@ -274,7 +274,7 @@
    "engine": true,
    "agree": true,
    "entry": 0.75,
-   "upnl": 0.0,
+   "upnl": 100.0,
    "lane": "OPTIONS"
   },
   {
@@ -287,7 +287,7 @@
    "engine": true,
    "agree": true,
    "entry": 0.7,
-   "upnl": -345.0,
+   "upnl": -375.0,
    "lane": "OPTIONS"
   },
   {
@@ -313,7 +313,7 @@
    "engine": true,
    "agree": true,
    "entry": 2.45,
-   "upnl": -235.0,
+   "upnl": -245.0,
    "lane": "OPTIONS"
   },
   {
@@ -326,7 +326,7 @@
    "engine": true,
    "agree": true,
    "entry": 3.8,
-   "upnl": -600.0,
+   "upnl": -440.0,
    "lane": "OPTIONS"
   },
   {
@@ -339,7 +339,7 @@
    "engine": true,
    "agree": true,
    "entry": 0.38,
-   "upnl": -241.0,
+   "upnl": -235.0,
    "lane": "OPTIONS"
   },
   {
@@ -352,7 +352,7 @@
    "engine": true,
    "agree": true,
    "entry": 12.61,
-   "upnl": 92.0,
+   "upnl": 76.0,
    "lane": "OPTIONS"
   },
   {
@@ -365,7 +365,7 @@
    "engine": true,
    "agree": true,
    "entry": 0.25,
-   "upnl": -140.0,
+   "upnl": -70.0,
    "lane": "OPTIONS"
   },
   {
@@ -378,7 +378,7 @@
    "engine": true,
    "agree": true,
    "entry": 0.1,
-   "upnl": 0.0,
+   "upnl": 30.0,
    "lane": "OPTIONS"
   },
   {
@@ -391,7 +391,7 @@
    "engine": true,
    "agree": true,
    "entry": 13.68,
-   "upnl": 739.2,
+   "upnl": 763.0,
    "lane": "OPTIONS"
   },
   {
@@ -404,7 +404,7 @@
    "engine": true,
    "agree": true,
    "entry": 1.05,
-   "upnl": -80.0,
+   "upnl": -20.0,
    "lane": "OPTIONS"
   },
   {
@@ -417,11 +417,11 @@
    "engine": true,
    "agree": true,
    "entry": 1.6,
-   "upnl": -380.0,
+   "upnl": -360.0,
    "lane": "OPTIONS"
   }
  ],
- "open_upnl": -2059.8,
+ "open_upnl": -1646.0,
  "reconciliation": "12/12 open legs reconciled against the broker statement and our own database",
  "stats": {
   "closed_trades": 36,
