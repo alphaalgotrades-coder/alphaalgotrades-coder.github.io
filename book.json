@@ -1,14 +1,14 @@
 {
- "generated_utc": "2026-09-11T14:05:03.535623+00:00",
+ "generated_utc": "2026-09-11T15:05:03.771073+00:00",
  "paper": true,
  "strategy": "the wheel (cash-secured puts -> covered calls)",
  "since": "2026-07-13",
- "trading_days": 37,
- "green_days": 21,
+ "trading_days": 38,
+ "green_days": 22,
  "red_days": 2,
- "total_fills": 110,
+ "total_fills": 112,
  "symbols_traded": 22,
- "cumulative_realized": 7389.4,
+ "cumulative_realized": 7433.27,
  "days": [
   {
    "date": "2026-07-13",
@@ -268,6 +268,13 @@
    "realized": 0.0,
    "commission": 0.0,
    "cumulative": 7389.4
+  },
+  {
+   "date": "2026-09-11",
+   "fills": 2,
+   "realized": 43.87,
+   "commission": 0.0,
+   "cumulative": 7433.27
   }
  ],
  "open_legs": [
@@ -281,7 +288,7 @@
    "engine": true,
    "agree": true,
    "entry": 0.75,
-   "upnl": -100.0,
+   "upnl": -20.0,
    "lane": "OPTIONS"
   },
   {
@@ -294,7 +301,7 @@
    "engine": true,
    "agree": true,
    "entry": 0.7,
-   "upnl": -510.0,
+   "upnl": -405.0,
    "lane": "OPTIONS"
   },
   {
@@ -307,7 +314,7 @@
    "engine": true,
    "agree": true,
    "entry": 1.4,
-   "upnl": -1080.0,
+   "upnl": -930.0,
    "lane": "OPTIONS"
   },
   {
@@ -320,7 +327,7 @@
    "engine": true,
    "agree": true,
    "entry": 2.45,
-   "upnl": -395.0,
+   "upnl": -315.0,
    "lane": "OPTIONS"
   },
   {
@@ -333,7 +340,7 @@
    "engine": true,
    "agree": true,
    "entry": 3.8,
-   "upnl": -730.0,
+   "upnl": -770.0,
    "lane": "OPTIONS"
   },
   {
@@ -346,7 +353,7 @@
    "engine": true,
    "agree": true,
    "entry": 0.38,
-   "upnl": -203.0,
+   "upnl": -250.0,
    "lane": "OPTIONS"
   },
   {
@@ -359,7 +366,7 @@
    "engine": true,
    "agree": true,
    "entry": 12.61,
-   "upnl": 76.5,
+   "upnl": 115.5,
    "lane": "OPTIONS"
   },
   {
@@ -398,33 +405,7 @@
    "engine": true,
    "agree": true,
    "entry": 13.68,
-   "upnl": 899.5,
-   "lane": "OPTIONS"
-  },
-  {
-   "instrument": "SPY 09/25 C763",
-   "raw": "SPY260925C00763000",
-   "strategy": "HT_WHEEL",
-   "side": "short 1",
-   "broker": true,
-   "db": true,
-   "engine": true,
-   "agree": true,
-   "entry": 5.75,
-   "upnl": -256.0,
-   "lane": "OPTIONS"
-  },
-  {
-   "instrument": "SPY shares",
-   "raw": "SPY",
-   "strategy": "HT_WHEEL",
-   "side": "long 100",
-   "broker": true,
-   "db": true,
-   "engine": true,
-   "agree": true,
-   "entry": 764.0,
-   "upnl": 244.0,
+   "upnl": 955.5,
    "lane": "OPTIONS"
   },
   {
@@ -437,7 +418,7 @@
    "engine": true,
    "agree": true,
    "entry": 1.05,
-   "upnl": -130.0,
+   "upnl": -10.0,
    "lane": "OPTIONS"
   },
   {
@@ -454,20 +435,20 @@
    "lane": "OPTIONS"
   }
  ],
- "open_upnl": -2844.0,
- "reconciliation": "14/14 open legs reconciled against the broker statement and our own database",
+ "open_upnl": -2289.0,
+ "reconciliation": "12/12 open legs reconciled against the broker statement and our own database",
  "stats": {
-  "closed_trades": 36,
-  "win_rate": 86.1,
-  "avg_win": 267.53,
-  "avg_loss": -180.8,
-  "profit_factor": 9.17,
-  "expectancy": 205.26,
-  "sharpe_daily_ann": 6.02,
-  "capital_at_risk": 150787.0,
-  "period_return_pct": 4.9,
-  "ann_pace_pct": 29.8,
-  "elapsed_days": 60
+  "closed_trades": 38,
+  "win_rate": 84.2,
+  "avg_win": 269.38,
+  "avg_loss": -197.83,
+  "profit_factor": 7.26,
+  "expectancy": 195.61,
+  "sharpe_daily_ann": 5.97,
+  "capital_at_risk": 74387.0,
+  "period_return_pct": 9.99,
+  "ann_pace_pct": 59.8,
+  "elapsed_days": 61
  },
  "assigned": [
   {
@@ -483,13 +464,6 @@
    "entry": 13.68,
    "basis": 13.04,
    "reduced_pct": 4.6
-  },
-  {
-   "symbol": "SPY",
-   "shares": 100,
-   "entry": 764.0,
-   "basis": 762.66,
-   "reduced_pct": 0.2
   }
  ]
 }
