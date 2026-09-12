@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-12T01:05:02.387387+00:00",
+ "generated_utc": "2026-09-12T02:05:03.190641+00:00",
  "paper": true,
  "strategy": "the wheel (cash-secured puts -> covered calls)",
  "since": "2026-07-13",
@@ -351,32 +351,6 @@
    "lane": "OPTIONS"
   },
   {
-   "instrument": "CLSK 09/11 C11",
-   "raw": "CLSK260911C00011000",
-   "strategy": "HT_WHEEL",
-   "side": "short 1",
-   "broker": true,
-   "db": true,
-   "engine": true,
-   "agree": true,
-   "entry": 0.38,
-   "upnl": -259.0,
-   "lane": "OPTIONS"
-  },
-  {
-   "instrument": "CLSK shares",
-   "raw": "CLSK",
-   "strategy": "HT_WHEEL",
-   "side": "long 100",
-   "broker": true,
-   "db": true,
-   "engine": true,
-   "agree": true,
-   "entry": 12.61,
-   "upnl": 104.0,
-   "lane": "OPTIONS"
-  },
-  {
    "instrument": "DLO 09/18 C15",
    "raw": "DLO260918C00015000",
    "strategy": "HT_WHEEL",
@@ -442,8 +416,8 @@
    "lane": "OPTIONS"
   }
  ],
- "open_upnl": -2040.0,
- "reconciliation": "12/12 open legs reconciled against the broker statement and our own database",
+ "open_upnl": -1885.0,
+ "reconciliation": "10/10 open legs reconciled against the broker statement and our own database",
  "stats": {
   "closed_trades": 39,
   "win_rate": 84.6,
@@ -452,19 +426,12 @@
   "profit_factor": 7.32,
   "expectancy": 192.37,
   "sharpe_daily_ann": 5.94,
-  "capital_at_risk": 74387.0,
-  "period_return_pct": 10.09,
-  "ann_pace_pct": 59.4,
+  "capital_at_risk": 73126.0,
+  "period_return_pct": 10.26,
+  "ann_pace_pct": 60.4,
   "elapsed_days": 62
  },
  "assigned": [
-  {
-   "symbol": "CLSK",
-   "shares": 100,
-   "entry": 12.61,
-   "basis": 10.31,
-   "reduced_pct": 18.2
-  },
   {
    "symbol": "DLO",
    "shares": 700,
