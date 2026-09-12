@@ -2,9 +2,9 @@
  "week": 9,
  "from": "2026-09-07",
  "to": "2026-09-11",
- "realized": 264,
- "fills": 5,
- "green_days": 2,
+ "realized": 333,
+ "fills": 7,
+ "green_days": 3,
  "red_days": 0,
  "closed": [
   {
@@ -26,6 +26,13 @@
     }
    ],
    "realized": 220,
+   "assigned": false,
+   "recovered": false
+  },
+  {
+   "symbol": "CLSK",
+   "legs": [],
+   "realized": 69,
    "assigned": false,
    "recovered": false
   },
@@ -53,5 +60,5 @@
   }
  ],
  "spotlight": "BHP",
- "generated": "2026-09-12 06:50"
+ "generated": "2026-09-12 07:49"
 }
