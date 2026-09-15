@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-15T12:30:05.469902+00:00",
+ "generated_utc": "2026-09-15T13:05:03.897045+00:00",
  "paper": true,
  "strategy": "the wheel (cash-secured puts -> covered calls)",
  "since": "2026-07-13",
@@ -386,7 +386,7 @@
    "engine": true,
    "agree": true,
    "entry": 13.68,
-   "upnl": 736.96,
+   "upnl": 805.0,
    "lane": "OPTIONS"
   },
   {
@@ -416,7 +416,7 @@
    "lane": "OPTIONS"
   }
  ],
- "open_upnl": -2648.04,
+ "open_upnl": -2580.0,
  "reconciliation": "10/10 open legs reconciled against the broker statement and our own database",
  "stats": {
   "closed_trades": 39,
