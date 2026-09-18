@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>The Desk · AlphaAlgoTrader</title>
+<meta name="description" content="Today's economic releases, rates and the running stories — from primary sources, with the age of every reading shown.">
+<style>
+ :root{--bg:#0c0e12;--card:#12151b;--line:#20242c;--ink:#f5f5f5;--dim:#c4c6cc;
+       --mut:#7e8492;--gold:#f0be46;--hot:#e26a5a;--cool:#3fbf95}
+ *{box-sizing:border-box} html,body{margin:0;background:var(--bg);color:var(--ink);
+   font:16px/1.5 "Inter",system-ui,-apple-system,Segoe UI,Roboto,sans-serif}
+ .wrap{max-width:1080px;margin:0 auto;padding:24px 20px 64px}
+ header{display:flex;flex-wrap:wrap;gap:16px;align-items:baseline;justify-content:space-between;
+   border-bottom:1px solid var(--line);padding-bottom:16px}
+ h1{font-size:22px;letter-spacing:.14em;text-transform:uppercase;color:var(--gold);margin:0}
+ .clocks{display:flex;gap:22px;font-variant-numeric:tabular-nums}
+ .clock b{display:block;font-size:11px;letter-spacing:.16em;color:var(--mut);
+   text-transform:uppercase;font-weight:600}
+ .clock span{font-size:20px}
+ .strip{display:flex;gap:10px;overflow-x:auto;padding:14px 0;border-bottom:1px solid var(--line)}
+ .tick{flex:0 0 auto;background:var(--card);border:1px solid var(--line);border-radius:10px;
+   padding:9px 13px;min-width:132px}
+ .tick b{display:block;font-size:10px;letter-spacing:.12em;color:var(--mut);text-transform:uppercase}
+ .tick .p{font-size:17px;font-variant-numeric:tabular-nums}
+ .up{color:var(--cool)} .dn{color:var(--hot)}
+ h2{font-size:12px;letter-spacing:.18em;text-transform:uppercase;color:var(--gold);
+   margin:30px 0 10px}
+ table{width:100%;border-collapse:collapse;font-variant-numeric:tabular-nums}
+ th{text-align:left;font-size:10px;letter-spacing:.13em;text-transform:uppercase;
+   color:var(--mut);font-weight:600;padding:6px 8px;border-bottom:1px solid var(--line)}
+ td{padding:8px;border-bottom:1px solid var(--line);font-size:14px}
+ td.t{color:var(--mut);white-space:nowrap} td.a{font-weight:700}
+ tr.hi td{background:rgba(240,190,70,.05)}
+ .story{padding:9px 0;border-bottom:1px solid var(--line)}
+ .story b{color:var(--mut);font-size:10px;letter-spacing:.12em;text-transform:uppercase}
+ .story p{margin:3px 0 0;font-size:14px;color:var(--dim)}
+ .age{font-size:11px;color:var(--mut);margin-left:8px;font-weight:400;letter-spacing:.04em}
+ footer{margin-top:34px;padding-top:16px;border-top:1px solid var(--line);
+   font-size:12px;color:var(--mut)}
+ @media(max-width:620px){.clock span{font-size:17px}h1{font-size:18px}td{font-size:13px}}
+</style></head><body><div class="wrap">
+<header>
+ <h1>The Desk</h1>
+ <div class="clocks">
+  <div class="clock"><b>New York</b><span id="ny">--:--:--</span></div>
+  <div class="clock"><b>London</b><span id="ld">--:--:--</span></div>
+ </div>
+</header>
+<div class="strip" id="strip"></div>
+<h2>On the tape today <span class="age" id="tape-age"></span></h2>
+<table id="tape"><thead><tr><th>ET</th><th></th><th>Release</th><th>Cons.</th>
+ <th>Prev.</th><th>Actual</th></tr></thead><tbody></tbody></table>
+<h2>Rates <span class="age" id="rates-age"></span></h2>
+<table id="rates"><thead><tr><th>Tenor</th><th>Level</th><th>Day</th><th>Read</th>
+ <th>Source</th></tr></thead><tbody></tbody></table>
+<h2>Running stories</h2>
+<div id="stories"></div>
+<footer id="foot"></footer>
+</div>
+<script>
+const tz=(z)=>new Date().toLocaleTimeString('en-GB',{timeZone:z,hour12:false});
+function clocks(){ny.textContent=tz('America/New_York');ld.textContent=tz('Europe/London');}
+clocks();setInterval(clocks,1000);
+
+const sign=v=>v==null?'':(v>0?'+':'')+v.toFixed(2);
+const cls=v=>v==null?'':(v>0?'up':(v<0?'dn':''));
+function ago(iso){if(!iso)return '';const m=(Date.now()-new Date(iso).getTime())/6e4;
+ if(m<1)return 'just now';if(m<90)return Math.round(m)+' min ago';
+ return Math.round(m/60)+' h ago';}
+
+async function paint(){
+ let d; try{d=await (await fetch('data.json?t='+Date.now())).json();}catch(e){return;}
+
+ strip.innerHTML=d.strip.rows.map(r=>`<div class="tick"><b>${r.name}</b>
+  <span class="p">${r.price==null?'--':r.price.toLocaleString()}</span>
+  <span class="p ${cls(r.pct)}">${sign(r.pct)}%</span></div>`).join('');
+
+ const tb=document.querySelector('#tape tbody');
+ tb.innerHTML=d.tape.map(r=>`<tr class="${r.impact==='High'?'hi':''}">
+  <td class="t">${r.time}</td><td class="t">${r.ccy}</td><td>${r.title}</td>
+  <td class="t">${r.cons||''}</td><td class="t">${r.prev||''}</td>
+  <td class="a">${r.actual||''}</td></tr>`).join('')
+  ||'<tr><td colspan="6" class="t">Nothing scheduled.</td></tr>';
+
+ const rb=document.querySelector('#rates tbody');
+ rb.innerHTML=d.rates.rows.map(r=>`<tr><td>${r.series}</td>
+  <td>${r.level==null?'--':r.level.toFixed(3)+'%'}</td>
+  <td class="${cls(r.d_day_bps)}">${r.d_day_bps==null?'':sign(r.d_day_bps)+' bp'}</td>
+  <td class="t">${r.lean||''}</td><td class="t">${r.source||''}</td></tr>`).join('')
+  ||'<tr><td colspan="5" class="t">No reading.</td></tr>';
+
+ stories.innerHTML=d.stories.map(s=>`<div class="story"><b>${s.topic}</b>
+  <p>${s.title}</p></div>`).join('');
+
+ document.getElementById('tape-age').textContent='consensus + previous from our calendar';
+ document.getElementById('rates-age').textContent=d.rates.note?('· '+d.rates.note+' · '+ago(d.rates.as_of)):'';
+ document.getElementById('foot').innerHTML=
+  `Updated ${ago(d.generated_utc)}. Market snapshot ${ago(d.strip.as_of)}.<br>${d.disclaimer}<br>
+   Sources: US Treasury · BLS · Census · Eurostat · ONS · Yahoo Finance.`;
+}
+paint(); setInterval(paint, 60000);
+</script></body></html>

@@ -1,0 +1,258 @@
+{
+ "generated_utc": "2026-09-18T17:03:46+00:00",
+ "date_et": "2026-09-18",
+ "tape": [
+  {
+   "time": "02:00",
+   "ccy": "EUR",
+   "impact": "Low",
+   "title": "German PPI m/m",
+   "cons": "0.6%",
+   "prev": "1.1%",
+   "actual": "1.1%"
+  },
+  {
+   "time": "02:00",
+   "ccy": "GBP",
+   "impact": "Medi",
+   "title": "Retail Sales m/m",
+   "cons": "-0.2%",
+   "prev": "-0.5%",
+   "actual": "0.5%"
+  },
+  {
+   "time": "02:30",
+   "ccy": "JPY",
+   "impact": "High",
+   "title": "BOJ Press Conference",
+   "cons": "",
+   "prev": "",
+   "actual": ""
+  },
+  {
+   "time": "04:00",
+   "ccy": "EUR",
+   "impact": "Low",
+   "title": "Current Account",
+   "cons": "30.7B",
+   "prev": "35.1B",
+   "actual": "27.6B"
+  },
+  {
+   "time": "06:15",
+   "ccy": "EUR",
+   "impact": "Low",
+   "title": "ECOFIN Meetings",
+   "cons": "",
+   "prev": "",
+   "actual": ""
+  },
+  {
+   "time": "06:15",
+   "ccy": "EUR",
+   "impact": "Low",
+   "title": "Eurogroup Meetings",
+   "cons": "",
+   "prev": "",
+   "actual": ""
+  },
+  {
+   "time": "06:30",
+   "ccy": "EUR",
+   "impact": "Medi",
+   "title": "ECB President Lagarde Speaks",
+   "cons": "",
+   "prev": "",
+   "actual": ""
+  },
+  {
+   "time": "09:15",
+   "ccy": "USD",
+   "impact": "Low",
+   "title": "Capacity Utilization Rate",
+   "cons": "76.4%",
+   "prev": "76.3%",
+   "actual": "76.3%"
+  },
+  {
+   "time": "09:15",
+   "ccy": "USD",
+   "impact": "Low",
+   "title": "Industrial Production m/m",
+   "cons": "0.3%",
+   "prev": "0.2%",
+   "actual": "0.0%"
+  },
+  {
+   "time": "09:30",
+   "ccy": "USD",
+   "impact": "Low",
+   "title": "FOMC Member Bowman Speaks",
+   "cons": "",
+   "prev": "",
+   "actual": ""
+  },
+  {
+   "time": "10:00",
+   "ccy": "USD",
+   "impact": "Low",
+   "title": "CB Leading Index m/m",
+   "cons": "0.1%",
+   "prev": "0.2%",
+   "actual": "-0.1%"
+  },
+  {
+   "time": "11:45",
+   "ccy": "USD",
+   "impact": "Low",
+   "title": "FOMC Member Schmid Speaks",
+   "cons": "",
+   "prev": "",
+   "actual": ""
+  }
+ ],
+ "rates": {
+  "rows": [
+   {
+    "series": "2Y",
+    "level": 4.788,
+    "d_day_bps": 4.8,
+    "lean": "hawkish",
+    "source": "YAHOO_TSY_FUT_ZT",
+    "latency": "after-hours-futures-proxy",
+    "snapshot_ts": "2026-09-18T16:50:00+00:00",
+    "prior_day": "2026-09-16",
+    "prior_day_close": 4.74
+   },
+   {
+    "series": "5Y",
+    "level": 4.855,
+    "d_day_bps": 5.4,
+    "lean": "hawkish",
+    "source": "YAHOO_TSY_FUT_ZF",
+    "latency": "after-hours-futures-proxy",
+    "snapshot_ts": "2026-09-18T16:50:00+00:00",
+    "prior_day": "2026-09-16",
+    "prior_day_close": 4.801
+   },
+   {
+    "series": "10Y",
+    "level": 4.997,
+    "d_day_bps": 5.0,
+    "lean": "hawkish",
+    "source": "YAHOO_TSY_FUT_ZN",
+    "latency": "after-hours-futures-proxy",
+    "snapshot_ts": "2026-09-18T16:50:00+00:00",
+    "prior_day": "2026-09-16",
+    "prior_day_close": 4.947
+   },
+   {
+    "series": "30Y",
+    "level": 5.332,
+    "d_day_bps": 3.6,
+    "lean": "hawkish",
+    "source": "YAHOO_TSY_FUT_ZB",
+    "latency": "after-hours-futures-proxy",
+    "snapshot_ts": "2026-09-18T16:49:00+00:00",
+    "prior_day": "2026-09-16",
+    "prior_day_close": 5.296
+   }
+  ],
+  "as_of": "2026-09-18T16:50:00+00:00",
+  "note": "after-hours-futures-proxy"
+ },
+ "strip": {
+  "rows": [
+   {
+    "sym": "MOVE",
+    "name": "Bond-market volatility",
+    "price": 76.2178,
+    "pct": null
+   },
+   {
+    "sym": "CL",
+    "name": "WTI crude futures",
+    "price": 96.11,
+    "pct": -1.15
+   },
+   {
+    "sym": "GC",
+    "name": "Gold futures",
+    "price": 4418.7,
+    "pct": 0.43
+   },
+   {
+    "sym": "DXY",
+    "name": "Dollar index",
+    "price": 100.293,
+    "pct": 0.04
+   },
+   {
+    "sym": "SPY",
+    "name": "S&P 500 ETF",
+    "price": 759.3,
+    "pct": -0.19
+   },
+   {
+    "sym": "QQQ",
+    "name": "Nasdaq 100 ETF",
+    "price": 716.735,
+    "pct": -0.03
+   },
+   {
+    "sym": "VIX",
+    "name": "Volatility index",
+    "price": 15.46,
+    "pct": -12.7
+   }
+  ],
+  "as_of": "2026-09-18T17:03:05.012030+00:00",
+  "tone": "risk-on",
+  "age_min": 0.6836852166666667
+ },
+ "stories": [
+  {
+   "topic": "Iran / Hormuz",
+   "title": "An Iranian port city feels the pain of Washington\u2019s tightening economic measures - apnews.com",
+   "source": "apnews.com",
+   "published": "Mon, 07 Sep 2026 07:00:00 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Saudi / Gulf supply",
+   "title": "Saudi pipeline attack prompts Aramco to halt some Europe supplies - Latest news from Azerbaijan",
+   "source": "Latest news from Azerbaijan",
+   "published": "Fri, 18 Sep 2026 16:18:45 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Saudi / Gulf supply",
+   "title": "Aramco Halts October Crude Deliveries to Some European Refiners After Pipeline Attack - Egypt Oil &amp; Gas",
+   "source": "Egypt Oil &amp; Gas",
+   "published": "Fri, 18 Sep 2026 16:06:12 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iran claims it struck an oil tanker in the Strait of Hormuz, and other Mideast developments - AP News",
+   "source": "AP News",
+   "published": "Fri, 18 Sep 2026 15:47:00 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Taiwan / China",
+   "title": "George Will sounds alarm on 'cascading' military crisis - AlterNet",
+   "source": "AlterNet",
+   "published": "Fri, 18 Sep 2026 15:21:00 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Saudi / Gulf supply",
+   "title": "Aramco halts October crude deliveries to some European refiners after pipeline attack, Bloomberg reports - Reuters",
+   "source": "Reuters",
+   "published": "Fri, 18 Sep 2026 15:13:44 GMT",
+   "read": "escalation"
+  }
+ ],
+ "disclaimer": "Snapshot, not a live feed. Every panel shows the age of its own data. Educational only, not financial advice."
+}
