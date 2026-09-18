@@ -534,9 +534,31 @@ const panel=(name,fn)=>{ try{ fn(); }catch(e){
   console.error('desk panel failed:', name, e);
   /* leave whatever was there -- a stale panel beats a black screen */ } };
 
+/* Replaced with a hash of this file at write time. Left as the literal
+   placeholder when the page is opened straight from the repo, which is the
+   signal to skip the check entirely rather than reload in a loop. */
+const BUILD='e96822bfe5';
+
+function checkBuild(d){
+  if(!d.build || BUILD.indexOf('BUILD')>=0) return;   /* unstamped: do nothing */
+  if(d.build===BUILD){ try{ sessionStorage.removeItem('deskBuildTried'); }catch(e){}
+    return; }
+  let tried=null; try{ tried=sessionStorage.getItem('deskBuildTried'); }catch(e){}
+  if(tried===d.build){
+    /* we already reloaded once for this build and the server is still handing
+       back the old file -- stop, and be honest on screen instead of looping */
+    const el=document.getElementById('onair');
+    if(el) el.textContent='Update pending';
+    return;
+  }
+  try{ sessionStorage.setItem('deskBuildTried', d.build); }catch(e){}
+  location.replace(location.pathname+'?v='+encodeURIComponent(d.build));
+}
+
 async function paint(){
   let d; try{ d=await (await fetch('data.json?t='+Date.now())).json(); }catch(e){ return; }
   window.__desk=d;
+  checkBuild(d);
 
   panel('date', ()=>{ document.getElementById('datestamp').textContent =
     new Date(d.date_et+'T12:00:00').toLocaleDateString('en-GB',
