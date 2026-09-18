@@ -52,10 +52,6 @@
  .nav .brand svg{display:block}
  .nav .navsec{display:flex;gap:18px;flex-wrap:wrap}
  .nav .navlearn{color:var(--gold)}
- .nav .navdesk{color:#e8ecf5;display:inline-flex;align-items:center;gap:6px}
- .nav .navdesk::before{content:"";width:7px;height:7px;border-radius:50%;
-   background:#e2604f;animation:navpulse 2s ease-in-out infinite}
- @keyframes navpulse{0%,100%{opacity:1}50%{opacity:.35}}
  .nav .navcta{margin-left:auto;background:var(--gold);color:#0b101b;
    font-weight:700;padding:7px 15px;border-radius:8px}
  .nav .navcta:hover{color:#0b101b;filter:brightness(1.08)}
@@ -105,7 +101,6 @@
  <a class="brand" href="/"><svg width="21" height="21" viewBox="0 0 32 32"><rect width="32" height="32" rx="7" fill="#141c2b"/><polyline points="5,24 12,20 18,12 27,7" stroke="#34c77a" stroke-width="3.5" fill="none" stroke-linecap="round"/></svg> Alpha Algo Trader</a>
  <span class="navsec"><a href="#curve">the curve</a><a href="#stats">the record</a>
  <a href="#open">open book</a><a href="#ledger">every session</a></span>
- <a class="navdesk" href="/desk/">the desk</a>
  <a class="navlearn" href="/learn/">learn the wheel</a>
  <a class="navcta" href="https://whop.com/alpha-algo-trader-98e3/products/vip-alpha-algo-trader-full-access/">Start free</a>
 </nav>

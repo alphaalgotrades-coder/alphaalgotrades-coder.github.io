@@ -68,15 +68,31 @@ h1 em{font-style:normal;color:var(--gold)}
 
 /* ------------------------------------------------------------------- body */
 main{display:grid;grid-template-columns:660px 1fr;gap:52px;padding:34px 76px 0;
-  min-height:0}
+  min-height:0;transition:padding-top .5s cubic-bezier(.2,.8,.2,1)}
+#stage.alert main{padding-top:104px}
 
 /* the tape — the running order, left, always visible */
 .tape{display:flex;flex-direction:column;min-height:0}
 .tape .head{padding-bottom:12px;border-bottom:2px solid var(--gold)}
 .tape .head .mutlabel{display:block;margin-top:5px;font-size:12px;letter-spacing:.14em}
-.tape ol{list-style:none;overflow:hidden;margin-top:6px}
-.tape li{display:grid;grid-template-columns:86px 1fr auto;gap:18px;align-items:baseline;
-  padding:13px 0;border-bottom:1px solid var(--line)}
+.tape ol{list-style:none;overflow:hidden;margin-top:6px;flex:1;
+  display:flex;flex-direction:column}
+.tape li{flex:1;min-height:0;display:grid;
+  grid-template-columns:20px 86px 1fr auto;gap:16px;align-content:center;
+  align-items:baseline;padding:4px 0;border-bottom:1px solid var(--line);
+  animation:rise .45s ease both}
+@keyframes rise{from{opacity:0;transform:translateY(9px)}to{opacity:1;transform:none}}
+.imp{width:9px;height:9px;border-radius:50%;background:var(--line);align-self:center}
+.imp.high{background:var(--hot);box-shadow:0 0 0 4px rgba(226,96,79,.16)}
+.imp.medi{background:var(--gold)}
+.beat{color:var(--cool)} .miss{color:var(--hot)}
+.tape .v small{display:block;font-size:13px;font-weight:600;letter-spacing:.1em;
+  text-transform:uppercase;text-align:right;margin-top:2px}
+.pager{display:flex;align-items:center;gap:8px;padding-top:14px;margin-top:auto}
+.pager i{width:26px;height:3px;border-radius:2px;background:var(--line);transition:background .3s}
+.pager i.on{background:var(--gold)}
+.pager em{font-style:normal;margin-left:auto;font-size:12px;letter-spacing:.18em;
+  text-transform:uppercase;color:var(--mut);font-weight:600}
 .tape .t{font-size:22px;font-weight:600;color:var(--gold);letter-spacing:.02em}
 .tape .n{font-size:22px;color:var(--ink);line-height:1.22}
 .tape .n i{display:block;font-style:normal;font-size:15px;color:var(--mut);
@@ -92,26 +108,29 @@ main{display:grid;grid-template-columns:660px 1fr;gap:52px;padding:34px 76px 0;
   background:linear-gradient(160deg,var(--panel),rgba(15,18,24,.35));
   border:1px solid var(--line);border-radius:18px;padding:36px 40px 30px;
   overflow:hidden}
-.hero .head{display:flex;align-items:baseline;justify-content:space-between;
-  margin-bottom:6px}
+.hero .head{flex:0 0 auto;display:flex;align-items:baseline;
+  justify-content:space-between;margin-bottom:18px}
+#slides{position:relative;flex:1;min-height:0}
 .counter{font-size:14px;letter-spacing:.2em;color:var(--mut);font-weight:600}
-.slide{position:absolute;inset:36px 40px 30px;opacity:0;transform:translateY(16px);
+.slide{position:absolute;inset:0;opacity:0;transform:translateY(16px);
   transition:opacity .45s ease,transform .45s ease;pointer-events:none;
   display:flex;flex-direction:column;justify-content:center}
 .slide.on{opacity:1;transform:none}
 
 /* rates board */
-.rates{display:grid;grid-template-columns:repeat(2,1fr);gap:24px;
-  margin:auto 0;align-content:center}
-.rate{background:rgba(255,255,255,.022);border:1px solid var(--line);
-  border-radius:14px;padding:24px 28px;display:flex;flex-direction:column;
-  justify-content:center}
+.rates{display:grid;grid-template-columns:repeat(2,1fr);grid-template-rows:1fr 1fr;
+  gap:26px;flex:1}
+.rate{position:relative;overflow:hidden;background:rgba(255,255,255,.022);
+  border:1px solid var(--line);border-radius:16px;padding:26px 30px 0;
+  display:flex;flex-direction:column;justify-content:flex-start}
+.rate .spark{position:absolute;left:0;right:0;bottom:0;height:44%;opacity:.95}
+.rate .row{display:flex;align-items:baseline;gap:16px;flex-wrap:wrap}
 .rate b{display:block;font-size:15px;letter-spacing:.2em;color:var(--mut);
   text-transform:uppercase;margin-bottom:6px}
-.rate .lv{font-size:62px;line-height:1;font-weight:700;letter-spacing:-.01em}
-.rate .mv{font-size:21px;font-weight:600;margin-top:8px}
-.rate .rd{font-size:14px;letter-spacing:.16em;text-transform:uppercase;
-  color:var(--mut);margin-top:6px}
+.rate .lv{font-size:66px;line-height:1;font-weight:700;letter-spacing:-.012em}
+.rate .mv{font-size:22px;font-weight:600}
+.rate .rd{font-size:13px;letter-spacing:.18em;text-transform:uppercase;
+  color:var(--mut);margin-top:9px}
 
 /* a story: the headline IS the picture */
 .story .src{align-self:flex-start;display:inline-block;font-size:13px;letter-spacing:.2em;
@@ -127,6 +146,53 @@ main{display:grid;grid-template-columns:660px 1fr;gap:52px;padding:34px 76px 0;
 .figure .big{font-size:150px;line-height:.92;font-weight:700;margin:14px 0 6px;
   letter-spacing:-.02em}
 .figure .sub{font-size:25px;color:var(--dim);line-height:1.34;max-width:22ch}
+
+
+/* ---- BREAKING. Exists only when something has just printed, so the clean
+   state stays clean. Slides under the masthead, holds ~50s, retracts. */
+.breaking{position:absolute;left:0;right:0;top:186px;z-index:9;
+  display:flex;align-items:center;gap:22px;padding:16px 76px;
+  background:linear-gradient(90deg,rgba(226,96,79,.22),rgba(226,96,79,.04) 62%,transparent);
+  border-top:1px solid rgba(226,96,79,.4);border-bottom:1px solid rgba(226,96,79,.4);
+  transform:translateY(calc(-100% - 190px));
+  transition:transform .5s cubic-bezier(.2,.8,.2,1)}
+.breaking.on{transform:none}
+.breaking .tagb{background:var(--hot);color:#0a0c10;font-size:14px;font-weight:700;
+  letter-spacing:.22em;text-transform:uppercase;padding:7px 15px;border-radius:4px;
+  animation:blink 1.4s steps(1,end) infinite}
+@keyframes blink{0%,60%{opacity:1}61%,100%{opacity:.45}}
+.breaking .txt{font-size:26px;font-weight:600}
+@keyframes flash{0%,100%{background:transparent}
+  18%{background:rgba(226,96,79,.26)}60%{background:rgba(226,96,79,.08)}}
+.tape li.flash{animation:flash 2.6s ease 2}
+
+/* the thing nobody else is covering */
+.radar{display:inline-block;margin-left:10px;font-size:11px;font-weight:700;
+  letter-spacing:.16em;text-transform:uppercase;color:var(--gold);
+  border:1px solid rgba(240,190,70,.42);border-radius:3px;padding:2px 7px;
+  vertical-align:middle}
+
+/* world + auctions */
+.world{display:flex;flex-direction:column;flex:1;justify-content:center}
+.world .wr{display:grid;grid-template-columns:1.25fr repeat(3,1fr);gap:14px;
+  align-items:baseline;padding:16px 4px;border-bottom:1px solid var(--line)}
+.world .wr.hd{border-bottom:2px solid var(--gold);padding-bottom:10px}
+.world .wr.hd span{font-size:13px;letter-spacing:.2em;text-transform:uppercase;
+  color:var(--mut);font-weight:600}
+.world .cty{font-size:25px;font-weight:600}
+.world .cty i{font-style:normal;color:var(--mut);font-size:15px;margin-left:8px;
+  letter-spacing:.14em}
+.world .val{font-size:34px;font-weight:700}
+.world .val u{display:block;text-decoration:none;font-size:11px;color:var(--mut);
+  letter-spacing:.14em;font-weight:600;margin-top:2px}
+.auc{display:flex;flex-direction:column;flex:1;justify-content:center}
+.auc .ar{display:grid;grid-template-columns:120px 1fr auto;gap:18px;
+  align-items:baseline;padding:13px 2px;border-bottom:1px solid var(--line)}
+.auc .ad{font-size:19px;color:var(--gold);font-weight:600}
+.auc .at{font-size:23px}
+.auc .aa{font-size:30px;font-weight:700}
+.auc .tot{margin-top:18px;font-size:19px;color:var(--dim)}
+.auc .tot b{color:var(--ink);font-size:30px;font-weight:700}
 
 /* ----------------------------------------------------------------- ticker */
 footer{display:flex;align-items:center;gap:0;border-top:1px solid var(--line);
@@ -164,11 +230,15 @@ footer{display:flex;align-items:center;gap:0;border-top:1px solid var(--line);
     </div>
   </header>
 
+  <div class="breaking" id="breaking"><span class="tagb">Breaking</span>
+    <span class="txt" id="breaking-txt"></span></div>
+
   <main>
     <section class="tape">
       <div class="head"><h2 class="label">On the tape today</h2>
         <span class="mutlabel" id="tape-note">Eastern time</span></div>
       <ol id="tape"></ol>
+      <div class="pager" id="pager"></div>
     </section>
 
     <section class="hero">
@@ -181,7 +251,6 @@ footer{display:flex;align-items:center;gap:0;border-top:1px solid var(--line);
   <footer>
     <div class="tag"><b id="tag">Markets</b></div>
     <div class="rail"><div class="run" id="run"></div></div>
-    <div class="stamp" id="stamp">—</div>
   </footer>
 </div>
 
@@ -215,17 +284,165 @@ function ago(iso){if(!iso)return '—';const m=(Date.now()-new Date(iso).getTime
  return Math.round(m/60)+' h ago';}
 const esc=s=>String(s??'').replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));
 
+
+/* ---- reading a release: did it beat or miss, and does that help the currency?
+   ⛔ "Beat" is not always "good". Higher jobless claims is a WORSE number, so
+   the sign is inverted for those. Where we cannot tell, nothing is coloured --
+   an honest blank beats a confident wrong colour. */
+const INVERSE=/claims|unemployment rate|jobless|deficit/i;
+function num(s){
+  if(s==null)return null;
+  const str=String(s).trim();
+  const m=str.replace(/[,%$]/g,'').match(/-?\d+(\.\d+)?/);
+  if(!m)return null;
+  let v=parseFloat(m[0]);
+  if(/k/i.test(str))v*=1e3; else if(/m/i.test(str))v*=1e6;
+  else if(/b/i.test(str))v*=1e9; else if(/t/i.test(str))v*=1e12;
+  return v;
+}
+function verdict(r){
+  const a=num(r.actual), c=num(r.cons);
+  if(a==null||c==null)return 0;
+  if(Math.abs(a-c)<1e-9)return 0;
+  const better = INVERSE.test(r.title) ? (a<c) : (a>c);
+  return better?1:-1;
+}
+
+/* ---- how far off consensus, and is anyone covering it? --------------------
+   THE DIFFERENTIATOR, MADE MECHANICAL. Everyone covers a HIGH-impact release.
+   A LOW-impact one that missed badly is exactly the thing being drowned out --
+   which is this desk's whole editorial line. Big surprise + low billing =
+   UNDER THE RADAR, and the page says so. */
+function surprise(r){
+  const a=num(r.actual), c=num(r.cons);
+  if(a==null||c==null)return 0;
+  return Math.abs(a-c)/Math.max(Math.abs(c),0.15);
+}
+function underRadar(r){
+  const imp=(r.impact||'').toLowerCase();
+  return !!r.actual && surprise(r)>=0.5 && !imp.startsWith('high');
+}
+
+/* ---- BREAKING: a number that was not there last time we looked ---------- */
+let SEEN=null, breakTimer=null, JUST=null;
+function breaking(rows){
+  const now=new Set(rows.filter(r=>r.actual).map(r=>r.time+'|'+r.title));
+  if(SEEN===null){ SEEN=now; return []; }        /* first paint is not news */
+  const fresh=rows.filter(r=>r.actual && !SEEN.has(r.time+'|'+r.title));
+  SEEN=now; return fresh;
+}
+function announce(r){
+  const el=document.getElementById('breaking');
+  const v=verdict(r), word=v>0?'above':(v<0?'below':'in line with');
+  document.getElementById('breaking-txt').innerHTML =
+    '<b>'+esc(r.title)+'</b> '+esc(r.actual)+' \u00b7 '+word+' consensus'
+    +(r.cons?(' of '+esc(r.cons)):'');
+  el.classList.add('on');
+  document.getElementById('stage').classList.add('alert');
+  clearTimeout(breakTimer);
+  breakTimer=setTimeout(function(){ el.classList.remove('on');
+    document.getElementById('stage').classList.remove('alert'); }, 50000);
+  /* and put it on the big screen -- it is what she will talk about next */
+  JUST=r;
+  SLIDES=buildSlides(window.__desk);
+  document.getElementById('slides').innerHTML=SLIDES.map(function(s){return s.html;}).join('');
+  desk.cue(0);
+  setTimeout(function(){ desk.auto(9000); }, 30000);
+}
+
+const PER=7;
+let TAPE=[], NEXT=-1, page=0, PAGES=1, pageTimer=null, FLASH=new Set();
+
+function drawTape(nowET){
+  const slice=TAPE.slice(page*PER,(page+1)*PER);
+  document.getElementById('tape').innerHTML = slice.map((r)=>{
+    const i=TAPE.indexOf(r);
+    const has=!!r.actual, past=r.time<=nowET;
+    let cl=past?'done':''; if(i===NEXT)cl='next';
+    const v=has?verdict(r):0;
+    const vc=v>0?'beat':(v<0?'miss':'');
+    const tag=v>0?'above cons.':(v<0?'below cons.':'');
+    const imp=(r.impact||'').toLowerCase().startsWith('high')?'high'
+             :(r.impact||'').toLowerCase().startsWith('med')?'medi':'';
+    if(FLASH.has(r.time+'|'+r.title)) cl+=' flash';
+    const radar=underRadar(r)?'<span class="radar">under the radar</span>':'';
+    return `<li class="${cl}"><i class="imp ${imp}"></i>
+      <span class="t num">${esc(r.time)}</span>
+      <span class="n">${esc(r.title)}${radar}<i>${esc(r.ccy)}${r.cons?' · cons. '+esc(r.cons):''}${r.prev?' · prev. '+esc(r.prev):''}</i></span>
+      <span class="v num ${vc}">${has?esc(r.actual):''}${tag?`<small>${tag}</small>`:''}</span></li>`;
+  }).join('') || '<li><span class="n">Nothing scheduled today.</span></li>';
+  document.getElementById('pager').innerHTML =
+    Array.from({length:PAGES},(_,k)=>`<i class="${k===page?'on':''}"></i>`).join('')
+    + `<em>${TAPE.filter(r=>r.actual).length} of ${TAPE.length} in</em>`;
+}
+
 let SLIDES=[], at=0, timer=null;
+
+/* ---- the day's path, drawn. The level says where it is; the line says how it
+   got there, and the table already stores every 5-minute reading. */
+function spark(pts, dayBps){
+  if(!pts || pts.length < 3) return '';
+  const w=420, h=86, lo=Math.min(...pts), hi=Math.max(...pts), span=(hi-lo)||1e-6;
+  const x=i=>(i/(pts.length-1))*w;
+  const y=v=>h-4-((v-lo)/span)*(h-14);
+  const line=pts.map((v,i)=>`${i?'L':'M'}${x(i).toFixed(1)},${y(v).toFixed(1)}`).join(' ');
+  const area=`${line} L${w},${h} L0,${h} Z`;
+  const c=dayBps>0?'var(--cool)':(dayBps<0?'var(--hot)':'var(--mut)');
+  const id='g'+Math.random().toString(36).slice(2,8);
+  return `<svg class="spark" viewBox="0 0 ${w} ${h}" preserveAspectRatio="none">
+    <defs><linearGradient id="${id}" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="${c}" stop-opacity=".26"/>
+      <stop offset="1" stop-color="${c}" stop-opacity="0"/></linearGradient></defs>
+    <path d="${area}" fill="url(#${id})"/>
+    <path d="${line}" fill="none" stroke="${c}" stroke-width="2.4"
+      stroke-linejoin="round" stroke-linecap="round" vector-effect="non-scaling-stroke"/>
+  </svg>`;
+}
 
 function buildSlides(d){
   const out=[];
+  if(JUST){
+    const v=verdict(JUST), c=v>0?'beat':(v<0?'miss':'');
+    out.push({label:'Just printed', html:'<div class="slide figure">'
+      +'<div class="kick">'+esc(JUST.time)+' Eastern \u00b7 '+esc(JUST.ccy)+'</div>'
+      +'<div class="big num display '+c+'">'+esc(JUST.actual)+'</div>'
+      +'<div class="sub">'+esc(JUST.title)
+      +(JUST.cons?('<br><span style="color:var(--mut);font-size:19px">consensus '+esc(JUST.cons)
+        +(JUST.prev?(' \u00b7 previous '+esc(JUST.prev)):'')+'</span>'):'')
+      +'</div></div>'});
+  }
   if(d.rates.rows.length){
     out.push({label:'Rates', html:`<div class="slide">
       <div class="rates">${d.rates.rows.map(r=>`<div class="rate">
         <b>${esc(r.series)} Treasury</b>
-        <div class="lv num display">${r.level==null?'—':r.level.toFixed(3)+'%'}</div>
-        <div class="mv num ${cls(r.d_day_bps)}">${r.d_day_bps==null?'':sign(r.d_day_bps)+' bp today'}</div>
-        <div class="rd">${esc(r.lean||'')}</div></div>`).join('')}</div></div>`});
+        <div class="row"><span class="lv num display">${r.level==null?'—':r.level.toFixed(3)+'%'}</span>
+          <span class="mv num ${cls(r.d_day_bps)}">${r.d_day_bps==null?'':sign(r.d_day_bps)+' bp today'}</span></div>
+        <div class="rd">${esc(r.lean||'')} · today</div>
+        ${spark(r.spark, r.d_day_bps)}</div>`).join('')}</div></div>`});
+  }
+  if((d.world||[]).length){
+    const cell=function(o){ return (o&&o.v) ? (esc(o.v)+'<u>'+String(o.date||'').slice(5)+'</u>')
+      : '<span style="color:var(--mut)">\u2014</span>'; };
+    out.push({label:'The world', html:'<div class="slide world">'
+      +'<div class="wr hd"><span></span><span>Policy rate</span><span>Inflation</span><span>Unemployment</span></div>'
+      +d.world.map(function(w){
+        const c=w.cells||{}, inf=c['Inflation'], un=c['Unemployment'];
+        return '<div class="wr"><span class="cty">'+esc(w.name)+'<i>'+esc(w.ccy)+'</i></span>'
+          +'<span class="val num">'+(w.policy==null?'\u2014':w.policy.toFixed(2)+'%')
+            +'<u>'+String(w.policy_since||'').slice(5)+'</u></span>'
+          +'<span class="val num">'+cell(inf)+'</span>'
+          +'<span class="val num">'+cell(un)+'</span></div>'; }).join('')
+      +'</div>'});
+  }
+  const au=d.auctions||{};
+  if((au.rows||[]).length){
+    out.push({label:'What the Treasury sells next', html:'<div class="slide auc">'
+      +au.rows.map(function(a){
+        return '<div class="ar"><span class="ad num">'+esc(a.date.slice(5))+'</span>'
+          +'<span class="at">'+esc(a.type)+' \u00b7 '+esc(a.term)+'</span>'
+          +'<span class="aa num">'+(a.amount_bn==null?'\u2014':'$'+a.amount_bn+'bn')+'</span></div>'; }).join('')
+      +(au.total_bn?('<div class="tot">Announced so far: <b>$'+au.total_bn+'bn</b></div>'):'')
+      +'</div>'});
   }
   (d.stories||[]).slice(0,4).forEach(s=>{
     out.push({label:'Running story', html:`<div class="slide story">
@@ -270,17 +487,21 @@ async function paint(){
      to land is highlighted, because that is what she will talk about next */
   panel('tape', ()=>{
   const rows=(d.tape||[]).filter(r=>r.time);
+  TAPE=rows;
+  const fresh=breaking(rows);
+  FLASH=new Set(fresh.map(function(r){return r.time+'|'+r.title;}));
+  if(fresh.length){ page=Math.floor(rows.indexOf(fresh[0])/PER); announce(fresh[0]); }
   const nowET=new Date().toLocaleTimeString('en-GB',
     {timeZone:'America/New_York',hour12:false}).slice(0,5);
-  const nextIdx=rows.findIndex(r=>r.time>nowET);   /* by the clock, not by data */
-  document.getElementById('tape').innerHTML=rows.slice(0,9).map((r,i)=>{
-    const has=!!r.actual, past=r.time<=nowET;
-    let cl=past?'done':'';
-    if(i===nextIdx)cl='next';
-    return `<li class="${cl}"><span class="t num">${esc(r.time)}</span>
-      <span class="n">${esc(r.title)}<i>${esc(r.ccy)}${r.cons?' · cons. '+esc(r.cons):''}${r.prev?' · prev. '+esc(r.prev):''}</i></span>
-      <span class="v num">${has?esc(r.actual):''}</span></li>`;
-  }).join('') || '<li><span class="n">Nothing scheduled today.</span></li>'; });
+  NEXT=rows.findIndex(r=>r.time>nowET);
+  /* open on the page that holds what is coming next, not on 02:00 */
+  if(!fresh.length) page = NEXT>=0 ? Math.floor(NEXT/PER) : 0;
+  PAGES = Math.max(1, Math.ceil(rows.length/PER));
+  drawTape(nowET);
+  clearInterval(pageTimer); pageTimer=setInterval(()=>{
+    page=(page+1)%PAGES; drawTape(nowET);
+  }, 8500);
+  });
 
   panel('hero', ()=>{
   SLIDES=buildSlides(d);
@@ -297,9 +518,8 @@ async function paint(){
   })(); });
 
   panel('stamps', ()=>{
-  document.getElementById('onair').textContent = 'Updated '+ago(d.generated_utc);
-  document.getElementById('stamp').textContent =
-    'Snapshot · market data '+ago(d.strip.as_of);
+  document.getElementById('onair').textContent =
+    'Updated '+ago(d.generated_utc)+' · snapshot';
   document.getElementById('tape-note').textContent =
     'Eastern time · cons. and prev. from our calendar'; });
 }
