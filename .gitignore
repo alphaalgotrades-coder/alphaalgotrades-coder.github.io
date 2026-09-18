@@ -1,0 +1,7 @@
+# backups never belong on the public site -- `deploy()` runs `git add -A`,
+# so anything left in this folder ships. 2026-09-18: a .bak of index.html
+# was published by accident and served at the live domain.
+*.bak
+*.bak_*
+*.orig
+*~
