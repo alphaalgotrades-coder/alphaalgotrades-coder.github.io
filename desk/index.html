@@ -296,8 +296,8 @@ function num(s){
   const m=str.replace(/[,%$]/g,'').match(/-?\d+(\.\d+)?/);
   if(!m)return null;
   let v=parseFloat(m[0]);
-  if(/k/i.test(str))v*=1e3; else if(/m/i.test(str))v*=1e6;
-  else if(/b/i.test(str))v*=1e9; else if(/t/i.test(str))v*=1e12;
+  if(/k\b/i.test(str))v*=1e3; else if(/m\b/i.test(str))v*=1e6;
+  else if(/b\b/i.test(str))v*=1e9; else if(/t\b/i.test(str))v*=1e12;
   return v;
 }
 function verdict(r){
@@ -330,6 +330,25 @@ function breaking(rows){
   if(SEEN===null){ SEEN=now; return []; }        /* first paint is not news */
   const fresh=rows.filter(r=>r.actual && !SEEN.has(r.time+'|'+r.title));
   SEEN=now; return fresh;
+}
+let RATED=null;
+function breakingRatings(rows){
+  /* by ID: the agency serves an action for days, so matching on the headline
+     would relight the bar on every refresh, forever. */
+  const now=new Set((rows||[]).map(function(r){return String(r.id);}));
+  if(RATED===null){ RATED=now; return []; }      /* first paint is not news */
+  const fresh=(rows||[]).filter(function(r){ return !RATED.has(String(r.id)); });
+  RATED=now; return fresh;
+}
+function announceRating(r){
+  const el=document.getElementById('breaking');
+  document.getElementById('breaking-txt').innerHTML =
+    '<b>'+esc(r.title)+'</b>';
+  el.classList.add('on');
+  document.getElementById('stage').classList.add('alert');
+  clearTimeout(breakTimer);
+  breakTimer=setTimeout(function(){ el.classList.remove('on');
+    document.getElementById('stage').classList.remove('alert'); }, 50000);
 }
 function announce(r){
   const el=document.getElementById('breaking');
@@ -434,6 +453,35 @@ function buildSlides(d){
           +'<span class="val num">'+cell(un)+'</span></div>'; }).join('')
       +'</div>'});
   }
+  const eu=(d.europe||{}).rows||[];
+  if(eu.length){
+    out.push({label:'Europe pays', html:'<div class="slide world">'
+      +'<div class="wr hd"><span></span><span>10-year</span><span>On the day</span><span>Over Germany</span></div>'
+      +eu.map(function(r){
+        const hot = r.spread_bp!=null && r.spread_bp>=100;
+        return '<div class="wr"><span class="cty">'+esc(r.name)+'<i>10Y</i></span>'
+          +'<span class="val num">'+(r.level==null?'\u2014':r.level.toFixed(3)+'%')+'</span>'
+          +'<span class="val num '+cls(r.d_day_bps)+'">'
+            +(r.d_day_bps==null?'\u2014':sign(r.d_day_bps)+' bp')+'</span>'
+          +'<span class="val num'+(hot?' miss':'')+'">'
+            +(r.spread_bp==null?'\u2014':r.spread_bp.toFixed(0)+' bp')+'</span></div>'; }).join('')
+      +'<div class="tot" style="font-size:19px">Germany is the risk-free leg \u00b7 '
+      +'the gap is what the market charges for the country</div>'
+      +'</div>'});
+  }
+  const rt=d.ratings||[];
+  if(rt.length){
+    out.push({label:'Rating actions', html:'<div class="slide auc">'
+      +rt.map(function(r){
+        const down = r.action==='downgrade';
+        return '<div class="ar"><span class="ad num">'+esc(String(r.date||'').slice(5))+'</span>'
+          +'<span class="at">'+esc(r.title)+'</span>'
+          +'<span class="aa num '+(down?'miss':'beat')+'">'
+            +(down?'DOWNGRADE':'UPGRADE')+'</span></div>'; }).join('')
+      +'<div class="tot" style="font-size:19px">'+esc(rt[0].agency||'')
+      +' \u00b7 sovereign actions only</div>'
+      +'</div>'});
+  }
   const au=d.auctions||{};
   if((au.rows||[]).length){
     out.push({label:'What the Treasury sells next', html:'<div class="slide auc">'
@@ -501,6 +549,12 @@ async function paint(){
   clearInterval(pageTimer); pageTimer=setInterval(()=>{
     page=(page+1)%PAGES; drawTape(nowET);
   }, 8500);
+  });
+
+  /* a country being downgraded outranks a data surprise on the bar */
+  panel('ratings', ()=>{
+    const hot=breakingRatings(d.ratings||[]).filter(r=>r.action==='downgrade');
+    if(hot.length) announceRating(hot[0]);
   });
 
   panel('hero', ()=>{
