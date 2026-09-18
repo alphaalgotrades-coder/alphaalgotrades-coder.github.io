@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-18T22:25:02+00:00",
+ "generated_utc": "2026-09-18T22:26:14+00:00",
  "date_et": "2026-09-18",
  "build": "e96822bfe5",
  "tape": [
@@ -38,6 +38,15 @@
    "cons": "30.7B",
    "prev": "35.1B",
    "actual": "27.6B"
+  },
+  {
+   "time": "05:02",
+   "ccy": "CNY",
+   "impact": "Low",
+   "title": "Foreign Direct Investment ytd/y",
+   "cons": "",
+   "prev": "-6.2%",
+   "actual": "-5.3%"
   },
   {
    "time": "06:15",
@@ -381,7 +390,7 @@
   ],
   "as_of": "2026-09-18T22:24:05.423008+00:00",
   "tone": "risk-on",
-  "age_min": 0.9462392666666666
+  "age_min": 2.14849755
  },
  "stories": [
   {
