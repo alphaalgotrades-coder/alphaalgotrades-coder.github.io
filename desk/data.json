@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-18T17:03:46+00:00",
+ "generated_utc": "2026-09-18T18:03:46+00:00",
  "date_et": "2026-09-18",
  "tape": [
   {
@@ -120,29 +120,29 @@
     "lean": "hawkish",
     "source": "YAHOO_TSY_FUT_ZT",
     "latency": "after-hours-futures-proxy",
-    "snapshot_ts": "2026-09-18T16:50:00+00:00",
+    "snapshot_ts": "2026-09-18T17:50:00+00:00",
     "prior_day": "2026-09-16",
     "prior_day_close": 4.74
    },
    {
     "series": "5Y",
-    "level": 4.855,
-    "d_day_bps": 5.4,
+    "level": 4.857,
+    "d_day_bps": 5.6,
     "lean": "hawkish",
     "source": "YAHOO_TSY_FUT_ZF",
     "latency": "after-hours-futures-proxy",
-    "snapshot_ts": "2026-09-18T16:50:00+00:00",
+    "snapshot_ts": "2026-09-18T17:49:00+00:00",
     "prior_day": "2026-09-16",
     "prior_day_close": 4.801
    },
    {
     "series": "10Y",
-    "level": 4.997,
-    "d_day_bps": 5.0,
+    "level": 4.999,
+    "d_day_bps": 5.2,
     "lean": "hawkish",
     "source": "YAHOO_TSY_FUT_ZN",
     "latency": "after-hours-futures-proxy",
-    "snapshot_ts": "2026-09-18T16:50:00+00:00",
+    "snapshot_ts": "2026-09-18T17:50:00+00:00",
     "prior_day": "2026-09-16",
     "prior_day_close": 4.947
    },
@@ -153,12 +153,12 @@
     "lean": "hawkish",
     "source": "YAHOO_TSY_FUT_ZB",
     "latency": "after-hours-futures-proxy",
-    "snapshot_ts": "2026-09-18T16:49:00+00:00",
+    "snapshot_ts": "2026-09-18T17:49:00+00:00",
     "prior_day": "2026-09-16",
     "prior_day_close": 5.296
    }
   ],
-  "as_of": "2026-09-18T16:50:00+00:00",
+  "as_of": "2026-09-18T17:50:00+00:00",
   "note": "after-hours-futures-proxy"
  },
  "strip": {
@@ -172,85 +172,85 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 96.11,
-    "pct": -1.15
+    "price": 96.02,
+    "pct": -1.24
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4418.7,
-    "pct": 0.43
+    "price": 4432.5,
+    "pct": 0.75
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 100.293,
-    "pct": 0.04
+    "price": 100.226,
+    "pct": -0.02
    },
    {
     "sym": "SPY",
     "name": "S&P 500 ETF",
-    "price": 759.3,
-    "pct": -0.19
+    "price": 759.925,
+    "pct": -0.1
    },
    {
     "sym": "QQQ",
     "name": "Nasdaq 100 ETF",
-    "price": 716.735,
-    "pct": -0.03
+    "price": 717.555,
+    "pct": 0.09
    },
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 15.46,
-    "pct": -12.7
+    "price": 15.26,
+    "pct": -13.83
    }
   ],
-  "as_of": "2026-09-18T17:03:05.012030+00:00",
+  "as_of": "2026-09-18T18:03:05.890040+00:00",
   "tone": "risk-on",
-  "age_min": 0.6836852166666667
+  "age_min": 0.6773541000000001
  },
  "stories": [
   {
+   "topic": "Saudi / Gulf supply",
+   "title": "Saudi Arabia Cuts Europe Off From October Crude as Gulf Exports Surge - oilprice.com",
+   "source": "oilprice.com",
+   "published": "Fri, 18 Sep 2026 17:30:00 GMT",
+   "read": "unclear"
+  },
+  {
    "topic": "Iran / Hormuz",
-   "title": "An Iranian port city feels the pain of Washington\u2019s tightening economic measures - apnews.com",
-   "source": "apnews.com",
-   "published": "Mon, 07 Sep 2026 07:00:00 GMT",
+   "title": "What Can Be Done About Iran\u2019s Closure of Hormuz? - Lawfare",
+   "source": "Lawfare",
+   "published": "Fri, 18 Sep 2026 17:20:42 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Russian journalist Roman Badanin: 'For Putin, the war in Ukraine is simply a means to stay in power' - Le Monde.fr",
+   "source": "Le Monde.fr",
+   "published": "Fri, 18 Sep 2026 17:00:05 GMT",
    "read": "unclear"
   },
   {
    "topic": "Saudi / Gulf supply",
-   "title": "Saudi pipeline attack prompts Aramco to halt some Europe supplies - Latest news from Azerbaijan",
-   "source": "Latest news from Azerbaijan",
-   "published": "Fri, 18 Sep 2026 16:18:45 GMT",
+   "title": "Saudi Aramco halts crude supplies to European refiners after attack - rediff.com",
+   "source": "rediff.com",
+   "published": "Fri, 18 Sep 2026 16:54:25 GMT",
    "read": "escalation"
   },
   {
    "topic": "Saudi / Gulf supply",
-   "title": "Aramco Halts October Crude Deliveries to Some European Refiners After Pipeline Attack - Egypt Oil &amp; Gas",
-   "source": "Egypt Oil &amp; Gas",
-   "published": "Fri, 18 Sep 2026 16:06:12 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran claims it struck an oil tanker in the Strait of Hormuz, and other Mideast developments - AP News",
-   "source": "AP News",
-   "published": "Fri, 18 Sep 2026 15:47:00 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Taiwan / China",
-   "title": "George Will sounds alarm on 'cascading' military crisis - AlterNet",
-   "source": "AlterNet",
-   "published": "Fri, 18 Sep 2026 15:21:00 GMT",
+   "title": "Oil Retreat Slows on Saudi Supply Concerns - WSJ",
+   "source": "WSJ",
+   "published": "Fri, 18 Sep 2026 16:52:00 GMT",
    "read": "unclear"
   },
   {
    "topic": "Saudi / Gulf supply",
-   "title": "Aramco halts October crude deliveries to some European refiners after pipeline attack, Bloomberg reports - Reuters",
-   "source": "Reuters",
-   "published": "Fri, 18 Sep 2026 15:13:44 GMT",
+   "title": "Saudi oil disruption pushes Europe to seek alternatives as G7 weighs reserves - TRT World",
+   "source": "TRT World",
+   "published": "Fri, 18 Sep 2026 16:49:30 GMT",
    "read": "escalation"
   }
  ],

@@ -3,99 +3,335 @@
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>The Desk · AlphaAlgoTrader</title>
 <meta name="description" content="Today's economic releases, rates and the running stories — from primary sources, with the age of every reading shown.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 <style>
- :root{--bg:#0c0e12;--card:#12151b;--line:#20242c;--ink:#f5f5f5;--dim:#c4c6cc;
-       --mut:#7e8492;--gold:#f0be46;--hot:#e26a5a;--cool:#3fbf95}
- *{box-sizing:border-box} html,body{margin:0;background:var(--bg);color:var(--ink);
-   font:16px/1.5 "Inter",system-ui,-apple-system,Segoe UI,Roboto,sans-serif}
- .wrap{max-width:1080px;margin:0 auto;padding:24px 20px 64px}
- header{display:flex;flex-wrap:wrap;gap:16px;align-items:baseline;justify-content:space-between;
-   border-bottom:1px solid var(--line);padding-bottom:16px}
- h1{font-size:22px;letter-spacing:.14em;text-transform:uppercase;color:var(--gold);margin:0}
- .clocks{display:flex;gap:22px;font-variant-numeric:tabular-nums}
- .clock b{display:block;font-size:11px;letter-spacing:.16em;color:var(--mut);
-   text-transform:uppercase;font-weight:600}
- .clock span{font-size:20px}
- .strip{display:flex;gap:10px;overflow-x:auto;padding:14px 0;border-bottom:1px solid var(--line)}
- .tick{flex:0 0 auto;background:var(--card);border:1px solid var(--line);border-radius:10px;
-   padding:9px 13px;min-width:132px}
- .tick b{display:block;font-size:10px;letter-spacing:.12em;color:var(--mut);text-transform:uppercase}
- .tick .p{font-size:17px;font-variant-numeric:tabular-nums}
- .up{color:var(--cool)} .dn{color:var(--hot)}
- h2{font-size:12px;letter-spacing:.18em;text-transform:uppercase;color:var(--gold);
-   margin:30px 0 10px}
- table{width:100%;border-collapse:collapse;font-variant-numeric:tabular-nums}
- th{text-align:left;font-size:10px;letter-spacing:.13em;text-transform:uppercase;
-   color:var(--mut);font-weight:600;padding:6px 8px;border-bottom:1px solid var(--line)}
- td{padding:8px;border-bottom:1px solid var(--line);font-size:14px}
- td.t{color:var(--mut);white-space:nowrap} td.a{font-weight:700}
- tr.hi td{background:rgba(240,190,70,.05)}
- .story{padding:9px 0;border-bottom:1px solid var(--line)}
- .story b{color:var(--mut);font-size:10px;letter-spacing:.12em;text-transform:uppercase}
- .story p{margin:3px 0 0;font-size:14px;color:var(--dim)}
- .age{font-size:11px;color:var(--mut);margin-left:8px;font-weight:400;letter-spacing:.04em}
- footer{margin-top:34px;padding-top:16px;border-top:1px solid var(--line);
-   font-size:12px;color:var(--mut)}
- @media(max-width:620px){.clock span{font-size:17px}h1{font-size:18px}td{font-size:13px}}
-</style></head><body><div class="wrap">
-<header>
- <h1>The Desk</h1>
- <div class="clocks">
-  <div class="clock"><b>New York</b><span id="ny">--:--:--</span></div>
-  <div class="clock"><b>London</b><span id="ld">--:--:--</span></div>
- </div>
-</header>
-<div class="strip" id="strip"></div>
-<h2>On the tape today <span class="age" id="tape-age"></span></h2>
-<table id="tape"><thead><tr><th>ET</th><th></th><th>Release</th><th>Cons.</th>
- <th>Prev.</th><th>Actual</th></tr></thead><tbody></tbody></table>
-<h2>Rates <span class="age" id="rates-age"></span></h2>
-<table id="rates"><thead><tr><th>Tenor</th><th>Level</th><th>Day</th><th>Read</th>
- <th>Source</th></tr></thead><tbody></tbody></table>
-<h2>Running stories</h2>
-<div id="stories"></div>
-<footer id="foot"></footer>
+/* ============================================================================
+   THE DESK — a broadcast stage, not a web page.
+   The narrator speaks OVER this, so: oversized type as structure, one idea
+   dominant at a time, and motion that tells you something changed.
+   Geometry is a fixed 16:9 STAGE scaled to the viewport, so the same markup
+   is a readable page on a phone and a 1920x1080 backdrop for the encoder.
+   Title-safe: nothing that must be read sits within 5% of any edge.
+   ========================================================================= */
+:root{
+  --bg:#080a0e; --panel:#0f1218; --line:#1d222b; --ink:#f7f8fa;
+  --dim:#a8adb8; --mut:#6b7280; --gold:#f0be46; --hot:#e2604f; --cool:#31c08a;
+  --stage-w:1920; --stage-h:1080;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{height:100%;background:#000;overflow:hidden;
+  font-family:"Inter",system-ui,-apple-system,Segoe UI,Roboto,sans-serif;
+  color:var(--ink);-webkit-font-smoothing:antialiased}
+.display{font-family:"Barlow Condensed","Inter",sans-serif;font-weight:700;
+  letter-spacing:.005em}
+.label{font-size:15px;font-weight:600;letter-spacing:.22em;text-transform:uppercase;
+  color:var(--gold)}
+.mutlabel{font-size:13px;font-weight:600;letter-spacing:.2em;text-transform:uppercase;
+  color:var(--mut)}
+.num{font-variant-numeric:tabular-nums lining-nums}
+.up{color:var(--cool)} .dn{color:var(--hot)}
+
+/* the stage: fixed pixel geometry, scaled to fit whatever it is shown on */
+#stage{position:absolute;top:50%;left:50%;width:1920px;height:1080px;
+  transform-origin:center center;
+  background:
+    radial-gradient(1200px 700px at 78% 8%, rgba(46,86,110,.30), transparent 62%),
+    radial-gradient(900px 620px at 4% 96%, rgba(240,190,70,.07), transparent 60%),
+    var(--bg);
+  display:grid;grid-template-rows:186px 1fr 92px;
+  grid-template-columns:1fr;overflow:hidden}
+
+/* ---------------------------------------------------------------- masthead */
+header{display:flex;align-items:flex-start;justify-content:space-between;
+  padding:52px 76px 0}
+.brandmark{display:flex;align-items:center;gap:14px}
+.dot{width:13px;height:13px;border-radius:50%;background:var(--gold)}
+.brandmark span{font-size:16px;font-weight:700;letter-spacing:.26em;
+  text-transform:uppercase;color:var(--dim)}
+h1{font-size:76px;line-height:.88;letter-spacing:.012em;text-transform:uppercase;
+  margin-top:8px}
+h1 em{font-style:normal;color:var(--gold)}
+.datestamp{margin-top:10px;font-size:17px;letter-spacing:.2em;text-transform:uppercase;
+  color:var(--mut);font-weight:600}
+.right{display:flex;align-items:center;gap:44px}
+.clock b{display:block;font-size:12px;letter-spacing:.24em;color:var(--mut);
+  text-transform:uppercase;margin-bottom:3px}
+.clock span{font-size:40px;line-height:1;font-weight:600}
+.onair{display:flex;align-items:center;gap:11px;border:1px solid var(--line);
+  border-radius:999px;padding:10px 20px;background:rgba(226,96,79,.07)}
+.pulse{width:11px;height:11px;border-radius:50%;background:var(--hot);
+  animation:pulse 2s ease-in-out infinite}
+@keyframes pulse{0%,100%{opacity:1;transform:scale(1)}50%{opacity:.35;transform:scale(.78)}}
+.onair b{font-size:13px;letter-spacing:.2em;text-transform:uppercase;color:var(--dim)}
+
+/* ------------------------------------------------------------------- body */
+main{display:grid;grid-template-columns:660px 1fr;gap:52px;padding:34px 76px 0;
+  min-height:0}
+
+/* the tape — the running order, left, always visible */
+.tape{display:flex;flex-direction:column;min-height:0}
+.tape .head{padding-bottom:12px;border-bottom:2px solid var(--gold)}
+.tape .head .mutlabel{display:block;margin-top:5px;font-size:12px;letter-spacing:.14em}
+.tape ol{list-style:none;overflow:hidden;margin-top:6px}
+.tape li{display:grid;grid-template-columns:86px 1fr auto;gap:18px;align-items:baseline;
+  padding:13px 0;border-bottom:1px solid var(--line)}
+.tape .t{font-size:22px;font-weight:600;color:var(--gold);letter-spacing:.02em}
+.tape .n{font-size:22px;color:var(--ink);line-height:1.22}
+.tape .n i{display:block;font-style:normal;font-size:15px;color:var(--mut);
+  margin-top:3px;letter-spacing:.04em}
+.tape .v{font-size:30px;font-weight:700;letter-spacing:.01em}
+.tape li.done .n{color:var(--dim)}
+.tape li.next{background:linear-gradient(90deg,rgba(240,190,70,.10),transparent 74%);
+  box-shadow:inset 3px 0 0 var(--gold)}
+.tape li.next .n{color:#fff}
+
+/* the hero — ONE idea at a time, because she is talking about one thing */
+.hero{position:relative;display:flex;flex-direction:column;min-height:0;
+  background:linear-gradient(160deg,var(--panel),rgba(15,18,24,.35));
+  border:1px solid var(--line);border-radius:18px;padding:36px 40px 30px;
+  overflow:hidden}
+.hero .head{display:flex;align-items:baseline;justify-content:space-between;
+  margin-bottom:6px}
+.counter{font-size:14px;letter-spacing:.2em;color:var(--mut);font-weight:600}
+.slide{position:absolute;inset:36px 40px 30px;opacity:0;transform:translateY(16px);
+  transition:opacity .45s ease,transform .45s ease;pointer-events:none;
+  display:flex;flex-direction:column;justify-content:center}
+.slide.on{opacity:1;transform:none}
+
+/* rates board */
+.rates{display:grid;grid-template-columns:repeat(2,1fr);gap:24px;
+  margin:auto 0;align-content:center}
+.rate{background:rgba(255,255,255,.022);border:1px solid var(--line);
+  border-radius:14px;padding:24px 28px;display:flex;flex-direction:column;
+  justify-content:center}
+.rate b{display:block;font-size:15px;letter-spacing:.2em;color:var(--mut);
+  text-transform:uppercase;margin-bottom:6px}
+.rate .lv{font-size:62px;line-height:1;font-weight:700;letter-spacing:-.01em}
+.rate .mv{font-size:21px;font-weight:600;margin-top:8px}
+.rate .rd{font-size:14px;letter-spacing:.16em;text-transform:uppercase;
+  color:var(--mut);margin-top:6px}
+
+/* a story: the headline IS the picture */
+.story .src{align-self:flex-start;display:inline-block;font-size:13px;letter-spacing:.2em;
+  text-transform:uppercase;color:var(--bg);background:var(--gold);
+  padding:5px 12px;border-radius:4px;font-weight:700;margin-bottom:22px}
+.story h3{font-size:58px;line-height:1.06;font-weight:700;letter-spacing:.004em}
+.story .topic{margin-top:22px;font-size:17px;letter-spacing:.18em;
+  text-transform:uppercase;color:var(--mut);font-weight:600}
+
+/* a single big number, when that is the whole point */
+.figure .kick{font-size:19px;letter-spacing:.2em;text-transform:uppercase;
+  color:var(--gold);font-weight:600}
+.figure .big{font-size:150px;line-height:.92;font-weight:700;margin:14px 0 6px;
+  letter-spacing:-.02em}
+.figure .sub{font-size:25px;color:var(--dim);line-height:1.34;max-width:22ch}
+
+/* ----------------------------------------------------------------- ticker */
+footer{display:flex;align-items:center;gap:0;border-top:1px solid var(--line);
+  background:rgba(0,0,0,.42);overflow:hidden}
+.tag{flex:0 0 auto;display:flex;align-items:center;gap:12px;padding:0 30px;
+  height:100%;background:var(--gold);color:#0a0c10}
+.tag b{font-size:16px;letter-spacing:.2em;text-transform:uppercase;font-weight:700}
+.rail{flex:1;overflow:hidden;white-space:nowrap;position:relative;height:100%;
+  -webkit-mask-image:linear-gradient(90deg,transparent,#000 96px,#000 calc(100% - 96px),transparent);
+  mask-image:linear-gradient(90deg,transparent,#000 96px,#000 calc(100% - 96px),transparent)}
+.run{position:absolute;top:50%;transform:translateY(-50%);display:flex;
+  align-items:center;gap:72px;animation:run 58s linear infinite;padding-left:72px}
+@keyframes run{from{transform:translate(0,-50%)}to{transform:translate(-50%,-50%)}}
+.q{display:flex;align-items:baseline;gap:12px}
+.q b{font-size:16px;letter-spacing:.14em;text-transform:uppercase;color:var(--mut);
+  font-weight:600}
+.q .p{font-size:25px;font-weight:600}
+.q .c{font-size:19px;font-weight:600}
+.stamp{flex:0 0 auto;max-width:430px;padding:0 30px;font-size:13px;letter-spacing:.14em;
+  text-transform:uppercase;color:var(--mut);border-left:1px solid var(--line);
+  display:flex;align-items:center;height:100%}
+</style></head>
+<body>
+<div id="stage">
+  <header>
+    <div>
+      <div class="brandmark"><i class="dot"></i><span>AlphaAlgoTrader</span></div>
+      <h1 class="display">The <em>Desk</em></h1>
+      <div class="datestamp" id="datestamp">—</div>
+    </div>
+    <div class="right">
+      <div class="clock"><b>New York</b><span class="num display" id="ny">--:--:--</span></div>
+      <div class="clock"><b>London</b><span class="num display" id="ld">--:--:--</span></div>
+      <div class="onair"><i class="pulse"></i><b id="onair">Updating</b></div>
+    </div>
+  </header>
+
+  <main>
+    <section class="tape">
+      <div class="head"><h2 class="label">On the tape today</h2>
+        <span class="mutlabel" id="tape-note">Eastern time</span></div>
+      <ol id="tape"></ol>
+    </section>
+
+    <section class="hero">
+      <div class="head"><h2 class="label" id="hero-label">—</h2>
+        <span class="counter" id="hero-count">01 / 01</span></div>
+      <div id="slides"></div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="tag"><b id="tag">Markets</b></div>
+    <div class="rail"><div class="run" id="run"></div></div>
+    <div class="stamp" id="stamp">—</div>
+  </footer>
 </div>
+
 <script>
-const tz=(z)=>new Date().toLocaleTimeString('en-GB',{timeZone:z,hour12:false});
+/* ---- the stage scales to whatever it is shown on: phone, monitor, encoder */
+function fit(){
+  const s=document.getElementById('stage');
+  /* ⛔ a HIDDEN or not-yet-laid-out tab reports innerWidth 0, and scale(0)
+     renders the whole stage invisible with every element measuring 0x0.
+     Found 18 Sep when the geometry check came back all zeroes. Clamp, and
+     re-fit when the page actually becomes visible. */
+  const w=innerWidth||document.documentElement.clientWidth||1920;
+  const h=innerHeight||document.documentElement.clientHeight||1080;
+  const k=Math.max(0.05, Math.min(w/1920, h/1080));
+  s.style.transform=`translate(-50%,-50%) scale(${k})`;
+}
+addEventListener('resize',fit);
+addEventListener('load',fit);
+document.addEventListener('visibilitychange',fit);
+fit();
+
+const pad=n=>String(n).padStart(2,'0');
+const tz=z=>new Date().toLocaleTimeString('en-GB',{timeZone:z,hour12:false});
 function clocks(){ny.textContent=tz('America/New_York');ld.textContent=tz('Europe/London');}
-clocks();setInterval(clocks,1000);
+clocks(); setInterval(clocks,1000);
 
 const sign=v=>v==null?'':(v>0?'+':'')+v.toFixed(2);
-const cls=v=>v==null?'':(v>0?'up':(v<0?'dn':''));
-function ago(iso){if(!iso)return '';const m=(Date.now()-new Date(iso).getTime())/6e4;
- if(m<1)return 'just now';if(m<90)return Math.round(m)+' min ago';
+const cls =v=>v==null?'':(v>0?'up':(v<0?'dn':''));
+function ago(iso){if(!iso)return '—';const m=(Date.now()-new Date(iso).getTime())/6e4;
+ if(m<1)return 'just now'; if(m<90)return Math.round(m)+' min ago';
  return Math.round(m/60)+' h ago';}
+const esc=s=>String(s??'').replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));
+
+let SLIDES=[], at=0, timer=null;
+
+function buildSlides(d){
+  const out=[];
+  if(d.rates.rows.length){
+    out.push({label:'Rates', html:`<div class="slide">
+      <div class="rates">${d.rates.rows.map(r=>`<div class="rate">
+        <b>${esc(r.series)} Treasury</b>
+        <div class="lv num display">${r.level==null?'—':r.level.toFixed(3)+'%'}</div>
+        <div class="mv num ${cls(r.d_day_bps)}">${r.d_day_bps==null?'':sign(r.d_day_bps)+' bp today'}</div>
+        <div class="rd">${esc(r.lean||'')}</div></div>`).join('')}</div></div>`});
+  }
+  (d.stories||[]).slice(0,4).forEach(s=>{
+    out.push({label:'Running story', html:`<div class="slide story">
+      <span class="src">${esc(s.source||'wire')}</span>
+      <h3 class="display">${esc(String(s.title||'').replace(/\s+[-–—]\s+[^-–—]{2,40}$/,''))}</h3>
+      <div class="topic">${esc(s.topic)}</div></div>`});
+  });
+  const nxt=(d.tape||[]).find(r=>!r.actual && r.time);
+  if(nxt){
+    out.push({label:'Next on the tape', html:`<div class="slide figure">
+      <div class="kick">${esc(nxt.time)} Eastern · ${esc(nxt.ccy)}</div>
+      <div class="big num display">${esc(nxt.cons||'—')}</div>
+      <div class="sub">${esc(nxt.title)}${nxt.prev?` · previous ${esc(nxt.prev)}`:''}
+        <br><span style="color:var(--mut);font-size:19px">consensus, not our forecast</span></div></div>`});
+  }
+  return out.length?out:[{label:'The Desk',html:'<div class="slide figure"><div class="sub">Standing by.</div></div>'}];
+}
+
+function show(i){
+  const els=document.querySelectorAll('#slides .slide');
+  els.forEach(e=>e.classList.remove('on'));
+  if(!els[i])return;
+  els[i].classList.add('on');
+  document.getElementById('hero-label').textContent=SLIDES[i].label;
+  document.getElementById('hero-count').textContent=pad(i+1)+' / '+pad(SLIDES.length);
+}
+function rotate(){ at=(at+1)%SLIDES.length; show(at); }
+
+const panel=(name,fn)=>{ try{ fn(); }catch(e){
+  console.error('desk panel failed:', name, e);
+  /* leave whatever was there -- a stale panel beats a black screen */ } };
 
 async function paint(){
- let d; try{d=await (await fetch('data.json?t='+Date.now())).json();}catch(e){return;}
+  let d; try{ d=await (await fetch('data.json?t='+Date.now())).json(); }catch(e){ return; }
+  window.__desk=d;
 
- strip.innerHTML=d.strip.rows.map(r=>`<div class="tick"><b>${r.name}</b>
-  <span class="p">${r.price==null?'--':r.price.toLocaleString()}</span>
-  <span class="p ${cls(r.pct)}">${sign(r.pct)}%</span></div>`).join('');
+  panel('date', ()=>{ document.getElementById('datestamp').textContent =
+    new Date(d.date_et+'T12:00:00').toLocaleDateString('en-GB',
+      {weekday:'long',day:'numeric',month:'long',year:'numeric'}); });
 
- const tb=document.querySelector('#tape tbody');
- tb.innerHTML=d.tape.map(r=>`<tr class="${r.impact==='High'?'hi':''}">
-  <td class="t">${r.time}</td><td class="t">${r.ccy}</td><td>${r.title}</td>
-  <td class="t">${r.cons||''}</td><td class="t">${r.prev||''}</td>
-  <td class="a">${r.actual||''}</td></tr>`).join('')
-  ||'<tr><td colspan="6" class="t">Nothing scheduled.</td></tr>';
+  /* the tape: what has printed is dimmed and carries its actual; the next one
+     to land is highlighted, because that is what she will talk about next */
+  panel('tape', ()=>{
+  const rows=(d.tape||[]).filter(r=>r.time);
+  const nowET=new Date().toLocaleTimeString('en-GB',
+    {timeZone:'America/New_York',hour12:false}).slice(0,5);
+  const nextIdx=rows.findIndex(r=>r.time>nowET);   /* by the clock, not by data */
+  document.getElementById('tape').innerHTML=rows.slice(0,9).map((r,i)=>{
+    const has=!!r.actual, past=r.time<=nowET;
+    let cl=past?'done':'';
+    if(i===nextIdx)cl='next';
+    return `<li class="${cl}"><span class="t num">${esc(r.time)}</span>
+      <span class="n">${esc(r.title)}<i>${esc(r.ccy)}${r.cons?' · cons. '+esc(r.cons):''}${r.prev?' · prev. '+esc(r.prev):''}</i></span>
+      <span class="v num">${has?esc(r.actual):''}</span></li>`;
+  }).join('') || '<li><span class="n">Nothing scheduled today.</span></li>'; });
 
- const rb=document.querySelector('#rates tbody');
- rb.innerHTML=d.rates.rows.map(r=>`<tr><td>${r.series}</td>
-  <td>${r.level==null?'--':r.level.toFixed(3)+'%'}</td>
-  <td class="${cls(r.d_day_bps)}">${r.d_day_bps==null?'':sign(r.d_day_bps)+' bp'}</td>
-  <td class="t">${r.lean||''}</td><td class="t">${r.source||''}</td></tr>`).join('')
-  ||'<tr><td colspan="5" class="t">No reading.</td></tr>';
+  panel('hero', ()=>{
+  SLIDES=buildSlides(d);
+  document.getElementById('slides').innerHTML=SLIDES.map(s=>s.html).join('');
+  if(at>=SLIDES.length) at=0;
+  show(at);
+  clearInterval(timer); timer=setInterval(rotate, 9000); });
 
- stories.innerHTML=d.stories.map(s=>`<div class="story"><b>${s.topic}</b>
-  <p>${s.title}</p></div>`).join('');
+  panel('ticker', ()=>{ document.getElementById('run').innerHTML=(()=>{
+    const one=(d.strip.rows||[]).map(r=>`<span class="q"><b>${esc(r.name)}</b>
+      <span class="p num">${r.price==null?'—':r.price.toLocaleString()}</span>
+      <span class="c num ${cls(r.pct)}">${r.pct==null?'—':sign(r.pct)+'%'}</span></span>`).join('');
+    return one+one;   /* doubled so the loop is seamless */
+  })(); });
 
- document.getElementById('tape-age').textContent='consensus + previous from our calendar';
- document.getElementById('rates-age').textContent=d.rates.note?('· '+d.rates.note+' · '+ago(d.rates.as_of)):'';
- document.getElementById('foot').innerHTML=
-  `Updated ${ago(d.generated_utc)}. Market snapshot ${ago(d.strip.as_of)}.<br>${d.disclaimer}<br>
-   Sources: US Treasury · BLS · Census · Eurostat · ONS · Yahoo Finance.`;
+  panel('stamps', ()=>{
+  document.getElementById('onair').textContent = 'Updated '+ago(d.generated_utc);
+  document.getElementById('stamp').textContent =
+    'Snapshot · market data '+ago(d.strip.as_of);
+  document.getElementById('tape-note').textContent =
+    'Eastern time · cons. and prev. from our calendar'; });
 }
 paint(); setInterval(paint, 60000);
-</script></body></html>
+
+/* ⭐ window.desk — the cue API. The narration and the screen come from ONE
+   script: every spoken line carries the cue it belongs to, and whatever is
+   playing the audio calls desk.cue() on the word it starts. Used by the
+   recorded render (Playwright steps it frame-accurately from Kokoro's word
+   timings) and by a live operator (OBS browser source + the same cue list). */
+window.desk = {
+  cue(name){                       /* 'rates' | 'story:2' | 'next' | index */
+    if(typeof name === 'number'){ clearInterval(timer); at=name%SLIDES.length; show(at); return at; }
+    const want = String(name||'').toLowerCase();
+    let i = SLIDES.findIndex(s => s.label.toLowerCase().startsWith(want.split(':')[0]));
+    if(want.startsWith('story:')) i = i + (parseInt(want.split(':')[1]||'1',10) - 1);
+    if(i < 0 || i >= SLIDES.length) return -1;
+    clearInterval(timer); at=i; show(at); return at;
+  },
+  hold(){ clearInterval(timer); },
+  auto(ms){ clearInterval(timer); timer=setInterval(rotate, ms||9000); },
+  slides(){ return SLIDES.map(s=>s.label); },
+  data(){ return window.__desk; },
+  ready(){ return SLIDES.length > 0; }
+};
+
+/* the narrator drives the hero by hand when this is a broadcast:
+   ← → step, space holds. Auto-rotation resumes on the next data refresh. */
+addEventListener('keydown',e=>{
+  if(e.key==='ArrowRight'){clearInterval(timer);rotate();}
+  if(e.key==='ArrowLeft'){clearInterval(timer);at=(at-1+SLIDES.length)%SLIDES.length;show(at);}
+  if(e.key===' '){e.preventDefault();clearInterval(timer);}
+});
+</script>
+</body></html>
