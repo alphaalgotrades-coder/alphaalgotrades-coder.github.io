@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-18T22:50:02+00:00",
+ "generated_utc": "2026-09-18T22:55:02+00:00",
  "date_et": "2026-09-18",
  "build": "e96822bfe5",
  "tape": [
@@ -388,11 +388,18 @@
     "pct": -16.37
    }
   ],
-  "as_of": "2026-09-18T22:48:05.680926+00:00",
+  "as_of": "2026-09-18T22:54:05.185849+00:00",
   "tone": "risk-on",
-  "age_min": 1.9424717833333331
+  "age_min": 0.9527064333333333
  },
  "stories": [
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Why the Outcome of Russia's First Parliamentary Elections in Years Is All But Assured - Time Magazine",
+   "source": "Time Magazine",
+   "published": "Fri, 18 Sep 2026 21:18:06 GMT",
+   "read": "unclear"
+  },
   {
    "topic": "Iran / Hormuz",
    "title": "The Iran war is minting new one-day millionaires: oil tankers brave enough to sail across the Strait of Hormuz - Fortune",
@@ -426,13 +433,6 @@
    "title": "Seven men who could lead Russia after Putin - The Washington Post",
    "source": "The Washington Post",
    "published": "Fri, 18 Sep 2026 18:47:18 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Taiwan / China",
-   "title": "China &amp; Taiwan Update, September 18, 2026 - Institute for the Study of War",
-   "source": "Institute for the Study of War",
-   "published": "Fri, 18 Sep 2026 18:33:09 GMT",
    "read": "unclear"
   }
  ],
