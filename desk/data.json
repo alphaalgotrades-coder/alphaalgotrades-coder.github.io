@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-18T22:10:02+00:00",
+ "generated_utc": "2026-09-18T22:15:02+00:00",
  "date_et": "2026-09-18",
  "tape": [],
  "rates": {
@@ -269,9 +269,9 @@
     "pct": -16.37
    }
   ],
-  "as_of": "2026-09-18T22:09:05.336992+00:00",
+  "as_of": "2026-09-18T22:12:06.034982+00:00",
   "tone": "risk-on",
-  "age_min": 0.9472200999999999
+  "age_min": 2.9361223499999998
  },
  "stories": [
   {
@@ -286,13 +286,6 @@
    "title": "Saudi Arabia Notifies Europe They Will Not Be Getting October Deliveries - Energy News Beat",
    "source": "Energy News Beat",
    "published": "Fri, 18 Sep 2026 20:52:39 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Saudi / Gulf supply",
-   "title": "Oil Futures Fall for Third Day on Easing Supply Concerns - WSJ",
-   "source": "WSJ",
-   "published": "Fri, 18 Sep 2026 19:40:00 GMT",
    "read": "unclear"
   },
   {
@@ -311,9 +304,16 @@
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "Will Russia Ever Be a Normal Nation After Putin and His War? - Foreign Policy",
-   "source": "Foreign Policy",
-   "published": "Fri, 18 Sep 2026 19:02:10 GMT",
+   "title": "Seven men who could lead Russia after Putin - The Washington Post",
+   "source": "The Washington Post",
+   "published": "Fri, 18 Sep 2026 18:47:18 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Taiwan / China",
+   "title": "China &amp; Taiwan Update, September 18, 2026 - Institute for the Study of War",
+   "source": "Institute for the Study of War",
+   "published": "Fri, 18 Sep 2026 18:33:09 GMT",
    "read": "unclear"
   }
  ],
