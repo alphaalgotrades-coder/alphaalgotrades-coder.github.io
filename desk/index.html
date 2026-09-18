@@ -289,7 +289,17 @@ const esc=s=>String(s??'').replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt
    ⛔ "Beat" is not always "good". Higher jobless claims is a WORSE number, so
    the sign is inverted for those. Where we cannot tell, nothing is coloured --
    an honest blank beats a confident wrong colour. */
-const INVERSE=/claims|unemployment rate|jobless|deficit/i;
+/* SLACK AND DISTRESS: a higher print means a LOOSER central bank, so it is
+   currency-NEGATIVE and the sign flips. Audited against the 274 release titles
+   we actually carry -- `delinquenc` and `job cut` were live gaps (Mortgage
+   Delinquencies, Challenger Job Cuts y/y); the rest are guards for titles that
+   have not appeared yet. Balances are NOT here: ours arrive signed, so a
+   higher number is already a smaller deficit. */
+const INVERSE=/claims|unemployment rate|jobless|deficit|job cut|layoff|delinquenc|foreclos|bankrupt|insolvenc|redundan/i;
+/* GENUINELY TWO-SIDED: a build can be failed demand or deliberate restocking,
+   and economists do not give it one sign. Colouring it either way would be a
+   confident guess, so it gets none. */
+const AMBIGUOUS=/inventor|stockpile/i;
 function num(s){
   if(s==null)return null;
   const str=String(s).trim();
@@ -303,6 +313,7 @@ function num(s){
 function verdict(r){
   const a=num(r.actual), c=num(r.cons);
   if(a==null||c==null)return 0;
+  if(AMBIGUOUS.test(r.title))return 0;      /* an honest blank, on purpose */
   if(Math.abs(a-c)<1e-9)return 0;
   const better = INVERSE.test(r.title) ? (a<c) : (a>c);
   return better?1:-1;
