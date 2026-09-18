@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-18T23:50:02+00:00",
+ "generated_utc": "2026-09-18T23:55:02+00:00",
  "date_et": "2026-09-18",
  "build": "e96822bfe5",
  "tape": [
@@ -388,9 +388,9 @@
     "pct": -16.37
    }
   ],
-  "as_of": "2026-09-18T23:48:05.212493+00:00",
+  "as_of": "2026-09-18T23:54:05.200657+00:00",
   "tone": "risk-on",
-  "age_min": 1.9515217
+  "age_min": 0.9515303500000001
  },
  "stories": [
   {
@@ -402,9 +402,9 @@
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "Putin says Ukraine interfering in Russian parliamentary election - Reuters",
-   "source": "Reuters",
-   "published": "Fri, 18 Sep 2026 22:59:53 GMT",
+   "title": "Putin says Ukraine interfering in Russian parliamentary election - The State",
+   "source": "The State",
+   "published": "Fri, 18 Sep 2026 23:14:07 GMT",
    "read": "unclear"
   },
   {
@@ -423,9 +423,9 @@
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "Why the Outcome of Russia's First Parliamentary Elections in Years Is All But Assured - Time Magazine",
-   "source": "Time Magazine",
-   "published": "Fri, 18 Sep 2026 21:18:06 GMT",
+   "title": "Trump signs Russia sanctions bill into law - Reuters",
+   "source": "Reuters",
+   "published": "Fri, 18 Sep 2026 22:20:53 GMT",
    "read": "unclear"
   },
   {
