@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-18T23:10:02+00:00",
+ "generated_utc": "2026-09-18T23:15:02+00:00",
  "date_et": "2026-09-18",
  "build": "e96822bfe5",
  "tape": [
@@ -388,11 +388,32 @@
     "pct": -16.37
    }
   ],
-  "as_of": "2026-09-18T23:09:04.886942+00:00",
+  "as_of": "2026-09-18T23:12:04.965945+00:00",
   "tone": "risk-on",
-  "age_min": 0.9561563666666667
+  "age_min": 2.9562459333333333
  },
  "stories": [
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Putin says Ukraine interfering in Russian parliamentary election - Reuters",
+   "source": "Reuters",
+   "published": "Fri, 18 Sep 2026 22:59:53 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Saudi / Gulf supply",
+   "title": "Saudi oil refiners cut October shipments to Europe - wng.org",
+   "source": "wng.org",
+   "published": "Fri, 18 Sep 2026 22:59:00 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Trump Signs a Sanctions Bill Targeting Russia, but Pursues Deals Too - The New York Times",
+   "source": "The New York Times",
+   "published": "Fri, 18 Sep 2026 22:58:00 GMT",
+   "read": "unclear"
+  },
   {
    "topic": "Russia / Ukraine",
    "title": "Why the Outcome of Russia's First Parliamentary Elections in Years Is All But Assured - Time Magazine",
@@ -402,23 +423,9 @@
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "The Iran war is minting new one-day millionaires: oil tankers brave enough to sail across the Strait of Hormuz - Fortune",
-   "source": "Fortune",
+   "title": "The Iran war is minting new one-day millionaires: oil tankers brave enough to sail across the Strait of Hormuz - fortune.com",
+   "source": "fortune.com",
    "published": "Fri, 18 Sep 2026 20:58:00 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Saudi / Gulf supply",
-   "title": "Saudi Arabia Notifies Europe They Will Not Be Getting October Deliveries - Energy News Beat",
-   "source": "Energy News Beat",
-   "published": "Fri, 18 Sep 2026 20:52:39 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran Exploits Attack on Small Product Tanker to Assert Hormuz Control - The Maritime Executive",
-   "source": "The Maritime Executive",
-   "published": "Fri, 18 Sep 2026 19:12:28 GMT",
    "read": "escalation"
   },
   {
@@ -427,13 +434,6 @@
    "source": "DW.com",
    "published": "Fri, 18 Sep 2026 19:09:58 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Seven men who could lead Russia after Putin - The Washington Post",
-   "source": "The Washington Post",
-   "published": "Fri, 18 Sep 2026 18:47:18 GMT",
-   "read": "unclear"
   }
  ],
  "ratings": [
