@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-19T14:50:02+00:00",
+ "generated_utc": "2026-09-19T14:55:02+00:00",
  "date_et": "2026-09-19",
  "build": "e96822bfe5",
  "tape": [
@@ -280,9 +280,9 @@
     "pct": -4.08
    }
   ],
-  "as_of": "2026-09-19T14:48:04.559455+00:00",
+  "as_of": "2026-09-19T14:54:05.122789+00:00",
   "tone": "risk-on",
-  "age_min": 1.9697344166666668
+  "age_min": 0.9625667333333333
  },
  "stories": [
   {
@@ -294,8 +294,8 @@
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "Last Time Russia Elected Duma, Ukraine War Followed. Now Familiar Signs Are Back - hungarianconservative.com",
-   "source": "hungarianconservative.com",
+   "title": "Last Time Russia Elected Duma, Ukraine War Followed. Now Familiar Signs Are Back - Hungarian Conservative",
+   "source": "Hungarian Conservative",
    "published": "Sat, 19 Sep 2026 14:19:33 GMT",
    "read": "unclear"
   },
@@ -314,18 +314,18 @@
    "read": "escalation"
   },
   {
-   "topic": "Russia / Ukraine",
-   "title": "Putin says Europe is 'preparing for war' - france24.com",
-   "source": "france24.com",
-   "published": "Sat, 19 Sep 2026 13:01:34 GMT",
-   "read": "unclear"
-  },
-  {
    "topic": "Saudi / Gulf supply",
    "title": "Saudi Arabia Crude Output Hits 30-Year Low As Non-Gulf Producers Step Up - NDTV",
    "source": "NDTV",
    "published": "Sat, 19 Sep 2026 11:03:48 GMT",
    "read": "unclear"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Inside the Houthi advance: How Iran's allies are helping tighten Tehran's grip on the Red Sea - jpost.com",
+   "source": "jpost.com",
+   "published": "Sat, 19 Sep 2026 09:39:30 GMT",
+   "read": "escalation"
   }
  ],
  "ratings": [
