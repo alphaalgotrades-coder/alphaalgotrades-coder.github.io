@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-19T18:50:02+00:00",
+ "generated_utc": "2026-09-19T18:55:02+00:00",
  "date_et": "2026-09-19",
  "build": "e96822bfe5",
  "tape": [
@@ -280,9 +280,9 @@
     "pct": -4.08
    }
   ],
-  "as_of": "2026-09-19T18:48:04.723060+00:00",
+  "as_of": "2026-09-19T18:54:05.068793+00:00",
   "tone": "risk-on",
-  "age_min": 1.9593419833333334
+  "age_min": 0.95841725
  },
  "stories": [
   {
@@ -301,31 +301,31 @@
   },
   {
    "topic": "Iran / Hormuz",
+   "title": "Centcom: Over 1B crude oil barrels passed through Hormuz strait in recent months - The Hill",
+   "source": "The Hill",
+   "published": "Sat, 19 Sep 2026 18:38:00 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Saudi / Gulf supply",
+   "title": "Saudi Arabia cancels oil shipments to European refineries after attacks - The Business Standard",
+   "source": "The Business Standard",
+   "published": "Sat, 19 Sep 2026 18:31:09 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
    "title": "US military: Strait of Hormuz shipping traffic at 6-month high - \u30a2\u30e9\u30d6\u30cb\u30e5\u30fc\u30b9",
    "source": "\u30a2\u30e9\u30d6\u30cb\u30e5\u30fc\u30b9",
    "published": "Sat, 19 Sep 2026 18:30:14 GMT",
    "read": "de-escalation"
   },
   {
-   "topic": "Russia / Ukraine",
-   "title": "German-Russian relations at freezing point - dw.com",
-   "source": "dw.com",
-   "published": "Sat, 19 Sep 2026 16:40:06 GMT",
+   "topic": "Iran / Hormuz",
+   "title": "Cairo, Washington discuss Iran crisis, stress freedom of navigation in Hormuz - dailynewsegypt.com",
+   "source": "dailynewsegypt.com",
+   "published": "Sat, 19 Sep 2026 18:05:39 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Taiwan / China",
-   "title": "Union chairman jailed in China returns to Taiwan - Taipei Times",
-   "source": "Taipei Times",
-   "published": "Sat, 19 Sep 2026 16:00:00 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Saudi / Gulf supply",
-   "title": "Saudi Aramco stops crude supplies to Indian refiners after pipeline attack; replacement barrels available - The Times of India",
-   "source": "The Times of India",
-   "published": "Sat, 19 Sep 2026 14:49:00 GMT",
-   "read": "escalation"
   }
  ],
  "ratings": [
