@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-19T15:10:02+00:00",
+ "generated_utc": "2026-09-19T15:15:02+00:00",
  "date_et": "2026-09-19",
  "build": "e96822bfe5",
  "tape": [
@@ -280,9 +280,9 @@
     "pct": -4.08
    }
   ],
-  "as_of": "2026-09-19T15:09:04.873228+00:00",
+  "as_of": "2026-09-19T15:12:08.327168+00:00",
   "tone": "risk-on",
-  "age_min": 0.9652388666666667
+  "age_min": 2.9107664
  },
  "stories": [
   {
@@ -291,6 +291,13 @@
    "source": "scmp.com",
    "published": "Thu, 17 Sep 2026 09:00:14 GMT",
    "read": "de-escalation"
+  },
+  {
+   "topic": "Saudi / Gulf supply",
+   "title": "Saudi Aramco stops crude supplies to Indian refiners after pipeline attack; replacement barrels available - The Times of India",
+   "source": "The Times of India",
+   "published": "Sat, 19 Sep 2026 14:49:00 GMT",
+   "read": "escalation"
   },
   {
    "topic": "Russia / Ukraine",
@@ -319,13 +326,6 @@
    "source": "NDTV",
    "published": "Sat, 19 Sep 2026 11:03:48 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Inside the Houthi advance: How Iran's allies are helping tighten Tehran's grip on the Red Sea - jpost.com",
-   "source": "jpost.com",
-   "published": "Sat, 19 Sep 2026 09:39:30 GMT",
-   "read": "escalation"
   }
  ],
  "ratings": [
