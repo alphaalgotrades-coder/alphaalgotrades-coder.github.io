@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-19T18:30:03+00:00",
+ "generated_utc": "2026-09-19T18:35:03+00:00",
  "date_et": "2026-09-19",
  "build": "e96822bfe5",
  "tape": [
@@ -280,11 +280,18 @@
     "pct": -4.08
    }
   ],
-  "as_of": "2026-09-19T18:27:04.800263+00:00",
+  "as_of": "2026-09-19T18:33:04.975097+00:00",
   "tone": "risk-on",
-  "age_min": 2.9849877
+  "age_min": 1.98366655
  },
  "stories": [
+  {
+   "topic": "Iran / Hormuz",
+   "title": "U.N. panel cites possible U.S. war crimes as Trump again says Iran wants a deal - cbsnews.com",
+   "source": "cbsnews.com",
+   "published": "Thu, 17 Sep 2026 11:20:00 GMT",
+   "read": "unclear"
+  },
   {
    "topic": "Taiwan / China",
    "title": "Taipei donates coastguard vessel to Manila amid South China Sea tensions - scmp.com",
@@ -293,17 +300,17 @@
    "read": "de-escalation"
   },
   {
+   "topic": "Iran / Hormuz",
+   "title": "US military: Strait of Hormuz shipping traffic at 6-month high - \u30a2\u30e9\u30d6\u30cb\u30e5\u30fc\u30b9",
+   "source": "\u30a2\u30e9\u30d6\u30cb\u30e5\u30fc\u30b9",
+   "published": "Sat, 19 Sep 2026 18:30:14 GMT",
+   "read": "de-escalation"
+  },
+  {
    "topic": "Russia / Ukraine",
    "title": "German-Russian relations at freezing point - dw.com",
    "source": "dw.com",
    "published": "Sat, 19 Sep 2026 16:40:06 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran to Require Approval for Data Cables Crossing Strait of Hormuz - WANA News Agency",
-   "source": "WANA News Agency",
-   "published": "Sat, 19 Sep 2026 16:38:07 GMT",
    "read": "unclear"
   },
   {
@@ -318,13 +325,6 @@
    "title": "Saudi Aramco stops crude supplies to Indian refiners after pipeline attack; replacement barrels available - The Times of India",
    "source": "The Times of India",
    "published": "Sat, 19 Sep 2026 14:49:00 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Live - Iran threatens regional oil exports, Trump signs new sanctions bill into law - Iran International",
-   "source": "Iran International",
-   "published": "Sat, 19 Sep 2026 12:58:00 GMT",
    "read": "escalation"
   }
  ],
