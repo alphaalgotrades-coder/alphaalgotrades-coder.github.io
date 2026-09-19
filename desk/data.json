@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-19T01:50:02+00:00",
+ "generated_utc": "2026-09-19T01:55:02+00:00",
  "date_et": "2026-09-18",
  "build": "e96822bfe5",
  "tape": [
@@ -388,17 +388,31 @@
     "pct": -16.37
    }
   ],
-  "as_of": "2026-09-19T01:48:05.529041+00:00",
+  "as_of": "2026-09-19T01:54:05.632245+00:00",
   "tone": "risk-on",
-  "age_min": 1.9508130666666665
+  "age_min": 0.9475140333333333
  },
  "stories": [
+  {
+   "topic": "Saudi / Gulf supply",
+   "title": "Saudi Arabia Cuts October Crude Oil Supply to Europeans - GreekReporter.com",
+   "source": "GreekReporter.com",
+   "published": "Sat, 19 Sep 2026 00:48:15 GMT",
+   "read": "unclear"
+  },
   {
    "topic": "Russia / Ukraine",
    "title": "Trump signs sweeping Russia sanctions over Ukraine war - Al Jazeera",
    "source": "Al Jazeera",
    "published": "Sat, 19 Sep 2026 00:46:22 GMT",
    "read": "escalation"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Seven men who could lead Russia after Putin - washingtonpost.com",
+   "source": "washingtonpost.com",
+   "published": "Sat, 19 Sep 2026 00:14:47 GMT",
+   "read": "unclear"
   },
   {
    "topic": "Russia / Ukraine",
@@ -420,20 +434,6 @@
    "source": "energynewsbeat.co",
    "published": "Fri, 18 Sep 2026 20:58:43 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "The Iran war is minting new one-day millionaires: oil tankers brave enough to sail across the Strait of Hormuz - fortune.com",
-   "source": "fortune.com",
-   "published": "Fri, 18 Sep 2026 20:58:00 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran Exploits Attack on Small Product Tanker to Assert Hormuz Control - maritime-executive.com",
-   "source": "maritime-executive.com",
-   "published": "Fri, 18 Sep 2026 19:12:28 GMT",
-   "read": "escalation"
   }
  ],
  "ratings": [
