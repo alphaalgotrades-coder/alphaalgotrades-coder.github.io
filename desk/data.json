@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-19T03:30:02+00:00",
+ "generated_utc": "2026-09-19T03:35:02+00:00",
  "date_et": "2026-09-18",
  "build": "e96822bfe5",
  "tape": [
@@ -388,15 +388,15 @@
     "pct": -16.37
    }
   ],
-  "as_of": "2026-09-19T03:27:05.977509+00:00",
+  "as_of": "2026-09-19T03:33:05.536989+00:00",
   "tone": "risk-on",
-  "age_min": 2.9444942833333334
+  "age_min": 1.95213265
  },
  "stories": [
   {
    "topic": "Taiwan / China",
-   "title": "Taiwan tracks 20 Chinese military aircraft and 14 ships - taiwannews.com.tw",
-   "source": "taiwannews.com.tw",
+   "title": "Taiwan tracks 20 Chinese military aircraft and 14 ships - Taiwan News",
+   "source": "Taiwan News",
    "published": "Sat, 19 Sep 2026 02:52:00 GMT",
    "read": "escalation"
   },
