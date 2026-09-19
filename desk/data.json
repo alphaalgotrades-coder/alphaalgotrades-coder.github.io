@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-19T20:50:02+00:00",
+ "generated_utc": "2026-09-19T20:55:02+00:00",
  "date_et": "2026-09-19",
  "build": "e96822bfe5",
  "tape": [
@@ -280,11 +280,18 @@
     "pct": -4.08
    }
   ],
-  "as_of": "2026-09-19T20:48:05.256008+00:00",
+  "as_of": "2026-09-19T20:54:05.316863+00:00",
   "tone": "risk-on",
-  "age_min": 1.9567046166666666
+  "age_min": 0.9544389
  },
  "stories": [
+  {
+   "topic": "Russia / Ukraine",
+   "title": "In Russia, the election result is easy to guess. Much else there is uncertain. - The Washington Post",
+   "source": "The Washington Post",
+   "published": "Sat, 19 Sep 2026 20:35:39 GMT",
+   "read": "unclear"
+  },
   {
    "topic": "Saudi / Gulf supply",
    "title": "Saudi Arabia Cuts Europe Off From October Crude After Pipeline attack - eurasiabusinessnews.com",
@@ -318,13 +325,6 @@
    "title": "Cairo, Washington discuss Iran crisis, stress freedom of navigation in Hormuz - Dailynewsegypt",
    "source": "Dailynewsegypt",
    "published": "Sat, 19 Sep 2026 18:05:39 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Taiwan / China",
-   "title": "Union chairman jailed in China returns to Taiwan - taipeitimes.com",
-   "source": "taipeitimes.com",
-   "published": "Sat, 19 Sep 2026 16:00:00 GMT",
    "read": "unclear"
   }
  ],
