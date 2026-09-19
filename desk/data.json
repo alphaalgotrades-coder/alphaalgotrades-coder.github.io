@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-19T20:30:03+00:00",
+ "generated_utc": "2026-09-19T20:35:03+00:00",
  "date_et": "2026-09-19",
  "build": "e96822bfe5",
  "tape": [
@@ -280,22 +280,15 @@
     "pct": -4.08
    }
   ],
-  "as_of": "2026-09-19T20:27:05.240388+00:00",
+  "as_of": "2026-09-19T20:33:05.346160+00:00",
   "tone": "risk-on",
-  "age_min": 2.9649475
+  "age_min": 1.9668975833333335
  },
  "stories": [
   {
-   "topic": "Iran / Hormuz",
-   "title": "U.N. panel cites possible U.S. war crimes as Trump again says Iran wants a deal - cbsnews.com",
-   "source": "cbsnews.com",
-   "published": "Thu, 17 Sep 2026 11:20:00 GMT",
-   "read": "unclear"
-  },
-  {
    "topic": "Saudi / Gulf supply",
-   "title": "Saudi Arabia Cuts Europe Off From October Crude After Pipeline attack - Eurasia Business News",
-   "source": "Eurasia Business News",
+   "title": "Saudi Arabia Cuts Europe Off From October Crude After Pipeline attack - eurasiabusinessnews.com",
+   "source": "eurasiabusinessnews.com",
    "published": "Sat, 19 Sep 2026 19:06:50 GMT",
    "read": "escalation"
   },
@@ -311,6 +304,13 @@
    "title": "Saudi Arabia cancels oil shipments to European refineries after attacks - The Business Standard",
    "source": "The Business Standard",
    "published": "Sat, 19 Sep 2026 18:31:09 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iran sets terms for renewed US talks, says ready for escalation - Iran International",
+   "source": "Iran International",
+   "published": "Sat, 19 Sep 2026 18:30:00 GMT",
    "read": "escalation"
   },
   {
