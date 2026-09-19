@@ -1,121 +1,13 @@
 {
- "generated_utc": "2026-09-19T03:55:02+00:00",
- "date_et": "2026-09-18",
+ "generated_utc": "2026-09-19T04:00:02+00:00",
+ "date_et": "2026-09-19",
  "build": "e96822bfe5",
  "tape": [
-  {
-   "time": "02:00",
-   "ccy": "EUR",
-   "impact": "Low",
-   "title": "German PPI m/m",
-   "cons": "0.6%",
-   "prev": "1.1%",
-   "actual": "1.1%"
-  },
-  {
-   "time": "02:00",
-   "ccy": "GBP",
-   "impact": "Medi",
-   "title": "Retail Sales m/m",
-   "cons": "-0.2%",
-   "prev": "-0.5%",
-   "actual": "0.5%"
-  },
-  {
-   "time": "02:30",
-   "ccy": "JPY",
-   "impact": "High",
-   "title": "BOJ Press Conference",
-   "cons": "",
-   "prev": "",
-   "actual": ""
-  },
-  {
-   "time": "04:00",
-   "ccy": "EUR",
-   "impact": "Low",
-   "title": "Current Account",
-   "cons": "30.7B",
-   "prev": "35.1B",
-   "actual": "27.6B"
-  },
-  {
-   "time": "05:02",
-   "ccy": "CNY",
-   "impact": "Low",
-   "title": "Foreign Direct Investment ytd/y",
-   "cons": "",
-   "prev": "-6.2%",
-   "actual": "-5.3%"
-  },
   {
    "time": "06:15",
    "ccy": "EUR",
    "impact": "Low",
    "title": "ECOFIN Meetings",
-   "cons": "",
-   "prev": "",
-   "actual": ""
-  },
-  {
-   "time": "06:15",
-   "ccy": "EUR",
-   "impact": "Low",
-   "title": "Eurogroup Meetings",
-   "cons": "",
-   "prev": "",
-   "actual": ""
-  },
-  {
-   "time": "06:30",
-   "ccy": "EUR",
-   "impact": "Medi",
-   "title": "ECB President Lagarde Speaks",
-   "cons": "",
-   "prev": "",
-   "actual": ""
-  },
-  {
-   "time": "09:15",
-   "ccy": "USD",
-   "impact": "Low",
-   "title": "Capacity Utilization Rate",
-   "cons": "76.4%",
-   "prev": "76.3%",
-   "actual": "76.3%"
-  },
-  {
-   "time": "09:15",
-   "ccy": "USD",
-   "impact": "Low",
-   "title": "Industrial Production m/m",
-   "cons": "0.3%",
-   "prev": "0.2%",
-   "actual": "0.0%"
-  },
-  {
-   "time": "09:30",
-   "ccy": "USD",
-   "impact": "Low",
-   "title": "FOMC Member Bowman Speaks",
-   "cons": "",
-   "prev": "",
-   "actual": ""
-  },
-  {
-   "time": "10:00",
-   "ccy": "USD",
-   "impact": "Low",
-   "title": "CB Leading Index m/m",
-   "cons": "0.1%",
-   "prev": "0.2%",
-   "actual": "-0.1%"
-  },
-  {
-   "time": "11:45",
-   "ccy": "USD",
-   "impact": "Low",
-   "title": "FOMC Member Schmid Speaks",
    "cons": "",
    "prev": "",
    "actual": ""
@@ -388,9 +280,9 @@
     "pct": -16.37
    }
   ],
-  "as_of": "2026-09-19T03:54:05.720037+00:00",
+  "as_of": "2026-09-19T03:57:05.597618+00:00",
   "tone": "risk-on",
-  "age_min": 0.9490240166666666
+  "age_min": 2.9505257666666664
  },
  "stories": [
   {
