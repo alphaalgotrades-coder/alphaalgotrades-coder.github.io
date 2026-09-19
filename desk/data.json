@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-19T07:50:02+00:00",
+ "generated_utc": "2026-09-19T07:55:02+00:00",
  "date_et": "2026-09-19",
  "build": "e96822bfe5",
  "tape": [
@@ -280,9 +280,9 @@
     "pct": -4.08
    }
   ],
-  "as_of": "2026-09-19T07:48:04.597181+00:00",
+  "as_of": "2026-09-19T07:54:04.908902+00:00",
   "tone": "risk-on",
-  "age_min": 1.9591749333333333
+  "age_min": 0.9544653333333333
  },
  "stories": [
   {
@@ -307,13 +307,6 @@
    "read": "unclear"
   },
   {
-   "topic": "Russia / Ukraine",
-   "title": "Russian Offensive Campaign Assessment, September 18, 2026 - Institute for the Study of War",
-   "source": "Institute for the Study of War",
-   "published": "Sat, 19 Sep 2026 03:05:58 GMT",
-   "read": "unclear"
-  },
-  {
    "topic": "Taiwan / China",
    "title": "Taiwan tracks 20 Chinese military aircraft and 14 ships - Taiwan News",
    "source": "Taiwan News",
@@ -325,6 +318,13 @@
    "title": "Exclusive | US weighs delaying Taiwan arms sales until after Apec and G20 summits - South China Morning Post",
    "source": "South China Morning Post",
    "published": "Sat, 19 Sep 2026 01:00:13 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Saudi / Gulf supply",
+   "title": "Saudi Arabia Cuts October Crude Oil Supply to Europeans - greekreporter.com",
+   "source": "greekreporter.com",
+   "published": "Sat, 19 Sep 2026 00:48:15 GMT",
    "read": "unclear"
   }
  ],
