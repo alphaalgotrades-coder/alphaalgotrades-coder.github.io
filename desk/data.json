@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-19T03:10:02+00:00",
+ "generated_utc": "2026-09-19T03:15:02+00:00",
  "date_et": "2026-09-18",
  "build": "e96822bfe5",
  "tape": [
@@ -388,11 +388,18 @@
     "pct": -16.37
    }
   ],
-  "as_of": "2026-09-19T03:09:05.953730+00:00",
+  "as_of": "2026-09-19T03:12:05.269387+00:00",
   "tone": "risk-on",
-  "age_min": 0.9442295833333334
+  "age_min": 2.95624075
  },
  "stories": [
+  {
+   "topic": "Taiwan / China",
+   "title": "Taiwan tracks 20 Chinese military aircraft and 14 ships - taiwannews.com.tw",
+   "source": "taiwannews.com.tw",
+   "published": "Sat, 19 Sep 2026 02:52:00 GMT",
+   "read": "escalation"
+  },
   {
    "topic": "Saudi / Gulf supply",
    "title": "Saudi Arabia Cuts October Crude Oil Supply to Europeans - greekreporter.com",
@@ -426,13 +433,6 @@
    "title": "Iran claims it struck an oil tanker in the Strait of Hormuz - WPLG Local 10",
    "source": "WPLG Local 10",
    "published": "Fri, 18 Sep 2026 22:42:33 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Why the Outcome of Russia's First Parliamentary Elections in Years Is All But Assured - time.com",
-   "source": "time.com",
-   "published": "Fri, 18 Sep 2026 21:18:06 GMT",
    "read": "unclear"
   }
  ],
