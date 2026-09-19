@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-19T02:10:02+00:00",
+ "generated_utc": "2026-09-19T02:15:02+00:00",
  "date_et": "2026-09-18",
  "build": "e96822bfe5",
  "tape": [
@@ -388,15 +388,15 @@
     "pct": -16.37
    }
   ],
-  "as_of": "2026-09-19T02:09:05.518650+00:00",
+  "as_of": "2026-09-19T02:12:05.593200+00:00",
   "tone": "risk-on",
-  "age_min": 0.9512518666666666
+  "age_min": 2.9487479
  },
  "stories": [
   {
    "topic": "Saudi / Gulf supply",
-   "title": "Saudi Arabia Cuts October Crude Oil Supply to Europeans - GreekReporter.com",
-   "source": "GreekReporter.com",
+   "title": "Saudi Arabia Cuts October Crude Oil Supply to Europeans - greekreporter.com",
+   "source": "greekreporter.com",
    "published": "Sat, 19 Sep 2026 00:48:15 GMT",
    "read": "unclear"
   },
@@ -429,11 +429,11 @@
    "read": "unclear"
   },
   {
-   "topic": "Saudi / Gulf supply",
-   "title": "Saudi Arabia Notifies Europe They Will Not Be Getting October Deliveries - energynewsbeat.co",
-   "source": "energynewsbeat.co",
-   "published": "Fri, 18 Sep 2026 20:58:43 GMT",
-   "read": "unclear"
+   "topic": "Iran / Hormuz",
+   "title": "The Iran war is minting new one-day millionaires: oil tankers brave enough to sail across the Strait of Hormuz - fortune.com",
+   "source": "fortune.com",
+   "published": "Fri, 18 Sep 2026 20:58:00 GMT",
+   "read": "escalation"
   }
  ],
  "ratings": [
