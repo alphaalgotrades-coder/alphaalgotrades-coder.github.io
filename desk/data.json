@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-19T06:50:02+00:00",
+ "generated_utc": "2026-09-19T06:55:02+00:00",
  "date_et": "2026-09-19",
  "build": "e96822bfe5",
  "tape": [
@@ -280,9 +280,9 @@
     "pct": -16.37
    }
   ],
-  "as_of": "2026-09-19T06:48:05.258751+00:00",
+  "as_of": "2026-09-19T06:54:05.211384+00:00",
   "tone": "risk-on",
-  "age_min": 1.96056415
+  "age_min": 0.9637270166666667
  },
  "stories": [
   {
@@ -321,10 +321,10 @@
    "read": "de-escalation"
   },
   {
-   "topic": "Saudi / Gulf supply",
-   "title": "Saudi Arabia Cuts October Crude Oil Supply to Europeans - greekreporter.com",
-   "source": "greekreporter.com",
-   "published": "Sat, 19 Sep 2026 00:48:15 GMT",
+   "topic": "Taiwan / China",
+   "title": "Exclusive | US weighs delaying Taiwan arms sales until after Apec and G20 summits - South China Morning Post",
+   "source": "South China Morning Post",
+   "published": "Sat, 19 Sep 2026 01:00:13 GMT",
    "read": "unclear"
   }
  ],
