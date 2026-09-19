@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-19T10:10:02+00:00",
+ "generated_utc": "2026-09-19T10:15:02+00:00",
  "date_et": "2026-09-19",
  "build": "e96822bfe5",
  "tape": [
@@ -280,9 +280,9 @@
     "pct": -4.08
    }
   ],
-  "as_of": "2026-09-19T10:09:06.789963+00:00",
+  "as_of": "2026-09-19T10:12:05.656748+00:00",
   "tone": "risk-on",
-  "age_min": 0.9257379
+  "age_min": 2.947665483333333
  },
  "stories": [
   {
@@ -291,6 +291,13 @@
    "source": "CBS News",
    "published": "Thu, 17 Sep 2026 11:20:00 GMT",
    "read": "unclear"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Inside the Houthi advance: How Iran's allies are helping tighten Tehran's grip on the Red Sea - The Jerusalem Post",
+   "source": "The Jerusalem Post",
+   "published": "Sat, 19 Sep 2026 09:39:30 GMT",
+   "read": "escalation"
   },
   {
    "topic": "Saudi / Gulf supply",
@@ -318,13 +325,6 @@
    "title": "Putin says Russia has no aggressive intentions toward Europe, ready to restore relations - Anadolu Ajans\u0131",
    "source": "Anadolu Ajans\u0131",
    "published": "Sat, 19 Sep 2026 07:32:19 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Saudi / Gulf supply",
-   "title": "Oil Prices Fall as Saudi Arabia Reroutes Crude via Oman Amid Pipeline Repairs - News and Statistics - IndexBox",
-   "source": "IndexBox",
-   "published": "Sat, 19 Sep 2026 04:04:09 GMT",
    "read": "unclear"
   }
  ],
