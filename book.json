@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-19T12:30:04.055791+00:00",
+ "generated_utc": "2026-09-19T12:48:24.643706+00:00",
  "paper": true,
  "strategy": "the wheel (cash-secured puts -> covered calls)",
  "since": "2026-07-13",
@@ -382,39 +382,39 @@
   "profit_factor": 7.51,
   "expectancy": 193.06,
   "sharpe_daily_ann": 5.88,
-  "capital_at_risk": 57076.0,
-  "period_return_pct": 13.53,
-  "ann_pace_pct": 71.6,
+  "capital_at_risk": 55326.0,
+  "period_return_pct": 13.96,
+  "ann_pace_pct": 73.8,
   "elapsed_days": 69
  },
  "assigned": [
   {
    "symbol": "AS",
    "shares": 600,
-   "entry": 32.5,
-   "basis": 31.1,
-   "reduced_pct": 4.3
+   "entry": 31.25,
+   "basis": 30.2,
+   "reduced_pct": 3.4
   },
   {
    "symbol": "BLDR",
    "shares": 200,
-   "entry": 70.0,
-   "basis": 66.2,
-   "reduced_pct": 5.4
+   "entry": 67.5,
+   "basis": 64.38,
+   "reduced_pct": 4.6
   },
   {
    "symbol": "DLO",
    "shares": 700,
    "entry": 13.68,
-   "basis": 12.79,
-   "reduced_pct": 6.5
+   "basis": 13.09,
+   "reduced_pct": 4.3
   },
   {
    "symbol": "Z",
    "shares": 400,
-   "entry": 35.0,
-   "basis": 33.4,
-   "reduced_pct": 4.6
+   "entry": 33.75,
+   "basis": 32.42,
+   "reduced_pct": 3.9
   }
  ]
 }
