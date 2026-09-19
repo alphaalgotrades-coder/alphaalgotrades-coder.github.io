@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-19T11:10:02+00:00",
+ "generated_utc": "2026-09-19T11:15:02+00:00",
  "date_et": "2026-09-19",
  "build": "e96822bfe5",
  "tape": [
@@ -280,9 +280,9 @@
     "pct": -4.08
    }
   ],
-  "as_of": "2026-09-19T11:09:05.805512+00:00",
+  "as_of": "2026-09-19T11:12:05.755264+00:00",
   "tone": "risk-on",
-  "age_min": 0.94296325
+  "age_min": 2.94454325
  },
  "stories": [
   {
@@ -308,13 +308,6 @@
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Iran claims strike on tanker; US reports casualties - The Arkansas Democrat-Gazette",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": "Sat, 19 Sep 2026 08:34:00 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
    "title": "U.S. Official: Iran\u2019s Hormuz Influence Is Declining... - jordannews.jo",
    "source": "jordannews.jo",
    "published": "Sat, 19 Sep 2026 08:09:43 GMT",
@@ -326,6 +319,13 @@
    "source": "NPR",
    "published": "Sat, 19 Sep 2026 06:39:57 GMT",
    "read": "escalation"
+  },
+  {
+   "topic": "Saudi / Gulf supply",
+   "title": "Oil Prices Fall as Saudi Arabia Reroutes Crude via Oman Amid Pipeline Repairs - News and Statistics - IndexBox",
+   "source": "IndexBox",
+   "published": "Sat, 19 Sep 2026 04:04:09 GMT",
+   "read": "unclear"
   }
  ],
  "ratings": [
