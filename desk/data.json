@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-19T17:10:03+00:00",
+ "generated_utc": "2026-09-19T17:15:04+00:00",
  "date_et": "2026-09-19",
  "build": "e96822bfe5",
  "tape": [
@@ -280,9 +280,9 @@
     "pct": -4.08
    }
   ],
-  "as_of": "2026-09-19T17:09:05.629697+00:00",
+  "as_of": "2026-09-19T17:12:14.127046+00:00",
   "tone": "risk-on",
-  "age_min": 0.9592072
+  "age_min": 2.8355283166666667
  },
  "stories": [
   {
@@ -293,17 +293,17 @@
    "read": "de-escalation"
   },
   {
-   "topic": "Iran / Hormuz",
-   "title": "Iran to Require Approval for Data Cables Crossing Strait of Hormuz - WANA News Agency",
-   "source": "WANA News Agency",
-   "published": "Sat, 19 Sep 2026 16:38:07 GMT",
+   "topic": "Russia / Ukraine",
+   "title": "German-Russian relations at freezing point - dw.com",
+   "source": "dw.com",
+   "published": "Sat, 19 Sep 2026 16:40:06 GMT",
    "read": "unclear"
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "CENTCOM says US military has aided transit of 1 billion barrels of oil through Hormuz over 2 months - Fortune",
-   "source": "Fortune",
-   "published": "Sat, 19 Sep 2026 15:30:00 GMT",
+   "title": "Iran to Require Approval for Data Cables Crossing Strait of Hormuz - WANA News Agency",
+   "source": "WANA News Agency",
+   "published": "Sat, 19 Sep 2026 16:38:07 GMT",
    "read": "unclear"
   },
   {
