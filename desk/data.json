@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-19T12:10:02+00:00",
+ "generated_utc": "2026-09-19T12:15:02+00:00",
  "date_et": "2026-09-19",
  "build": "e96822bfe5",
  "tape": [
@@ -280,9 +280,9 @@
     "pct": -4.08
    }
   ],
-  "as_of": "2026-09-19T12:09:05.893217+00:00",
+  "as_of": "2026-09-19T12:12:05.821289+00:00",
   "tone": "risk-on",
-  "age_min": 0.94337585
+  "age_min": 2.9476010500000003
  },
  "stories": [
   {
@@ -297,6 +297,13 @@
    "title": "Taipei donates coastguard vessel to Manila amid South China Sea tensions - scmp.com",
    "source": "scmp.com",
    "published": "Thu, 17 Sep 2026 09:00:14 GMT",
+   "read": "de-escalation"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Putin Says Russia Is Ready to Normalize Relations With Europe - Kurdistan24",
+   "source": "Kurdistan24",
+   "published": "Sat, 19 Sep 2026 11:10:40 GMT",
    "read": "de-escalation"
   },
   {
@@ -318,13 +325,6 @@
    "title": "Saudi Aramco cancels October crude allocations to European refiners: Report - Middle East Monitor",
    "source": "Middle East Monitor",
    "published": "Sat, 19 Sep 2026 09:04:00 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "The Kremlin Has Put Lots of Veterans on the Ballot. Could It Backfire? - The New York Times",
-   "source": "The New York Times",
-   "published": "Sat, 19 Sep 2026 09:02:21 GMT",
    "read": "unclear"
   }
  ],
