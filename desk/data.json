@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-19T01:30:02+00:00",
+ "generated_utc": "2026-09-19T01:35:02+00:00",
  "date_et": "2026-09-18",
  "build": "e96822bfe5",
  "tape": [
@@ -388,9 +388,9 @@
     "pct": -16.37
    }
   ],
-  "as_of": "2026-09-19T01:27:04.977300+00:00",
+  "as_of": "2026-09-19T01:33:04.889220+00:00",
   "tone": "risk-on",
-  "age_min": 2.9596277666666664
+  "age_min": 1.9592488166666666
  },
  "stories": [
   {
@@ -401,24 +401,10 @@
    "read": "escalation"
   },
   {
-   "topic": "Saudi / Gulf supply",
-   "title": "Saudi Aramco cancels October crude allocations to European refiners: Report - Anadolu Ajans\u0131",
-   "source": "Anadolu Ajans\u0131",
-   "published": "Fri, 18 Sep 2026 23:15:24 GMT",
-   "read": "unclear"
-  },
-  {
    "topic": "Russia / Ukraine",
    "title": "Putin says Ukraine interfering in Russian parliamentary election - Miami Herald",
    "source": "Miami Herald",
    "published": "Fri, 18 Sep 2026 23:14:07 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Saudi / Gulf supply",
-   "title": "Saudi oil refiners cut October shipments to Europe - wng.org",
-   "source": "wng.org",
-   "published": "Fri, 18 Sep 2026 22:59:00 GMT",
    "read": "unclear"
   },
   {
@@ -434,6 +420,20 @@
    "source": "energynewsbeat.co",
    "published": "Fri, 18 Sep 2026 20:58:43 GMT",
    "read": "unclear"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "The Iran war is minting new one-day millionaires: oil tankers brave enough to sail across the Strait of Hormuz - fortune.com",
+   "source": "fortune.com",
+   "published": "Fri, 18 Sep 2026 20:58:00 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iran Exploits Attack on Small Product Tanker to Assert Hormuz Control - maritime-executive.com",
+   "source": "maritime-executive.com",
+   "published": "Fri, 18 Sep 2026 19:12:28 GMT",
+   "read": "escalation"
   }
  ],
  "ratings": [
