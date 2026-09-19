@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-19T07:30:02+00:00",
+ "generated_utc": "2026-09-19T07:35:02+00:00",
  "date_et": "2026-09-19",
  "build": "e96822bfe5",
  "tape": [
@@ -280,16 +280,23 @@
     "pct": -4.08
    }
   ],
-  "as_of": "2026-09-19T07:27:05.080078+00:00",
+  "as_of": "2026-09-19T07:33:05.183103+00:00",
   "tone": "risk-on",
-  "age_min": 2.9510147833333336
+  "age_min": 1.9524730000000001
  },
  "stories": [
   {
    "topic": "Russia / Ukraine",
-   "title": "Russian holds parliamentary vote in areas it seized from Ukraine in the war - AP News",
+   "title": "Putin Accuses Ukraine of Sabotaging Peace Negotiations - Kyiv Post",
+   "source": "Kyiv Post",
+   "published": "Sat, 19 Sep 2026 06:01:10 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Russia holds parliamentary vote in areas it seized from Ukraine in the war - AP News",
    "source": "AP News",
-   "published": "Sat, 19 Sep 2026 04:15:00 GMT",
+   "published": "Sat, 19 Sep 2026 04:29:00 GMT",
    "read": "escalation"
   },
   {
@@ -312,13 +319,6 @@
    "source": "Taiwan News",
    "published": "Sat, 19 Sep 2026 02:52:00 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "President Donald Trump signs sweeping Russia sanctions bill named for Lindsey Graham, aiming to choke off funds for Moscow - ABC7 New York",
-   "source": "ABC7 New York",
-   "published": "Sat, 19 Sep 2026 01:47:43 GMT",
-   "read": "de-escalation"
   },
   {
    "topic": "Taiwan / China",
