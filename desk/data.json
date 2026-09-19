@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-19T13:30:02+00:00",
+ "generated_utc": "2026-09-19T13:35:02+00:00",
  "date_et": "2026-09-19",
  "build": "e96822bfe5",
  "tape": [
@@ -280,9 +280,9 @@
     "pct": -4.08
    }
   ],
-  "as_of": "2026-09-19T13:27:06.397803+00:00",
+  "as_of": "2026-09-19T13:33:06.099805+00:00",
   "tone": "risk-on",
-  "age_min": 2.9406459666666667
+  "age_min": 1.9474291166666666
  },
  "stories": [
   {
@@ -293,18 +293,25 @@
    "read": "de-escalation"
   },
   {
+   "topic": "Iran / Hormuz",
+   "title": "Iran Says Struck Oil Tanker in Strait of Hormuz - ASHARQ AL-AWSAT English",
+   "source": "ASHARQ AL-AWSAT English",
+   "published": "Sat, 19 Sep 2026 13:07:30 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Putin says Europe is 'preparing for war' - France 24",
+   "source": "France 24",
+   "published": "Sat, 19 Sep 2026 13:01:34 GMT",
+   "read": "unclear"
+  },
+  {
    "topic": "Russia / Ukraine",
    "title": "NHL top star facing backlash after supporting Putin\u2019s party in Russian elections - CNN",
    "source": "CNN",
    "published": "Sat, 19 Sep 2026 12:19:26 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Putin Says Russia Is Ready to Normalize Relations With Europe - Kurdistan24",
-   "source": "Kurdistan24",
-   "published": "Sat, 19 Sep 2026 11:10:40 GMT",
-   "read": "de-escalation"
   },
   {
    "topic": "Saudi / Gulf supply",
@@ -315,17 +322,10 @@
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Inside the Houthi advance: How Iran's allies are helping tighten Tehran's grip on the Red Sea - The Jerusalem Post",
-   "source": "The Jerusalem Post",
+   "title": "Inside the Houthi advance: How Iran's allies are helping tighten Tehran's grip on the Red Sea - jpost.com",
+   "source": "jpost.com",
    "published": "Sat, 19 Sep 2026 09:39:30 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Saudi / Gulf supply",
-   "title": "Saudi Aramco cancels October crude allocations to European refiners: Report - Middle East Monitor",
-   "source": "Middle East Monitor",
-   "published": "Sat, 19 Sep 2026 09:04:00 GMT",
-   "read": "unclear"
   }
  ],
  "ratings": [
@@ -473,46 +473,9 @@
   "note": "10-year government bonds; spread measured over Germany"
  },
  "auctions": {
-  "rows": [
-   {
-    "date": "2026-09-21",
-    "type": "Bill",
-    "term": "13-Week",
-    "amount_bn": 92.0
-   },
-   {
-    "date": "2026-09-21",
-    "type": "Bill",
-    "term": "26-Week",
-    "amount_bn": 79.0
-   },
-   {
-    "date": "2026-09-22",
-    "type": "Bill",
-    "term": "6-Week",
-    "amount_bn": 75.0
-   },
-   {
-    "date": "2026-09-22",
-    "type": "Note",
-    "term": "2-Year",
-    "amount_bn": 69.0
-   },
-   {
-    "date": "2026-09-23",
-    "type": "Note",
-    "term": "5-Year",
-    "amount_bn": 70.0
-   },
-   {
-    "date": "2026-09-23",
-    "type": "Note",
-    "term": "1-Year 10-Month",
-    "amount_bn": 28.0
-   }
-  ],
-  "total_bn": 457.0,
-  "note": "TreasuryDirect, announced offerings"
+  "rows": [],
+  "total": null,
+  "note": "unavailable (RemoteDisconnected)"
  },
  "disclaimer": "Snapshot, not a live feed. Every panel shows the age of its own data. Educational only, not financial advice."
 }
