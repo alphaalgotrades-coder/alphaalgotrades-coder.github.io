@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-19T09:50:02+00:00",
+ "generated_utc": "2026-09-19T09:55:02+00:00",
  "date_et": "2026-09-19",
  "build": "e96822bfe5",
  "tape": [
@@ -280,9 +280,9 @@
     "pct": -4.08
    }
   ],
-  "as_of": "2026-09-19T09:48:05.060856+00:00",
+  "as_of": "2026-09-19T09:54:05.416892+00:00",
   "tone": "risk-on",
-  "age_min": 1.9544611333333333
+  "age_min": 0.95045245
  },
  "stories": [
   {
@@ -321,11 +321,11 @@
    "read": "unclear"
   },
   {
-   "topic": "Russia / Ukraine",
-   "title": "Putin Accuses Ukraine of Sabotaging Peace Negotiations - Kyiv Post",
-   "source": "Kyiv Post",
-   "published": "Sat, 19 Sep 2026 06:01:10 GMT",
-   "read": "escalation"
+   "topic": "Saudi / Gulf supply",
+   "title": "Oil Prices Fall as Saudi Arabia Reroutes Crude via Oman Amid Pipeline Repairs - News and Statistics - IndexBox",
+   "source": "IndexBox",
+   "published": "Sat, 19 Sep 2026 04:04:09 GMT",
+   "read": "unclear"
   }
  ],
  "ratings": [
