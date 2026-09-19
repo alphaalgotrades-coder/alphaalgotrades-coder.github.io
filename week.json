@@ -31,5 +31,27 @@
   }
  ],
  "spotlight": "ADEA",
- "generated": "2026-09-19 08:34"
+ "cycle": {
+  "sold_puts": [],
+  "kept": [
+   "ADEA"
+  ],
+  "expired": [
+   "DLO"
+  ],
+  "assigned": [
+   "AS",
+   "BLDR",
+   "Z"
+  ],
+  "calls": [],
+  "rolled": [
+   "DLO"
+  ],
+  "called_away": [],
+  "kept_pct": {
+   "ADEA": 73
+  }
+ },
+ "generated": "2026-09-19 08:48"
 }
