@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-19T13:10:02+00:00",
+ "generated_utc": "2026-09-19T13:15:02+00:00",
  "date_et": "2026-09-19",
  "build": "e96822bfe5",
  "tape": [
@@ -280,9 +280,9 @@
     "pct": -4.08
    }
   ],
-  "as_of": "2026-09-19T13:09:05.964041+00:00",
+  "as_of": "2026-09-19T13:12:06.161036+00:00",
   "tone": "risk-on",
-  "age_min": 0.944096
+  "age_min": 2.9405465333333334
  },
  "stories": [
   {
@@ -291,6 +291,13 @@
    "source": "scmp.com",
    "published": "Thu, 17 Sep 2026 09:00:14 GMT",
    "read": "de-escalation"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "NHL top star facing backlash after supporting Putin\u2019s party in Russian elections - CNN",
+   "source": "CNN",
+   "published": "Sat, 19 Sep 2026 12:19:26 GMT",
+   "read": "unclear"
   },
   {
    "topic": "Russia / Ukraine",
@@ -318,13 +325,6 @@
    "title": "Saudi Aramco cancels October crude allocations to European refiners: Report - Middle East Monitor",
    "source": "Middle East Monitor",
    "published": "Sat, 19 Sep 2026 09:04:00 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "The Kremlin Has Put Lots of Veterans on the Ballot. Could It Backfire? - The New York Times",
-   "source": "The New York Times",
-   "published": "Sat, 19 Sep 2026 09:02:21 GMT",
    "read": "unclear"
   }
  ],
