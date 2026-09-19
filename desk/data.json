@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-19T21:30:03+00:00",
+ "generated_utc": "2026-09-19T21:35:02+00:00",
  "date_et": "2026-09-19",
  "build": "e96822bfe5",
  "tape": [
@@ -280,9 +280,9 @@
     "pct": -4.08
    }
   ],
-  "as_of": "2026-09-19T21:27:05.413618+00:00",
+  "as_of": "2026-09-19T21:33:05.213229+00:00",
   "tone": "risk-on",
-  "age_min": 2.976340116666667
+  "age_min": 1.9636338833333333
  },
  "stories": [
   {
@@ -307,6 +307,13 @@
    "read": "unclear"
   },
   {
+   "topic": "Russia / Ukraine",
+   "title": "Russia Warns New U.S. Sanctions Law Would Harm Trump\u2019s Peace Efforts - The New York Times",
+   "source": "The New York Times",
+   "published": "Sat, 19 Sep 2026 18:35:14 GMT",
+   "read": "unclear"
+  },
+  {
    "topic": "Saudi / Gulf supply",
    "title": "Saudi Arabia cancels oil shipments to European refineries after attacks - The Business Standard",
    "source": "The Business Standard",
@@ -319,13 +326,6 @@
    "source": "Iran International",
    "published": "Sat, 19 Sep 2026 18:30:00 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Cairo, Washington discuss Iran crisis, stress freedom of navigation in Hormuz - Dailynewsegypt",
-   "source": "Dailynewsegypt",
-   "published": "Sat, 19 Sep 2026 18:05:39 GMT",
-   "read": "unclear"
   }
  ],
  "ratings": [
