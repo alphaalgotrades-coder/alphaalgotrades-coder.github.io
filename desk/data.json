@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-19T16:10:03+00:00",
+ "generated_utc": "2026-09-19T16:15:03+00:00",
  "date_et": "2026-09-19",
  "build": "e96822bfe5",
  "tape": [
@@ -280,9 +280,9 @@
     "pct": -4.08
    }
   ],
-  "as_of": "2026-09-19T16:09:04.682235+00:00",
+  "as_of": "2026-09-19T16:12:04.680831+00:00",
   "tone": "risk-on",
-  "age_min": 0.9771511833333334
+  "age_min": 2.9863658833333333
  },
  "stories": [
   {
@@ -322,10 +322,10 @@
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Iran Says Struck Oil Tanker in Strait of Hormuz - english.aawsat.com",
-   "source": "english.aawsat.com",
-   "published": "Sat, 19 Sep 2026 13:07:30 GMT",
-   "read": "escalation"
+   "title": "An unaffordable car market highlights Iran\u2019s cost-of-living crisis - Al Jazeera",
+   "source": "Al Jazeera",
+   "published": "Sat, 19 Sep 2026 13:26:27 GMT",
+   "read": "unclear"
   }
  ],
  "ratings": [
