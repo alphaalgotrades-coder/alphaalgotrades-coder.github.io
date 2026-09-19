@@ -1,12 +1,12 @@
 {
- "generated_utc": "2026-09-19T00:05:04.455108+00:00",
+ "generated_utc": "2026-09-19T01:05:04.366897+00:00",
  "paper": true,
  "strategy": "the wheel (cash-secured puts -> covered calls)",
  "since": "2026-07-13",
- "trading_days": 41,
+ "trading_days": 42,
  "green_days": 24,
  "red_days": 2,
- "total_fills": 117,
+ "total_fills": 122,
  "symbols_traded": 22,
  "cumulative_realized": 7722.27,
  "days": [
@@ -296,6 +296,13 @@
    "realized": 220.0,
    "commission": 0.0,
    "cumulative": 7722.27
+  },
+  {
+   "date": "2026-09-19",
+   "fills": 5,
+   "realized": 0.0,
+   "commission": 0.0,
+   "cumulative": 7722.27
   }
  ],
  "open_legs": [
@@ -426,11 +433,11 @@
   "avg_loss": -197.83,
   "profit_factor": 7.51,
   "expectancy": 193.06,
-  "sharpe_daily_ann": 5.96,
+  "sharpe_daily_ann": 5.88,
   "capital_at_risk": 63126.0,
   "period_return_pct": 12.23,
-  "ann_pace_pct": 66.6,
-  "elapsed_days": 67
+  "ann_pace_pct": 64.7,
+  "elapsed_days": 69
  },
  "assigned": [
   {
