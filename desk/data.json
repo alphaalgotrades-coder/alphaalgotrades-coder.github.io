@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-19T12:30:02+00:00",
+ "generated_utc": "2026-09-19T12:35:02+00:00",
  "date_et": "2026-09-19",
  "build": "e96822bfe5",
  "tape": [
@@ -280,18 +280,11 @@
     "pct": -4.08
    }
   ],
-  "as_of": "2026-09-19T12:27:05.814107+00:00",
+  "as_of": "2026-09-19T12:33:05.850127+00:00",
   "tone": "risk-on",
-  "age_min": 2.9451254833333333
+  "age_min": 1.9458978333333334
  },
  "stories": [
-  {
-   "topic": "Iran / Hormuz",
-   "title": "U.N. panel cites possible U.S. war crimes as Trump again says Iran wants a deal - CBS News",
-   "source": "CBS News",
-   "published": "Thu, 17 Sep 2026 11:20:00 GMT",
-   "read": "unclear"
-  },
   {
    "topic": "Taiwan / China",
    "title": "Taipei donates coastguard vessel to Manila amid South China Sea tensions - scmp.com",
@@ -325,6 +318,13 @@
    "title": "Saudi Aramco cancels October crude allocations to European refiners: Report - Middle East Monitor",
    "source": "Middle East Monitor",
    "published": "Sat, 19 Sep 2026 09:04:00 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "The Kremlin Has Put Lots of Veterans on the Ballot. Could It Backfire? - The New York Times",
+   "source": "The New York Times",
+   "published": "Sat, 19 Sep 2026 09:02:21 GMT",
    "read": "unclear"
   }
  ],

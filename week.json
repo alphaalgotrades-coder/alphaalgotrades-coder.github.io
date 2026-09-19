@@ -1,64 +1,35 @@
 {
- "week": 9,
- "from": "2026-09-07",
- "to": "2026-09-11",
- "realized": 333,
- "fills": 7,
- "green_days": 3,
+ "week": 10,
+ "from": "2026-09-14",
+ "to": "2026-09-18",
+ "realized": 220,
+ "fills": 9,
+ "green_days": 1,
  "red_days": 0,
  "closed": [
   {
-   "symbol": "BHP",
+   "symbol": "ADEA",
    "legs": [
     {
-     "leg": "P90.00",
+     "leg": "P25.00",
      "expiry": "20260918",
-     "opened": "2026-08-19",
-     "closed": "2026-09-08",
-     "sold_at": 3.1,
-     "bought_at": 0.9,
-     "contracts": 1,
-     "kept_pct": 71,
-     "days_held": 20,
+     "opened": "2026-08-27",
+     "closed": "2026-09-17",
+     "sold_at": 0.75,
+     "bought_at": 0.2,
+     "contracts": 4,
+     "kept_pct": 73,
+     "days_held": 21,
      "realized": 220,
      "kind": "CSP_OPEN",
-     "reason": "CSP entry | aimed $3.25 -> filled $3.10 | vrp 1.32 VIX 15.2 grade FAIR"
+     "reason": "CSP entry | aimed $0.87 -> filled $0.75 | vrp 1.09 VIX 14.6 grade FAIR"
     }
    ],
    "realized": 220,
    "assigned": false,
    "recovered": false
-  },
-  {
-   "symbol": "CLSK",
-   "legs": [],
-   "realized": 69,
-   "assigned": false,
-   "recovered": false
-  },
-  {
-   "symbol": "SPY",
-   "legs": [
-    {
-     "leg": "C763.00",
-     "expiry": "20260925",
-     "opened": "2026-09-10",
-     "closed": "2026-09-11",
-     "sold_at": 5.75,
-     "bought_at": 8.58,
-     "contracts": 1,
-     "kept_pct": -49,
-     "days_held": 1,
-     "realized": -283,
-     "kind": "CC_OPEN",
-     "reason": "covered call (above-basis) basis $762.66 -- booked post-hoc: sold 09-10 before S"
-    }
-   ],
-   "realized": 44,
-   "assigned": false,
-   "recovered": false
   }
  ],
- "spotlight": "BHP",
- "generated": "2026-09-12 07:49"
+ "spotlight": "ADEA",
+ "generated": "2026-09-19 08:34"
 }
