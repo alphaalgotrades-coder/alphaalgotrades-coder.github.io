@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-19T05:50:02+00:00",
+ "generated_utc": "2026-09-19T05:55:02+00:00",
  "date_et": "2026-09-19",
  "build": "e96822bfe5",
  "tape": [
@@ -280,11 +280,18 @@
     "pct": -16.37
    }
   ],
-  "as_of": "2026-09-19T05:48:05.205333+00:00",
+  "as_of": "2026-09-19T05:54:05.400175+00:00",
   "tone": "risk-on",
-  "age_min": 1.9601683166666668
+  "age_min": 0.95658585
  },
  "stories": [
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Russian holds parliamentary vote in areas it seized from Ukraine in the war - AP News",
+   "source": "AP News",
+   "published": "Sat, 19 Sep 2026 04:15:00 GMT",
+   "read": "escalation"
+  },
   {
    "topic": "Saudi / Gulf supply",
    "title": "Oil Prices Fall as Saudi Arabia Reroutes Crude via Oman Amid Pipeline Repairs - News and Statistics - IndexBox",
@@ -300,6 +307,13 @@
    "read": "escalation"
   },
   {
+   "topic": "Russia / Ukraine",
+   "title": "President Donald Trump signs sweeping Russia sanctions bill named for Lindsey Graham, aiming to choke off funds for Moscow - ABC7 New York",
+   "source": "ABC7 New York",
+   "published": "Sat, 19 Sep 2026 01:47:43 GMT",
+   "read": "de-escalation"
+  },
+  {
    "topic": "Saudi / Gulf supply",
    "title": "Saudi Arabia Cuts October Crude Oil Supply to Europeans - greekreporter.com",
    "source": "greekreporter.com",
@@ -308,24 +322,10 @@
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "Trump signs sweeping Russia sanctions over Ukraine war - Al Jazeera",
-   "source": "Al Jazeera",
-   "published": "Sat, 19 Sep 2026 00:46:22 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
    "title": "Seven men who could lead Russia after Putin - washingtonpost.com",
    "source": "washingtonpost.com",
    "published": "Sat, 19 Sep 2026 00:14:47 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran claims it struck an oil tanker in the Strait of Hormuz, and other Mideast developments - The Journal Gazette",
-   "source": "The Journal Gazette",
-   "published": "Fri, 18 Sep 2026 23:39:00 GMT",
-   "read": "escalation"
   }
  ],
  "ratings": [
