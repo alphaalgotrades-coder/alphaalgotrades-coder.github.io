@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-19T00:30:02+00:00",
+ "generated_utc": "2026-09-19T00:35:02+00:00",
  "date_et": "2026-09-18",
  "build": "e96822bfe5",
  "tape": [
@@ -388,9 +388,9 @@
     "pct": -16.37
    }
   ],
-  "as_of": "2026-09-19T00:27:04.963390+00:00",
+  "as_of": "2026-09-19T00:33:04.898815+00:00",
   "tone": "risk-on",
-  "age_min": 2.95667545
+  "age_min": 1.9598416333333333
  },
  "stories": [
   {
@@ -402,8 +402,8 @@
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "Putin says Ukraine interfering in Russian parliamentary election - The State",
-   "source": "The State",
+   "title": "Putin says Ukraine interfering in Russian parliamentary election - Modesto Bee",
+   "source": "Modesto Bee",
    "published": "Fri, 18 Sep 2026 23:14:07 GMT",
    "read": "unclear"
   },
@@ -415,10 +415,10 @@
    "read": "unclear"
   },
   {
-   "topic": "Russia / Ukraine",
-   "title": "Trump Signs a Sanctions Bill Targeting Russia, but Pursues Deals Too - The New York Times",
-   "source": "The New York Times",
-   "published": "Fri, 18 Sep 2026 22:58:00 GMT",
+   "topic": "Iran / Hormuz",
+   "title": "Iran claims it struck an oil tanker in the Strait of Hormuz - WPLG Local 10",
+   "source": "WPLG Local 10",
+   "published": "Fri, 18 Sep 2026 22:42:33 GMT",
    "read": "unclear"
   },
   {
