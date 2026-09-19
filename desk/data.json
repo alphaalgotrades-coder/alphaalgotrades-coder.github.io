@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-19T14:10:02+00:00",
+ "generated_utc": "2026-09-19T14:15:02+00:00",
  "date_et": "2026-09-19",
  "build": "e96822bfe5",
  "tape": [
@@ -280,9 +280,9 @@
     "pct": -4.08
    }
   ],
-  "as_of": "2026-09-19T14:09:04.770138+00:00",
+  "as_of": "2026-09-19T14:12:04.630467+00:00",
   "tone": "risk-on",
-  "age_min": 0.9666528833333333
+  "age_min": 2.9679510833333334
  },
  "stories": [
   {
@@ -301,16 +301,16 @@
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "Putin says Europe is 'preparing for war' - France 24",
-   "source": "France 24",
+   "title": "Putin says Europe is 'preparing for war' - france24.com",
+   "source": "france24.com",
    "published": "Sat, 19 Sep 2026 13:01:34 GMT",
    "read": "unclear"
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "NHL top star facing backlash after supporting Putin\u2019s party in Russian elections - CNN",
-   "source": "CNN",
-   "published": "Sat, 19 Sep 2026 12:19:26 GMT",
+   "title": "Putin says Europe is 'preparing for war' - France 24",
+   "source": "France 24",
+   "published": "Sat, 19 Sep 2026 13:01:34 GMT",
    "read": "unclear"
   },
   {
