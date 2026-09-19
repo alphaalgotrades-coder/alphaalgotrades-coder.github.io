@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-19T08:10:02+00:00",
+ "generated_utc": "2026-09-19T08:15:02+00:00",
  "date_et": "2026-09-19",
  "build": "e96822bfe5",
  "tape": [
@@ -280,11 +280,18 @@
     "pct": -4.08
    }
   ],
-  "as_of": "2026-09-19T08:09:05.080697+00:00",
+  "as_of": "2026-09-19T08:12:04.537210+00:00",
   "tone": "risk-on",
-  "age_min": 0.9515460166666667
+  "age_min": 2.96215795
  },
  "stories": [
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Putin says Russia has no aggressive intentions toward Europe, ready to restore relations - Anadolu Ajans\u0131",
+   "source": "Anadolu Ajans\u0131",
+   "published": "Sat, 19 Sep 2026 07:32:19 GMT",
+   "read": "unclear"
+  },
   {
    "topic": "Russia / Ukraine",
    "title": "Putin Accuses Ukraine of Sabotaging Peace Negotiations - Kyiv Post",
@@ -307,25 +314,18 @@
    "read": "unclear"
   },
   {
+   "topic": "Iran / Hormuz",
+   "title": "Frustration grows as Houthis widen Middle East conflict with US unwilling to intervene - CNN",
+   "source": "CNN",
+   "published": "Sat, 19 Sep 2026 04:00:29 GMT",
+   "read": "unclear"
+  },
+  {
    "topic": "Taiwan / China",
    "title": "Taiwan tracks 20 Chinese military aircraft and 14 ships - Taiwan News",
    "source": "Taiwan News",
    "published": "Sat, 19 Sep 2026 02:52:00 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Taiwan / China",
-   "title": "Exclusive | US weighs delaying Taiwan arms sales until after Apec and G20 summits - South China Morning Post",
-   "source": "South China Morning Post",
-   "published": "Sat, 19 Sep 2026 01:00:13 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Saudi / Gulf supply",
-   "title": "Saudi Arabia Cuts October Crude Oil Supply to Europeans - greekreporter.com",
-   "source": "greekreporter.com",
-   "published": "Sat, 19 Sep 2026 00:48:15 GMT",
-   "read": "unclear"
   }
  ],
  "ratings": [
