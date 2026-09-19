@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-19T17:30:03+00:00",
+ "generated_utc": "2026-09-19T17:35:03+00:00",
  "date_et": "2026-09-19",
  "build": "e96822bfe5",
  "tape": [
@@ -280,9 +280,9 @@
     "pct": -4.08
    }
   ],
-  "as_of": "2026-09-19T17:27:05.262608+00:00",
+  "as_of": "2026-09-19T17:33:05.272705+00:00",
   "tone": "risk-on",
-  "age_min": 2.9781253666666667
+  "age_min": 1.9768164333333333
  },
  "stories": [
   {
@@ -307,6 +307,13 @@
    "read": "unclear"
   },
   {
+   "topic": "Taiwan / China",
+   "title": "Union chairman jailed in China returns to Taiwan - Taipei Times",
+   "source": "Taipei Times",
+   "published": "Sat, 19 Sep 2026 16:00:00 GMT",
+   "read": "unclear"
+  },
+  {
    "topic": "Russia / Ukraine",
    "title": "Russia reports \u2018powerful\u2019 cyberattacks on second day of parliamentary vote - Al Jazeera",
    "source": "Al Jazeera",
@@ -319,13 +326,6 @@
    "source": "The Times of India",
    "published": "Sat, 19 Sep 2026 14:49:00 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Last Time Russia Elected Duma, Ukraine War Followed. Now Familiar Signs Are Back - Hungarian Conservative",
-   "source": "Hungarian Conservative",
-   "published": "Sat, 19 Sep 2026 14:19:33 GMT",
-   "read": "unclear"
   }
  ],
  "ratings": [
