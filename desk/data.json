@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-19T13:50:02+00:00",
+ "generated_utc": "2026-09-19T13:55:02+00:00",
  "date_et": "2026-09-19",
  "build": "e96822bfe5",
  "tape": [
@@ -280,9 +280,9 @@
     "pct": -4.08
    }
   ],
-  "as_of": "2026-09-19T13:48:06.029258+00:00",
+  "as_of": "2026-09-19T13:54:05.059396+00:00",
   "tone": "risk-on",
-  "age_min": 1.9463689666666668
+  "age_min": 0.9619277
  },
  "stories": [
   {
@@ -321,11 +321,11 @@
    "read": "unclear"
   },
   {
-   "topic": "Iran / Hormuz",
-   "title": "Inside the Houthi advance: How Iran's allies are helping tighten Tehran's grip on the Red Sea - jpost.com",
-   "source": "jpost.com",
-   "published": "Sat, 19 Sep 2026 09:39:30 GMT",
-   "read": "escalation"
+   "topic": "Russia / Ukraine",
+   "title": "Russia Signals Possible October Peace Talks With Ukraine and US - caspiannews.com",
+   "source": "caspiannews.com",
+   "published": "Sat, 19 Sep 2026 10:20:10 GMT",
+   "read": "de-escalation"
   }
  ],
  "ratings": [
