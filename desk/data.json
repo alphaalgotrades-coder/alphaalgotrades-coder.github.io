@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-19T08:50:02+00:00",
+ "generated_utc": "2026-09-19T08:55:02+00:00",
  "date_et": "2026-09-19",
  "build": "e96822bfe5",
  "tape": [
@@ -280,11 +280,25 @@
     "pct": -4.08
    }
   ],
-  "as_of": "2026-09-19T08:48:04.608750+00:00",
+  "as_of": "2026-09-19T08:54:08.409611+00:00",
   "tone": "risk-on",
-  "age_min": 1.9607728333333334
+  "age_min": 0.8991621333333334
  },
  "stories": [
+  {
+   "topic": "Iran / Hormuz",
+   "title": "U.N. panel cites possible U.S. war crimes as Trump again says Iran wants a deal - CBS News",
+   "source": "CBS News",
+   "published": "Thu, 17 Sep 2026 11:20:00 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iran claims strike on tanker; US reports casualties - The Arkansas Democrat-Gazette",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": "Sat, 19 Sep 2026 08:34:00 GMT",
+   "read": "escalation"
+  },
   {
    "topic": "Russia / Ukraine",
    "title": "Putin says Russia has no aggressive intentions toward Europe, ready to restore relations - Anadolu Ajans\u0131",
@@ -311,20 +325,6 @@
    "title": "Frustration grows as Houthis widen Middle East conflict with US unwilling to intervene - CNN",
    "source": "CNN",
    "published": "Sat, 19 Sep 2026 04:00:29 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Taiwan / China",
-   "title": "Taiwan tracks 20 Chinese military aircraft and 14 ships - Taiwan News",
-   "source": "Taiwan News",
-   "published": "Sat, 19 Sep 2026 02:52:00 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Taiwan / China",
-   "title": "Exclusive | US weighs delaying Taiwan arms sales until after Apec and G20 summits - South China Morning Post",
-   "source": "South China Morning Post",
-   "published": "Sat, 19 Sep 2026 01:00:13 GMT",
    "read": "unclear"
   }
  ],
