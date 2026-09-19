@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-19T18:10:03+00:00",
+ "generated_utc": "2026-09-19T18:15:03+00:00",
  "date_et": "2026-09-19",
  "build": "e96822bfe5",
  "tape": [
@@ -280,9 +280,9 @@
     "pct": -4.08
    }
   ],
-  "as_of": "2026-09-19T18:09:05.477100+00:00",
+  "as_of": "2026-09-19T18:12:05.312588+00:00",
   "tone": "risk-on",
-  "age_min": 0.9682697833333334
+  "age_min": 2.9794895833333332
  },
  "stories": [
   {
@@ -314,17 +314,17 @@
    "read": "unclear"
   },
   {
-   "topic": "Russia / Ukraine",
-   "title": "Russia reports \u2018powerful\u2019 cyberattacks on second day of parliamentary vote - Al Jazeera",
-   "source": "Al Jazeera",
-   "published": "Sat, 19 Sep 2026 15:22:30 GMT",
-   "read": "escalation"
-  },
-  {
    "topic": "Saudi / Gulf supply",
    "title": "Saudi Aramco stops crude supplies to Indian refiners after pipeline attack; replacement barrels available - The Times of India",
    "source": "The Times of India",
    "published": "Sat, 19 Sep 2026 14:49:00 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Live - Iran threatens regional oil exports, Trump signs new sanctions bill into law - Iran International",
+   "source": "Iran International",
+   "published": "Sat, 19 Sep 2026 12:58:00 GMT",
    "read": "escalation"
   }
  ],
