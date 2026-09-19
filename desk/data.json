@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-19T16:50:03+00:00",
+ "generated_utc": "2026-09-19T16:55:03+00:00",
  "date_et": "2026-09-19",
  "build": "e96822bfe5",
  "tape": [
@@ -280,9 +280,9 @@
     "pct": -4.08
    }
   ],
-  "as_of": "2026-09-19T16:48:04.514445+00:00",
+  "as_of": "2026-09-19T16:54:04.843209+00:00",
   "tone": "risk-on",
-  "age_min": 1.9804911833333334
+  "age_min": 0.9756675833333334
  },
  "stories": [
   {
@@ -291,6 +291,13 @@
    "source": "scmp.com",
    "published": "Thu, 17 Sep 2026 09:00:14 GMT",
    "read": "de-escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iran to Require Approval for Data Cables Crossing Strait of Hormuz - WANA News Agency",
+   "source": "WANA News Agency",
+   "published": "Sat, 19 Sep 2026 16:38:07 GMT",
+   "read": "unclear"
   },
   {
    "topic": "Iran / Hormuz",
@@ -318,13 +325,6 @@
    "title": "Last Time Russia Elected Duma, Ukraine War Followed. Now Familiar Signs Are Back - Hungarian Conservative",
    "source": "Hungarian Conservative",
    "published": "Sat, 19 Sep 2026 14:19:33 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "An unaffordable car market highlights Iran\u2019s cost-of-living crisis - Al Jazeera",
-   "source": "Al Jazeera",
-   "published": "Sat, 19 Sep 2026 13:26:27 GMT",
    "read": "unclear"
   }
  ],
