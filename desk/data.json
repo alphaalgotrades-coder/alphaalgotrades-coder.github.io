@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-19T19:30:02+00:00",
+ "generated_utc": "2026-09-19T19:35:02+00:00",
  "date_et": "2026-09-19",
  "build": "e96822bfe5",
  "tape": [
@@ -280,9 +280,9 @@
     "pct": -4.08
    }
   ],
-  "as_of": "2026-09-19T19:27:05.124819+00:00",
+  "as_of": "2026-09-19T19:33:05.320340+00:00",
   "tone": "risk-on",
-  "age_min": 2.9594268166666664
+  "age_min": 1.95626995
  },
  "stories": [
   {
@@ -291,13 +291,6 @@
    "source": "cbsnews.com",
    "published": "Thu, 17 Sep 2026 11:20:00 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Taiwan / China",
-   "title": "Taipei donates coastguard vessel to Manila amid South China Sea tensions - scmp.com",
-   "source": "scmp.com",
-   "published": "Thu, 17 Sep 2026 09:00:14 GMT",
-   "read": "de-escalation"
   },
   {
    "topic": "Saudi / Gulf supply",
@@ -325,6 +318,13 @@
    "title": "Cairo, Washington discuss Iran crisis, stress freedom of navigation in Hormuz - Dailynewsegypt",
    "source": "Dailynewsegypt",
    "published": "Sat, 19 Sep 2026 18:05:39 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Taiwan / China",
+   "title": "Union chairman jailed in China returns to Taiwan - taipeitimes.com",
+   "source": "taipeitimes.com",
+   "published": "Sat, 19 Sep 2026 16:00:00 GMT",
    "read": "unclear"
   }
  ],
