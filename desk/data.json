@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-19T19:10:02+00:00",
+ "generated_utc": "2026-09-19T19:15:02+00:00",
  "date_et": "2026-09-19",
  "build": "e96822bfe5",
  "tape": [
@@ -280,9 +280,9 @@
     "pct": -4.08
    }
   ],
-  "as_of": "2026-09-19T19:09:05.120708+00:00",
+  "as_of": "2026-09-19T19:12:04.794716+00:00",
   "tone": "risk-on",
-  "age_min": 0.9538207
+  "age_min": 2.9653690833333335
  },
  "stories": [
   {
@@ -300,6 +300,13 @@
    "read": "de-escalation"
   },
   {
+   "topic": "Saudi / Gulf supply",
+   "title": "Saudi Arabia Cuts Europe Off From October Crude After Pipeline attack - Eurasia Business News",
+   "source": "Eurasia Business News",
+   "published": "Sat, 19 Sep 2026 19:06:50 GMT",
+   "read": "escalation"
+  },
+  {
    "topic": "Iran / Hormuz",
    "title": "Centcom: Over 1B crude oil barrels passed through Hormuz strait in recent months - The Hill",
    "source": "The Hill",
@@ -315,15 +322,8 @@
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "US military: Strait of Hormuz shipping traffic at 6-month high - \u30a2\u30e9\u30d6\u30cb\u30e5\u30fc\u30b9",
-   "source": "\u30a2\u30e9\u30d6\u30cb\u30e5\u30fc\u30b9",
-   "published": "Sat, 19 Sep 2026 18:30:14 GMT",
-   "read": "de-escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Cairo, Washington discuss Iran crisis, stress freedom of navigation in Hormuz - dailynewsegypt.com",
-   "source": "dailynewsegypt.com",
+   "title": "Cairo, Washington discuss Iran crisis, stress freedom of navigation in Hormuz - Dailynewsegypt",
+   "source": "Dailynewsegypt",
    "published": "Sat, 19 Sep 2026 18:05:39 GMT",
    "read": "unclear"
   }
