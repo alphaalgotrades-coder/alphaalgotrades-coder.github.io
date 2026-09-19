@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-19T14:30:02+00:00",
+ "generated_utc": "2026-09-19T14:35:02+00:00",
  "date_et": "2026-09-19",
  "build": "e96822bfe5",
  "tape": [
@@ -280,9 +280,9 @@
     "pct": -4.08
    }
   ],
-  "as_of": "2026-09-19T14:27:04.590193+00:00",
+  "as_of": "2026-09-19T14:33:04.821028+00:00",
   "tone": "risk-on",
-  "age_min": 2.968674716666667
+  "age_min": 1.9645213666666665
  },
  "stories": [
   {
@@ -293,9 +293,23 @@
    "read": "de-escalation"
   },
   {
+   "topic": "Russia / Ukraine",
+   "title": "Last Time Russia Elected Duma, Ukraine War Followed. Now Familiar Signs Are Back - hungarianconservative.com",
+   "source": "hungarianconservative.com",
+   "published": "Sat, 19 Sep 2026 14:19:33 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Vladimir Putin claims Ukraine meddling in parliamentary elections - jpost.com",
+   "source": "jpost.com",
+   "published": "Sat, 19 Sep 2026 14:04:17 GMT",
+   "read": "unclear"
+  },
+  {
    "topic": "Iran / Hormuz",
-   "title": "Iran Says Struck Oil Tanker in Strait of Hormuz - ASHARQ AL-AWSAT English",
-   "source": "ASHARQ AL-AWSAT English",
+   "title": "Iran Says Struck Oil Tanker in Strait of Hormuz - english.aawsat.com",
+   "source": "english.aawsat.com",
    "published": "Sat, 19 Sep 2026 13:07:30 GMT",
    "read": "escalation"
   },
@@ -307,25 +321,11 @@
    "read": "unclear"
   },
   {
-   "topic": "Russia / Ukraine",
-   "title": "Putin says Europe is 'preparing for war' - France 24",
-   "source": "France 24",
-   "published": "Sat, 19 Sep 2026 13:01:34 GMT",
-   "read": "unclear"
-  },
-  {
    "topic": "Saudi / Gulf supply",
    "title": "Saudi Arabia Crude Output Hits 30-Year Low As Non-Gulf Producers Step Up - NDTV",
    "source": "NDTV",
    "published": "Sat, 19 Sep 2026 11:03:48 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Russia Signals Possible October Peace Talks With Ukraine and US - caspiannews.com",
-   "source": "caspiannews.com",
-   "published": "Sat, 19 Sep 2026 10:20:10 GMT",
-   "read": "de-escalation"
   }
  ],
  "ratings": [
