@@ -1,15 +1,33 @@
 {
- "generated_utc": "2026-09-19T21:40:03+00:00",
- "date_et": "2026-09-19",
+ "generated_utc": "2026-09-20T23:50:15+00:00",
+ "date_et": "2026-09-20",
  "build": "e96822bfe5",
  "tape": [
   {
-   "time": "06:15",
-   "ccy": "EUR",
-   "impact": "Low",
-   "title": "ECOFIN Meetings",
+   "time": "19:00",
+   "ccy": "JPY",
+   "impact": "Holi",
+   "title": "Bank Holiday",
    "cons": "",
    "prev": "",
+   "actual": ""
+  },
+  {
+   "time": "19:01",
+   "ccy": "GBP",
+   "impact": "Low",
+   "title": "Rightmove HPI m/m",
+   "cons": "",
+   "prev": "-2.0%",
+   "actual": ""
+  },
+  {
+   "time": "23:00",
+   "ccy": "NZD",
+   "impact": "Low",
+   "title": "Credit Card Spending y/y",
+   "cons": "",
+   "prev": "5.3%",
    "actual": ""
   }
  ],
@@ -246,20 +264,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 96.08,
-    "pct": -1.18
+    "price": 95.96,
+    "pct": -0.12
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4424.9,
-    "pct": 0.57
+    "price": 4413.3,
+    "pct": -0.26
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 100.215,
-    "pct": -0.01
+    "price": 100.274,
+    "pct": 0.05
    },
    {
     "sym": "SPY",
@@ -280,9 +298,9 @@
     "pct": -4.08
    }
   ],
-  "as_of": "2026-09-19T21:39:05.634694+00:00",
+  "as_of": "2026-09-20T23:48:05.540107+00:00",
   "tone": "risk-on",
-  "age_min": 0.9610146666666667
+  "age_min": 2.1601495833333333
  },
  "stories": [
   {
