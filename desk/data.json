@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-20T23:50:15+00:00",
+ "generated_utc": "2026-09-20T23:55:03+00:00",
  "date_et": "2026-09-20",
  "build": "e96822bfe5",
  "tape": [
@@ -19,7 +19,7 @@
    "title": "Rightmove HPI m/m",
    "cons": "",
    "prev": "-2.0%",
-   "actual": ""
+   "actual": "0.7%"
   },
   {
    "time": "23:00",
@@ -270,13 +270,13 @@
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4413.3,
-    "pct": -0.26
+    "price": 4411.2,
+    "pct": -0.31
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 100.274,
+    "price": 100.276,
     "pct": 0.05
    },
    {
@@ -298,51 +298,51 @@
     "pct": -4.08
    }
   ],
-  "as_of": "2026-09-20T23:48:05.540107+00:00",
+  "as_of": "2026-09-20T23:54:05.191454+00:00",
   "tone": "risk-on",
-  "age_min": 2.1601495833333333
+  "age_min": 0.9677523666666666
  },
  "stories": [
   {
-   "topic": "Russia / Ukraine",
-   "title": "In Russia, the election result is easy to guess. Much else there is uncertain. - The Washington Post",
-   "source": "The Washington Post",
-   "published": "Sat, 19 Sep 2026 20:35:39 GMT",
+   "topic": "Taiwan / China",
+   "title": "China &amp; Taiwan Update, September 15, 2026 - Institute for the Study of War",
+   "source": "Institute for the Study of War",
+   "published": "Tue, 15 Sep 2026 17:37:33 GMT",
    "read": "unclear"
   },
   {
-   "topic": "Saudi / Gulf supply",
-   "title": "Saudi Arabia Cuts Europe Off From October Crude After Pipeline attack - eurasiabusinessnews.com",
-   "source": "eurasiabusinessnews.com",
-   "published": "Sat, 19 Sep 2026 19:06:50 GMT",
+   "topic": "Iran / Hormuz",
+   "title": "Middle East braces for more violence as Iran claims US is planning to renew bombing campaign - The Guardian",
+   "source": "The Guardian",
+   "published": "Sun, 20 Sep 2026 21:12:00 GMT",
    "read": "escalation"
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Centcom: Over 1B crude oil barrels passed through Hormuz strait in recent months - The Hill",
-   "source": "The Hill",
-   "published": "Sat, 19 Sep 2026 18:38:00 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Russia Warns New U.S. Sanctions Law Would Harm Trump\u2019s Peace Efforts - The New York Times",
-   "source": "The New York Times",
-   "published": "Sat, 19 Sep 2026 18:35:14 GMT",
+   "title": "IRGC Profiteer Babak Zanjani Skims Iran\u2019s Hormuz Tolls - The Maritime Executive",
+   "source": "The Maritime Executive",
+   "published": "Sun, 20 Sep 2026 18:52:48 GMT",
    "read": "unclear"
   },
   {
    "topic": "Saudi / Gulf supply",
-   "title": "Saudi Arabia cancels oil shipments to European refineries after attacks - The Business Standard",
-   "source": "The Business Standard",
-   "published": "Sat, 19 Sep 2026 18:31:09 GMT",
+   "title": "Pipe Attacked by Drone, Saudi Aramco Cancel October Oil Allocation to Europe - VOI.ID",
+   "source": "VOI.ID",
+   "published": "Sun, 20 Sep 2026 18:10:00 GMT",
    "read": "escalation"
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Iran sets terms for renewed US talks, says ready for escalation - Iran International",
-   "source": "Iran International",
-   "published": "Sat, 19 Sep 2026 18:30:00 GMT",
+   "title": "Iran and US trade threats after Houthi attacks escalate regional conflict - reuters.com",
+   "source": "reuters.com",
+   "published": "Sun, 20 Sep 2026 17:46:57 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Saudi / Gulf supply",
+   "title": "Strikes at the heart of Saudi Arabia\u2019s oil network: Is energy security being reshaped? - \u0646\u0648\u0646 \u0628\u0648\u0633\u062a",
+   "source": "\u0646\u0648\u0646 \u0628\u0648\u0633\u062a",
+   "published": "Sun, 20 Sep 2026 16:01:07 GMT",
    "read": "escalation"
   }
  ],
