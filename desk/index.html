@@ -214,6 +214,30 @@ footer{display:flex;align-items:center;gap:0;border-top:1px solid var(--line);
 .stamp{flex:0 0 auto;max-width:430px;padding:0 30px;font-size:13px;letter-spacing:.14em;
   text-transform:uppercase;color:var(--mut);border-left:1px solid var(--line);
   display:flex;align-items:center;height:100%}
+
+/* ---- "Listen live" (NEXT_UP 0a, 2026-09-21). The page on its own is silent; the
+   YouTube broadcast carries the voiced bulletins and music. ⛔ THIS PAGE IS WHAT
+   THE BROADCAST FILMS (deskstream.DESK_URL), so the button starts HIDDEN and is
+   only revealed for a real visitor: never under an automated browser
+   (navigator.webdriver) and never with ?stage in the URL. If the reveal code
+   fails, the button stays hidden, which is the safe way to fail.
+   ⛔ Embed the CHANNEL's live address, never a video id (a new id every day). */
+#golive{display:none;position:fixed;right:16px;bottom:16px;z-index:50;
+  align-items:center;gap:9px;padding:10px 16px;border:0;border-radius:999px;
+  background:var(--gold);color:#0a0c10;font:600 14px/1 "Inter",system-ui,sans-serif;
+  letter-spacing:.02em;cursor:pointer;box-shadow:0 6px 24px rgba(0,0,0,.45)}
+#golive.on{display:flex}
+#golive i{width:9px;height:9px;border-radius:50%;background:var(--hot)}
+#liveov{display:none;position:fixed;inset:0;z-index:60;background:rgba(0,0,0,.82);
+  align-items:center;justify-content:center;padding:16px}
+#liveov.on{display:flex}
+#liveov .box{position:relative;width:min(1100px,100%);}
+#liveov .vid{position:relative;aspect-ratio:16/9;background:#000;border-radius:10px;overflow:hidden}
+#liveov iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
+#liveov .x{position:absolute;right:0;top:-44px;width:36px;height:36px;border:0;
+  border-radius:50%;background:#ffffff22;color:#fff;font:600 20px/1 system-ui;cursor:pointer}
+#liveov p{color:var(--dim);font:14px/1.5 "Inter",system-ui,sans-serif;margin-top:10px}
+#liveov p a{color:var(--gold);text-decoration:none;font-weight:600}
 </style></head>
 <body>
 <div id="stage">
@@ -537,7 +561,7 @@ const panel=(name,fn)=>{ try{ fn(); }catch(e){
 /* Replaced with a hash of this file at write time. Left as the literal
    placeholder when the page is opened straight from the repo, which is the
    signal to skip the check entirely rather than reload in a loop. */
-const BUILD='e96822bfe5';
+const BUILD='340a21dcf0';
 
 function checkBuild(d){
   if(!d.build || BUILD.indexOf('BUILD')>=0) return;   /* unstamped: do nothing */
@@ -640,5 +664,35 @@ addEventListener('keydown',e=>{
   if(e.key==='ArrowLeft'){clearInterval(timer);at=(at-1+SLIDES.length)%SLIDES.length;show(at);}
   if(e.key===' '){e.preventDefault();clearInterval(timer);}
 });
+</script>
+
+<button id="golive" type="button" aria-haspopup="dialog"><i></i>Listen live</button>
+<div id="liveov" role="dialog" aria-modal="true" aria-label="The desk, live on YouTube">
+  <div class="box">
+    <button class="x" type="button" aria-label="Close">&times;</button>
+    <div class="vid" id="livevid"></div>
+    <p>Live weekdays 06:00&ndash;21:00 ET &middot; outside those hours the player shows the
+      next broadcast &middot; <a href="https://www.youtube.com/@AlphaAlgoTrader/live" target="_blank" rel="noopener">open on YouTube</a></p>
+  </div>
+</div>
+<script>
+(function(){
+  if (navigator.webdriver || /[?&]stage/.test(location.search)) return;
+  var LIVE = 'https://www.youtube.com/embed/live_stream?channel=UCDv5FDWs3UvDeey4ZIXttdg';
+  var btn = document.getElementById('golive'), ov = document.getElementById('liveov'),
+      vid = document.getElementById('livevid');
+  function open(){
+    vid.innerHTML = '<iframe src="' + LIVE + '" title="Alpha Algo Trader live desk" '
+      + 'allow="autoplay; encrypted-media; picture-in-picture" allowfullscreen></iframe>';
+    ov.classList.add('on');
+  }
+  /* closing REMOVES the player, so the sound stops with it */
+  function close(){ ov.classList.remove('on'); vid.innerHTML = ''; }
+  btn.addEventListener('click', open);
+  ov.querySelector('.x').addEventListener('click', close);
+  ov.addEventListener('click', function(e){ if (e.target === ov) close(); });
+  addEventListener('keydown', function(e){ if (e.key === 'Escape') close(); });
+  btn.classList.add('on');
+})();
 </script>
 </body></html>
