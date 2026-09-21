@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-21T09:50:03+00:00",
+ "generated_utc": "2026-09-21T09:55:03+00:00",
  "date_et": "2026-09-21",
  "build": "e96822bfe5",
  "tape": [
@@ -300,14 +300,14 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 94.19,
-    "pct": -1.97
+    "price": 94.1,
+    "pct": -2.06
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4380.6,
-    "pct": -1.0
+    "price": 4382.6,
+    "pct": -0.96
    },
    {
     "sym": "DXY",
@@ -334,9 +334,9 @@
     "pct": 1.08
    }
   ],
-  "as_of": "2026-09-21T09:48:05.229594+00:00",
+  "as_of": "2026-09-21T09:54:05.084051+00:00",
   "tone": "mixed",
-  "age_min": 1.9721614333333333
+  "age_min": 0.9780778333333333
  },
  "stories": [
   {
@@ -355,30 +355,30 @@
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Iran's economy faces another blockade: Red tape and gridlock are clogging up land routes - fortune.com",
-   "source": "fortune.com",
-   "published": "Sun, 20 Sep 2026 20:13:00 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "U.S. embassies across Middle East issue security alerts for Americans - cbsnews.com",
-   "source": "cbsnews.com",
+   "title": "U.S. embassies across Middle East issue security alerts for Americans - CBS News",
+   "source": "CBS News",
    "published": "Sun, 20 Sep 2026 14:20:00 GMT",
    "read": "unclear"
   },
   {
-   "topic": "Taiwan / China",
-   "title": "Exclusive | US weighs delaying Taiwan arms sales until after Apec and G20 summits - SCMP",
-   "source": "SCMP",
-   "published": "Sat, 19 Sep 2026 01:00:13 GMT",
-   "read": "unclear"
+   "topic": "Russia / Ukraine",
+   "title": "Russia\u2019s pro-Putin party set to win election as Ukraine exposes war\u2019s growing reach into Moscow - CNBC",
+   "source": "CNBC",
+   "published": "Mon, 21 Sep 2026 09:36:23 GMT",
+   "read": "escalation"
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "Main Kremlin party keeps control of Russia\u2019s parliament after a carefully orchestrated vote - ABC News - Breaking News, Latest News and Videos",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "published": "Mon, 21 Sep 2026 09:00:00 GMT",
+   "title": "Kremlin says no progress made in Ukraine negotiations - Anadolu Ajans\u0131",
+   "source": "Anadolu Ajans\u0131",
+   "published": "Mon, 21 Sep 2026 09:35:10 GMT",
+   "read": "de-escalation"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Putin party retains majority in first vote since 2022 invasion of Ukraine - France 24",
+   "source": "France 24",
+   "published": "Mon, 21 Sep 2026 09:14:20 GMT",
    "read": "unclear"
   }
  ],
