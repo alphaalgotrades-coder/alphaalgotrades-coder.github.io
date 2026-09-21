@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-21T07:10:03+00:00",
+ "generated_utc": "2026-09-21T07:15:04+00:00",
  "date_et": "2026-09-21",
  "build": "e96822bfe5",
  "tape": [
@@ -300,20 +300,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 94.23,
-    "pct": -1.93
+    "price": 94.19,
+    "pct": -1.97
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4390.9,
-    "pct": -0.77
+    "price": 4385.1,
+    "pct": -0.9
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 100.331,
-    "pct": 0.11
+    "price": 100.359,
+    "pct": 0.14
    },
    {
     "sym": "SPY",
@@ -331,12 +331,12 @@
     "sym": "VIX",
     "name": "Volatility index",
     "price": 14.81,
-    "pct": -4.08
+    "pct": null
    }
   ],
-  "as_of": "2026-09-21T07:09:04.920822+00:00",
-  "tone": "risk-on",
-  "age_min": 0.9751995166666667
+  "as_of": "2026-09-21T07:12:04.944031+00:00",
+  "tone": "mixed",
+  "age_min": 2.9878302333333333
  },
  "stories": [
   {
@@ -351,13 +351,6 @@
    "title": "Aramco Cuts off Crude Supplies To European Refiners - Orinoco Tribune",
    "source": "Orinoco Tribune",
    "published": "Sun, 20 Sep 2026 19:53:34 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "What are Iran\u2019s latest conditions to end its war with the US? - aljazeera.com",
-   "source": "aljazeera.com",
-   "published": "Sun, 20 Sep 2026 11:28:16 GMT",
    "read": "unclear"
   },
   {
@@ -379,6 +372,13 @@
    "title": "Kremlin orchestrates Russian elections by manipulating votes and barring observers - Le Monde.fr",
    "source": "Le Monde.fr",
    "published": "Mon, 21 Sep 2026 06:17:57 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Saudi / Gulf supply",
+   "title": "Saudi Arabia is running out of options to export oil. What does that mean for global energy? - The Business Standard",
+   "source": "The Business Standard",
+   "published": "Mon, 21 Sep 2026 05:35:00 GMT",
    "read": "unclear"
   }
  ],
