@@ -1,8 +1,53 @@
 {
- "generated_utc": "2026-09-21T03:55:03+00:00",
- "date_et": "2026-09-20",
+ "generated_utc": "2026-09-21T04:00:04+00:00",
+ "date_et": "2026-09-21",
  "build": "e96822bfe5",
  "tape": [
+  {
+   "time": "06:00",
+   "ccy": "EUR",
+   "impact": "Low",
+   "title": "German Buba Monthly Report",
+   "cons": "",
+   "prev": "",
+   "actual": ""
+  },
+  {
+   "time": "06:30",
+   "ccy": "USD",
+   "impact": "Low",
+   "title": "FOMC Member Goolsbee Speaks",
+   "cons": "",
+   "prev": "",
+   "actual": ""
+  },
+  {
+   "time": "11:00",
+   "ccy": "EUR",
+   "impact": "Medi",
+   "title": "ECB President Lagarde Speaks",
+   "cons": "",
+   "prev": "",
+   "actual": ""
+  },
+  {
+   "time": "11:05",
+   "ccy": "CAD",
+   "impact": "Medi",
+   "title": "BOC Gov Macklem Speaks",
+   "cons": "",
+   "prev": "",
+   "actual": ""
+  },
+  {
+   "time": "15:00",
+   "ccy": "AUD",
+   "impact": "Low",
+   "title": "RBA Assist Gov Hunter Speaks",
+   "cons": "",
+   "prev": "",
+   "actual": ""
+  },
   {
    "time": "19:00",
    "ccy": "JPY",
@@ -13,22 +58,13 @@
    "actual": ""
   },
   {
-   "time": "19:01",
-   "ccy": "GBP",
-   "impact": "Low",
-   "title": "Rightmove HPI m/m",
+   "time": "23:10",
+   "ccy": "AUD",
+   "impact": "High",
+   "title": "RBA Gov Bullock Speaks",
    "cons": "",
-   "prev": "-2.0%",
-   "actual": "0.7%"
-  },
-  {
-   "time": "23:00",
-   "ccy": "NZD",
-   "impact": "Low",
-   "title": "Credit Card Spending y/y",
-   "cons": "",
-   "prev": "5.3%",
-   "actual": "3.5%"
+   "prev": "",
+   "actual": ""
   }
  ],
  "rates": {
@@ -264,20 +300,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 93.84,
-    "pct": -2.33
+    "price": 93.86,
+    "pct": -2.31
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4405.5,
-    "pct": -0.44
+    "price": 4404.4,
+    "pct": -0.46
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 100.301,
-    "pct": 0.08
+    "price": 100.29,
+    "pct": 0.07
    },
    {
     "sym": "SPY",
@@ -298,9 +334,9 @@
     "pct": -4.08
    }
   ],
-  "as_of": "2026-09-21T03:54:05.430599+00:00",
+  "as_of": "2026-09-21T03:57:05.548370+00:00",
   "tone": "risk-on",
-  "age_min": 0.9679851833333333
+  "age_min": 2.9774600666666666
  },
  "stories": [
   {
