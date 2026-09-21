@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-21T04:10:03+00:00",
+ "generated_utc": "2026-09-21T04:15:03+00:00",
  "date_et": "2026-09-21",
  "build": "e96822bfe5",
  "tape": [
@@ -300,19 +300,19 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 93.97,
-    "pct": -2.2
+    "price": 93.99,
+    "pct": -2.18
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4395.8,
-    "pct": -0.66
+    "price": 4398.4,
+    "pct": -0.6
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 100.308,
+    "price": 100.309,
     "pct": 0.09
    },
    {
@@ -334,9 +334,9 @@
     "pct": -4.08
    }
   ],
-  "as_of": "2026-09-21T04:09:05.561197+00:00",
+  "as_of": "2026-09-21T04:12:05.168781+00:00",
   "tone": "risk-on",
-  "age_min": 0.9618663333333333
+  "age_min": 2.9804843333333335
  },
  "stories": [
   {
@@ -352,6 +352,13 @@
    "source": "Iran International",
    "published": "Sun, 20 Sep 2026 23:18:45 GMT",
    "read": "escalation"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Russia's ruling party on track to win election after Ukraine's drone attacks on Moscow - france24.com",
+   "source": "france24.com",
+   "published": "Sun, 20 Sep 2026 20:14:33 GMT",
+   "read": "unclear"
   },
   {
    "topic": "Saudi / Gulf supply",
@@ -373,13 +380,6 @@
    "source": "taipeitimes.com",
    "published": "Sun, 20 Sep 2026 16:00:00 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran speaker: Straight of Hormuz will not open until conditions are met - weareiowa.com",
-   "source": "weareiowa.com",
-   "published": "Mon, 21 Sep 2026 03:31:00 GMT",
-   "read": "escalation"
   }
  ],
  "ratings": [
