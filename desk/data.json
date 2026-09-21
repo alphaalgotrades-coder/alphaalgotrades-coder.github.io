@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-21T21:50:03+00:00",
+ "generated_utc": "2026-09-21T21:55:04+00:00",
  "date_et": "2026-09-21",
  "build": "0d463cfe05",
  "tape": [
@@ -301,19 +301,19 @@
     "sym": "CL",
     "name": "WTI crude futures",
     "price": 91.97,
-    "pct": -4.28
+    "pct": -0.43
    },
    {
     "sym": "GC",
     "name": "Gold futures",
     "price": 4381.0,
-    "pct": -0.99
+    "pct": -0.07
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 100.414,
-    "pct": 0.19
+    "price": 100.403,
+    "pct": 0.18
    },
    {
     "sym": "SPY",
@@ -334,9 +334,9 @@
     "pct": 0.41
    }
   ],
-  "as_of": "2026-09-21T21:48:05.722104+00:00",
+  "as_of": "2026-09-21T21:54:05.942454+00:00",
   "tone": "risk-on",
-  "age_min": 1.9596982166666665
+  "age_min": 0.9730101166666666
  },
  "stories": [
   {
@@ -347,17 +347,17 @@
    "read": "unclear"
   },
   {
-   "topic": "Russia / Ukraine",
-   "title": "Putin\u2019s United Russia remains in power. What should concern the West is how it got there - analysis - The Jerusalem Post",
-   "source": "The Jerusalem Post",
-   "published": "Mon, 21 Sep 2026 20:41:31 GMT",
-   "read": "unclear"
+   "topic": "Iran / Hormuz",
+   "title": "Iran threatens wider war as tanker attacks test mediation efforts - Iran International",
+   "source": "Iran International",
+   "published": "Mon, 21 Sep 2026 20:30:00 GMT",
+   "read": "escalation"
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "Putin\u2019s party wins supermajority in Russia\u2019s parliamentary vote - Al Jazeera",
-   "source": "Al Jazeera",
-   "published": "Mon, 21 Sep 2026 20:25:39 GMT",
+   "title": "What Russia\u2019s Parliamentary Election Results Mean for Putin and the War - time.com",
+   "source": "time.com",
+   "published": "Mon, 21 Sep 2026 19:50:43 GMT",
    "read": "unclear"
   },
   {
