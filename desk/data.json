@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-21T03:10:03+00:00",
+ "generated_utc": "2026-09-21T03:15:03+00:00",
  "date_et": "2026-09-20",
  "build": "e96822bfe5",
  "tape": [
@@ -264,19 +264,19 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 94.04,
-    "pct": -2.12
+    "price": 93.95,
+    "pct": -2.22
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4401.7,
-    "pct": -0.52
+    "price": 4399.3,
+    "pct": -0.58
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 100.291,
+    "price": 100.297,
     "pct": 0.07
    },
    {
@@ -298,17 +298,24 @@
     "pct": -4.08
    }
   ],
-  "as_of": "2026-09-21T03:09:05.628212+00:00",
+  "as_of": "2026-09-21T03:12:05.126621+00:00",
   "tone": "risk-on",
-  "age_min": 0.95999475
+  "age_min": 2.980466733333333
  },
  "stories": [
   {
    "topic": "Russia / Ukraine",
-   "title": "Here\u2019s what to know about Russia\u2019s parliamentary vote and its main parties - apnews.com",
-   "source": "apnews.com",
+   "title": "Here\u2019s what to know about Russia\u2019s parliamentary vote and its main parties - AP News",
+   "source": "AP News",
    "published": "Thu, 17 Sep 2026 11:19:00 GMT",
    "read": "unclear"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iran presses Iraqi factions not to disarm - Al Arabiya - Iran International",
+   "source": "Iran International",
+   "published": "Sun, 20 Sep 2026 23:18:45 GMT",
+   "read": "escalation"
   },
   {
    "topic": "Russia / Ukraine",
@@ -318,10 +325,10 @@
    "read": "unclear"
   },
   {
-   "topic": "Iran / Hormuz",
-   "title": "Trump weighs Iran options; Tehran signals Hormuz leverage - Iran International",
-   "source": "Iran International",
-   "published": "Sun, 20 Sep 2026 19:11:17 GMT",
+   "topic": "Saudi / Gulf supply",
+   "title": "Pipe Attacked by Drone, Saudi Aramco Cancel October Oil Allocation to Europe - voi.id",
+   "source": "voi.id",
+   "published": "Sun, 20 Sep 2026 18:10:00 GMT",
    "read": "escalation"
   },
   {
@@ -336,13 +343,6 @@
    "title": "Iran and US trade threats after Houthi attacks escalate regional conflict - Reuters",
    "source": "Reuters",
    "published": "Sun, 20 Sep 2026 17:46:57 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Saudi / Gulf supply",
-   "title": "Strikes at the heart of Saudi Arabia\u2019s oil network: Is energy security being reshaped? - \u0646\u0648\u0646 \u0628\u0648\u0633\u062a",
-   "source": "\u0646\u0648\u0646 \u0628\u0648\u0633\u062a",
-   "published": "Sun, 20 Sep 2026 16:01:07 GMT",
    "read": "escalation"
   }
  ],
