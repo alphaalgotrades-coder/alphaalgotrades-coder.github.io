@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-21T23:50:03+00:00",
+ "generated_utc": "2026-09-21T23:55:03+00:00",
  "date_et": "2026-09-21",
  "build": "0d463cfe05",
  "tape": [
@@ -300,14 +300,14 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 92.23,
-    "pct": -0.15
+    "price": 92.25,
+    "pct": -0.13
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4401.5,
-    "pct": 0.4
+    "price": 4404.7,
+    "pct": 0.47
    },
    {
     "sym": "DXY",
@@ -334,9 +334,9 @@
     "pct": 0.41
    }
   ],
-  "as_of": "2026-09-21T23:48:05.398740+00:00",
+  "as_of": "2026-09-21T23:54:05.468649+00:00",
   "tone": "risk-on",
-  "age_min": 1.9682639166666667
+  "age_min": 0.9739055333333333
  },
  "stories": [
   {
@@ -354,6 +354,13 @@
    "read": "escalation"
   },
   {
+   "topic": "Russia / Ukraine",
+   "title": "Putin\u2019s party wins supermajority in Russia\u2019s parliamentary election - Al Jazeera",
+   "source": "Al Jazeera",
+   "published": "Mon, 21 Sep 2026 20:25:39 GMT",
+   "read": "unclear"
+  },
+  {
    "topic": "Saudi / Gulf supply",
    "title": "Oil Prices Fall for Fourth Day as Supply Concerns Ease - WSJ",
    "source": "WSJ",
@@ -365,13 +372,6 @@
    "title": "What Russia\u2019s Parliamentary Election Results Mean for Putin and the War - time.com",
    "source": "time.com",
    "published": "Mon, 21 Sep 2026 19:50:43 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Russia\u2019s Election Was Engineered to Send a Message: Putin Remains in Control - The New York Times",
-   "source": "The New York Times",
-   "published": "Mon, 21 Sep 2026 18:09:23 GMT",
    "read": "unclear"
   },
   {
