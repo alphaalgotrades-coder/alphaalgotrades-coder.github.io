@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-21T05:50:03+00:00",
+ "generated_utc": "2026-09-21T05:55:03+00:00",
  "date_et": "2026-09-21",
  "build": "e96822bfe5",
  "tape": [
@@ -300,20 +300,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 94.27,
-    "pct": -1.88
+    "price": 94.36,
+    "pct": -1.79
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4393.6,
-    "pct": -0.71
+    "price": 4392.5,
+    "pct": -0.73
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 100.328,
-    "pct": 0.11
+    "price": 100.339,
+    "pct": 0.12
    },
    {
     "sym": "SPY",
@@ -334,9 +334,9 @@
     "pct": -4.08
    }
   ],
-  "as_of": "2026-09-21T05:48:04.387479+00:00",
+  "as_of": "2026-09-21T05:54:05.033969+00:00",
   "tone": "risk-on",
-  "age_min": 1.98143925
+  "age_min": 0.97784295
  },
  "stories": [
   {
@@ -348,10 +348,10 @@
   },
   {
    "topic": "Saudi / Gulf supply",
-   "title": "Pipe Attacked by Drone, Saudi Aramco Cancel October Oil Allocation to Europe - voi.id",
-   "source": "voi.id",
-   "published": "Sun, 20 Sep 2026 18:10:00 GMT",
-   "read": "escalation"
+   "title": "Aramco Cuts off Crude Supplies To European Refiners - Orinoco Tribune",
+   "source": "Orinoco Tribune",
+   "published": "Sun, 20 Sep 2026 19:53:34 GMT",
+   "read": "unclear"
   },
   {
    "topic": "Taiwan / China",
@@ -368,18 +368,18 @@
    "read": "de-escalation"
   },
   {
+   "topic": "Russia / Ukraine",
+   "title": "Ruling party dominates early results in Russia\u2019s wartime parliamentary vote - aljazeera.com",
+   "source": "aljazeera.com",
+   "published": "Mon, 21 Sep 2026 05:15:00 GMT",
+   "read": "unclear"
+  },
+  {
    "topic": "Saudi / Gulf supply",
    "title": "Oil Futures Fall for Third Day on Easing Supply Concerns - wsj.com",
    "source": "wsj.com",
    "published": "Mon, 21 Sep 2026 04:10:11 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran vows 'painful' retaliation as Trump piles on pressure ahead of UN General Assembly meeting - CNBC",
-   "source": "CNBC",
-   "published": "Mon, 21 Sep 2026 04:04:18 GMT",
-   "read": "escalation"
   }
  ],
  "ratings": [
