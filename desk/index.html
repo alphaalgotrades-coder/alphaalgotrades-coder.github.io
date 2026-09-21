@@ -243,11 +243,15 @@ footer{display:flex;align-items:center;gap:0;border-top:1px solid var(--line);
    reach the book, the lessons or the trial -- the same fault the book page had
    on 08-30 ("a nav that is only reachable by scrolling is not navigation").
    Revealed by the SAME gate as #golive, so the broadcast never films it. */
-#sitenav{display:none;position:fixed;left:16px;bottom:16px;z-index:50;gap:8px}
+/* top-centre: the masthead's middle is empty; bottom-left sat on the MARKETS ticker */
+#sitenav{display:none;position:fixed;top:14px;left:50%;transform:translateX(-50%);
+  z-index:50;gap:8px}
 #sitenav.on{display:flex}
 #sitenav a{padding:10px 14px;border-radius:999px;background:#ffffff14;color:var(--ink);
   font:600 14px/1 "Inter",system-ui,sans-serif;text-decoration:none;letter-spacing:.02em}
 #sitenav a.cta{background:var(--cool);color:#0a0c10}
+#sitenav a{white-space:nowrap}
+@media (max-width:600px){#sitenav{gap:6px}#sitenav a{padding:8px 10px;font-size:12px}}
 </style></head>
 <body>
 <div id="stage">
@@ -612,7 +616,7 @@ const panel=(name,fn)=>{ try{ fn(); }catch(e){
 /* Replaced with a hash of this file at write time. Left as the literal
    placeholder when the page is opened straight from the repo, which is the
    signal to skip the check entirely rather than reload in a loop. */
-const BUILD='19669f8d6e';
+const BUILD='0d463cfe05';
 
 function checkBuild(d){
   if(!d.build || BUILD.indexOf('BUILD')>=0) return;   /* unstamped: do nothing */
@@ -732,7 +736,7 @@ addEventListener('keydown',e=>{
 </div>
 <script>
 (function(){
-  if (navigator.webdriver || /[?&]stage/.test(location.search)) return;
+  if (navigator.webdriver || /[?&]stage\b/.test(location.search)) return;
   var LIVE = 'https://www.youtube.com/embed/live_stream?channel=UCDv5FDWs3UvDeey4ZIXttdg';
   var btn = document.getElementById('golive'), ov = document.getElementById('liveov'),
       vid = document.getElementById('livevid');
