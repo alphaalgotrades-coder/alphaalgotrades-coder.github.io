@@ -238,6 +238,16 @@ footer{display:flex;align-items:center;gap:0;border-top:1px solid var(--line);
   border-radius:50%;background:#ffffff22;color:#fff;font:600 20px/1 system-ui;cursor:pointer}
 #liveov p{color:var(--dim);font:14px/1.5 "Inter",system-ui,sans-serif;margin-top:10px}
 #liveov p a{color:var(--gold);text-decoration:none;font-weight:600}
+/* ---- SITE NAV for real visitors (2026-09-21). The desk was a dead end: its only
+   link was "open on YouTube", so a visitor who arrived from the stream could not
+   reach the book, the lessons or the trial -- the same fault the book page had
+   on 08-30 ("a nav that is only reachable by scrolling is not navigation").
+   Revealed by the SAME gate as #golive, so the broadcast never films it. */
+#sitenav{display:none;position:fixed;left:16px;bottom:16px;z-index:50;gap:8px}
+#sitenav.on{display:flex}
+#sitenav a{padding:10px 14px;border-radius:999px;background:#ffffff14;color:var(--ink);
+  font:600 14px/1 "Inter",system-ui,sans-serif;text-decoration:none;letter-spacing:.02em}
+#sitenav a.cta{background:var(--cool);color:#0a0c10}
 </style></head>
 <body>
 <div id="stage">
@@ -602,7 +612,7 @@ const panel=(name,fn)=>{ try{ fn(); }catch(e){
 /* Replaced with a hash of this file at write time. Left as the literal
    placeholder when the page is opened straight from the repo, which is the
    signal to skip the check entirely rather than reload in a loop. */
-const BUILD='0ef2ea7465';
+const BUILD='19669f8d6e';
 
 function checkBuild(d){
   if(!d.build || BUILD.indexOf('BUILD')>=0) return;   /* unstamped: do nothing */
@@ -707,6 +717,10 @@ addEventListener('keydown',e=>{
 });
 </script>
 
+<nav id="sitenav" aria-label="Alpha Algo Trader">
+  <a href="/">The book</a><a href="/learn/">Learn</a>
+  <a class="cta" href="https://whop.com/alpha-algo-trader-98e3/products/vip-alpha-algo-trader-full-access/">Try it free for 30 days</a>
+</nav>
 <button id="golive" type="button" aria-haspopup="dialog"><i></i>Listen live</button>
 <div id="liveov" role="dialog" aria-modal="true" aria-label="The desk, live on YouTube">
   <div class="box">
@@ -734,6 +748,14 @@ addEventListener('keydown',e=>{
   ov.addEventListener('click', function(e){ if (e.target === ov) close(); });
   addEventListener('keydown', function(e){ if (e.key === 'Escape') close(); });
   btn.classList.add('on');
+  document.getElementById('sitenav').classList.add('on');
+  /* visit counting, same Cloudflare beacon as the book and /learn. Loaded HERE,
+     behind the real-visitor gate: the broadcast's recorder opens this page every
+     ~10 minutes and would otherwise be most of the desk's "traffic". */
+  var cf = document.createElement('script');
+  cf.defer = true; cf.src = 'https://static.cloudflareinsights.com/beacon.min.js';
+  cf.setAttribute('data-cf-beacon', '{"token": "b252e6c1a5a54a3390d164224e91d172"}');
+  document.head.appendChild(cf);
 })();
 </script>
 </body></html>
