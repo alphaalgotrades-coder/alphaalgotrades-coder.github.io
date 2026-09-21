@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-21T12:10:02+00:00",
+ "generated_utc": "2026-09-21T12:15:03+00:00",
  "date_et": "2026-09-21",
  "build": "340a21dcf0",
  "tape": [
@@ -71,12 +71,12 @@
   "rows": [
    {
     "series": "2Y",
-    "level": 4.63,
-    "d_day_bps": -4.0,
+    "level": 4.632,
+    "d_day_bps": -3.8,
     "lean": "dovish",
     "source": "YAHOO_TSY_FUT_ZT",
     "latency": "after-hours-futures-proxy",
-    "snapshot_ts": "2026-09-21T11:57:00+00:00",
+    "snapshot_ts": "2026-09-21T12:01:00+00:00",
     "snapshot_date": "2026-09-21",
     "prior_day": "2026-09-17",
     "prior_day_close": 4.67,
@@ -95,42 +95,42 @@
      4.658,
      4.652,
      4.658,
-     4.652,
-     4.656,
-     4.656,
-     4.65,
-     4.65,
-     4.648,
      4.654,
+     4.656,
+     4.654,
+     4.648,
+     4.648,
+     4.648,
      4.652,
      4.652,
+     4.652,
      4.65,
      4.65,
-     4.65,
-     4.65,
-     4.646,
-     4.648,
-     4.648,
-     4.646,
      4.648,
      4.648,
      4.648,
      4.648,
      4.646,
-     4.642,
+     4.648,
+     4.646,
+     4.648,
+     4.648,
+     4.646,
+     4.644,
      4.64,
      4.63,
-     4.632
+     4.63,
+     4.63
     ]
    },
    {
     "series": "5Y",
-    "level": 4.757,
-    "d_day_bps": -4.4,
+    "level": 4.759,
+    "d_day_bps": -4.2,
     "lean": "dovish",
     "source": "YAHOO_TSY_FUT_ZF",
     "latency": "after-hours-futures-proxy",
-    "snapshot_ts": "2026-09-21T11:57:00+00:00",
+    "snapshot_ts": "2026-09-21T12:01:00+00:00",
     "snapshot_date": "2026-09-21",
     "prior_day": "2026-09-17",
     "prior_day_close": 4.801,
@@ -149,42 +149,42 @@
      4.782,
      4.777,
      4.784,
-     4.777,
-     4.784,
+     4.778,
      4.782,
-     4.773,
-     4.773,
-     4.77,
-     4.775,
+     4.778,
+     4.771,
+     4.771,
+     4.771,
      4.773,
      4.773,
      4.771,
-     4.77,
-     4.77,
+     4.771,
+     4.768,
      4.768,
      4.766,
-     4.764,
      4.766,
      4.766,
      4.768,
-     4.77,
      4.768,
-     4.77,
+     4.766,
      4.768,
-     4.763,
+     4.768,
+     4.768,
+     4.766,
      4.763,
      4.756,
+     4.757,
      4.757
     ]
    },
    {
     "series": "10Y",
-    "level": 4.897,
-    "d_day_bps": -5.0,
+    "level": 4.899,
+    "d_day_bps": -4.8,
     "lean": "dovish",
     "source": "YAHOO_TSY_FUT_ZN",
     "latency": "after-hours-futures-proxy",
-    "snapshot_ts": "2026-09-21T11:58:00+00:00",
+    "snapshot_ts": "2026-09-21T12:02:00+00:00",
     "snapshot_date": "2026-09-21",
     "prior_day": "2026-09-17",
     "prior_day_close": 4.947,
@@ -200,45 +200,45 @@
      4.92,
      4.922,
      4.922,
+     4.917,
      4.924,
+     4.917,
      4.922,
      4.92,
-     4.92,
-     4.922,
+     4.915,
+     4.913,
+     4.911,
      4.913,
      4.911,
      4.911,
      4.911,
-     4.913,
-     4.913,
-     4.911,
-     4.908,
      4.908,
      4.906,
-     4.904,
+     4.906,
      4.904,
      4.904,
      4.904,
      4.906,
      4.904,
+     4.904,
      4.906,
      4.908,
      4.908,
-     4.906,
      4.904,
      4.904,
      4.899,
+     4.902,
      4.897
     ]
    },
    {
     "series": "30Y",
-    "level": 5.261,
-    "d_day_bps": -3.5,
+    "level": 5.26,
+    "d_day_bps": -3.6,
     "lean": "dovish",
     "source": "YAHOO_TSY_FUT_ZB",
     "latency": "after-hours-futures-proxy",
-    "snapshot_ts": "2026-09-21T11:58:00+00:00",
+    "snapshot_ts": "2026-09-21T12:01:00+00:00",
     "snapshot_date": "2026-09-21",
     "prior_day": "2026-09-17",
     "prior_day_close": 5.296,
@@ -264,29 +264,29 @@
      5.269,
      5.267,
      5.269,
-     5.267,
-     5.267,
-     5.263,
-     5.263,
-     5.261,
-     5.26,
-     5.26,
-     5.258,
-     5.258,
-     5.26,
-     5.261,
-     5.263,
-     5.263,
-     5.263,
      5.265,
+     5.267,
+     5.263,
+     5.263,
+     5.263,
+     5.26,
      5.261,
+     5.258,
+     5.26,
+     5.261,
+     5.26,
+     5.261,
+     5.265,
+     5.265,
+     5.263,
+     5.263,
      5.263,
      5.261,
-     5.261
+     5.26
     ]
    }
   ],
-  "as_of": "2026-09-21T11:57:00+00:00",
+  "as_of": "2026-09-21T12:01:00+00:00",
   "note": "after-hours-futures-proxy"
  },
  "strip": {
@@ -300,20 +300,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 93.46,
-    "pct": -2.73
+    "price": 93.54,
+    "pct": -2.64
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4405.7,
-    "pct": -0.43
+    "price": 4403.1,
+    "pct": -0.49
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 100.22,
-    "pct": -0.0
+    "price": 100.216,
+    "pct": -0.01
    },
    {
     "sym": "SPY",
@@ -330,13 +330,13 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 14.81,
-    "pct": null
+    "price": 14.79,
+    "pct": -0.14
    }
   ],
-  "as_of": "2026-09-21T12:09:05.000411+00:00",
+  "as_of": "2026-09-21T12:12:04.824344+00:00",
   "tone": "mixed",
-  "age_min": 0.9594213
+  "age_min": 2.972738333333333
  },
  "stories": [
   {
@@ -354,6 +354,20 @@
    "read": "unclear"
   },
   {
+   "topic": "Iran / Hormuz",
+   "title": "Trump's Iran decision looms as world leaders gather at UN - fox23.com",
+   "source": "fox23.com",
+   "published": "Mon, 21 Sep 2026 12:08:28 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Taiwan / China",
+   "title": "Nearly half of Taiwanese lack confidence in US defence commitments, survey finds - South China Morning Post",
+   "source": "South China Morning Post",
+   "published": "Mon, 21 Sep 2026 12:00:08 GMT",
+   "read": "unclear"
+  },
+  {
    "topic": "Russia / Ukraine",
    "title": "Russia: Putin party retains majority in parliamentary vote - DW.com",
    "source": "DW.com",
@@ -366,20 +380,6 @@
    "source": "aljazeera.com",
    "published": "Mon, 21 Sep 2026 10:44:53 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "A projectile strikes a tanker as it sails into the Strait of Hormuz, and other Mideast developments - Bozeman Daily Chronicle",
-   "source": "Bozeman Daily Chronicle",
-   "published": "Mon, 21 Sep 2026 10:44:04 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran updates: Tanker reportedly struck by projectile in Strait of Hormuz - newsnationnow.com",
-   "source": "newsnationnow.com",
-   "published": "Mon, 21 Sep 2026 10:29:29 GMT",
-   "read": "escalation"
   }
  ],
  "ratings": [
@@ -501,29 +501,29 @@
    {
     "code": "FR",
     "name": "France",
-    "level": 4.4399,
+    "level": 4.4431,
     "as_of": "2026-09-21",
-    "spread_bp": 99.1,
-    "d_day_bps": -12.7
+    "spread_bp": 99.4,
+    "d_day_bps": -12.4
    },
    {
     "code": "DE",
     "name": "Germany",
-    "level": 3.4485,
+    "level": 3.4492,
     "as_of": "2026-09-21",
     "spread_bp": null,
-    "d_day_bps": -7.1
+    "d_day_bps": -7.0
    },
    {
     "code": "IT",
     "name": "Italy",
-    "level": 4.319,
+    "level": 4.3205,
     "as_of": "2026-09-21",
-    "spread_bp": 87.0,
-    "d_day_bps": -11.9
+    "spread_bp": 87.1,
+    "d_day_bps": -11.7
    }
   ],
-  "bund": 3.4485,
+  "bund": 3.4492,
   "note": "10-year government bonds; spread measured over Germany"
  },
  "auctions": {
