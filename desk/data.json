@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-21T11:00:06+00:00",
+ "generated_utc": "2026-09-21T11:03:02+00:00",
  "date_et": "2026-09-21",
  "build": "e96822bfe5",
  "tape": [
@@ -300,20 +300,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 93.02,
-    "pct": -3.18
+    "price": 92.97,
+    "pct": -3.24
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4387.3,
-    "pct": -0.85
+    "price": 4386.0,
+    "pct": -0.88
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 100.287,
-    "pct": 0.06
+    "price": 100.298,
+    "pct": 0.08
    },
    {
     "sym": "SPY",
@@ -334,9 +334,9 @@
     "pct": 0.41
    }
   ],
-  "as_of": "2026-09-21T10:57:05.050580+00:00",
+  "as_of": "2026-09-21T11:00:08.266507+00:00",
   "tone": "mixed",
-  "age_min": 3.02299375
+  "age_min": 2.9046436
  },
  "stories": [
   {
@@ -501,29 +501,29 @@
    {
     "code": "FR",
     "name": "France",
-    "level": 4.4503,
+    "level": 4.4532,
     "as_of": "2026-09-21",
-    "spread_bp": 99.5,
-    "d_day_bps": -11.7
+    "spread_bp": 99.7,
+    "d_day_bps": -11.4
    },
    {
     "code": "DE",
     "name": "Germany",
-    "level": 3.4556,
+    "level": 3.4566,
     "as_of": "2026-09-21",
     "spread_bp": null,
-    "d_day_bps": -6.3
+    "d_day_bps": -6.2
    },
    {
     "code": "IT",
     "name": "Italy",
-    "level": 4.3317,
+    "level": 4.3367,
     "as_of": "2026-09-21",
-    "spread_bp": 87.6,
-    "d_day_bps": -10.6
+    "spread_bp": 88.0,
+    "d_day_bps": -10.1
    }
   ],
-  "bund": 3.4556,
+  "bund": 3.4566,
   "note": "10-year government bonds; spread measured over Germany"
  },
  "auctions": {
