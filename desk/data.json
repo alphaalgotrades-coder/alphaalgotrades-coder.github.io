@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-21T03:30:03+00:00",
+ "generated_utc": "2026-09-21T03:35:03+00:00",
  "date_et": "2026-09-20",
  "build": "e96822bfe5",
  "tape": [
@@ -264,20 +264,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 93.91,
-    "pct": -2.26
+    "price": 93.92,
+    "pct": -2.25
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4401.6,
-    "pct": -0.53
+    "price": 4400.0,
+    "pct": -0.56
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 100.283,
-    "pct": 0.06
+    "price": 100.292,
+    "pct": 0.07
    },
    {
     "sym": "SPY",
@@ -298,9 +298,9 @@
     "pct": -4.08
    }
   ],
-  "as_of": "2026-09-21T03:27:05.351480+00:00",
+  "as_of": "2026-09-21T03:33:05.484389+00:00",
   "tone": "risk-on",
-  "age_min": 2.977147583333333
+  "age_min": 1.9715346333333335
  },
  "stories": [
   {
@@ -318,13 +318,6 @@
    "read": "escalation"
   },
   {
-   "topic": "Russia / Ukraine",
-   "title": "How Putin\u2019s war on Ukraine is also a campaign against the West - tpr.org",
-   "source": "tpr.org",
-   "published": "Sun, 20 Sep 2026 20:04:36 GMT",
-   "read": "unclear"
-  },
-  {
    "topic": "Saudi / Gulf supply",
    "title": "Pipe Attacked by Drone, Saudi Aramco Cancel October Oil Allocation to Europe - voi.id",
    "source": "voi.id",
@@ -339,11 +332,18 @@
    "read": "escalation"
   },
   {
-   "topic": "Iran / Hormuz",
-   "title": "Iran and US trade threats after Houthi attacks escalate regional conflict - Reuters",
-   "source": "Reuters",
-   "published": "Sun, 20 Sep 2026 17:46:57 GMT",
-   "read": "escalation"
+   "topic": "Taiwan / China",
+   "title": "Buyers snap up fruit after farmer refuses China sales - Taipei Times",
+   "source": "Taipei Times",
+   "published": "Sun, 20 Sep 2026 16:00:00 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Taiwan / China",
+   "title": "Minister of labor makes rare trip to China for APEC - taipeitimes.com",
+   "source": "taipeitimes.com",
+   "published": "Sun, 20 Sep 2026 16:00:00 GMT",
+   "read": "unclear"
   }
  ],
  "ratings": [
