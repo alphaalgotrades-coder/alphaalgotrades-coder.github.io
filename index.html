@@ -94,13 +94,19 @@
  .pill.g{color:var(--green);border-color:#34c77a33}
  .pill.r{color:var(--red);border-color:#eb575733}
  .stamp{color:var(--dim);font-size:13px;margin:26px 0 0}
+ .live16{position:relative;aspect-ratio:16/9;margin:12px 0 8px;
+   border:1px solid var(--line);border-radius:14px;overflow:hidden;background:#000}
+ .live16 iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
+ .livehours{color:var(--dim);font-size:13.5px;margin:4px 0 0}
+ .livehours a{color:var(--gold);font-weight:600;text-decoration:none}
  .foot{color:var(--dim);font-size:13px;margin-top:14px;
    border-top:1px solid var(--line);padding-top:16px}
 </style>
 <nav class="nav">
  <a class="brand" href="/"><svg width="21" height="21" viewBox="0 0 32 32"><rect width="32" height="32" rx="7" fill="#141c2b"/><polyline points="5,24 12,20 18,12 27,7" stroke="#34c77a" stroke-width="3.5" fill="none" stroke-linecap="round"/></svg> Alpha Algo Trader</a>
  <span class="navsec"><a href="#curve">the curve</a><a href="#stats">the record</a>
- <a href="#open">open book</a><a href="#ledger">every session</a></span>
+ <a href="#open">open book</a><a href="#ledger">every session</a>
+ <a href="#live">live desk</a></span>
  <a class="navlearn" href="/learn/">learn the wheel</a>
  <a class="navcta" href="https://whop.com/alpha-algo-trader-98e3/products/vip-alpha-algo-trader-full-access/">Start free</a>
 </nav>
@@ -112,7 +118,7 @@
  <div class="big g">
    +$7,722</div>
  <div class="herosub">realized since 2026-07-13 ·
-   -$3,495 unrealized on the open book</div>
+   -$3,507 unrealized on the open book</div>
  <span class="chip n">· flat, positions open · latest session Sat Sep 19, 6 fill(s)</span>
 </div>
 <div class="pills"><span class="pill ">Sep 04 0</span><span class="pill g">Sep 08 +$220</span><span class="pill ">Sep 10 0</span><span class="pill g">Sep 11 +$44</span><span class="pill g">Sep 12 +$69</span><span class="pill ">Sep 16 0</span><span class="pill g">Sep 17 +$220</span><span class="pill ">Sep 19 0</span></div>
@@ -145,14 +151,23 @@
 <tr><td>BLDR</td><td>200</td><td>$67.50</td><td>$64.38</td><td class="g">-4.6%</td></tr>
 <tr><td>DLO</td><td>700</td><td>$13.68</td><td>$13.09</td><td class="g">-4.3%</td></tr>
 <tr><td>Z</td><td>400</td><td>$33.75</td><td>$32.42</td><td class="g">-3.9%</td></tr></table></div>
+<h2 id="live">The desk, live</h2>
+<p class="sub">Today's economic releases, rates and running stories, with the
+ bulletins read out as they land.</p>
+<div class="live16"><iframe src="https://www.youtube.com/embed/live_stream?channel=UCDv5FDWs3UvDeey4ZIXttdg" loading="lazy"
+ title="Alpha Algo Trader live desk" allowfullscreen
+ allow="autoplay; encrypted-media; picture-in-picture"></iframe></div>
+<p class="livehours">Live weekdays 06:00–21:00 ET · outside those hours the player
+ shows the next broadcast · <a href="https://www.youtube.com/@AlphaAlgoTrader/live">open on YouTube</a> ·
+ <a href="/desk/">the desk page</a></p>
 <h2 id="open">Open book · 5 legs ·
- <span class="r">-$3,495
+ <span class="r">-$3,507
  unrealized</span></h2>
 <p class="sub">5/5 open legs reconciled against the broker statement and our own database</p>
 <div class="tw"><table><tr><th>instrument</th><th>side</th><th>entry</th>
 <th>unrealized</th><th>verified</th></tr><tr><td>AS shares</td><td>long 600</td><td>32.5</td><td class="r">-1,764.00</td><td>✓</td></tr>
 <tr><td>BLDR shares</td><td>long 200</td><td>70.0</td><td class="r">-1,195.00</td><td>✓</td></tr>
-<tr><td>Z shares</td><td>long 400</td><td>35.0</td><td class="r">-914.00</td><td>✓</td></tr>
+<tr><td>Z shares</td><td>long 400</td><td>35.0</td><td class="r">-926.00</td><td>✓</td></tr>
 <tr><td>DLO shares</td><td>long 700</td><td>13.68</td><td class="g">+413.00</td><td>✓</td></tr>
 <tr><td>DLO 10/16 C15</td><td>short 7</td><td>0.3</td><td class="r">-35.00</td><td>✓</td></tr></table></div>
 <h2 id="ledger">Every session</h2>
@@ -200,7 +215,7 @@
 <tr><td>2026-07-21</td><td>2</td><td class="">+0.00</td><td>-740.00</td></tr>
 <tr><td>2026-07-15</td><td>1</td><td class="">+0.00</td><td>-740.00</td></tr>
 <tr><td>2026-07-13</td><td>1</td><td class="r">-740.00</td><td>-740.00</td></tr></table></div>
-<p class="stamp">Updated 2026-09-21 11:05 UTC ·
+<p class="stamp">Updated 2026-09-21 11:35 UTC ·
 refreshed hourly on trading days</p>
 <div style="margin:38px 0 8px;padding:26px;background:var(--panel);
  border:1px solid var(--line);border-radius:16px">
@@ -216,6 +231,6 @@ refreshed hourly on trading days</p>
   border:1px solid var(--line);color:var(--ink);font-weight:700;
   text-decoration:none;margin-left:8px">Try it free for 30 days</a>
 </div>
-<p class="foot">Generated 2026-09-21T11:05:03.549342+00:00 from the engine's own trade
+<p class="foot">Generated 2026-09-21T11:35:03.442866+00:00 from the engine's own trade
 records. Paper account — no real money at risk. 
 Not investment advice; nothing here is a recommendation to trade.</p>
