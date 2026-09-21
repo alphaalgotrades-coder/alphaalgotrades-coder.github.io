@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-21T10:30:04+00:00",
+ "generated_utc": "2026-09-21T10:35:06+00:00",
  "date_et": "2026-09-21",
  "build": "e96822bfe5",
  "tape": [
@@ -76,7 +76,7 @@
     "lean": "dovish",
     "source": "YAHOO_TSY_FUT_ZT",
     "latency": "after-hours-futures-proxy",
-    "snapshot_ts": "2026-09-21T10:17:00+00:00",
+    "snapshot_ts": "2026-09-21T10:21:00+00:00",
     "snapshot_date": "2026-09-21",
     "prior_day": "2026-09-17",
     "prior_day_close": 4.67,
@@ -89,48 +89,48 @@
      4.662,
      4.662,
      4.664,
-     4.664,
-     4.664,
-     4.664,
-     4.666,
      4.662,
+     4.662,
+     4.666,
+     4.666,
      4.66,
+     4.658,
      4.66,
      4.658,
      4.658,
+     4.652,
      4.656,
      4.656,
-     4.658,
-     4.654,
-     4.654,
+     4.652,
      4.656,
-     4.658,
-     4.654,
+     4.656,
+     4.656,
      4.65,
      4.648,
-     4.646,
      4.648,
-     4.654,
      4.648,
+     4.65,
      4.652,
      4.652,
      4.652,
+     4.652,
      4.65,
      4.65,
      4.648,
      4.648,
      4.65,
+     4.648,
      4.648
     ]
    },
    {
     "series": "5Y",
-    "level": 4.766,
-    "d_day_bps": -3.5,
+    "level": 4.764,
+    "d_day_bps": -3.7,
     "lean": "dovish",
     "source": "YAHOO_TSY_FUT_ZF",
     "latency": "after-hours-futures-proxy",
-    "snapshot_ts": "2026-09-21T10:17:00+00:00",
+    "snapshot_ts": "2026-09-21T10:21:00+00:00",
     "snapshot_date": "2026-09-21",
     "prior_day": "2026-09-17",
     "prior_day_close": 4.801,
@@ -143,38 +143,38 @@
      4.784,
      4.787,
      4.789,
+     4.785,
      4.787,
+     4.791,
      4.787,
-     4.787,
-     4.789,
-     4.784,
-     4.784,
-     4.784,
-     4.782,
+     4.785,
      4.782,
      4.784,
-     4.78,
+     4.782,
      4.784,
+     4.777,
+     4.782,
+     4.782,
+     4.777,
      4.778,
-     4.778,
-     4.784,
-     4.784,
-     4.778,
+     4.782,
+     4.782,
      4.773,
      4.77,
      4.771,
-     4.771,
-     4.775,
+     4.77,
      4.771,
      4.773,
      4.773,
+     4.771,
      4.771,
      4.771,
      4.77,
      4.766,
      4.768,
      4.768,
-     4.768
+     4.768,
+     4.766
     ]
    },
    {
@@ -184,7 +184,7 @@
     "lean": "dovish",
     "source": "YAHOO_TSY_FUT_ZN",
     "latency": "after-hours-futures-proxy",
-    "snapshot_ts": "2026-09-21T10:17:00+00:00",
+    "snapshot_ts": "2026-09-21T10:22:00+00:00",
     "snapshot_date": "2026-09-21",
     "prior_day": "2026-09-17",
     "prior_day_close": 4.947,
@@ -206,16 +206,15 @@
      4.92,
      4.922,
      4.924,
+     4.92,
+     4.924,
+     4.92,
      4.917,
      4.922,
      4.922,
-     4.917,
      4.92,
-     4.92,
-     4.92,
-     4.913,
-     4.913,
-     4.913,
+     4.915,
+     4.911,
      4.911,
      4.911,
      4.913,
@@ -228,6 +227,7 @@
      4.906,
      4.906,
      4.906,
+     4.904,
      4.904
     ]
    },
@@ -238,7 +238,7 @@
     "lean": "dovish",
     "source": "YAHOO_TSY_FUT_ZB",
     "latency": "after-hours-futures-proxy",
-    "snapshot_ts": "2026-09-21T10:17:00+00:00",
+    "snapshot_ts": "2026-09-21T10:22:00+00:00",
     "snapshot_date": "2026-09-21",
     "prior_day": "2026-09-17",
     "prior_day_close": 5.296,
@@ -253,25 +253,24 @@
      5.272,
      5.272,
      5.272,
+     5.274,
      5.272,
      5.272,
-     5.27,
+     5.267,
      5.269,
-     5.27,
      5.267,
+     5.272,
+     5.274,
      5.27,
      5.274,
+     5.27,
      5.27,
      5.272,
      5.272,
-     5.27,
-     5.274,
-     5.274,
-     5.27,
      5.267,
-     5.267,
-     5.267,
-     5.267,
+     5.269,
+     5.269,
+     5.269,
      5.267,
      5.269,
      5.267,
@@ -282,11 +281,12 @@
      5.263,
      5.261,
      5.26,
+     5.26,
      5.26
     ]
    }
   ],
-  "as_of": "2026-09-21T10:17:00+00:00",
+  "as_of": "2026-09-21T10:21:00+00:00",
   "note": "after-hours-futures-proxy"
  },
  "strip": {
@@ -300,20 +300,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 93.21,
-    "pct": -2.99
+    "price": 93.25,
+    "pct": -2.95
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4393.7,
-    "pct": -0.71
+    "price": 4389.2,
+    "pct": -0.81
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 100.311,
-    "pct": 0.09
+    "price": 100.305,
+    "pct": 0.08
    },
    {
     "sym": "SPY",
@@ -330,22 +330,15 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 14.89,
-    "pct": 0.54
+    "price": 14.88,
+    "pct": 0.47
    }
   ],
-  "as_of": "2026-09-21T10:27:04.995541+00:00",
+  "as_of": "2026-09-21T10:33:05.090647+00:00",
   "tone": "mixed",
-  "age_min": 2.9939325666666665
+  "age_min": 2.0283565
  },
  "stories": [
-  {
-   "topic": "Saudi / Gulf supply",
-   "title": "Oil Prices Slide as Saudi Arabia Reroutes Crude via Oman - finance.yahoo.com",
-   "source": "finance.yahoo.com",
-   "published": "Thu, 17 Sep 2026 05:20:00 GMT",
-   "read": "unclear"
-  },
   {
    "topic": "Saudi / Gulf supply",
    "title": "Oil prices slide on hopes of diplomacy in Iran war - reuters.com",
@@ -355,17 +348,10 @@
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "U.S. embassies across Middle East issue security alerts for Americans - CBS News",
-   "source": "CBS News",
-   "published": "Sun, 20 Sep 2026 14:20:00 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Kremlin says no progress made in Ukraine negotiations - Anadolu Ajans\u0131",
-   "source": "Anadolu Ajans\u0131",
-   "published": "Mon, 21 Sep 2026 09:35:10 GMT",
-   "read": "de-escalation"
+   "title": "Iran updates: Tanker reportedly struck by projectile in Strait of Hormuz - NewsNation",
+   "source": "NewsNation",
+   "published": "Mon, 21 Sep 2026 09:26:55 GMT",
+   "read": "escalation"
   },
   {
    "topic": "Russia / Ukraine",
@@ -375,10 +361,24 @@
    "read": "unclear"
   },
   {
+   "topic": "Russia / Ukraine",
+   "title": "Moscow Hopes Trilateral Ukraine Talks Will Resume - Kyiv Post",
+   "source": "Kyiv Post",
+   "published": "Mon, 21 Sep 2026 09:02:31 GMT",
+   "read": "de-escalation"
+  },
+  {
    "topic": "Taiwan / China",
    "title": "Trump\u2019s Taiwan retreat tests his chief China hawk\u2019s influence - Politico",
    "source": "Politico",
    "published": "Mon, 21 Sep 2026 09:00:00 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Russia election results show Putin\u2019s party winning: What we know - aljazeera.com",
+   "source": "aljazeera.com",
+   "published": "Mon, 21 Sep 2026 08:56:11 GMT",
    "read": "unclear"
   }
  ],
@@ -501,29 +501,29 @@
    {
     "code": "FR",
     "name": "France",
-    "level": 4.4485,
+    "level": 4.4452,
     "as_of": "2026-09-21",
-    "spread_bp": 99.4,
-    "d_day_bps": -11.8
+    "spread_bp": 99.2,
+    "d_day_bps": -12.2
    },
    {
     "code": "DE",
     "name": "Germany",
-    "level": 3.454,
+    "level": 3.4527,
     "as_of": "2026-09-21",
     "spread_bp": null,
-    "d_day_bps": -6.5
+    "d_day_bps": -6.6
    },
    {
     "code": "IT",
     "name": "Italy",
-    "level": 4.3301,
+    "level": 4.3271,
     "as_of": "2026-09-21",
-    "spread_bp": 87.6,
-    "d_day_bps": -10.7
+    "spread_bp": 87.4,
+    "d_day_bps": -11.0
    }
   ],
-  "bund": 3.454,
+  "bund": 3.4527,
   "note": "10-year government bonds; spread measured over Germany"
  },
  "auctions": {
