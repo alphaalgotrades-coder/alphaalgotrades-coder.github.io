@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-21T01:30:03+00:00",
+ "generated_utc": "2026-09-21T01:35:03+00:00",
  "date_et": "2026-09-20",
  "build": "e96822bfe5",
  "tape": [
@@ -264,20 +264,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 93.63,
-    "pct": -2.55
+    "price": 93.84,
+    "pct": -2.33
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4420.8,
-    "pct": -0.09
+    "price": 4416.8,
+    "pct": -0.18
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 100.224,
-    "pct": 0.0
+    "price": 100.216,
+    "pct": -0.01
    },
    {
     "sym": "SPY",
@@ -298,23 +298,23 @@
     "pct": -4.08
    }
   ],
-  "as_of": "2026-09-21T01:27:05.536598+00:00",
+  "as_of": "2026-09-21T01:33:05.238496+00:00",
   "tone": "risk-on",
-  "age_min": 2.962655666666667
+  "age_min": 1.9737827166666666
  },
  "stories": [
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Putin\u2019s Party Set to Keep Supermajority in Russia\u2019s Deadliest Post-Soviet Election - Hungarian Conservative",
-   "source": "Hungarian Conservative",
-   "published": "Sun, 20 Sep 2026 23:48:45 GMT",
-   "read": "unclear"
-  },
   {
    "topic": "Russia / Ukraine",
    "title": "Russia's ruling party on track to win election after Ukraine's drone attacks on Moscow - France 24",
    "source": "France 24",
    "published": "Sun, 20 Sep 2026 20:14:33 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "How Putin\u2019s war on Ukraine is also a campaign against the West - tpr.org",
+   "source": "tpr.org",
+   "published": "Sun, 20 Sep 2026 20:04:36 GMT",
    "read": "unclear"
   },
   {
@@ -333,16 +333,16 @@
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Iran and US trade threats after Houthi attacks escalate regional conflict - Reuters",
-   "source": "Reuters",
-   "published": "Sun, 20 Sep 2026 17:46:57 GMT",
+   "title": "Shafaq News..Iran downs Orbiter reconnaissance drone over Hormuz - \u0634\u0641\u0642 \u0646\u064a\u0648\u0632",
+   "source": "\u0634\u0641\u0642 \u0646\u064a\u0648\u0632",
+   "published": "Sun, 20 Sep 2026 18:03:50 GMT",
    "read": "escalation"
   },
   {
-   "topic": "Saudi / Gulf supply",
-   "title": "Strikes at the heart of Saudi Arabia\u2019s oil network: Is energy security being reshaped? - \u0646\u0648\u0646 \u0628\u0648\u0633\u062a",
-   "source": "\u0646\u0648\u0646 \u0628\u0648\u0633\u062a",
-   "published": "Sun, 20 Sep 2026 16:01:07 GMT",
+   "topic": "Iran / Hormuz",
+   "title": "Iran and US trade threats after Houthi attacks escalate regional conflict - Reuters",
+   "source": "Reuters",
+   "published": "Sun, 20 Sep 2026 17:46:57 GMT",
    "read": "escalation"
   }
  ],
