@@ -527,6 +527,47 @@ function buildSlides(d){
       +(au.total_bn?('<div class="tot">Announced so far: <b>$'+au.total_bn+'bn</b></div>'):'')
       +'</div>'});
   }
+  /* THE BOOK (Julio 2026-09-21: "yes add it"). Read from the public
+     book.json via data.json -- dollars only. No percentage of any kind is
+     drawn here: the capture rule keeps any return figure out of frame, and
+     livedesk._book() never copies the stats block in the first place.
+     Realised AND open are shown together; one without the other flatters. */
+  const bk=d.book;
+  if(bk && bk.realized!=null){
+    const MON=['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+    const md=function(iso){ const p=String(iso||'').split('-');
+      return p.length===3 ? MON[parseInt(p[1],10)-1]+' '+parseInt(p[2],10) : ''; };
+    const usd=function(v){ return (v<0?'−':'+')+'$'
+      +Math.abs(v).toLocaleString('en-US',{maximumFractionDigits:0}); };
+    const px=function(v){ return '$'+Number(v).toFixed(2); };
+    out.push({label:'The book', html:'<div class="slide figure">'
+      +'<div class="kick">The wheel · since '+esc(md(bk.since))+' · '
+        +esc(String(bk.trading_days))+' trading days</div>'
+      +'<div class="big num display '+(bk.realized>=0?'beat':'miss')+'">'+usd(bk.realized)+'</div>'
+      +'<div class="sub" style="max-width:30ch">banked since '+esc(md(bk.since))
+      +(bk.open_upnl!=null?('<br>open positions <b class="num '+(bk.open_upnl>=0?'beat':'miss')+'">'
+        +usd(bk.open_upnl)+'</b> not yet closed'):'')
+      +'<br><span style="color:var(--mut);font-size:19px">'
+        +esc(String(bk.green_days))+' green days · '+esc(String(bk.red_days))+' red · '
+        +esc(String(bk.total_fills))+' trades'
+        +(bk.as_of_et?(' · updated '+esc(bk.as_of_et)+' ET'):'')+'</span>'
+      +'</div></div>'});
+    const rows=(bk.legs||[]).map(function(l){
+        return '<div class="ar"><span class="ad num">'+esc(md(l.expiry))+'</span>'
+          +'<span class="at">'+esc(l.symbol)+' '+px(l.strike)+' '+esc(l.right)
+          +' · '+(l.sold?'sold ':'bought ')+esc(String(l.qty||''))+'</span>'
+          +'<span class="aa num">'+px(l.entry)+'</span></div>'; })
+      .concat((bk.held||[]).map(function(h){
+        return '<div class="ar"><span class="ad num">shares</span>'
+          +'<span class="at">'+esc(h.symbol)+' · '+esc(String(h.shares))+' shares</span>'
+          +'<span class="aa num">'+px(h.basis)+'</span></div>'; }));
+    if(rows.length){
+      out.push({label:'The book, open positions', html:'<div class="slide auc">'
+        +rows.slice(0,8).join('')
+        +'<div class="tot" style="font-size:19px">options: expiry · premium per share'
+        +' · shares: cost after premiums</div></div>'});
+    }
+  }
   (d.stories||[]).slice(0,4).forEach(s=>{
     out.push({label:'Running story', html:`<div class="slide story">
       <span class="src">${esc(s.source||'wire')}</span>
@@ -561,7 +602,7 @@ const panel=(name,fn)=>{ try{ fn(); }catch(e){
 /* Replaced with a hash of this file at write time. Left as the literal
    placeholder when the page is opened straight from the repo, which is the
    signal to skip the check entirely rather than reload in a loop. */
-const BUILD='340a21dcf0';
+const BUILD='0ef2ea7465';
 
 function checkBuild(d){
   if(!d.build || BUILD.indexOf('BUILD')>=0) return;   /* unstamped: do nothing */
