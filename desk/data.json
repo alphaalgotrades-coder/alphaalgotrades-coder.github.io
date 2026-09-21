@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-21T01:10:03+00:00",
+ "generated_utc": "2026-09-21T01:15:03+00:00",
  "date_et": "2026-09-20",
  "build": "e96822bfe5",
  "tape": [
@@ -264,20 +264,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 94.62,
-    "pct": -1.52
+    "price": 94.27,
+    "pct": -1.88
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4405.4,
-    "pct": -0.44
+    "price": 4413.2,
+    "pct": -0.26
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 100.254,
-    "pct": 0.03
+    "price": 100.246,
+    "pct": 0.02
    },
    {
     "sym": "SPY",
@@ -298,31 +298,17 @@
     "pct": -4.08
    }
   ],
-  "as_of": "2026-09-21T01:09:05.569234+00:00",
+  "as_of": "2026-09-21T01:12:05.354192+00:00",
   "tone": "risk-on",
-  "age_min": 0.9607063
+  "age_min": 2.9680638166666666
  },
  "stories": [
-  {
-   "topic": "Taiwan / China",
-   "title": "China &amp; Taiwan Update, September 15, 2026 - understandingwar.org",
-   "source": "understandingwar.org",
-   "published": "Tue, 15 Sep 2026 17:37:33 GMT",
-   "read": "unclear"
-  },
   {
    "topic": "Russia / Ukraine",
    "title": "Putin\u2019s Party Set to Keep Supermajority in Russia\u2019s Deadliest Post-Soviet Election - Hungarian Conservative",
    "source": "Hungarian Conservative",
    "published": "Sun, 20 Sep 2026 23:48:45 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Trump heads to UN as Iran offers conditions for talks, end to war - newsnationnow.com",
-   "source": "newsnationnow.com",
-   "published": "Sun, 20 Sep 2026 22:57:57 GMT",
-   "read": "de-escalation"
   },
   {
    "topic": "Russia / Ukraine",
@@ -343,6 +329,20 @@
    "title": "Pipe Attacked by Drone, Saudi Aramco Cancel October Oil Allocation to Europe - VOI.ID",
    "source": "VOI.ID",
    "published": "Sun, 20 Sep 2026 18:10:00 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iran and US trade threats after Houthi attacks escalate regional conflict - Reuters",
+   "source": "Reuters",
+   "published": "Sun, 20 Sep 2026 17:46:57 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Saudi / Gulf supply",
+   "title": "Strikes at the heart of Saudi Arabia\u2019s oil network: Is energy security being reshaped? - \u0646\u0648\u0646 \u0628\u0648\u0633\u062a",
+   "source": "\u0646\u0648\u0646 \u0628\u0648\u0633\u062a",
+   "published": "Sun, 20 Sep 2026 16:01:07 GMT",
    "read": "escalation"
   }
  ],
