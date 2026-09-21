@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-21T06:30:03+00:00",
+ "generated_utc": "2026-09-21T06:35:03+00:00",
  "date_et": "2026-09-21",
  "build": "e96822bfe5",
  "tape": [
@@ -300,20 +300,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 94.24,
-    "pct": -1.92
+    "price": 94.07,
+    "pct": -2.09
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4391.8,
-    "pct": -0.75
+    "price": 4386.0,
+    "pct": -0.88
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 100.35,
-    "pct": 0.13
+    "price": 100.344,
+    "pct": 0.12
    },
    {
     "sym": "SPY",
@@ -334,23 +334,23 @@
     "pct": -4.08
    }
   ],
-  "as_of": "2026-09-21T06:27:05.337748+00:00",
+  "as_of": "2026-09-21T06:33:05.138601+00:00",
   "tone": "risk-on",
-  "age_min": 2.9796160666666665
+  "age_min": 1.9786953666666667
  },
  "stories": [
+  {
+   "topic": "Saudi / Gulf supply",
+   "title": "Oil Prices Slide as Saudi Arabia Reroutes Crude via Oman - finance.yahoo.com",
+   "source": "finance.yahoo.com",
+   "published": "Thu, 17 Sep 2026 05:20:00 GMT",
+   "read": "unclear"
+  },
   {
    "topic": "Saudi / Gulf supply",
    "title": "Aramco Cuts off Crude Supplies To European Refiners - Orinoco Tribune",
    "source": "Orinoco Tribune",
    "published": "Sun, 20 Sep 2026 19:53:34 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Taiwan / China",
-   "title": "Buyers snap up fruit after farmer refuses China sales - Taipei Times",
-   "source": "Taipei Times",
-   "published": "Sun, 20 Sep 2026 16:00:00 GMT",
    "read": "unclear"
   },
   {
@@ -368,18 +368,18 @@
    "read": "unclear"
   },
   {
-   "topic": "Saudi / Gulf supply",
-   "title": "Saudi Arabia is running out of options to export oil. What does that mean for global energy? - The Business Standard",
-   "source": "The Business Standard",
-   "published": "Mon, 21 Sep 2026 05:35:00 GMT",
+   "topic": "Taiwan / China",
+   "title": "Exclusive | US weighs delaying Taiwan arms sales until after Apec and G20 summits - SCMP",
+   "source": "SCMP",
+   "published": "Sat, 19 Sep 2026 01:00:13 GMT",
    "read": "unclear"
   },
   {
-   "topic": "Russia / Ukraine",
-   "title": "EA-Frontline VideoCast: Ukraine Pushes Russia Back on Frontlines - EA WorldView",
-   "source": "EA WorldView",
-   "published": "Mon, 21 Sep 2026 05:23:11 GMT",
-   "read": "de-escalation"
+   "topic": "Iran / Hormuz",
+   "title": "Iran says it downed US MQ-1 drone over Strait of Hormuz: Report - Anadolu Ajans\u0131",
+   "source": "Anadolu Ajans\u0131",
+   "published": "Mon, 21 Sep 2026 06:29:57 GMT",
+   "read": "escalation"
   }
  ],
  "ratings": [
