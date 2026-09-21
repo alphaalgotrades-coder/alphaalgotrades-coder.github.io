@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-21T02:50:03+00:00",
+ "generated_utc": "2026-09-21T02:55:03+00:00",
  "date_et": "2026-09-20",
  "build": "e96822bfe5",
  "tape": [
@@ -264,19 +264,19 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 93.87,
-    "pct": -2.3
+    "price": 93.96,
+    "pct": -2.21
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4406.9,
-    "pct": -0.41
+    "price": 4407.0,
+    "pct": -0.4
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 100.25,
+    "price": 100.254,
     "pct": 0.03
    },
    {
@@ -298,16 +298,16 @@
     "pct": -4.08
    }
   ],
-  "as_of": "2026-09-21T02:48:05.168260+00:00",
+  "as_of": "2026-09-21T02:54:05.306802+00:00",
   "tone": "risk-on",
-  "age_min": 1.9748003333333335
+  "age_min": 0.96875565
  },
  "stories": [
   {
    "topic": "Russia / Ukraine",
-   "title": "Russia's ruling party on track to win election after Ukraine's drone attacks on Moscow - France 24",
-   "source": "France 24",
-   "published": "Sun, 20 Sep 2026 20:14:33 GMT",
+   "title": "Here\u2019s what to know about Russia\u2019s parliamentary vote and its main parties - apnews.com",
+   "source": "apnews.com",
+   "published": "Thu, 17 Sep 2026 11:19:00 GMT",
    "read": "unclear"
   },
   {
