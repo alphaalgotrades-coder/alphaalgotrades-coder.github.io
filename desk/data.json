@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-21T23:10:03+00:00",
+ "generated_utc": "2026-09-21T23:15:03+00:00",
  "date_et": "2026-09-21",
  "build": "0d463cfe05",
  "tape": [
@@ -306,8 +306,8 @@
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4401.8,
-    "pct": 0.41
+    "price": 4400.2,
+    "pct": 0.37
    },
    {
     "sym": "DXY",
@@ -334,9 +334,9 @@
     "pct": 0.41
    }
   ],
-  "as_of": "2026-09-21T23:09:05.276154+00:00",
+  "as_of": "2026-09-21T23:12:05.431682+00:00",
   "tone": "risk-on",
-  "age_min": 0.9752261
+  "age_min": 2.9716272666666668
  },
  "stories": [
   {
@@ -354,18 +354,18 @@
    "read": "escalation"
   },
   {
+   "topic": "Saudi / Gulf supply",
+   "title": "Oil Prices Fall for Fourth Day as Supply Concerns Ease - WSJ",
+   "source": "WSJ",
+   "published": "Mon, 21 Sep 2026 20:01:00 GMT",
+   "read": "unclear"
+  },
+  {
    "topic": "Russia / Ukraine",
    "title": "What Russia\u2019s Parliamentary Election Results Mean for Putin and the War - time.com",
    "source": "time.com",
    "published": "Mon, 21 Sep 2026 19:50:43 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Saudi / Gulf supply",
-   "title": "Saudi Arabia increases Gulf oil exports days after Houthis attack key pipeline - indiatoday.in",
-   "source": "indiatoday.in",
-   "published": "Mon, 21 Sep 2026 18:38:44 GMT",
-   "read": "escalation"
   },
   {
    "topic": "Russia / Ukraine",
