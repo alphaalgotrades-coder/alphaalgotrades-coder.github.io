@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-21T03:00:04+00:00",
+ "generated_utc": "2026-09-21T03:05:04+00:00",
  "date_et": "2026-09-20",
  "build": "e96822bfe5",
  "tape": [
@@ -28,7 +28,7 @@
    "title": "Credit Card Spending y/y",
    "cons": "",
    "prev": "5.3%",
-   "actual": ""
+   "actual": "3.5%"
   }
  ],
  "rates": {
@@ -264,20 +264,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 93.83,
-    "pct": -2.34
+    "price": 93.88,
+    "pct": -2.29
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4407.7,
-    "pct": -0.39
+    "price": 4406.0,
+    "pct": -0.43
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 100.254,
-    "pct": 0.03
+    "price": 100.275,
+    "pct": 0.05
    },
    {
     "sym": "SPY",
@@ -298,9 +298,9 @@
     "pct": -4.08
    }
   ],
-  "as_of": "2026-09-21T02:57:05.682819+00:00",
+  "as_of": "2026-09-21T03:03:05.481280+00:00",
   "tone": "risk-on",
-  "age_min": 2.975263566666667
+  "age_min": 1.9786396333333334
  },
  "stories": [
   {
