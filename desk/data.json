@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-21T21:30:04+00:00",
+ "generated_utc": "2026-09-21T21:35:03+00:00",
  "date_et": "2026-09-21",
  "build": "0d463cfe05",
  "tape": [
@@ -312,8 +312,8 @@
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 100.395,
-    "pct": 0.17
+    "price": 100.406,
+    "pct": 0.18
    },
    {
     "sym": "SPY",
@@ -334,11 +334,18 @@
     "pct": 0.41
    }
   ],
-  "as_of": "2026-09-21T21:27:05.696818+00:00",
+  "as_of": "2026-09-21T21:33:05.822933+00:00",
   "tone": "risk-on",
-  "age_min": 2.97968925
+  "age_min": 1.9626562833333334
  },
  "stories": [
+  {
+   "topic": "Saudi / Gulf supply",
+   "title": "Saudi Aramco boosts crude loadings after pipeline disruption - Investing.com India",
+   "source": "Investing.com India",
+   "published": "Mon, 21 Sep 2026 21:00:00 GMT",
+   "read": "unclear"
+  },
   {
    "topic": "Russia / Ukraine",
    "title": "Putin\u2019s United Russia remains in power. What should concern the West is how it got there - analysis - The Jerusalem Post",
@@ -354,13 +361,6 @@
    "read": "unclear"
   },
   {
-   "topic": "Russia / Ukraine",
-   "title": "What Russia\u2019s Parliamentary Election Results Mean for Putin and the War - Time Magazine",
-   "source": "Time Magazine",
-   "published": "Mon, 21 Sep 2026 19:50:43 GMT",
-   "read": "unclear"
-  },
-  {
    "topic": "Saudi / Gulf supply",
    "title": "Saudi Arabia increases Gulf oil exports days after Houthis attack key pipeline - indiatoday.in",
    "source": "indiatoday.in",
@@ -368,17 +368,17 @@
    "read": "escalation"
   },
   {
+   "topic": "Russia / Ukraine",
+   "title": "Russia\u2019s Election Was Engineered to Send a Message: Putin Remains in Control - The New York Times",
+   "source": "The New York Times",
+   "published": "Mon, 21 Sep 2026 18:09:23 GMT",
+   "read": "unclear"
+  },
+  {
    "topic": "Iran / Hormuz",
    "title": "Iran Keeps Up Pressure, Hitting Another Tanker as US Asserts Hormuz is Open - The Maritime Executive",
    "source": "The Maritime Executive",
    "published": "Mon, 21 Sep 2026 18:07:48 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran\u2019s Revolutionary Guard warns US over escalation, and other Mideast developments - AP News",
-   "source": "AP News",
-   "published": "Mon, 21 Sep 2026 17:30:00 GMT",
    "read": "escalation"
   }
  ],
