@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-21T00:30:03+00:00",
+ "generated_utc": "2026-09-21T00:35:03+00:00",
  "date_et": "2026-09-20",
  "build": "e96822bfe5",
  "tape": [
@@ -264,20 +264,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 95.66,
-    "pct": -0.44
+    "price": 95.38,
+    "pct": -0.73
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4399.4,
-    "pct": -0.58
+    "price": 4398.8,
+    "pct": -0.59
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 100.262,
-    "pct": 0.04
+    "price": 100.275,
+    "pct": 0.05
    },
    {
     "sym": "SPY",
@@ -298,9 +298,9 @@
     "pct": -4.08
    }
   ],
-  "as_of": "2026-09-21T00:27:05.116375+00:00",
+  "as_of": "2026-09-21T00:33:05.442819+00:00",
   "tone": "risk-on",
-  "age_min": 2.9812000833333334
+  "age_min": 1.9686533833333333
  },
  "stories": [
   {
@@ -325,6 +325,13 @@
    "read": "escalation"
   },
   {
+   "topic": "Russia / Ukraine",
+   "title": "Russia's ruling party on track to win election after Ukraine's drone attacks on Moscow - France 24",
+   "source": "France 24",
+   "published": "Sun, 20 Sep 2026 20:14:33 GMT",
+   "read": "unclear"
+  },
+  {
    "topic": "Saudi / Gulf supply",
    "title": "Pipe Attacked by Drone, Saudi Aramco Cancel October Oil Allocation to Europe - VOI.ID",
    "source": "VOI.ID",
@@ -336,13 +343,6 @@
    "title": "Iran and US trade threats after Houthi attacks escalate regional conflict - reuters.com",
    "source": "reuters.com",
    "published": "Sun, 20 Sep 2026 17:46:57 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Saudi / Gulf supply",
-   "title": "Strikes at the heart of Saudi Arabia\u2019s oil network: Is energy security being reshaped? - \u0646\u0648\u0646 \u0628\u0648\u0633\u062a",
-   "source": "\u0646\u0648\u0646 \u0628\u0648\u0633\u062a",
-   "published": "Sun, 20 Sep 2026 16:01:07 GMT",
    "read": "escalation"
   }
  ],
