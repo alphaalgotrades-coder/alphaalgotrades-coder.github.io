@@ -1,12 +1,12 @@
 {
- "generated_utc": "2026-09-21T14:05:04.850899+00:00",
+ "generated_utc": "2026-09-21T15:05:04.218478+00:00",
  "paper": true,
  "strategy": "the wheel (cash-secured puts -> covered calls)",
  "since": "2026-07-13",
  "trading_days": 43,
  "green_days": 24,
  "red_days": 2,
- "total_fills": 126,
+ "total_fills": 129,
  "symbols_traded": 22,
  "cumulative_realized": 7722.27,
  "days": [
@@ -299,14 +299,14 @@
   },
   {
    "date": "2026-09-19",
-   "fills": 6,
+   "fills": 8,
    "realized": 0.0,
    "commission": 0.0,
    "cumulative": 7722.27
   },
   {
    "date": "2026-09-21",
-   "fills": 3,
+   "fills": 4,
    "realized": 0.0,
    "commission": 0.0,
    "cumulative": 7722.27
@@ -323,7 +323,7 @@
    "engine": true,
    "agree": true,
    "entry": 32.5,
-   "upnl": -1884.0,
+   "upnl": -1932.0,
    "lane": "OPTIONS"
   },
   {
@@ -349,7 +349,7 @@
    "engine": true,
    "agree": true,
    "entry": 70.0,
-   "upnl": -1375.0,
+   "upnl": -1295.0,
    "lane": "OPTIONS"
   },
   {
@@ -375,7 +375,7 @@
    "engine": true,
    "agree": true,
    "entry": 13.68,
-   "upnl": 451.5,
+   "upnl": 465.5,
    "lane": "OPTIONS"
   },
   {
@@ -388,7 +388,7 @@
    "engine": true,
    "agree": true,
    "entry": 0.7,
-   "upnl": -20.0,
+   "upnl": -160.0,
    "lane": "OPTIONS"
   },
   {
@@ -401,7 +401,7 @@
    "engine": true,
    "agree": true,
    "entry": 0.45,
-   "upnl": -80.0,
+   "upnl": -20.0,
    "lane": "OPTIONS"
   },
   {
@@ -414,11 +414,11 @@
    "engine": true,
    "agree": true,
    "entry": 35.0,
-   "upnl": -966.0,
+   "upnl": -690.0,
    "lane": "OPTIONS"
   }
  ],
- "open_upnl": -3943.5,
+ "open_upnl": -3701.5,
  "reconciliation": "8/8 open legs reconciled against the broker statement and our own database",
  "stats": {
   "closed_trades": 40,
@@ -428,9 +428,9 @@
   "profit_factor": 7.51,
   "expectancy": 193.06,
   "sharpe_daily_ann": 5.8,
-  "capital_at_risk": 71326.0,
-  "period_return_pct": 10.83,
-  "ann_pace_pct": 55.7,
+  "capital_at_risk": 71826.0,
+  "period_return_pct": 10.75,
+  "ann_pace_pct": 55.3,
   "elapsed_days": 71
  },
  "assigned": [
@@ -444,9 +444,9 @@
   {
    "symbol": "BLDR",
    "shares": 200,
-   "entry": 67.5,
-   "basis": 64.12,
-   "reduced_pct": 5.0
+   "entry": 70.0,
+   "basis": 65.7,
+   "reduced_pct": 6.1
   },
   {
    "symbol": "DLO",
