@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-22T21:50:04+00:00",
+ "generated_utc": "2026-09-22T21:55:03+00:00",
  "date_et": "2026-09-22",
  "build": "0d463cfe05",
  "tape": [
@@ -382,18 +382,18 @@
     "sym": "CL",
     "name": "WTI crude futures",
     "price": 89.85,
-    "pct": -2.73
+    "pct": -0.74
    },
    {
     "sym": "GC",
     "name": "Gold futures",
     "price": 4396.2,
-    "pct": 0.28
+    "pct": 0.45
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 100.533,
+    "price": 100.53,
     "pct": 0.1
    },
    {
@@ -415,9 +415,9 @@
     "pct": -4.44
    }
   ],
-  "as_of": "2026-09-22T21:48:05.965579+00:00",
+  "as_of": "2026-09-22T21:54:06.029758+00:00",
   "tone": "risk-on",
-  "age_min": 1.9691422166666668
+  "age_min": 0.9640364666666666
  },
  "stories": [
   {
@@ -436,31 +436,31 @@
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "Zelensky Says He Hopes Trump Helps Him to End the War \u2018Before Winter\u2019 - The New York Times",
+   "title": "Zelensky Says He Hopes Trump Will Help to End Russia-Ukraine War \u2018Before Winter\u2019 - The New York Times",
    "source": "The New York Times",
    "published": "Tue, 22 Sep 2026 20:10:43 GMT",
    "read": "unclear"
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "Senior NATO commander warns Putin is becoming more cavalier and open to risk as Ukraine war drags on - Bozeman Daily Chronicle",
-   "source": "Bozeman Daily Chronicle",
-   "published": "Tue, 22 Sep 2026 20:08:01 GMT",
-   "read": "escalation"
+   "title": "Zelensky Says He Hopes Trump Helps Him to End the War \u2018Before Winter\u2019 - The New York Times",
+   "source": "The New York Times",
+   "published": "Tue, 22 Sep 2026 20:10:43 GMT",
+   "read": "unclear"
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Steve Witkoff, Jared Kushner hold mediator talks as Iran submits Hormuz conditions - jpost.com",
-   "source": "jpost.com",
+   "title": "Steve Witkoff, Jared Kushner hold mediator talks as Iran submits Hormuz conditions - The Jerusalem Post",
+   "source": "The Jerusalem Post",
    "published": "Tue, 22 Sep 2026 19:58:02 GMT",
    "read": "de-escalation"
   },
   {
-   "topic": "Iran / Hormuz",
-   "title": "Iran submits conditions for reopening of Hormuz to U.S. representative, state media says - Reuters",
-   "source": "Reuters",
-   "published": "Tue, 22 Sep 2026 19:46:20 GMT",
-   "read": "de-escalation"
+   "topic": "Taiwan / China",
+   "title": "Taiwan Minister Says He Was Not \u2018Belittled\u2019 on Rare Trip to China - chinaglobalsouth.com",
+   "source": "chinaglobalsouth.com",
+   "published": "Tue, 22 Sep 2026 16:50:54 GMT",
+   "read": "unclear"
   }
  ],
  "ratings": [
