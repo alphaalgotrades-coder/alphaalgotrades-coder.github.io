@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-22T10:30:04+00:00",
+ "generated_utc": "2026-09-22T10:35:04+00:00",
  "date_et": "2026-09-22",
  "build": "0d463cfe05",
  "tape": [
@@ -143,12 +143,12 @@
   "rows": [
    {
     "series": "2Y",
-    "level": 4.722,
-    "d_day_bps": -3.8,
+    "level": 4.724,
+    "d_day_bps": -3.6,
     "lean": "dovish",
     "source": "YAHOO_TSY_FUT_ZT",
     "latency": "after-hours-futures-proxy",
-    "snapshot_ts": "2026-09-22T10:17:00+00:00",
+    "snapshot_ts": "2026-09-22T10:22:00+00:00",
     "snapshot_date": "2026-09-22",
     "prior_day": "2026-09-18",
     "prior_day_close": 4.76,
@@ -167,20 +167,19 @@
      4.766,
      4.774,
      4.776,
-     4.774,
      4.776,
      4.776,
      4.774,
+     4.772,
      4.77,
      4.768,
      4.772,
-     4.774,
      4.776,
-     4.782,
-     4.778,
+     4.78,
+     4.78,
      4.784,
-     4.786,
-     4.764,
+     4.784,
+     4.782,
      4.738,
      4.734,
      4.742,
@@ -192,7 +191,8 @@
      4.728,
      4.72,
      4.718,
-     4.724
+     4.724,
+     4.722
     ]
    },
    {
@@ -202,7 +202,7 @@
     "lean": "dovish",
     "source": "YAHOO_TSY_FUT_ZF",
     "latency": "after-hours-futures-proxy",
-    "snapshot_ts": "2026-09-22T10:18:00+00:00",
+    "snapshot_ts": "2026-09-22T10:22:00+00:00",
     "snapshot_date": "2026-09-22",
     "prior_day": "2026-09-18",
     "prior_day_close": 4.856,
@@ -224,17 +224,16 @@
      4.877,
      4.877,
      4.875,
-     4.877,
-     4.868,
+     4.873,
      4.866,
-     4.866,
+     4.865,
      4.868,
      4.868,
-     4.877,
+     4.873,
      4.872,
      4.875,
      4.877,
-     4.858,
+     4.875,
      4.83,
      4.83,
      4.839,
@@ -246,7 +245,8 @@
      4.823,
      4.816,
      4.816,
-     4.821
+     4.821,
+     4.819
     ]
    },
    {
@@ -256,7 +256,7 @@
     "lean": "dovish",
     "source": "YAHOO_TSY_FUT_ZN",
     "latency": "after-hours-futures-proxy",
-    "snapshot_ts": "2026-09-22T10:18:00+00:00",
+    "snapshot_ts": "2026-09-22T10:22:00+00:00",
     "snapshot_date": "2026-09-22",
     "prior_day": "2026-09-18",
     "prior_day_close": 4.998,
@@ -270,47 +270,47 @@
      5.007,
      5.007,
      5.007,
-     5.012,
+     5.009,
      5.009,
      5.012,
      5.016,
      5.021,
      5.021,
+     5.021,
      5.018,
-     5.018,
-     5.018,
-     5.012,
-     5.007,
-     5.007,
+     5.016,
+     5.009,
      5.005,
-     5.009,
-     5.009,
+     5.007,
+     5.007,
+     5.014,
+     5.007,
      5.012,
-     5.012,
-     5.009,
-     4.987,
+     5.014,
+     4.996,
      4.966,
      4.98,
      4.982,
      4.982,
-     4.982,
+     4.98,
+     4.978,
      4.975,
-     4.964,
      4.959,
      4.962,
      4.962,
      4.962,
+     4.966,
      4.966
     ]
    },
    {
     "series": "30Y",
-    "level": 5.309,
-    "d_day_bps": -2.2,
+    "level": 5.311,
+    "d_day_bps": -2.0,
     "lean": "dovish",
     "source": "YAHOO_TSY_FUT_ZB",
     "latency": "after-hours-futures-proxy",
-    "snapshot_ts": "2026-09-22T10:18:00+00:00",
+    "snapshot_ts": "2026-09-22T10:22:00+00:00",
     "snapshot_date": "2026-09-22",
     "prior_day": "2026-09-18",
     "prior_day_close": 5.331,
@@ -323,42 +323,42 @@
      5.331,
      5.331,
      5.333,
+     5.333,
+     5.333,
      5.335,
-     5.336,
      5.335,
-     5.336,
      5.34,
      5.344,
      5.342,
      5.344,
-     5.344,
      5.342,
-     5.336,
+     5.34,
+     5.335,
+     5.331,
+     5.331,
+     5.329,
      5.333,
      5.329,
-     5.329,
-     5.329,
-     5.333,
      5.331,
      5.331,
-     5.331,
+     5.324,
+     5.307,
+     5.309,
+     5.313,
      5.316,
-     5.306,
      5.316,
-     5.315,
-     5.316,
-     5.315,
      5.313,
      5.313,
      5.309,
      5.311,
      5.307,
      5.307,
+     5.309,
      5.309
     ]
    }
   ],
-  "as_of": "2026-09-22T10:17:00+00:00",
+  "as_of": "2026-09-22T10:22:00+00:00",
   "note": "after-hours-futures-proxy"
  },
  "strip": {
@@ -372,19 +372,19 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 89.51,
-    "pct": -3.1
+    "price": 89.73,
+    "pct": -2.86
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4368.5,
-    "pct": -0.35
+    "price": 4366.3,
+    "pct": -0.4
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 100.379,
+    "price": 100.38,
     "pct": -0.05
    },
    {
@@ -402,15 +402,22 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 14.81,
-    "pct": -0.4
+    "price": 14.82,
+    "pct": -0.34
    }
   ],
-  "as_of": "2026-09-22T10:27:06.075458+00:00",
+  "as_of": "2026-09-22T10:33:06.090158+00:00",
   "tone": "risk-on",
-  "age_min": 2.9708549166666667
+  "age_min": 1.9682177166666668
  },
  "stories": [
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iran ready to reopen Strait of Hormuz if US eases military pressure and lifts blockade - Reuters",
+   "source": "Reuters",
+   "published": "Tue, 22 Sep 2026 10:21:18 GMT",
+   "read": "unclear"
+  },
   {
    "topic": "Iran / Hormuz",
    "title": "Iran plans to sell US, Israeli vessels seized in Hormuz - Anadolu Ajans\u0131",
@@ -431,13 +438,6 @@
    "source": "Barron's",
    "published": "Tue, 22 Sep 2026 10:01:00 GMT",
    "read": "de-escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran says it has new weapons, threatens to \u2018change the geography of the war\u2019 if Trump orders attacks - Washington Times",
-   "source": "Washington Times",
-   "published": "Tue, 22 Sep 2026 09:39:12 GMT",
-   "read": "escalation"
   },
   {
    "topic": "Russia / Ukraine",
@@ -573,29 +573,29 @@
    {
     "code": "FR",
     "name": "France",
-    "level": 4.4824,
+    "level": 4.4844,
     "as_of": "2026-09-22",
-    "spread_bp": 104.1,
-    "d_day_bps": 0.9
+    "spread_bp": 104.4,
+    "d_day_bps": 1.1
    },
    {
     "code": "DE",
     "name": "Germany",
-    "level": 3.4413,
+    "level": 3.4402,
     "as_of": "2026-09-22",
     "spread_bp": null,
-    "d_day_bps": -2.1
+    "d_day_bps": -2.2
    },
    {
     "code": "IT",
     "name": "Italy",
-    "level": 4.3339,
+    "level": 4.3331,
     "as_of": "2026-09-22",
     "spread_bp": 89.3,
     "d_day_bps": 0.5
    }
   ],
-  "bund": 3.4413,
+  "bund": 3.4402,
   "note": "10-year government bonds; spread measured over Germany"
  },
  "auctions": {
