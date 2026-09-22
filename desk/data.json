@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-22T09:50:03+00:00",
+ "generated_utc": "2026-09-22T09:55:04+00:00",
  "date_et": "2026-09-22",
  "build": "0d463cfe05",
  "tape": [
@@ -372,20 +372,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 90.94,
-    "pct": -1.55
+    "price": 90.74,
+    "pct": -1.76
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4352.6,
-    "pct": -0.71
+    "price": 4357.1,
+    "pct": -0.61
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 100.438,
-    "pct": 0.01
+    "price": 100.416,
+    "pct": -0.01
    },
    {
     "sym": "SPY",
@@ -402,13 +402,13 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 14.86,
-    "pct": -0.07
+    "price": 14.87,
+    "pct": null
    }
   ],
-  "as_of": "2026-09-22T09:48:05.372229+00:00",
+  "as_of": "2026-09-22T09:54:09.824586+00:00",
   "tone": "risk-on",
-  "age_min": 1.9704456499999998
+  "age_min": 0.9049302666666666
  },
  "stories": [
   {
@@ -424,6 +424,13 @@
    "source": "Le Monde.fr",
    "published": "Tue, 22 Sep 2026 09:06:06 GMT",
    "read": "unclear"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Russian strikes on Ukraine kill three as Zelenskyy in US for UN summit - Al Jazeera",
+   "source": "Al Jazeera",
+   "published": "Tue, 22 Sep 2026 08:19:57 GMT",
+   "read": "escalation"
   },
   {
    "topic": "Iran / Hormuz",
@@ -445,13 +452,6 @@
    "source": "Egypt Oil &amp; Gas",
    "published": "Tue, 22 Sep 2026 07:32:16 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "How did Russia manipulate its elections to maintain Putin's hold on power? - The Jerusalem Post",
-   "source": "The Jerusalem Post",
-   "published": "Tue, 22 Sep 2026 06:59:48 GMT",
-   "read": "unclear"
   }
  ],
  "ratings": [
