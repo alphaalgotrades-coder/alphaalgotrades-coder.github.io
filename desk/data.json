@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-22T07:30:04+00:00",
+ "generated_utc": "2026-09-22T07:35:03+00:00",
  "date_et": "2026-09-22",
  "build": "0d463cfe05",
  "tape": [
@@ -372,20 +372,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 93.36,
-    "pct": 1.07
+    "price": 93.21,
+    "pct": 0.91
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4359.0,
-    "pct": -0.57
+    "price": 4359.4,
+    "pct": -0.56
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 100.456,
-    "pct": 0.03
+    "price": 100.437,
+    "pct": 0.01
    },
    {
     "sym": "SPY",
@@ -402,13 +402,13 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 14.87,
-    "pct": null
+    "price": 14.64,
+    "pct": -1.55
    }
   ],
-  "as_of": "2026-09-22T07:27:05.359745+00:00",
+  "as_of": "2026-09-22T07:33:05.335696+00:00",
   "tone": "risk-on",
-  "age_min": 2.9858613000000003
+  "age_min": 1.9678429
  },
  "stories": [
   {
@@ -417,6 +417,13 @@
    "source": "Japan Wire by Kyodo News",
    "published": "Tue, 22 Sep 2026 07:04:31 GMT",
    "read": "de-escalation"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "How did Russia manipulate its elections to maintain Putin's hold on power? - The Jerusalem Post",
+   "source": "The Jerusalem Post",
+   "published": "Tue, 22 Sep 2026 06:59:48 GMT",
+   "read": "unclear"
   },
   {
    "topic": "Saudi / Gulf supply",
@@ -445,13 +452,6 @@
    "source": "Financial Times",
    "published": "Tue, 22 Sep 2026 04:02:32 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran diplomacy intensifies at UN as Hormuz crisis keeps pressure on region - Iran International",
-   "source": "Iran International",
-   "published": "Tue, 22 Sep 2026 03:36:26 GMT",
-   "read": "escalation"
   }
  ],
  "ratings": [
