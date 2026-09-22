@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-22T21:30:04+00:00",
+ "generated_utc": "2026-09-22T21:35:04+00:00",
  "date_et": "2026-09-22",
  "build": "0d463cfe05",
  "tape": [
@@ -393,8 +393,8 @@
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 100.535,
-    "pct": 0.11
+    "price": 100.55,
+    "pct": 0.12
    },
    {
     "sym": "SPY",
@@ -415,24 +415,24 @@
     "pct": -4.44
    }
   ],
-  "as_of": "2026-09-22T21:27:06.165485+00:00",
+  "as_of": "2026-09-22T21:33:05.625492+00:00",
   "tone": "risk-on",
-  "age_min": 2.9688403833333337
+  "age_min": 1.9793189
  },
  "stories": [
-  {
-   "topic": "Taiwan / China",
-   "title": "Mainland China stepping up preparations for Taiwan blockade, report says - scmp.com",
-   "source": "scmp.com",
-   "published": "Wed, 02 Sep 2026 07:00:00 GMT",
-   "read": "escalation"
-  },
   {
    "topic": "Russia / Ukraine",
    "title": "The West Is Sending Russia the Wrong Signals - Foreign Policy",
    "source": "Foreign Policy",
    "published": "Tue, 22 Sep 2026 20:47:13 GMT",
    "read": "unclear"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "U.S. and Iran officials meet in New York to discuss ending the war - Axios",
+   "source": "Axios",
+   "published": "Tue, 22 Sep 2026 20:26:03 GMT",
+   "read": "de-escalation"
   },
   {
    "topic": "Russia / Ukraine",
