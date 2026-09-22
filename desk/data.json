@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-22T03:10:03+00:00",
+ "generated_utc": "2026-09-22T03:15:03+00:00",
  "date_et": "2026-09-21",
  "build": "0d463cfe05",
  "tape": [
@@ -294,25 +294,25 @@
    {
     "sym": "MOVE",
     "name": "Bond-market volatility",
-    "price": 81.197,
-    "pct": 0.7
+    "price": 81.2,
+    "pct": 0.69
    },
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 93.07,
-    "pct": 0.76
+    "price": 93.21,
+    "pct": 0.91
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4380.8,
+    "price": 4381.0,
     "pct": -0.07
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 100.399,
+    "price": 100.397,
     "pct": -0.03
    },
    {
@@ -334,9 +334,9 @@
     "pct": 0.41
    }
   ],
-  "as_of": "2026-09-22T03:09:05.138329+00:00",
+  "as_of": "2026-09-22T03:12:04.925051+00:00",
   "tone": "risk-on",
-  "age_min": 0.9738310166666667
+  "age_min": 2.983250683333333
  },
  "stories": [
   {
@@ -375,10 +375,10 @@
    "read": "unclear"
   },
   {
-   "topic": "Iran / Hormuz",
-   "title": "Iran updates: US plans worldwide restrictions on Iranian airlines, Bessent says - NewsNation",
-   "source": "NewsNation",
-   "published": "Mon, 21 Sep 2026 23:40:08 GMT",
+   "topic": "Saudi / Gulf supply",
+   "title": "Saudi Arabia Spent Months Trying to Bypass Hormuz. Now There\u2019s No Way Around It. - wsj.com",
+   "source": "wsj.com",
+   "published": "Tue, 22 Sep 2026 00:00:00 GMT",
    "read": "unclear"
   }
  ],
