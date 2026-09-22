@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-22T09:30:04+00:00",
+ "generated_utc": "2026-09-22T09:35:04+00:00",
  "date_et": "2026-09-22",
  "build": "0d463cfe05",
  "tape": [
@@ -372,20 +372,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 91.05,
-    "pct": -1.43
+    "price": 91.31,
+    "pct": -1.15
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4357.5,
-    "pct": -0.6
+    "price": 4354.9,
+    "pct": -0.66
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 100.466,
-    "pct": 0.04
+    "price": 100.455,
+    "pct": 0.03
    },
    {
     "sym": "SPY",
@@ -402,15 +402,29 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 14.9,
-    "pct": 0.2
+    "price": 14.87,
+    "pct": null
    }
   ],
-  "as_of": "2026-09-22T09:27:05.466759+00:00",
+  "as_of": "2026-09-22T09:33:05.040067+00:00",
   "tone": "risk-on",
-  "age_min": 2.97748635
+  "age_min": 1.9889116999999998
  },
  "stories": [
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Journalist ties tanker attacks to oil middlemen, drawing treason accusations - Iran International",
+   "source": "Iran International",
+   "published": "Tue, 22 Sep 2026 09:24:18 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "With Strait of Hormuz blocked, Iran turns to Caspian Sea - Le Monde.fr",
+   "source": "Le Monde.fr",
+   "published": "Tue, 22 Sep 2026 09:06:06 GMT",
+   "read": "unclear"
+  },
   {
    "topic": "Iran / Hormuz",
    "title": "Iran offers to reopen Hormuz within 7 days if US takes initial steps to ease military pressure: Report - Anadolu Ajans\u0131",
@@ -431,20 +445,6 @@
    "source": "Egypt Oil &amp; Gas",
    "published": "Tue, 22 Sep 2026 07:32:16 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran offers to reopen Hormuz strait within 7 days in push for diplomacy - Japan Wire by Kyodo News",
-   "source": "Japan Wire by Kyodo News",
-   "published": "Tue, 22 Sep 2026 07:30:00 GMT",
-   "read": "de-escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "BREAKING NEWS: Iran offers to reopen Hormuz strait within 7 days in push for diplomacy - Japan Wire by Kyodo News",
-   "source": "Japan Wire by Kyodo News",
-   "published": "Tue, 22 Sep 2026 07:04:31 GMT",
-   "read": "de-escalation"
   },
   {
    "topic": "Russia / Ukraine",
