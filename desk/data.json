@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-22T22:10:03+00:00",
+ "generated_utc": "2026-09-22T22:15:04+00:00",
  "date_et": "2026-09-22",
  "build": "0d463cfe05",
  "tape": [
@@ -381,20 +381,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 89.85,
-    "pct": -0.74
+    "price": 89.96,
+    "pct": -0.62
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4396.2,
-    "pct": 0.45
+    "price": 4400.5,
+    "pct": 0.55
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 100.526,
-    "pct": 0.1
+    "price": 100.541,
+    "pct": 0.11
    },
    {
     "sym": "SPY",
@@ -415,18 +415,11 @@
     "pct": -4.44
    }
   ],
-  "as_of": "2026-09-22T22:09:05.813380+00:00",
+  "as_of": "2026-09-22T22:12:05.741986+00:00",
   "tone": "risk-on",
-  "age_min": 0.9673746666666666
+  "age_min": 2.9819739
  },
  "stories": [
-  {
-   "topic": "Russia / Ukraine",
-   "title": "The West Is Sending Russia the Wrong Signals - Foreign Policy",
-   "source": "Foreign Policy",
-   "published": "Tue, 22 Sep 2026 20:47:13 GMT",
-   "read": "unclear"
-  },
   {
    "topic": "Iran / Hormuz",
    "title": "U.S. and Iran officials meet in New York to discuss ending the war - Axios",
@@ -436,15 +429,8 @@
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "Zelensky Says He Hopes Trump Will Help to End Russia-Ukraine War \u2018Before Winter\u2019 - The New York Times",
-   "source": "The New York Times",
-   "published": "Tue, 22 Sep 2026 20:10:43 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Zelensky Says He Hopes Trump Helps Him to End the War \u2018Before Winter\u2019 - The New York Times",
-   "source": "The New York Times",
+   "title": "Zelensky Says He Hopes Trump Will Help to End Russia-Ukraine War \u2018Before Winter\u2019 - nytimes.com",
+   "source": "nytimes.com",
    "published": "Tue, 22 Sep 2026 20:10:43 GMT",
    "read": "unclear"
   },
@@ -460,6 +446,20 @@
    "title": "Taiwan Minister Says He Was Not \u2018Belittled\u2019 on Rare Trip to China - chinaglobalsouth.com",
    "source": "chinaglobalsouth.com",
    "published": "Tue, 22 Sep 2026 16:50:54 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iran bill allows 20% cargo seizure for ships breaching Hormuz rules - Iran International",
+   "source": "Iran International",
+   "published": "Tue, 22 Sep 2026 16:38:24 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Saudi / Gulf supply",
+   "title": "Saudi Arabia Restarts East-West Oil Pipeline - oilprice.com",
+   "source": "oilprice.com",
+   "published": "Tue, 22 Sep 2026 16:02:24 GMT",
    "read": "unclear"
   }
  ],
