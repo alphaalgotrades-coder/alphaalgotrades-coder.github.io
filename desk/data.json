@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-22T04:50:03+00:00",
+ "generated_utc": "2026-09-22T04:55:03+00:00",
  "date_et": "2026-09-22",
  "build": "0d463cfe05",
  "tape": [
@@ -372,20 +372,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 93.18,
-    "pct": 0.88
+    "price": 93.27,
+    "pct": 0.97
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4377.3,
-    "pct": -0.15
+    "price": 4376.8,
+    "pct": -0.16
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 100.338,
-    "pct": -0.09
+    "price": 100.346,
+    "pct": -0.08
    },
    {
     "sym": "SPY",
@@ -406,9 +406,9 @@
     "pct": 0.41
    }
   ],
-  "as_of": "2026-09-22T04:48:05.881185+00:00",
+  "as_of": "2026-09-22T04:54:05.948075+00:00",
   "tone": "risk-on",
-  "age_min": 1.9664940833333333
+  "age_min": 0.9654675166666667
  },
  "stories": [
   {
@@ -417,6 +417,13 @@
    "source": "Iran International",
    "published": "Tue, 22 Sep 2026 03:36:26 GMT",
    "read": "escalation"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Russia\u2019s parliamentary election results were predictable but what comes next matters - Yahoo News Singapore",
+   "source": "Yahoo News Singapore",
+   "published": "Tue, 22 Sep 2026 03:00:00 GMT",
+   "read": "unclear"
   },
   {
    "topic": "Taiwan / China",
@@ -444,13 +451,6 @@
    "title": "Oil rises slightly ahead of potential US-Iran talks - Reuters",
    "source": "Reuters",
    "published": "Tue, 22 Sep 2026 00:34:00 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Saudi / Gulf supply",
-   "title": "Saudi Arabia Spent Months Trying to Bypass Hormuz. Now There\u2019s No Way Around It. - WSJ",
-   "source": "WSJ",
-   "published": "Tue, 22 Sep 2026 00:00:00 GMT",
    "read": "unclear"
   }
  ],
