@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-22T02:10:03+00:00",
+ "generated_utc": "2026-09-22T02:15:03+00:00",
  "date_et": "2026-09-21",
  "build": "0d463cfe05",
  "tape": [
@@ -300,19 +300,19 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 92.91,
-    "pct": 0.58
+    "price": 92.93,
+    "pct": 0.61
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4385.9,
-    "pct": 0.05
+    "price": 4388.0,
+    "pct": 0.09
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 100.447,
+    "price": 100.446,
     "pct": 0.02
    },
    {
@@ -334,9 +334,9 @@
     "pct": 0.41
    }
   ],
-  "as_of": "2026-09-22T02:09:05.105511+00:00",
+  "as_of": "2026-09-22T02:12:04.868069+00:00",
   "tone": "risk-on",
-  "age_min": 0.9731178
+  "age_min": 2.9860166833333333
  },
  "stories": [
   {
@@ -376,9 +376,9 @@
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "Putin\u2019s party wins supermajority in Russia\u2019s parliamentary election - aljazeera.com",
-   "source": "aljazeera.com",
-   "published": "Mon, 21 Sep 2026 20:25:39 GMT",
+   "title": "Putin\u2019s United Russia remains in power. What should concern the West is how it got there - analysis - jpost.com",
+   "source": "jpost.com",
+   "published": "Mon, 21 Sep 2026 20:41:31 GMT",
    "read": "unclear"
   }
  ],
