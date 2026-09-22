@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-22T00:10:03+00:00",
+ "generated_utc": "2026-09-22T00:15:04+00:00",
  "date_et": "2026-09-21",
  "build": "0d463cfe05",
  "tape": [
@@ -300,20 +300,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 92.27,
-    "pct": -0.11
+    "price": 92.16,
+    "pct": -0.23
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4407.3,
-    "pct": 0.53
+    "price": 4408.4,
+    "pct": 0.56
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 100.427,
-    "pct": -0.0
+    "price": 100.415,
+    "pct": -0.01
    },
    {
     "sym": "SPY",
@@ -334,11 +334,18 @@
     "pct": 0.41
    }
   ],
-  "as_of": "2026-09-22T00:09:04.958803+00:00",
+  "as_of": "2026-09-22T00:12:05.005549+00:00",
   "tone": "risk-on",
-  "age_min": 0.9768065
+  "age_min": 2.9919840833333335
  },
  "stories": [
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iran updates: US plans worldwide restrictions on Iranian airlines, Bessent says - NewsNation",
+   "source": "NewsNation",
+   "published": "Mon, 21 Sep 2026 23:40:08 GMT",
+   "read": "unclear"
+  },
   {
    "topic": "Saudi / Gulf supply",
    "title": "Saudi Aramco boosts crude loadings after pipeline disruption - Investing.com India",
@@ -372,13 +379,6 @@
    "title": "What Russia\u2019s Parliamentary Election Results Mean for Putin and the War - time.com",
    "source": "time.com",
    "published": "Mon, 21 Sep 2026 19:50:43 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran Keeps Up Pressure, Hitting Another Tanker as US Asserts Hormuz is Open - maritime-executive.com",
-   "source": "maritime-executive.com",
-   "published": "Mon, 21 Sep 2026 18:07:48 GMT",
    "read": "unclear"
   }
  ],
