@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-22T06:30:04+00:00",
+ "generated_utc": "2026-09-22T06:35:03+00:00",
  "date_et": "2026-09-22",
  "build": "0d463cfe05",
  "tape": [
@@ -372,20 +372,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 93.68,
-    "pct": 1.42
+    "price": 93.73,
+    "pct": 1.47
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4356.1,
-    "pct": -0.63
+    "price": 4355.1,
+    "pct": -0.66
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 100.438,
-    "pct": 0.01
+    "price": 100.451,
+    "pct": 0.02
    },
    {
     "sym": "SPY",
@@ -406,11 +406,18 @@
     "pct": 0.41
    }
   ],
-  "as_of": "2026-09-22T06:27:05.200214+00:00",
+  "as_of": "2026-09-22T06:33:08.111487+00:00",
   "tone": "risk-on",
-  "age_min": 2.99085455
+  "age_min": 1.9320696166666667
  },
  "stories": [
+  {
+   "topic": "Taiwan / China",
+   "title": "Why Does Taiwan Matter So Much to China and the United States? - Modern Diplomacy",
+   "source": "Modern Diplomacy",
+   "published": "Tue, 22 Sep 2026 06:07:43 GMT",
+   "read": "unclear"
+  },
   {
    "topic": "Iran / Hormuz",
    "title": "Iran diplomacy intensifies at UN as Hormuz crisis keeps pressure on region - Iran International",
@@ -444,13 +451,6 @@
    "title": "All Iranian airlines to be 'shut down' from Wednesday, Bessent tells CNBC - CNBC",
    "source": "CNBC",
    "published": "Tue, 22 Sep 2026 01:43:00 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Key to Ukraine truce: Putin must see the West is nowhere near giving up - New York Post",
-   "source": "New York Post",
-   "published": "Tue, 22 Sep 2026 00:49:00 GMT",
    "read": "unclear"
   }
  ],
