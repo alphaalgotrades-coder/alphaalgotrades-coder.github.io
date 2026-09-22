@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-22T22:50:03+00:00",
+ "generated_utc": "2026-09-22T22:55:03+00:00",
  "date_et": "2026-09-22",
  "build": "0d463cfe05",
  "tape": [
@@ -381,20 +381,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 89.65,
-    "pct": -0.96
+    "price": 89.67,
+    "pct": -0.94
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4402.2,
-    "pct": 0.59
+    "price": 4402.7,
+    "pct": 0.6
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
     "price": 100.541,
-    "pct": 0.11
+    "pct": -0.06
    },
    {
     "sym": "SPY",
@@ -415,11 +415,18 @@
     "pct": -4.44
    }
   ],
-  "as_of": "2026-09-22T22:48:05.798127+00:00",
+  "as_of": "2026-09-22T22:54:06.335219+00:00",
   "tone": "risk-on",
-  "age_min": 1.9664375
+  "age_min": 0.9615549666666666
  },
  "stories": [
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Trump threatens to annihilate Iran as diplomats push for deal at UN - Reuters",
+   "source": "Reuters",
+   "published": "Tue, 22 Sep 2026 21:55:09 GMT",
+   "read": "escalation"
+  },
   {
    "topic": "Iran / Hormuz",
    "title": "Iran and US hold talks on sidelines of UN summit, says Trump - theguardian.com",
@@ -449,18 +456,11 @@
    "read": "de-escalation"
   },
   {
-   "topic": "Iran / Hormuz",
-   "title": "Steve Witkoff, Jared Kushner hold mediator talks as Iran submits Hormuz conditions - The Jerusalem Post",
-   "source": "The Jerusalem Post",
-   "published": "Tue, 22 Sep 2026 19:58:02 GMT",
-   "read": "de-escalation"
-  },
-  {
-   "topic": "Taiwan / China",
-   "title": "Taiwan Minister Says He Was Not \u2018Belittled\u2019 on Rare Trip to China - chinaglobalsouth.com",
-   "source": "chinaglobalsouth.com",
-   "published": "Tue, 22 Sep 2026 16:50:54 GMT",
-   "read": "unclear"
+   "topic": "Russia / Ukraine",
+   "title": "Senior NATO commander warns Putin is becoming more cavalier and open to risk as Ukraine war drags on - AP News",
+   "source": "AP News",
+   "published": "Tue, 22 Sep 2026 20:08:00 GMT",
+   "read": "escalation"
   }
  ],
  "ratings": [
