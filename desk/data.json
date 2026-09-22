@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-22T23:50:04+00:00",
+ "generated_utc": "2026-09-22T23:55:03+00:00",
  "date_et": "2026-09-22",
  "build": "0d463cfe05",
  "tape": [
@@ -381,14 +381,14 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 89.66,
-    "pct": -0.95
+    "price": 89.62,
+    "pct": -0.99
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4401.4,
-    "pct": 0.57
+    "price": 4402.8,
+    "pct": 0.6
    },
    {
     "sym": "DXY",
@@ -415,9 +415,9 @@
     "pct": -4.44
    }
   ],
-  "as_of": "2026-09-22T23:48:06.197722+00:00",
+  "as_of": "2026-09-22T23:54:06.810639+00:00",
   "tone": "risk-on",
-  "age_min": 1.9649543666666667
+  "age_min": 0.9513247
  },
  "stories": [
   {
@@ -442,13 +442,6 @@
    "read": "escalation"
   },
   {
-   "topic": "Russia / Ukraine",
-   "title": "Zelensky Says He Hopes Trump Will Help to End Russia-Ukraine War \u2018Before Winter\u2019 - nytimes.com",
-   "source": "nytimes.com",
-   "published": "Tue, 22 Sep 2026 20:10:43 GMT",
-   "read": "unclear"
-  },
-  {
    "topic": "Iran / Hormuz",
    "title": "Iran submits conditions for reopening of Hormuz to U.S. representative, state media says - WTVB",
    "source": "WTVB",
@@ -461,6 +454,13 @@
    "source": "AP News",
    "published": "Tue, 22 Sep 2026 20:08:00 GMT",
    "read": "escalation"
+  },
+  {
+   "topic": "Saudi / Gulf supply",
+   "title": "Global Oil Price Drops Below $100 a Barrel - nytimes.com",
+   "source": "nytimes.com",
+   "published": "Tue, 22 Sep 2026 20:05:51 GMT",
+   "read": "unclear"
   }
  ],
  "ratings": [
