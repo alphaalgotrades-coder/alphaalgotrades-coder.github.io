@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-22T01:10:03+00:00",
+ "generated_utc": "2026-09-22T01:15:04+00:00",
  "date_et": "2026-09-21",
  "build": "0d463cfe05",
  "tape": [
@@ -300,20 +300,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 92.73,
-    "pct": 0.39
+    "price": 92.87,
+    "pct": 0.54
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4395.7,
-    "pct": 0.27
+    "price": 4394.7,
+    "pct": 0.25
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 100.378,
-    "pct": -0.05
+    "price": 100.389,
+    "pct": -0.04
    },
    {
     "sym": "SPY",
@@ -334,17 +334,31 @@
     "pct": 0.41
    }
   ],
-  "as_of": "2026-09-22T01:09:05.515304+00:00",
+  "as_of": "2026-09-22T01:12:05.146686+00:00",
   "tone": "risk-on",
-  "age_min": 0.9661437
+  "age_min": 2.986897933333333
  },
  "stories": [
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Oil rises slightly ahead of potential US-Iran talks - Reuters",
+   "source": "Reuters",
+   "published": "Tue, 22 Sep 2026 00:34:00 GMT",
+   "read": "unclear"
+  },
   {
    "topic": "Iran / Hormuz",
    "title": "Iran updates: US plans worldwide restrictions on Iranian airlines, Bessent says - NewsNation",
    "source": "NewsNation",
    "published": "Mon, 21 Sep 2026 23:40:08 GMT",
    "read": "unclear"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iran\u2019s Revolutionary Guard warns US over escalation, and other Mideast developments - apnews.com",
+   "source": "apnews.com",
+   "published": "Mon, 21 Sep 2026 22:08:00 GMT",
+   "read": "escalation"
   },
   {
    "topic": "Saudi / Gulf supply",
@@ -354,16 +368,9 @@
    "read": "unclear"
   },
   {
-   "topic": "Iran / Hormuz",
-   "title": "Iran threatens wider war as tanker attacks test mediation efforts - Iran International",
-   "source": "Iran International",
-   "published": "Mon, 21 Sep 2026 20:30:00 GMT",
-   "read": "escalation"
-  },
-  {
    "topic": "Russia / Ukraine",
-   "title": "Putin\u2019s party wins supermajority in Russia\u2019s parliamentary election - Al Jazeera",
-   "source": "Al Jazeera",
+   "title": "Putin\u2019s party wins supermajority in Russia\u2019s parliamentary election - aljazeera.com",
+   "source": "aljazeera.com",
    "published": "Mon, 21 Sep 2026 20:25:39 GMT",
    "read": "unclear"
   },
@@ -372,13 +379,6 @@
    "title": "Oil Prices Fall for Fourth Day as Supply Concerns Ease - WSJ",
    "source": "WSJ",
    "published": "Mon, 21 Sep 2026 20:01:00 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran Keeps Up Pressure, Hitting Another Tanker as US Asserts Hormuz is Open - maritime-executive.com",
-   "source": "maritime-executive.com",
-   "published": "Mon, 21 Sep 2026 18:07:48 GMT",
    "read": "unclear"
   }
  ],
