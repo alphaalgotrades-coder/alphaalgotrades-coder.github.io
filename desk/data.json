@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-22T03:30:03+00:00",
+ "generated_utc": "2026-09-22T03:35:03+00:00",
  "date_et": "2026-09-21",
  "build": "0d463cfe05",
  "tape": [
@@ -300,19 +300,19 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 93.25,
-    "pct": 0.95
+    "price": 93.15,
+    "pct": 0.84
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4383.0,
-    "pct": -0.02
+    "price": 4381.3,
+    "pct": -0.06
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 100.383,
+    "price": 100.377,
     "pct": -0.05
    },
    {
@@ -334,9 +334,9 @@
     "pct": 0.41
    }
   ],
-  "as_of": "2026-09-22T03:27:05.053284+00:00",
+  "as_of": "2026-09-22T03:33:04.985383+00:00",
   "tone": "risk-on",
-  "age_min": 2.9766598833333333
+  "age_min": 1.9778566499999999
  },
  "stories": [
   {
@@ -351,13 +351,6 @@
    "title": "All Iranian airlines to be 'shut down' from Wednesday, Bessent tells CNBC - CNBC",
    "source": "CNBC",
    "published": "Tue, 22 Sep 2026 01:43:00 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Saudi / Gulf supply",
-   "title": "Oil Market Daily: More Saudi Barrels on the Water Are Pulling Crude Lower - The Dark Side Of The Boom",
-   "source": "The Dark Side Of The Boom",
-   "published": "Tue, 22 Sep 2026 01:01:28 GMT",
    "read": "unclear"
   },
   {
@@ -376,9 +369,16 @@
   },
   {
    "topic": "Saudi / Gulf supply",
-   "title": "Saudi Arabia Spent Months Trying to Bypass Hormuz. Now There\u2019s No Way Around It. - wsj.com",
-   "source": "wsj.com",
+   "title": "Saudi Arabia Spent Months Trying to Bypass Hormuz. Now There\u2019s No Way Around It. - WSJ",
+   "source": "WSJ",
    "published": "Tue, 22 Sep 2026 00:00:00 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iran updates: US plans worldwide restrictions on Iranian airlines, Bessent says - NewsNation",
+   "source": "NewsNation",
+   "published": "Mon, 21 Sep 2026 23:40:08 GMT",
    "read": "unclear"
   }
  ],
