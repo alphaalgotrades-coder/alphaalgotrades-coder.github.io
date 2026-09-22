@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-22T05:10:03+00:00",
+ "generated_utc": "2026-09-22T05:15:04+00:00",
  "date_et": "2026-09-22",
  "build": "0d463cfe05",
  "tape": [
@@ -372,19 +372,19 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 93.36,
-    "pct": 1.07
+    "price": 93.37,
+    "pct": 1.08
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4379.3,
-    "pct": -0.1
+    "price": 4379.1,
+    "pct": -0.11
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 100.33,
+    "price": 100.331,
     "pct": -0.1
    },
    {
@@ -406,9 +406,9 @@
     "pct": 0.41
    }
   ],
-  "as_of": "2026-09-22T05:09:05.794202+00:00",
+  "as_of": "2026-09-22T05:12:05.632063+00:00",
   "tone": "risk-on",
-  "age_min": 0.9660142166666666
+  "age_min": 2.9796947
  },
  "stories": [
   {
@@ -417,6 +417,13 @@
    "source": "Iran International",
    "published": "Tue, 22 Sep 2026 03:36:26 GMT",
    "read": "escalation"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Russia: What next after elections? - CNN",
+   "source": "CNN",
+   "published": "Tue, 22 Sep 2026 03:00:00 GMT",
+   "read": "unclear"
   },
   {
    "topic": "Russia / Ukraine",
@@ -444,13 +451,6 @@
    "title": "Key to Ukraine truce: Putin must see the West is nowhere near giving up - New York Post",
    "source": "New York Post",
    "published": "Tue, 22 Sep 2026 00:49:00 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Oil rises slightly ahead of potential US-Iran talks - Reuters",
-   "source": "Reuters",
-   "published": "Tue, 22 Sep 2026 00:34:00 GMT",
    "read": "unclear"
   }
  ],
