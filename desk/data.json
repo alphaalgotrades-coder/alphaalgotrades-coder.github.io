@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-22T00:50:04+00:00",
+ "generated_utc": "2026-09-22T00:55:03+00:00",
  "date_et": "2026-09-21",
  "build": "0d463cfe05",
  "tape": [
@@ -300,20 +300,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 92.67,
-    "pct": 0.32
+    "price": 92.68,
+    "pct": 0.34
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4392.6,
-    "pct": 0.2
+    "price": 4389.9,
+    "pct": 0.14
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 100.388,
-    "pct": -0.04
+    "price": 100.379,
+    "pct": -0.05
    },
    {
     "sym": "SPY",
@@ -334,9 +334,9 @@
     "pct": 0.41
    }
   ],
-  "as_of": "2026-09-22T00:48:04.776068+00:00",
+  "as_of": "2026-09-22T00:54:05.156711+00:00",
   "tone": "risk-on",
-  "age_min": 1.9895281999999999
+  "age_min": 0.9749937000000001
  },
  "stories": [
   {
@@ -375,10 +375,10 @@
    "read": "unclear"
   },
   {
-   "topic": "Russia / Ukraine",
-   "title": "What Russia\u2019s Parliamentary Election Results Mean for Putin and the War - time.com",
-   "source": "time.com",
-   "published": "Mon, 21 Sep 2026 19:50:43 GMT",
+   "topic": "Iran / Hormuz",
+   "title": "Iran Keeps Up Pressure, Hitting Another Tanker as US Asserts Hormuz is Open - maritime-executive.com",
+   "source": "maritime-executive.com",
+   "published": "Mon, 21 Sep 2026 18:07:48 GMT",
    "read": "unclear"
   }
  ],
