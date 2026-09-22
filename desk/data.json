@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-22T23:10:04+00:00",
+ "generated_utc": "2026-09-22T23:15:04+00:00",
  "date_et": "2026-09-22",
  "build": "0d463cfe05",
  "tape": [
@@ -127,7 +127,7 @@
    "title": "Flash Manufacturing PMI",
    "cons": "",
    "prev": "52.0",
-   "actual": ""
+   "actual": "49.3"
   },
   {
    "time": "19:00",
@@ -136,7 +136,7 @@
    "title": "Flash Services PMI",
    "cons": "",
    "prev": "52.9",
-   "actual": ""
+   "actual": "51.4"
   },
   {
    "time": "19:00",
@@ -381,14 +381,14 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 89.64,
-    "pct": -0.97
+    "price": 89.68,
+    "pct": -0.93
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4400.4,
-    "pct": 0.55
+    "price": 4401.1,
+    "pct": 0.56
    },
    {
     "sym": "DXY",
@@ -415,24 +415,24 @@
     "pct": -4.44
    }
   ],
-  "as_of": "2026-09-22T23:09:06.416851+00:00",
+  "as_of": "2026-09-22T23:12:05.908782+00:00",
   "tone": "risk-on",
-  "age_min": 0.9643021833333333
+  "age_min": 2.9800500166666666
  },
  "stories": [
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iran and US have held talks on sidelines of UN summit, says Donald Trump - theguardian.com",
+   "source": "theguardian.com",
+   "published": "Tue, 22 Sep 2026 22:37:00 GMT",
+   "read": "de-escalation"
+  },
   {
    "topic": "Iran / Hormuz",
    "title": "Trump threatens to annihilate Iran as diplomats push for deal at UN - Reuters",
    "source": "Reuters",
    "published": "Tue, 22 Sep 2026 21:55:09 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran and US hold talks on sidelines of UN summit, says Trump - theguardian.com",
-   "source": "theguardian.com",
-   "published": "Tue, 22 Sep 2026 21:21:00 GMT",
-   "read": "de-escalation"
   },
   {
    "topic": "Russia / Ukraine",
