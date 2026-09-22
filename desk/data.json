@@ -1,28 +1,37 @@
 {
- "generated_utc": "2026-09-22T03:55:03+00:00",
- "date_et": "2026-09-21",
+ "generated_utc": "2026-09-22T04:00:04+00:00",
+ "date_et": "2026-09-22",
  "build": "0d463cfe05",
  "tape": [
   {
-   "time": "06:00",
+   "time": "02:00",
+   "ccy": "GBP",
+   "impact": "Low",
+   "title": "Public Sector Net Borrowing",
+   "cons": "15.2B",
+   "prev": "1.8B",
+   "actual": ""
+  },
+  {
+   "time": "04:30",
    "ccy": "EUR",
    "impact": "Low",
-   "title": "German Buba Monthly Report",
+   "title": "German Buba President Nagel Speaks",
    "cons": "",
    "prev": "",
    "actual": ""
   },
   {
-   "time": "06:30",
-   "ccy": "USD",
+   "time": "06:00",
+   "ccy": "GBP",
    "impact": "Low",
-   "title": "FOMC Member Goolsbee Speaks",
-   "cons": "",
-   "prev": "",
+   "title": "CBI Industrial Order Expectations",
+   "cons": "-33",
+   "prev": "-25",
    "actual": ""
   },
   {
-   "time": "11:00",
+   "time": "07:00",
    "ccy": "EUR",
    "impact": "Medi",
    "title": "ECB President Lagarde Speaks",
@@ -31,21 +40,93 @@
    "actual": ""
   },
   {
-   "time": "11:05",
-   "ccy": "CAD",
-   "impact": "Medi",
-   "title": "BOC Gov Macklem Speaks",
+   "time": "08:15",
+   "ccy": "USD",
+   "impact": "Low",
+   "title": "ADP Weekly Employment Change",
+   "cons": "",
+   "prev": "16.3K",
+   "actual": ""
+  },
+  {
+   "time": "10:00",
+   "ccy": "EUR",
+   "impact": "Low",
+   "title": "Consumer Confidence",
+   "cons": "-16",
+   "prev": "-16",
+   "actual": ""
+  },
+  {
+   "time": "10:00",
+   "ccy": "USD",
+   "impact": "Low",
+   "title": "Richmond Manufacturing Index",
+   "cons": "2",
+   "prev": "4",
+   "actual": ""
+  },
+  {
+   "time": "10:05",
+   "ccy": "USD",
+   "impact": "Low",
+   "title": "FOMC Member Williams Speaks",
    "cons": "",
    "prev": "",
    "actual": ""
   },
   {
-   "time": "15:00",
-   "ccy": "AUD",
+   "time": "10:20",
+   "ccy": "USD",
    "impact": "Low",
-   "title": "RBA Assist Gov Hunter Speaks",
+   "title": "FOMC Member Jefferson Speaks",
    "cons": "",
    "prev": "",
+   "actual": ""
+  },
+  {
+   "time": "13:00",
+   "ccy": "USD",
+   "impact": "Low",
+   "title": "FOMC Member Barkin Speaks",
+   "cons": "",
+   "prev": "",
+   "actual": ""
+  },
+  {
+   "time": "15:30",
+   "ccy": "EUR",
+   "impact": "Low",
+   "title": "German Buba President Nagel Speaks",
+   "cons": "",
+   "prev": "",
+   "actual": ""
+  },
+  {
+   "time": "16:30",
+   "ccy": "USD",
+   "impact": "Low",
+   "title": "API Weekly Statistical Bulletin",
+   "cons": "",
+   "prev": "",
+   "actual": ""
+  },
+  {
+   "time": "19:00",
+   "ccy": "AUD",
+   "impact": "Low",
+   "title": "Flash Manufacturing PMI",
+   "cons": "",
+   "prev": "52.0",
+   "actual": ""
+  },
+  {
+   "time": "19:00",
+   "ccy": "AUD",
+   "impact": "Low",
+   "title": "Flash Services PMI",
+   "cons": "",
+   "prev": "52.9",
    "actual": ""
   },
   {
@@ -53,15 +134,6 @@
    "ccy": "JPY",
    "impact": "Holi",
    "title": "Bank Holiday",
-   "cons": "",
-   "prev": "",
-   "actual": ""
-  },
-  {
-   "time": "23:10",
-   "ccy": "AUD",
-   "impact": "High",
-   "title": "RBA Gov Bullock Speaks",
    "cons": "",
    "prev": "",
    "actual": ""
@@ -300,19 +372,19 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 93.06,
-    "pct": 0.75
+    "price": 92.95,
+    "pct": 0.63
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4379.4,
-    "pct": -0.1
+    "price": 4379.0,
+    "pct": -0.11
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 100.357,
+    "price": 100.36,
     "pct": -0.07
    },
    {
@@ -334,9 +406,9 @@
     "pct": 0.41
    }
   ],
-  "as_of": "2026-09-22T03:54:05.627913+00:00",
+  "as_of": "2026-09-22T03:57:06.028638+00:00",
   "tone": "risk-on",
-  "age_min": 0.9701894166666667
+  "age_min": 2.9707596
  },
  "stories": [
   {
