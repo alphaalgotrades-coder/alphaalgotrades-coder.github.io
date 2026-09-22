@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-22T07:10:02+00:00",
+ "generated_utc": "2026-09-22T07:15:03+00:00",
  "date_et": "2026-09-22",
  "build": "0d463cfe05",
  "tape": [
@@ -366,14 +366,14 @@
    {
     "sym": "MOVE",
     "name": "Bond-market volatility",
-    "price": 81.197,
+    "price": 81.2,
     "pct": 0.69
    },
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 93.55,
-    "pct": 1.28
+    "price": 93.68,
+    "pct": 1.42
    },
    {
     "sym": "GC",
@@ -384,8 +384,8 @@
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 100.438,
-    "pct": 0.01
+    "price": 100.449,
+    "pct": 0.02
    },
    {
     "sym": "SPY",
@@ -406,11 +406,25 @@
     "pct": 0.41
    }
   ],
-  "as_of": "2026-09-22T07:09:05.819987+00:00",
+  "as_of": "2026-09-22T07:12:05.255129+00:00",
   "tone": "risk-on",
-  "age_min": 0.9538382166666667
+  "age_min": 2.9733798333333334
  },
  "stories": [
+  {
+   "topic": "Iran / Hormuz",
+   "title": "BREAKING NEWS: Iran offers to reopen Hormuz strait within 7 days in push for diplomacy - Japan Wire by Kyodo News",
+   "source": "Japan Wire by Kyodo News",
+   "published": "Tue, 22 Sep 2026 07:04:31 GMT",
+   "read": "de-escalation"
+  },
+  {
+   "topic": "Saudi / Gulf supply",
+   "title": "Saudi's Aramco has reportedly told Asian refiners that they will be able to pick up oil from Yanbu soon, Bloomberg reports citing sources - Newsquawk",
+   "source": "Newsquawk",
+   "published": "Tue, 22 Sep 2026 06:45:00 GMT",
+   "read": "unclear"
+  },
   {
    "topic": "Taiwan / China",
    "title": "Explainer-Why is Taiwan such an important issue for China? - Global Banking &amp; Finance Review",
@@ -438,20 +452,6 @@
    "source": "Iran International",
    "published": "Tue, 22 Sep 2026 03:36:26 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Russia\u2019s parliamentary election results were predictable but what comes next matters - sg.news.yahoo.com",
-   "source": "sg.news.yahoo.com",
-   "published": "Tue, 22 Sep 2026 03:00:00 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Russia: What next after elections? - CNN",
-   "source": "CNN",
-   "published": "Tue, 22 Sep 2026 03:00:00 GMT",
-   "read": "unclear"
   }
  ],
  "ratings": [
