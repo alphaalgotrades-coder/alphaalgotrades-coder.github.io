@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-22T07:50:03+00:00",
+ "generated_utc": "2026-09-22T07:55:03+00:00",
  "date_et": "2026-09-22",
  "build": "0d463cfe05",
  "tape": [
@@ -372,20 +372,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 92.93,
-    "pct": 0.61
+    "price": 93.05,
+    "pct": 0.74
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4349.3,
-    "pct": -0.79
+    "price": 4345.9,
+    "pct": -0.87
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 100.489,
-    "pct": 0.06
+    "price": 100.505,
+    "pct": 0.08
    },
    {
     "sym": "SPY",
@@ -406,11 +406,32 @@
     "pct": -1.28
    }
   ],
-  "as_of": "2026-09-22T07:48:05.712197+00:00",
+  "as_of": "2026-09-22T07:54:05.768827+00:00",
   "tone": "risk-on",
-  "age_min": 1.9661611333333333
+  "age_min": 0.9712931166666666
  },
  "stories": [
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iran\u2019s Pezeshkian meets Pakistan\u2019s Naqvi in Tehran as tensions with US rise - Al Jazeera",
+   "source": "Al Jazeera",
+   "published": "Tue, 22 Sep 2026 07:40:45 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Saudi / Gulf supply",
+   "title": "Saudi Arabia Increases Gulf Oil Exports Following East-West Pipeline Attack - Egypt Oil &amp; Gas",
+   "source": "Egypt Oil &amp; Gas",
+   "published": "Tue, 22 Sep 2026 07:32:16 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iran offers to reopen Hormuz strait within 7 days in push for diplomacy - Japan Wire by Kyodo News",
+   "source": "Japan Wire by Kyodo News",
+   "published": "Tue, 22 Sep 2026 07:30:00 GMT",
+   "read": "de-escalation"
+  },
   {
    "topic": "Iran / Hormuz",
    "title": "BREAKING NEWS: Iran offers to reopen Hormuz strait within 7 days in push for diplomacy - Japan Wire by Kyodo News",
@@ -430,27 +451,6 @@
    "title": "Saudi's Aramco has reportedly told Asian refiners that they will be able to pick up oil from Yanbu soon, Bloomberg reports citing sources - Newsquawk",
    "source": "Newsquawk",
    "published": "Tue, 22 Sep 2026 06:45:00 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Taiwan / China",
-   "title": "Explainer-Why is Taiwan such an important issue for China? - Global Banking &amp; Finance Review",
-   "source": "Global Banking &amp; Finance Review",
-   "published": "Tue, 22 Sep 2026 06:16:33 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Taiwan / China",
-   "title": "Why Does Taiwan Matter So Much to China and the United States? - Modern Diplomacy",
-   "source": "Modern Diplomacy",
-   "published": "Tue, 22 Sep 2026 06:07:43 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Putin\u2019s \u2018war heroes\u2019 form new political elite in Russian parliament - Financial Times",
-   "source": "Financial Times",
-   "published": "Tue, 22 Sep 2026 04:02:32 GMT",
    "read": "unclear"
   }
  ],
