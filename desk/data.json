@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-22T22:30:04+00:00",
+ "generated_utc": "2026-09-22T22:35:03+00:00",
  "date_et": "2026-09-22",
  "build": "0d463cfe05",
  "tape": [
@@ -381,14 +381,14 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 89.71,
-    "pct": -0.89
+    "price": 89.64,
+    "pct": -0.97
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4401.7,
-    "pct": 0.58
+    "price": 4400.9,
+    "pct": 0.56
    },
    {
     "sym": "DXY",
@@ -415,17 +415,24 @@
     "pct": -4.44
    }
   ],
-  "as_of": "2026-09-22T22:27:06.013363+00:00",
+  "as_of": "2026-09-22T22:33:05.945983+00:00",
   "tone": "risk-on",
-  "age_min": 2.9767446166666667
+  "age_min": 1.9690727166666666
  },
  "stories": [
   {
    "topic": "Iran / Hormuz",
-   "title": "U.S. and Iran officials meet in New York to discuss ending the war - Axios",
-   "source": "Axios",
-   "published": "Tue, 22 Sep 2026 20:26:03 GMT",
+   "title": "Iran and US hold talks on sidelines of UN summit, says Trump - theguardian.com",
+   "source": "theguardian.com",
+   "published": "Tue, 22 Sep 2026 21:21:00 GMT",
    "read": "de-escalation"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Poland under constant air-raid sirens as Putin threatens to expand Ukraine war, top pol warns: \u2018We are next\u2019 - New York Post",
+   "source": "New York Post",
+   "published": "Tue, 22 Sep 2026 20:43:00 GMT",
+   "read": "escalation"
   },
   {
    "topic": "Russia / Ukraine",
@@ -433,6 +440,13 @@
    "source": "nytimes.com",
    "published": "Tue, 22 Sep 2026 20:10:43 GMT",
    "read": "unclear"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iran submits conditions for reopening of Hormuz to U.S. representative, state media says - WTVB",
+   "source": "WTVB",
+   "published": "Tue, 22 Sep 2026 20:09:28 GMT",
+   "read": "de-escalation"
   },
   {
    "topic": "Iran / Hormuz",
@@ -446,20 +460,6 @@
    "title": "Taiwan Minister Says He Was Not \u2018Belittled\u2019 on Rare Trip to China - chinaglobalsouth.com",
    "source": "chinaglobalsouth.com",
    "published": "Tue, 22 Sep 2026 16:50:54 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran bill allows 20% cargo seizure for ships breaching Hormuz rules - Iran International",
-   "source": "Iran International",
-   "published": "Tue, 22 Sep 2026 16:38:24 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Saudi / Gulf supply",
-   "title": "Saudi Arabia Restarts East-West Oil Pipeline - oilprice.com",
-   "source": "oilprice.com",
-   "published": "Tue, 22 Sep 2026 16:02:24 GMT",
    "read": "unclear"
   }
  ],
