@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-23T09:55:03+00:00",
+ "generated_utc": "2026-09-23T10:00:04+00:00",
  "date_et": "2026-09-23",
  "build": "0d463cfe05",
  "tape": [
@@ -76,13 +76,13 @@
    "actual": "51.7"
   },
   {
-   "time": "05:34",
+   "time": "05:35",
    "ccy": "EUR",
    "impact": "Low",
    "title": "German 30-y Bond Auction",
    "cons": "",
    "prev": "3.90|2.4",
-   "actual": "3.80"
+   "actual": "3.80|1.6"
   },
   {
    "time": "09:45",
@@ -399,20 +399,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 90.02,
-    "pct": -0.55
+    "price": 90.24,
+    "pct": -0.31
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4351.7,
-    "pct": -0.56
+    "price": 4348.6,
+    "pct": -0.64
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 100.865,
-    "pct": 0.26
+    "price": 100.882,
+    "pct": 0.28
    },
    {
     "sym": "SPY",
@@ -429,13 +429,13 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 14.14,
-    "pct": -0.49
+    "price": 14.15,
+    "pct": -0.42
    }
   ],
-  "as_of": "2026-09-23T09:54:05.651609+00:00",
+  "as_of": "2026-09-23T09:57:05.090915+00:00",
   "tone": "mixed",
-  "age_min": 0.96358545
+  "age_min": 2.9888358333333334
  },
  "stories": [
   {
