@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-23T22:10:03+00:00",
+ "generated_utc": "2026-09-23T22:15:03+00:00",
  "date_et": "2026-09-23",
  "build": "0d463cfe05",
  "tape": [
@@ -399,20 +399,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 92.71,
-    "pct": 0.6
+    "price": 92.67,
+    "pct": 0.55
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4322.7,
-    "pct": 0.1
+    "price": 4324.7,
+    "pct": 0.15
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.123,
-    "pct": 0.52
+    "price": 101.119,
+    "pct": 0.51
    },
    {
     "sym": "SPY",
@@ -433,9 +433,9 @@
     "pct": 6.83
    }
   ],
-  "as_of": "2026-09-23T22:09:05.524986+00:00",
+  "as_of": "2026-09-23T22:12:05.309087+00:00",
   "tone": "risk-off",
-  "age_min": 0.9606309833333333
+  "age_min": 2.97623745
  },
  "stories": [
   {
@@ -474,11 +474,11 @@
    "read": "escalation"
   },
   {
-   "topic": "Russia / Ukraine",
-   "title": "Zelenskyy addresses UN as Rubio of U.S. says Ukraine, Russia have interest in limited ceasefire - cbc.ca",
-   "source": "cbc.ca",
-   "published": "Wed, 23 Sep 2026 18:49:51 GMT",
-   "read": "de-escalation"
+   "topic": "Iran / Hormuz",
+   "title": "Iran\u2019s Pezeshkian slams \u2018terrorist\u2019 US but extols diplomacy in UN speech - Al Jazeera",
+   "source": "Al Jazeera",
+   "published": "Wed, 23 Sep 2026 18:41:01 GMT",
+   "read": "unclear"
   }
  ],
  "ratings": [
