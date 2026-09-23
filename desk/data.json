@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-23T21:30:04+00:00",
+ "generated_utc": "2026-09-23T21:35:03+00:00",
  "date_et": "2026-09-23",
  "build": "0d463cfe05",
  "tape": [
@@ -411,7 +411,7 @@
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.138,
+    "price": 101.135,
     "pct": 0.53
    },
    {
@@ -433,11 +433,18 @@
     "pct": 6.83
    }
   ],
-  "as_of": "2026-09-23T21:27:04.792499+00:00",
+  "as_of": "2026-09-23T21:33:04.552373+00:00",
   "tone": "risk-off",
-  "age_min": 2.9944837000000004
+  "age_min": 1.9858158333333333
  },
  "stories": [
+  {
+   "topic": "Taiwan / China",
+   "title": "Don\u2019t Be Fooled by China\u2019s Recent Months of Low Military Activity - The Daily Signal",
+   "source": "The Daily Signal",
+   "published": "Wed, 23 Sep 2026 21:20:00 GMT",
+   "read": "unclear"
+  },
   {
    "topic": "Russia / Ukraine",
    "title": "Trump administration invites Putin to attend G20 summit in Miami - Al Jazeera",
@@ -467,18 +474,11 @@
    "read": "escalation"
   },
   {
-   "topic": "Iran / Hormuz",
-   "title": "Iran\u2019s Pezeshkian slams \u2018terrorist\u2019 US but extols diplomacy in UN speech - Al Jazeera",
-   "source": "Al Jazeera",
-   "published": "Wed, 23 Sep 2026 18:41:01 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran, US still far apart in peace talks, Iranian official says; Pezeshkian vows no surrender - reuters.com",
-   "source": "reuters.com",
-   "published": "Wed, 23 Sep 2026 17:38:47 GMT",
-   "read": "unclear"
+   "topic": "Russia / Ukraine",
+   "title": "Zelenskyy addresses UN as Rubio of U.S. says Ukraine, Russia have interest in limited ceasefire - cbc.ca",
+   "source": "cbc.ca",
+   "published": "Wed, 23 Sep 2026 18:49:51 GMT",
+   "read": "de-escalation"
   }
  ],
  "ratings": [
