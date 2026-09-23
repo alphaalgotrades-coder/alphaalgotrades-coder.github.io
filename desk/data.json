@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-23T08:15:04+00:00",
+ "generated_utc": "2026-09-23T08:20:03+00:00",
  "date_et": "2026-09-23",
  "build": "0d463cfe05",
  "tape": [
@@ -399,19 +399,19 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 90.0,
-    "pct": -0.57
+    "price": 89.92,
+    "pct": -0.66
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4356.7,
-    "pct": -0.45
+    "price": 4357.3,
+    "pct": -0.44
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 100.814,
+    "price": 100.816,
     "pct": 0.21
    },
    {
@@ -433,52 +433,52 @@
     "pct": -0.28
    }
   ],
-  "as_of": "2026-09-23T08:15:06.716003+00:00",
+  "as_of": "2026-09-23T08:18:05.750016+00:00",
   "tone": "mixed",
-  "age_min": 0.041138433333333335
+  "age_min": 1.9598037166666666
  },
  "stories": [
   {
+   "topic": "Russia / Ukraine",
+   "title": "Zelenskyy says Ukraine ready for \u2018energy ceasefire\u2019, calls for trilateral meeting with Putin, Trump - CNBC",
+   "source": "CNBC",
+   "published": "Wed, 23 Sep 2026 07:59:50 GMT",
+   "read": "de-escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Seoul Needs a Playbook for Hormuz, Ukraine, and What Comes Next - warontherocks.com",
+   "source": "warontherocks.com",
+   "published": "Wed, 23 Sep 2026 07:30:47 GMT",
+   "read": "unclear"
+  },
+  {
    "topic": "Taiwan / China",
-   "title": "Taiwan tracks 10 Chinese military aircraft and 12 ships - Taiwan News",
-   "source": "Taiwan News",
-   "published": "Wed, 23 Sep 2026 02:05:01 GMT",
+   "title": "China Draws Red Lines on Taiwan and Human Rights Ahead of Trump-Xi Summit - Modern Diplomacy",
+   "source": "Modern Diplomacy",
+   "published": "Wed, 23 Sep 2026 05:59:03 GMT",
    "read": "escalation"
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Macron tells ABC News' David Muir: 'Hormuz Strait was probably underestimated' - ABC News - Breaking News, Latest News and Videos",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "published": "Wed, 23 Sep 2026 01:31:47 GMT",
+   "title": "Iran floats conditions for Hormuz reopening as Trump says deal could come after midterms - CNBC",
+   "source": "CNBC",
+   "published": "Wed, 23 Sep 2026 05:37:48 GMT",
    "read": "unclear"
   },
   {
-   "topic": "Taiwan / China",
-   "title": "Taiwan, human rights are 'red lines' for China, ambassador says ahead of Trump, Xi meeting - Reuters",
-   "source": "Reuters",
-   "published": "Wed, 23 Sep 2026 00:42:00 GMT",
-   "read": "unclear"
+   "topic": "Iran / Hormuz",
+   "title": "US, Iran hold mediated UNGA talks on ending war, opening Strait of Hormuz - aljazeera.com",
+   "source": "aljazeera.com",
+   "published": "Wed, 23 Sep 2026 04:47:52 GMT",
+   "read": "de-escalation"
   },
   {
-   "topic": "Russia / Ukraine",
-   "title": "Volodymyr Zelensky says Vladimir Putin planning new attack on Ukraine while in New York - jpost.com",
-   "source": "jpost.com",
-   "published": "Tue, 22 Sep 2026 23:59:23 GMT",
+   "topic": "Iran / Hormuz",
+   "title": "Oil tanker costs hit record $1.2mn a day as Iran war disrupts shipping - Financial Times",
+   "source": "Financial Times",
+   "published": "Wed, 23 Sep 2026 04:01:38 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Battle-tested Zelenskyy sounds chilling alarm on where Putin\u2019s war could head next - Fox News",
-   "source": "Fox News",
-   "published": "Tue, 22 Sep 2026 22:11:03 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "The West Is Sending Russia the Wrong Signals - foreignpolicy.com",
-   "source": "foreignpolicy.com",
-   "published": "Tue, 22 Sep 2026 20:47:13 GMT",
-   "read": "unclear"
   }
  ],
  "ratings": [
