@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-23T04:25:04+00:00",
+ "generated_utc": "2026-09-23T08:15:04+00:00",
  "date_et": "2026-09-23",
  "build": "0d463cfe05",
  "tape": [
@@ -10,7 +10,7 @@
    "title": "French Flash Manufacturing PMI",
    "cons": "50.9",
    "prev": "51.5",
-   "actual": ""
+   "actual": "50.3"
   },
   {
    "time": "03:15",
@@ -19,7 +19,7 @@
    "title": "French Flash Services PMI",
    "cons": "48.3",
    "prev": "48.4",
-   "actual": ""
+   "actual": "51.4"
   },
   {
    "time": "03:30",
@@ -28,7 +28,7 @@
    "title": "German Flash Manufacturing PMI",
    "cons": "54.1",
    "prev": "54.1",
-   "actual": ""
+   "actual": "53.8"
   },
   {
    "time": "03:30",
@@ -37,7 +37,7 @@
    "title": "German Flash Services PMI",
    "cons": "49.9",
    "prev": "48.5",
-   "actual": ""
+   "actual": "52.9"
   },
   {
    "time": "04:00",
@@ -46,7 +46,7 @@
    "title": "Flash Manufacturing PMI",
    "cons": "52.6",
    "prev": "52.8",
-   "actual": ""
+   "actual": "52.7"
   },
   {
    "time": "04:00",
@@ -55,7 +55,7 @@
    "title": "Flash Services PMI",
    "cons": "51.4",
    "prev": "51.7",
-   "actual": ""
+   "actual": "53.0"
   },
   {
    "time": "04:30",
@@ -399,20 +399,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 89.12,
-    "pct": -1.55
+    "price": 90.0,
+    "pct": -0.57
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4383.3,
-    "pct": 0.16
+    "price": 4356.7,
+    "pct": -0.45
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 100.723,
-    "pct": 0.12
+    "price": 100.814,
+    "pct": 0.21
    },
    {
     "sym": "SPY",
@@ -429,13 +429,13 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 14.21,
-    "pct": -4.44
+    "price": 14.17,
+    "pct": -0.28
    }
   ],
-  "as_of": "2026-09-23T04:24:05.371008+00:00",
-  "tone": "risk-on",
-  "age_min": 0.9823288333333333
+  "as_of": "2026-09-23T08:15:06.716003+00:00",
+  "tone": "mixed",
+  "age_min": 0.041138433333333335
  },
  "stories": [
   {
