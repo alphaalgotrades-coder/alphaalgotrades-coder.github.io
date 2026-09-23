@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-23T03:50:03+00:00",
+ "generated_utc": "2026-09-23T03:55:04+00:00",
  "date_et": "2026-09-22",
  "build": "0d463cfe05",
  "tape": [
@@ -381,19 +381,19 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 89.4,
-    "pct": -1.24
+    "price": 89.22,
+    "pct": -1.44
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4376.0,
-    "pct": -0.01
+    "price": 4378.2,
+    "pct": 0.04
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 100.697,
+    "price": 100.702,
     "pct": 0.1
    },
    {
@@ -415,9 +415,9 @@
     "pct": -4.44
    }
   ],
-  "as_of": "2026-09-23T03:48:05.729586+00:00",
+  "as_of": "2026-09-23T03:54:05.758026+00:00",
   "tone": "risk-on",
-  "age_min": 1.9662380333333334
+  "age_min": 0.97285665
  },
  "stories": [
   {
@@ -435,11 +435,11 @@
    "read": "unclear"
   },
   {
-   "topic": "Russia / Ukraine",
-   "title": "Zelenskyy says Ukraine ready for energy truce with Russia after Trump talks - Al Jazeera",
-   "source": "Al Jazeera",
-   "published": "Wed, 23 Sep 2026 01:31:27 GMT",
-   "read": "de-escalation"
+   "topic": "Taiwan / China",
+   "title": "Taiwan, human rights are 'red lines' for China, ambassador says ahead of Trump, Xi meeting - Reuters",
+   "source": "Reuters",
+   "published": "Wed, 23 Sep 2026 00:42:00 GMT",
+   "read": "unclear"
   },
   {
    "topic": "Russia / Ukraine",
@@ -449,18 +449,18 @@
    "read": "escalation"
   },
   {
-   "topic": "Iran / Hormuz",
-   "title": "Iran and US have held talks on sidelines of UN summit, says Donald Trump - The Guardian",
-   "source": "The Guardian",
-   "published": "Tue, 22 Sep 2026 22:37:00 GMT",
-   "read": "unclear"
-  },
-  {
    "topic": "Russia / Ukraine",
    "title": "Battle-tested Zelenskyy sounds chilling alarm on where Putin\u2019s war could head next - Fox News",
    "source": "Fox News",
    "published": "Tue, 22 Sep 2026 22:11:03 GMT",
    "read": "escalation"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "The West Is Sending Russia the Wrong Signals - foreignpolicy.com",
+   "source": "foreignpolicy.com",
+   "published": "Tue, 22 Sep 2026 20:47:13 GMT",
+   "read": "unclear"
   }
  ],
  "ratings": [
