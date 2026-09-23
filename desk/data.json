@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-23T22:50:03+00:00",
+ "generated_utc": "2026-09-23T22:55:03+00:00",
  "date_et": "2026-09-23",
  "build": "0d463cfe05",
  "tape": [
@@ -399,20 +399,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 92.45,
-    "pct": 0.31
+    "price": 92.42,
+    "pct": 0.28
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4325.0,
-    "pct": 0.15
+    "price": 4323.5,
+    "pct": 0.12
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
     "price": 101.115,
-    "pct": 0.51
+    "pct": 0.02
    },
    {
     "sym": "SPY",
@@ -433,9 +433,9 @@
     "pct": 6.83
    }
   ],
-  "as_of": "2026-09-23T22:48:05.359908+00:00",
+  "as_of": "2026-09-23T22:54:05.514067+00:00",
   "tone": "risk-off",
-  "age_min": 1.9658978500000002
+  "age_min": 0.96988825
  },
  "stories": [
   {
@@ -443,13 +443,6 @@
    "title": "Don\u2019t Be Fooled by China\u2019s Recent Months of Low Military Activity - The Daily Signal",
    "source": "The Daily Signal",
    "published": "Wed, 23 Sep 2026 21:20:00 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Trump Invites Putin to Attend Group of 20 Summit in Miami - The New York Times",
-   "source": "The New York Times",
-   "published": "Wed, 23 Sep 2026 20:51:55 GMT",
    "read": "unclear"
   },
   {
@@ -471,6 +464,13 @@
    "title": "Putin Casts Election Result as an Endorsement of His War - WSJ",
    "source": "WSJ",
    "published": "Wed, 23 Sep 2026 19:59:00 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Zelensky accuses Putin of using nationals of 47 countries to fight Ukraine war - France 24",
+   "source": "France 24",
+   "published": "Wed, 23 Sep 2026 18:53:33 GMT",
    "read": "escalation"
   },
   {
