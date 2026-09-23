@@ -1,150 +1,168 @@
 {
- "generated_utc": "2026-09-23T03:55:04+00:00",
- "date_et": "2026-09-22",
+ "generated_utc": "2026-09-23T04:00:04+00:00",
+ "date_et": "2026-09-23",
  "build": "0d463cfe05",
  "tape": [
   {
-   "time": "02:00",
-   "ccy": "GBP",
+   "time": "03:15",
+   "ccy": "EUR",
+   "impact": "Medi",
+   "title": "French Flash Manufacturing PMI",
+   "cons": "50.9",
+   "prev": "51.5",
+   "actual": ""
+  },
+  {
+   "time": "03:15",
+   "ccy": "EUR",
+   "impact": "Medi",
+   "title": "French Flash Services PMI",
+   "cons": "48.3",
+   "prev": "48.4",
+   "actual": ""
+  },
+  {
+   "time": "03:30",
+   "ccy": "EUR",
+   "impact": "Medi",
+   "title": "German Flash Manufacturing PMI",
+   "cons": "54.1",
+   "prev": "54.1",
+   "actual": ""
+  },
+  {
+   "time": "03:30",
+   "ccy": "EUR",
+   "impact": "Medi",
+   "title": "German Flash Services PMI",
+   "cons": "49.9",
+   "prev": "48.5",
+   "actual": ""
+  },
+  {
+   "time": "04:00",
+   "ccy": "EUR",
    "impact": "Low",
-   "title": "Public Sector Net Borrowing",
-   "cons": "15.2B",
-   "prev": "1.8B",
-   "actual": "18.3B"
+   "title": "Flash Manufacturing PMI",
+   "cons": "52.6",
+   "prev": "52.8",
+   "actual": ""
+  },
+  {
+   "time": "04:00",
+   "ccy": "EUR",
+   "impact": "Low",
+   "title": "Flash Services PMI",
+   "cons": "51.4",
+   "prev": "51.7",
+   "actual": ""
   },
   {
    "time": "04:30",
-   "ccy": "EUR",
-   "impact": "Low",
-   "title": "German Buba President Nagel Speaks",
-   "cons": "",
-   "prev": "",
-   "actual": ""
-  },
-  {
-   "time": "06:00",
    "ccy": "GBP",
-   "impact": "Low",
-   "title": "CBI Industrial Order Expectations",
-   "cons": "-33",
-   "prev": "-25",
-   "actual": "-9"
-  },
-  {
-   "time": "07:00",
-   "ccy": "EUR",
    "impact": "Medi",
-   "title": "ECB President Lagarde Speaks",
-   "cons": "",
-   "prev": "",
+   "title": "Flash Manufacturing PMI",
+   "cons": "51.5",
+   "prev": "51.5",
    "actual": ""
   },
   {
-   "time": "08:15",
-   "ccy": "USD",
-   "impact": "Low",
-   "title": "ADP Weekly Employment Change",
-   "cons": "",
-   "prev": "16.3K",
-   "actual": "20.0K"
-  },
-  {
-   "time": "09:55",
-   "ccy": "USD",
+   "time": "04:30",
+   "ccy": "GBP",
    "impact": "Medi",
-   "title": "President Trump Speaks",
-   "cons": "",
-   "prev": "",
+   "title": "Flash Services PMI",
+   "cons": "52.0",
+   "prev": "52.8",
    "actual": ""
   },
   {
-   "time": "10:00",
+   "time": "05:34",
    "ccy": "EUR",
    "impact": "Low",
-   "title": "Consumer Confidence",
-   "cons": "-16",
-   "prev": "-16",
-   "actual": "-17"
+   "title": "German 30-y Bond Auction",
+   "cons": "",
+   "prev": "3.90|2.4",
+   "actual": ""
   },
   {
-   "time": "10:00",
+   "time": "09:45",
    "ccy": "USD",
    "impact": "Low",
-   "title": "Richmond Manufacturing Index",
-   "cons": "2",
-   "prev": "4",
-   "actual": "-2"
+   "title": "Flash Manufacturing PMI",
+   "cons": "53.6",
+   "prev": "53.2",
+   "actual": ""
+  },
+  {
+   "time": "09:45",
+   "ccy": "USD",
+   "impact": "Low",
+   "title": "Flash Services PMI",
+   "cons": "55.8",
+   "prev": "56.8",
+   "actual": ""
   },
   {
    "time": "10:05",
    "ccy": "USD",
    "impact": "Low",
-   "title": "FOMC Member Williams Speaks",
+   "title": "FOMC Member Barr Speaks",
    "cons": "",
    "prev": "",
    "actual": ""
   },
   {
-   "time": "10:20",
+   "time": "10:30",
    "ccy": "USD",
    "impact": "Low",
-   "title": "FOMC Member Jefferson Speaks",
-   "cons": "",
-   "prev": "",
+   "title": "Crude Oil Inventories",
+   "cons": "-0.7M",
+   "prev": "-0.6M",
    "actual": ""
   },
   {
-   "time": "13:00",
+   "time": "12:00",
    "ccy": "USD",
    "impact": "Low",
-   "title": "FOMC Member Barkin Speaks",
+   "title": "FOMC Member Goolsbee Speaks",
    "cons": "",
    "prev": "",
    "actual": ""
   },
   {
-   "time": "15:30",
-   "ccy": "EUR",
-   "impact": "Low",
-   "title": "German Buba President Nagel Speaks",
-   "cons": "",
-   "prev": "",
-   "actual": ""
-  },
-  {
-   "time": "16:30",
-   "ccy": "USD",
-   "impact": "Low",
-   "title": "API Weekly Statistical Bulletin",
-   "cons": "",
-   "prev": "",
-   "actual": ""
-  },
-  {
-   "time": "19:00",
-   "ccy": "AUD",
+   "time": "20:30",
+   "ccy": "JPY",
    "impact": "Low",
    "title": "Flash Manufacturing PMI",
-   "cons": "",
-   "prev": "52.0",
-   "actual": "49.3"
+   "cons": "55.0",
+   "prev": "55.1",
+   "actual": ""
   },
   {
-   "time": "19:00",
+   "time": "20:35",
    "ccy": "AUD",
    "impact": "Low",
-   "title": "Flash Services PMI",
+   "title": "NAB Quarterly Business Confidence",
    "cons": "",
-   "prev": "52.9",
-   "actual": "51.4"
+   "prev": "-19",
+   "actual": ""
   },
   {
-   "time": "19:00",
-   "ccy": "JPY",
-   "impact": "Holi",
-   "title": "Bank Holiday",
-   "cons": "",
-   "prev": "",
+   "time": "21:30",
+   "ccy": "AUD",
+   "impact": "High",
+   "title": "Employment Change",
+   "cons": "22.5K",
+   "prev": "-15.8K",
+   "actual": ""
+  },
+  {
+   "time": "21:30",
+   "ccy": "AUD",
+   "impact": "High",
+   "title": "Unemployment Rate",
+   "cons": "4.5%",
+   "prev": "4.5%",
    "actual": ""
   }
  ],
@@ -381,19 +399,19 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 89.22,
-    "pct": -1.44
+    "price": 89.17,
+    "pct": -1.49
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4378.2,
-    "pct": 0.04
+    "price": 4378.7,
+    "pct": 0.05
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 100.702,
+    "price": 100.699,
     "pct": 0.1
    },
    {
@@ -415,9 +433,9 @@
     "pct": -4.44
    }
   ],
-  "as_of": "2026-09-23T03:54:05.758026+00:00",
+  "as_of": "2026-09-23T03:57:05.226039+00:00",
   "tone": "risk-on",
-  "age_min": 0.97285665
+  "age_min": 2.9935292166666665
  },
  "stories": [
   {
