@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-23T09:10:03+00:00",
+ "generated_utc": "2026-09-23T09:15:03+00:00",
  "date_et": "2026-09-23",
  "build": "0d463cfe05",
  "tape": [
@@ -399,19 +399,19 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 89.89,
-    "pct": -0.7
+    "price": 89.94,
+    "pct": -0.64
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4355.4,
-    "pct": -0.48
+    "price": 4356.0,
+    "pct": -0.47
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 100.788,
+    "price": 100.795,
     "pct": 0.19
    },
    {
@@ -429,13 +429,13 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 14.16,
-    "pct": -0.35
+    "price": 14.15,
+    "pct": -0.42
    }
   ],
-  "as_of": "2026-09-23T09:09:06.258753+00:00",
+  "as_of": "2026-09-23T09:12:05.893503+00:00",
   "tone": "mixed",
-  "age_min": 0.9501602166666667
+  "age_min": 2.96763945
  },
  "stories": [
   {
@@ -447,8 +447,8 @@
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Seoul Needs a Playbook for Hormuz, Ukraine, and What Comes Next - warontherocks.com",
-   "source": "warontherocks.com",
+   "title": "Seoul Needs a Playbook for Hormuz, Ukraine, and What Comes Next - War on the Rocks",
+   "source": "War on the Rocks",
    "published": "Wed, 23 Sep 2026 07:30:47 GMT",
    "read": "unclear"
   },
