@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-23T23:50:03+00:00",
+ "generated_utc": "2026-09-23T23:55:03+00:00",
  "date_et": "2026-09-23",
  "build": "0d463cfe05",
  "tape": [
@@ -399,14 +399,14 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 92.15,
-    "pct": -0.01
+    "price": 92.22,
+    "pct": 0.07
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4321.8,
-    "pct": 0.08
+    "price": 4320.8,
+    "pct": 0.06
    },
    {
     "sym": "DXY",
@@ -433,9 +433,9 @@
     "pct": 6.83
    }
   ],
-  "as_of": "2026-09-23T23:48:05.417033+00:00",
+  "as_of": "2026-09-23T23:54:05.593310+00:00",
   "tone": "risk-off",
-  "age_min": 1.9643859166666668
+  "age_min": 0.9664637666666667
  },
  "stories": [
   {
@@ -443,6 +443,13 @@
    "title": "Don\u2019t Be Fooled by China\u2019s Recent Months of Low Military Activity - The Daily Signal",
    "source": "The Daily Signal",
    "published": "Wed, 23 Sep 2026 21:20:00 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Zelensky warns U.N. about Putin, spread of Russian war, AI in battle - upi.com",
+   "source": "upi.com",
+   "published": "Wed, 23 Sep 2026 21:07:13 GMT",
    "read": "unclear"
   },
   {
@@ -467,17 +474,10 @@
    "read": "escalation"
   },
   {
-   "topic": "Russia / Ukraine",
-   "title": "Zelensky accuses Putin of using nationals of 47 countries to fight Ukraine war - France 24",
-   "source": "France 24",
-   "published": "Wed, 23 Sep 2026 18:53:33 GMT",
-   "read": "escalation"
-  },
-  {
    "topic": "Iran / Hormuz",
-   "title": "Iran\u2019s Pezeshkian slams \u2018terrorist\u2019 US but extols diplomacy in UN speech - Al Jazeera",
-   "source": "Al Jazeera",
-   "published": "Wed, 23 Sep 2026 18:41:01 GMT",
+   "title": "Iran\u2019s president laid out Tehran\u2019s demands to the world, from a podium in New York - CNN",
+   "source": "CNN",
+   "published": "Wed, 23 Sep 2026 19:35:12 GMT",
    "read": "unclear"
   }
  ],
