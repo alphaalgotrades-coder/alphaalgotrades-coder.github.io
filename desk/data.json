@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-24T02:10:02+00:00",
+ "generated_utc": "2026-09-24T02:15:02+00:00",
  "date_et": "2026-09-23",
  "build": "0d463cfe05",
  "tape": [
@@ -399,19 +399,19 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 91.92,
-    "pct": -0.26
+    "price": 91.9,
+    "pct": -0.28
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4314.5,
-    "pct": -0.09
+    "price": 4312.2,
+    "pct": -0.14
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.148,
+    "price": 101.146,
     "pct": 0.05
    },
    {
@@ -433,9 +433,9 @@
     "pct": 6.83
    }
   ],
-  "as_of": "2026-09-24T02:09:05.812293+00:00",
+  "as_of": "2026-09-24T02:12:05.742428+00:00",
   "tone": "risk-off",
-  "age_min": 0.9454950166666667
+  "age_min": 2.9539712333333332
  },
  "stories": [
   {
@@ -467,18 +467,18 @@
    "read": "escalation"
   },
   {
-   "topic": "Iran / Hormuz",
-   "title": "Iran\u2019s president laid out Tehran\u2019s demands to the world, from a podium in New York - CNN",
-   "source": "CNN",
-   "published": "Wed, 23 Sep 2026 19:35:12 GMT",
-   "read": "unclear"
-  },
-  {
    "topic": "Russia / Ukraine",
    "title": "Trump extends invite to Putin to attend Miami G20 - thehill.com",
    "source": "thehill.com",
    "published": "Wed, 23 Sep 2026 18:13:00 GMT",
    "read": "unclear"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Report: US dismissed Iran's Hormuz offer during UN talks, saying Tehran doesn't control strait - timesofisrael.com",
+   "source": "timesofisrael.com",
+   "published": "Wed, 23 Sep 2026 17:55:18 GMT",
+   "read": "de-escalation"
   }
  ],
  "ratings": [
