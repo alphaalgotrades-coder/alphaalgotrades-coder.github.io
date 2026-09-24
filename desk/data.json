@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-24T01:55:02+00:00",
+ "generated_utc": "2026-09-24T02:00:02+00:00",
  "date_et": "2026-09-23",
  "build": "0d463cfe05",
  "tape": [
@@ -139,15 +139,6 @@
    "actual": "54.1"
   },
   {
-   "time": "20:35",
-   "ccy": "AUD",
-   "impact": "Low",
-   "title": "NAB Quarterly Business Confidence",
-   "cons": "",
-   "prev": "-19",
-   "actual": ""
-  },
-  {
    "time": "21:30",
    "ccy": "AUD",
    "impact": "High",
@@ -164,6 +155,15 @@
    "cons": "4.5%",
    "prev": "4.5%",
    "actual": "4.6%"
+  },
+  {
+   "time": "22:35",
+   "ccy": "AUD",
+   "impact": "Low",
+   "title": "NAB Quarterly Business Confidence",
+   "cons": "",
+   "prev": "-19",
+   "actual": ""
   }
  ],
  "rates": {
@@ -399,19 +399,19 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 91.75,
-    "pct": -0.44
+    "price": 91.65,
+    "pct": -0.55
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4324.7,
-    "pct": 0.15
+    "price": 4319.8,
+    "pct": 0.03
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.125,
+    "price": 101.129,
     "pct": 0.03
    },
    {
@@ -433,9 +433,9 @@
     "pct": 6.83
    }
   ],
-  "as_of": "2026-09-24T01:54:05.869771+00:00",
+  "as_of": "2026-09-24T01:57:05.757459+00:00",
   "tone": "risk-off",
-  "age_min": 0.94873755
+  "age_min": 2.9521224833333335
  },
  "stories": [
   {
