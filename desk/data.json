@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-24T07:30:03+00:00",
+ "generated_utc": "2026-09-24T07:35:04+00:00",
  "date_et": "2026-09-24",
  "build": "0d463cfe05",
  "tape": [
@@ -444,20 +444,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 92.43,
-    "pct": 0.29
+    "price": 92.22,
+    "pct": 0.07
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4321.1,
-    "pct": 0.06
+    "price": 4316.9,
+    "pct": -0.03
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.087,
-    "pct": -0.01
+    "price": 101.097,
+    "pct": 0.0
    },
    {
     "sym": "SPY",
@@ -474,13 +474,13 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 15.18,
-    "pct": null
+    "price": 15.88,
+    "pct": 4.61
    }
   ],
-  "as_of": "2026-09-24T07:27:06.007014+00:00",
+  "as_of": "2026-09-24T07:33:05.881163+00:00",
   "tone": "risk-off",
-  "age_min": 2.9654600333333336
+  "age_min": 1.97109935
  },
  "stories": [
   {
@@ -506,17 +506,10 @@
   },
   {
    "topic": "Taiwan / China",
-   "title": "China\u2019s purges of top military commanders spur questions about war-waging ability - The Straits Times",
-   "source": "The Straits Times",
-   "published": "Wed, 23 Sep 2026 08:59:00 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Taiwan / China",
-   "title": "Japan\u2019s China-facing military push tests labour, budget and political limits - SCMP",
-   "source": "SCMP",
-   "published": "Wed, 09 Sep 2026 07:00:00 GMT",
-   "read": "unclear"
+   "title": "China warns Taiwan, human rights 'red lines' ahead of Trump-Xi summit - turkiyetoday.com",
+   "source": "turkiyetoday.com",
+   "published": "Wed, 23 Sep 2026 12:33:19 GMT",
+   "read": "escalation"
   },
   {
    "topic": "Saudi / Gulf supply",
@@ -524,6 +517,13 @@
    "source": "reuters.com",
    "published": "Tue, 22 Sep 2026 10:08:00 GMT",
    "read": "unclear"
+  },
+  {
+   "topic": "Taiwan / China",
+   "title": "Republic of China Army Integrates U.S. HIMARS with Drones and Cruise Missiles During Taiwan Strait War Drills - Military Watch Magazine",
+   "source": "Military Watch Magazine",
+   "published": "Tue, 22 Sep 2026 07:46:00 GMT",
+   "read": "escalation"
   }
  ],
  "ratings": [
