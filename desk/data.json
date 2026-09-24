@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-24T09:50:04+00:00",
+ "generated_utc": "2026-09-24T09:55:03+00:00",
  "date_et": "2026-09-24",
  "build": "0d463cfe05",
  "tape": [
@@ -444,14 +444,14 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 93.79,
-    "pct": 1.77
+    "price": 93.96,
+    "pct": 1.95
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4290.9,
-    "pct": -0.64
+    "price": 4286.3,
+    "pct": -0.74
    },
    {
     "sym": "DXY",
@@ -474,13 +474,13 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 16.28,
-    "pct": 7.25
+    "price": 16.35,
+    "pct": 7.71
    }
   ],
-  "as_of": "2026-09-24T09:48:04.796683+00:00",
+  "as_of": "2026-09-24T09:54:05.072151+00:00",
   "tone": "risk-off",
-  "age_min": 1.9903570333333334
+  "age_min": 0.98112535
  },
  "stories": [
   {
@@ -491,13 +491,6 @@
    "read": "unclear"
   },
   {
-   "topic": "Saudi / Gulf supply",
-   "title": "Saudi Arabia Restarts East-West Pipeline to Resume Exports Days After Drone Attack - pipeline-journal.net",
-   "source": "pipeline-journal.net",
-   "published": "Wed, 23 Sep 2026 12:55:02 GMT",
-   "read": "escalation"
-  },
-  {
    "topic": "Taiwan / China",
    "title": "China warns Taiwan, human rights 'red lines' ahead of Trump-Xi summit - turkiyetoday.com",
    "source": "turkiyetoday.com",
@@ -505,18 +498,25 @@
    "read": "escalation"
   },
   {
-   "topic": "Saudi / Gulf supply",
-   "title": "Saudi Arabia restarts East-West oil pipeline, sources say - reuters.com",
-   "source": "reuters.com",
-   "published": "Tue, 22 Sep 2026 10:08:00 GMT",
-   "read": "unclear"
-  },
-  {
    "topic": "Taiwan / China",
    "title": "Republic of China Army Integrates U.S. HIMARS with Drones and Cruise Missiles During Taiwan Strait War Drills - Military Watch Magazine",
    "source": "Military Watch Magazine",
    "published": "Tue, 22 Sep 2026 07:46:00 GMT",
    "read": "escalation"
+  },
+  {
+   "topic": "Saudi / Gulf supply",
+   "title": "Saudi Arabia eases Asian oil crunch by selling 100 million barrels in a week - thenationalnews.com",
+   "source": "thenationalnews.com",
+   "published": "Thu, 24 Sep 2026 09:43:26 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Saudi / Gulf supply",
+   "title": "Saudi Aramco CEO says that it is studying a \"a fourth and a fifth route\" for crude oil exports; noted that the Co. can restore disrupted operations within days - Newsquawk",
+   "source": "Newsquawk",
+   "published": "Thu, 24 Sep 2026 09:33:41 GMT",
+   "read": "unclear"
   },
   {
    "topic": "Russia / Ukraine",
