@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-24T22:30:03+00:00",
+ "generated_utc": "2026-09-24T22:35:03+00:00",
  "date_et": "2026-09-24",
  "build": "0d463cfe05",
  "tape": [
@@ -453,14 +453,14 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 94.39,
-    "pct": -0.23
+    "price": 94.31,
+    "pct": -0.32
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4305.6,
-    "pct": 0.18
+    "price": 4304.3,
+    "pct": 0.15
    },
    {
     "sym": "DXY",
@@ -487,11 +487,18 @@
     "pct": 3.23
    }
   ],
-  "as_of": "2026-09-24T22:27:05.973206+00:00",
+  "as_of": "2026-09-24T22:33:05.670493+00:00",
   "tone": "mixed",
-  "age_min": 2.962143466666667
+  "age_min": 1.9674557166666666
  },
  "stories": [
+  {
+   "topic": "Saudi / Gulf supply",
+   "title": "Crude Oil Futures Jump About 3% as Houthi Attacks on Saudi Arabia Reignite Supply Concerns - finance.biggo.com",
+   "source": "finance.biggo.com",
+   "published": "Thu, 24 Sep 2026 22:05:00 GMT",
+   "read": "escalation"
+  },
   {
    "topic": "Taiwan / China",
    "title": "Xi Jinping called on Trump to oppose Taiwan's independence - UA.NEWS",
@@ -507,10 +514,10 @@
    "read": "escalation"
   },
   {
-   "topic": "Russia / Ukraine",
-   "title": "Zelenskyy looks to Trump in push to end war in Ukraine before winter - fox23.com",
-   "source": "fox23.com",
-   "published": "Thu, 24 Sep 2026 19:55:34 GMT",
+   "topic": "Iran / Hormuz",
+   "title": "Iran awaiting response from Trump on proposal to open strait of Hormuz in six days - The Guardian",
+   "source": "The Guardian",
+   "published": "Thu, 24 Sep 2026 19:13:00 GMT",
    "read": "unclear"
   },
   {
@@ -526,13 +533,6 @@
    "source": "NBC News",
    "published": "Thu, 24 Sep 2026 18:38:14 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "US, Iran Said to Be Exploring Phased Deal to Open Hormuz - Bloomberg",
-   "source": "Bloomberg",
-   "published": "Thu, 24 Sep 2026 18:25:07 GMT",
-   "read": "de-escalation"
   }
  ],
  "ratings": [
