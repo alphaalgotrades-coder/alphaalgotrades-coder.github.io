@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-24T05:50:03+00:00",
+ "generated_utc": "2026-09-24T05:55:03+00:00",
  "date_et": "2026-09-24",
  "build": "0d463cfe05",
  "tape": [
@@ -453,20 +453,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 91.85,
-    "pct": -0.34
+    "price": 92.15,
+    "pct": -0.01
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4320.5,
-    "pct": 0.05
+    "price": 4315.9,
+    "pct": -0.06
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.102,
-    "pct": 0.01
+    "price": 101.118,
+    "pct": 0.02
    },
    {
     "sym": "SPY",
@@ -487,9 +487,9 @@
     "pct": 6.83
    }
   ],
-  "as_of": "2026-09-24T05:48:05.013224+00:00",
+  "as_of": "2026-09-24T05:54:05.196418+00:00",
   "tone": "risk-off",
-  "age_min": 1.9802287166666666
+  "age_min": 0.9782281333333334
  },
  "stories": [
   {
@@ -505,13 +505,6 @@
    "source": "france24.com",
    "published": "Wed, 23 Sep 2026 18:53:33 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran Will Not Be Bullied, President Masoud Pezeshkian Says in U.N. Speech - The New York Times",
-   "source": "The New York Times",
-   "published": "Wed, 23 Sep 2026 17:47:35 GMT",
-   "read": "unclear"
   },
   {
    "topic": "Saudi / Gulf supply",
@@ -532,6 +525,13 @@
    "title": "China\u2019s purges of top military commanders spur questions about war-waging ability - The Straits Times",
    "source": "The Straits Times",
    "published": "Wed, 23 Sep 2026 08:59:00 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Taiwan / China",
+   "title": "Japan\u2019s China-facing military push tests labour, budget and political limits - SCMP",
+   "source": "SCMP",
+   "published": "Wed, 09 Sep 2026 07:00:00 GMT",
    "read": "unclear"
   }
  ],
