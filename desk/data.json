@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-24T07:50:03+00:00",
+ "generated_utc": "2026-09-24T07:55:03+00:00",
  "date_et": "2026-09-24",
  "build": "0d463cfe05",
  "tape": [
@@ -444,20 +444,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 92.08,
-    "pct": -0.09
+    "price": 92.1,
+    "pct": -0.07
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4321.1,
-    "pct": 0.06
+    "price": 4316.8,
+    "pct": -0.04
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.073,
-    "pct": -0.02
+    "price": 101.051,
+    "pct": -0.04
    },
    {
     "sym": "SPY",
@@ -474,13 +474,13 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 15.83,
-    "pct": 4.28
+    "price": 15.78,
+    "pct": 3.95
    }
   ],
-  "as_of": "2026-09-24T07:48:05.805056+00:00",
+  "as_of": "2026-09-24T07:54:05.832817+00:00",
   "tone": "risk-off",
-  "age_min": 1.9621701666666667
+  "age_min": 0.9703736166666667
  },
  "stories": [
   {
@@ -489,13 +489,6 @@
    "source": "france24.com",
    "published": "Wed, 23 Sep 2026 18:53:33 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Saudi / Gulf supply",
-   "title": "Saudi Arabia East West Pipeline Makes Strong 4M bpd Comeback - Inspenet",
-   "source": "Inspenet",
-   "published": "Wed, 23 Sep 2026 14:04:28 GMT",
-   "read": "unclear"
   },
   {
    "topic": "Saudi / Gulf supply",
@@ -524,6 +517,13 @@
    "source": "Military Watch Magazine",
    "published": "Tue, 22 Sep 2026 07:46:00 GMT",
    "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Oil extends gains on little sign of progress in US-Iran talks - Reuters",
+   "source": "Reuters",
+   "published": "Thu, 24 Sep 2026 07:06:52 GMT",
+   "read": "unclear"
   }
  ],
  "ratings": [
