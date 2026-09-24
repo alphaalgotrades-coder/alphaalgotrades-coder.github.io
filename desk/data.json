@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-24T01:30:02+00:00",
+ "generated_utc": "2026-09-24T01:35:02+00:00",
  "date_et": "2026-09-23",
  "build": "0d463cfe05",
  "tape": [
@@ -154,7 +154,7 @@
    "title": "Employment Change",
    "cons": "21.5K",
    "prev": "-15.8K",
-   "actual": ""
+   "actual": "39.5K"
   },
   {
    "time": "21:30",
@@ -163,7 +163,7 @@
    "title": "Unemployment Rate",
    "cons": "4.5%",
    "prev": "4.5%",
-   "actual": ""
+   "actual": "4.6%"
   }
  ],
  "rates": {
@@ -399,20 +399,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 91.46,
-    "pct": -0.76
+    "price": 91.44,
+    "pct": -0.78
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4334.8,
-    "pct": 0.38
+    "price": 4332.4,
+    "pct": 0.32
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.117,
-    "pct": 0.02
+    "price": 101.127,
+    "pct": 0.03
    },
    {
     "sym": "SPY",
@@ -433,9 +433,9 @@
     "pct": 6.83
    }
   ],
-  "as_of": "2026-09-24T01:27:05.851776+00:00",
+  "as_of": "2026-09-24T01:33:06.276143+00:00",
   "tone": "risk-off",
-  "age_min": 2.9411960833333333
+  "age_min": 1.9458793666666667
  },
  "stories": [
   {
@@ -453,13 +453,6 @@
    "read": "unclear"
   },
   {
-   "topic": "Russia / Ukraine",
-   "title": "Zelensky warns U.N. about Putin, spread of Russian war, AI in battle - upi.com",
-   "source": "upi.com",
-   "published": "Wed, 23 Sep 2026 21:07:13 GMT",
-   "read": "unclear"
-  },
-  {
    "topic": "Iran / Hormuz",
    "title": "Is Iran\u2019s Hormuz offer a sign of economic strain or a bid to buy time? - arabnews.com",
    "source": "arabnews.com",
@@ -472,6 +465,13 @@
    "source": "wsj.com",
    "published": "Wed, 23 Sep 2026 20:02:59 GMT",
    "read": "unclear"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Zelenskyy urges stronger pressure on Russia, warns war\u2019s impact is spreading beyond Ukraine - news.un.org",
+   "source": "news.un.org",
+   "published": "Wed, 23 Sep 2026 19:50:01 GMT",
+   "read": "escalation"
   },
   {
    "topic": "Iran / Hormuz",
