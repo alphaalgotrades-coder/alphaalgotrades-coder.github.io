@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-24T05:10:04+00:00",
+ "generated_utc": "2026-09-24T05:15:04+00:00",
  "date_et": "2026-09-24",
  "build": "0d463cfe05",
  "tape": [
@@ -453,19 +453,19 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 91.49,
-    "pct": -0.73
+    "price": 91.47,
+    "pct": -0.75
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4324.5,
-    "pct": 0.14
+    "price": 4327.0,
+    "pct": 0.2
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.075,
+    "price": 101.071,
     "pct": -0.02
    },
    {
@@ -487,9 +487,9 @@
     "pct": 6.83
    }
   ],
-  "as_of": "2026-09-24T05:09:04.919183+00:00",
+  "as_of": "2026-09-24T05:12:04.560370+00:00",
   "tone": "risk-off",
-  "age_min": 0.9882167666666667
+  "age_min": 2.9994455333333336
  },
  "stories": [
   {
@@ -498,13 +498,6 @@
    "source": "aljazeera.com",
    "published": "Wed, 23 Sep 2026 20:36:16 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Ukraine\u2019s Zelenskyy calls for sustained pressure to end \u2018Putin\u2019s crazy war\u2019 - aljazeera.com",
-   "source": "aljazeera.com",
-   "published": "Wed, 23 Sep 2026 19:37:12 GMT",
-   "read": "escalation"
   },
   {
    "topic": "Russia / Ukraine",
@@ -533,6 +526,13 @@
    "source": "pipeline-journal.net",
    "published": "Wed, 23 Sep 2026 12:55:02 GMT",
    "read": "escalation"
+  },
+  {
+   "topic": "Taiwan / China",
+   "title": "China\u2019s purges of top military commanders spur questions about war-waging ability - The Straits Times",
+   "source": "The Straits Times",
+   "published": "Wed, 23 Sep 2026 08:59:00 GMT",
+   "read": "unclear"
   }
  ],
  "ratings": [
