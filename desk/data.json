@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-24T03:10:02+00:00",
+ "generated_utc": "2026-09-24T03:15:02+00:00",
  "date_et": "2026-09-23",
  "build": "0d463cfe05",
  "tape": [
@@ -393,26 +393,26 @@
    {
     "sym": "MOVE",
     "name": "Bond-market volatility",
-    "price": 95.4527,
+    "price": 95.45,
     "pct": 21.5
    },
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 91.3,
-    "pct": -0.93
+    "price": 91.28,
+    "pct": -0.95
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4326.0,
-    "pct": 0.18
+    "price": 4328.1,
+    "pct": 0.22
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.075,
-    "pct": -0.02
+    "price": 101.068,
+    "pct": 0.47
    },
    {
     "sym": "SPY",
@@ -433,9 +433,9 @@
     "pct": 6.83
    }
   ],
-  "as_of": "2026-09-24T03:09:05.399625+00:00",
+  "as_of": "2026-09-24T03:12:05.381710+00:00",
   "tone": "risk-off",
-  "age_min": 0.9580251666666667
+  "age_min": 2.95478875
  },
  "stories": [
   {
@@ -443,20 +443,6 @@
    "title": "\u2018We hope he\u2019ll accept\u2019: US invites Putin to G20 summit at Trump golf club - theguardian.com",
    "source": "theguardian.com",
    "published": "Wed, 23 Sep 2026 22:37:00 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Taiwan / China",
-   "title": "Don\u2019t Be Fooled by China\u2019s Recent Months of Low Military Activity - The Daily Signal",
-   "source": "The Daily Signal",
-   "published": "Wed, 23 Sep 2026 21:20:00 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Putin Casts Election Result as an Endorsement of His War - wsj.com",
-   "source": "wsj.com",
-   "published": "Wed, 23 Sep 2026 20:02:59 GMT",
    "read": "unclear"
   },
   {
@@ -479,6 +465,20 @@
    "source": "timesofisrael.com",
    "published": "Wed, 23 Sep 2026 17:55:18 GMT",
    "read": "de-escalation"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Senior NATO commander warns Putin is becoming more cavalier and open to risk as Ukraine war drags on - PBS",
+   "source": "PBS",
+   "published": "Wed, 23 Sep 2026 17:03:12 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Saudi / Gulf supply",
+   "title": "Saudi offers more crude for Gulf of Oman STS loading - qcintel.com",
+   "source": "qcintel.com",
+   "published": "Wed, 23 Sep 2026 15:55:31 GMT",
+   "read": "unclear"
   }
  ],
  "ratings": [
