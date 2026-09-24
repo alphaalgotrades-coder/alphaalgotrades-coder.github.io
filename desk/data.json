@@ -1,112 +1,184 @@
 {
- "generated_utc": "2026-09-24T03:55:02+00:00",
- "date_et": "2026-09-23",
+ "generated_utc": "2026-09-24T04:00:03+00:00",
+ "date_et": "2026-09-24",
  "build": "0d463cfe05",
  "tape": [
   {
-   "time": "03:15",
-   "ccy": "EUR",
-   "impact": "Medi",
-   "title": "French Flash Manufacturing PMI",
-   "cons": "50.9",
-   "prev": "51.5",
-   "actual": "50.3"
-  },
-  {
-   "time": "03:15",
-   "ccy": "EUR",
-   "impact": "Medi",
-   "title": "French Flash Services PMI",
-   "cons": "48.3",
-   "prev": "48.4",
-   "actual": "51.4"
-  },
-  {
    "time": "03:30",
-   "ccy": "EUR",
-   "impact": "Medi",
-   "title": "German Flash Manufacturing PMI",
-   "cons": "54.1",
-   "prev": "54.1",
-   "actual": "53.8"
-  },
-  {
-   "time": "03:30",
-   "ccy": "EUR",
-   "impact": "Medi",
-   "title": "German Flash Services PMI",
-   "cons": "49.9",
-   "prev": "48.5",
-   "actual": "52.9"
-  },
-  {
-   "time": "04:00",
-   "ccy": "EUR",
-   "impact": "Low",
-   "title": "Flash Manufacturing PMI",
-   "cons": "52.6",
-   "prev": "52.8",
-   "actual": "52.7"
-  },
-  {
-   "time": "04:00",
-   "ccy": "EUR",
-   "impact": "Low",
-   "title": "Flash Services PMI",
-   "cons": "51.4",
-   "prev": "51.7",
-   "actual": "53.0"
-  },
-  {
-   "time": "04:30",
-   "ccy": "GBP",
-   "impact": "Medi",
-   "title": "Flash Manufacturing PMI",
-   "cons": "51.5",
-   "prev": "51.5",
-   "actual": "52.0"
-  },
-  {
-   "time": "04:30",
-   "ccy": "GBP",
-   "impact": "Medi",
-   "title": "Flash Services PMI",
-   "cons": "52.0",
-   "prev": "52.8",
-   "actual": "51.7"
-  },
-  {
-   "time": "05:35",
-   "ccy": "EUR",
-   "impact": "Low",
-   "title": "German 30-y Bond Auction",
+   "ccy": "CHF",
+   "impact": "High",
+   "title": "SNB Monetary Policy Assessment",
    "cons": "",
-   "prev": "3.90|2.4",
-   "actual": "3.80|1.6"
+   "prev": "",
+   "actual": ""
   },
   {
-   "time": "09:45",
-   "ccy": "USD",
-   "impact": "Low",
-   "title": "Flash Manufacturing PMI",
-   "cons": "53.6",
-   "prev": "53.2",
-   "actual": "57.0"
+   "time": "03:30",
+   "ccy": "CHF",
+   "impact": "High",
+   "title": "SNB Policy Rate",
+   "cons": "0.00%",
+   "prev": "0.00%",
+   "actual": ""
   },
   {
-   "time": "09:45",
-   "ccy": "USD",
-   "impact": "Low",
-   "title": "Flash Services PMI",
-   "cons": "55.8",
-   "prev": "56.8",
-   "actual": "58.7"
+   "time": "04:00",
+   "ccy": "CHF",
+   "impact": "High",
+   "title": "SNB Press Conference",
+   "cons": "",
+   "prev": "",
+   "actual": ""
   },
   {
-   "time": "10:05",
+   "time": "04:00",
+   "ccy": "EUR",
+   "impact": "Low",
+   "title": "ECB Economic Bulletin",
+   "cons": "",
+   "prev": "",
+   "actual": ""
+  },
+  {
+   "time": "04:00",
+   "ccy": "EUR",
+   "impact": "Low",
+   "title": "German ifo Business Climate",
+   "cons": "89.1",
+   "prev": "88.8",
+   "actual": ""
+  },
+  {
+   "time": "04:10",
    "ccy": "USD",
    "impact": "Low",
-   "title": "FOMC Member Barr Speaks",
+   "title": "FOMC Member Williams Speaks",
+   "cons": "",
+   "prev": "",
+   "actual": ""
+  },
+  {
+   "time": "05:30",
+   "ccy": "GBP",
+   "impact": "Low",
+   "title": "MPC Member Dhingra Speaks",
+   "cons": "",
+   "prev": "",
+   "actual": ""
+  },
+  {
+   "time": "06:00",
+   "ccy": "GBP",
+   "impact": "Low",
+   "title": "CBI Realized Sales",
+   "cons": "-42",
+   "prev": "-48",
+   "actual": ""
+  },
+  {
+   "time": "08:30",
+   "ccy": "CAD",
+   "impact": "Medi",
+   "title": "Core Retail Sales m/m",
+   "cons": "-0.5%",
+   "prev": "0.5%",
+   "actual": ""
+  },
+  {
+   "time": "08:30",
+   "ccy": "CAD",
+   "impact": "Medi",
+   "title": "Retail Sales m/m",
+   "cons": "-0.8%",
+   "prev": "0.6%",
+   "actual": ""
+  },
+  {
+   "time": "08:30",
+   "ccy": "USD",
+   "impact": "High",
+   "title": "Unemployment Claims",
+   "cons": "201K",
+   "prev": "196K",
+   "actual": ""
+  },
+  {
+   "time": "08:30",
+   "ccy": "USD",
+   "impact": "Low",
+   "title": "Current Account",
+   "cons": "-258B",
+   "prev": "-227B",
+   "actual": ""
+  },
+  {
+   "time": "08:30",
+   "ccy": "USD",
+   "impact": "Low",
+   "title": "FOMC Member Barkin Speaks",
+   "cons": "",
+   "prev": "",
+   "actual": ""
+  },
+  {
+   "time": "08:50",
+   "ccy": "USD",
+   "impact": "Low",
+   "title": "FOMC Member Hammack Speaks",
+   "cons": "",
+   "prev": "",
+   "actual": ""
+  },
+  {
+   "time": "09:00",
+   "ccy": "CNY",
+   "impact": "Low",
+   "title": "CB Leading Index m/m",
+   "cons": "",
+   "prev": "-0.3%",
+   "actual": ""
+  },
+  {
+   "time": "09:00",
+   "ccy": "EUR",
+   "impact": "Low",
+   "title": "Belgian NBB Business Climate",
+   "cons": "-13.5",
+   "prev": "-13.2",
+   "actual": ""
+  },
+  {
+   "time": "09:30",
+   "ccy": "GBP",
+   "impact": "Low",
+   "title": "MPC Member Breeden Speaks",
+   "cons": "",
+   "prev": "",
+   "actual": ""
+  },
+  {
+   "time": "10:00",
+   "ccy": "GBP",
+   "impact": "Low",
+   "title": "MPC Member Lombardelli Speaks",
+   "cons": "",
+   "prev": "",
+   "actual": ""
+  },
+  {
+   "time": "10:00",
+   "ccy": "USD",
+   "impact": "Low",
+   "title": "New Home Sales",
+   "cons": "615K",
+   "prev": "607K",
+   "actual": ""
+  },
+  {
+   "time": "10:10",
+   "ccy": "USD",
+   "impact": "Low",
+   "title": "FOMC Member Paulson Speaks",
    "cons": "",
    "prev": "",
    "actual": ""
@@ -115,49 +187,31 @@
    "time": "10:30",
    "ccy": "USD",
    "impact": "Low",
-   "title": "Crude Oil Inventories",
-   "cons": "-0.7M",
-   "prev": "-0.6M",
-   "actual": "3.0M"
+   "title": "Natural Gas Storage",
+   "cons": "50B",
+   "prev": "44B",
+   "actual": ""
   },
   {
-   "time": "12:00",
-   "ccy": "USD",
+   "time": "19:01",
+   "ccy": "GBP",
    "impact": "Low",
-   "title": "FOMC Member Goolsbee Speaks",
+   "title": "GfK Consumer Confidence",
+   "cons": "-16",
+   "prev": "-14",
+   "actual": ""
+  },
+  {
+   "time": "19:01",
+   "ccy": "CNY",
+   "impact": "Holi",
+   "title": "Bank Holiday",
    "cons": "",
    "prev": "",
    "actual": ""
   },
   {
-   "time": "20:30",
-   "ccy": "JPY",
-   "impact": "Low",
-   "title": "Flash Manufacturing PMI",
-   "cons": "55.0",
-   "prev": "55.1",
-   "actual": "54.1"
-  },
-  {
    "time": "21:30",
-   "ccy": "AUD",
-   "impact": "High",
-   "title": "Employment Change",
-   "cons": "21.5K",
-   "prev": "-15.8K",
-   "actual": "39.5K"
-  },
-  {
-   "time": "21:30",
-   "ccy": "AUD",
-   "impact": "High",
-   "title": "Unemployment Rate",
-   "cons": "4.5%",
-   "prev": "4.5%",
-   "actual": "4.6%"
-  },
-  {
-   "time": "22:35",
    "ccy": "AUD",
    "impact": "Low",
    "title": "NAB Quarterly Business Confidence",
@@ -399,20 +453,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 91.41,
-    "pct": -0.81
+    "price": 91.32,
+    "pct": -0.91
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4317.1,
-    "pct": -0.03
+    "price": 4318.9,
+    "pct": 0.01
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.147,
-    "pct": 0.05
+    "price": 101.137,
+    "pct": 0.04
    },
    {
     "sym": "SPY",
@@ -433,9 +487,9 @@
     "pct": 6.83
    }
   ],
-  "as_of": "2026-09-24T03:54:04.494560+00:00",
+  "as_of": "2026-09-24T03:57:04.497720+00:00",
   "tone": "risk-off",
-  "age_min": 0.9708363833333333
+  "age_min": 2.9848572333333334
  },
  "stories": [
   {
