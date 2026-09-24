@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-24T00:50:02+00:00",
+ "generated_utc": "2026-09-24T00:55:02+00:00",
  "date_et": "2026-09-23",
  "build": "0d463cfe05",
  "tape": [
@@ -399,20 +399,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 91.47,
-    "pct": -0.75
+    "price": 91.59,
+    "pct": -0.62
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4327.7,
-    "pct": 0.22
+    "price": 4330.0,
+    "pct": 0.27
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.143,
-    "pct": 0.05
+    "price": 101.177,
+    "pct": 0.08
    },
    {
     "sym": "SPY",
@@ -433,9 +433,9 @@
     "pct": 6.83
    }
   ],
-  "as_of": "2026-09-24T00:48:05.512434+00:00",
+  "as_of": "2026-09-24T00:54:05.597708+00:00",
   "tone": "risk-off",
-  "age_min": 1.9473413499999999
+  "age_min": 0.9533772166666666
  },
  "stories": [
   {
@@ -468,10 +468,10 @@
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "Ukraine\u2019s Zelenskyy calls for sustained pressure to end \u2018Putin\u2019s crazy war\u2019 - Al Jazeera",
-   "source": "Al Jazeera",
-   "published": "Wed, 23 Sep 2026 19:37:12 GMT",
-   "read": "escalation"
+   "title": "Putin Casts Election Result as an Endorsement of His War - wsj.com",
+   "source": "wsj.com",
+   "published": "Wed, 23 Sep 2026 20:02:59 GMT",
+   "read": "unclear"
   },
   {
    "topic": "Iran / Hormuz",
