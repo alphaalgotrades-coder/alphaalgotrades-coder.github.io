@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-24T07:40:04+00:00",
+ "generated_utc": "2026-09-24T07:45:04+00:00",
  "date_et": "2026-09-24",
  "build": "0d463cfe05",
  "tape": [
@@ -19,7 +19,7 @@
    "title": "SNB Policy Rate",
    "cons": "0.00%",
    "prev": "0.00%",
-   "actual": ""
+   "actual": "0.00%"
   },
   {
    "time": "04:00",
@@ -444,20 +444,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 92.18,
-    "pct": 0.02
+    "price": 92.25,
+    "pct": 0.1
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4318.0,
-    "pct": -0.01
+    "price": 4319.2,
+    "pct": 0.02
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.069,
-    "pct": -0.03
+    "price": 101.073,
+    "pct": -0.02
    },
    {
     "sym": "SPY",
@@ -474,13 +474,13 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 15.85,
-    "pct": 4.41
+    "price": 15.86,
+    "pct": 4.48
    }
   ],
-  "as_of": "2026-09-24T07:39:06.000108+00:00",
+  "as_of": "2026-09-24T07:42:05.657203+00:00",
   "tone": "risk-off",
-  "age_min": 0.9758707833333333
+  "age_min": 2.98201085
  },
  "stories": [
   {
