@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-24T01:50:03+00:00",
+ "generated_utc": "2026-09-24T01:55:02+00:00",
  "date_et": "2026-09-23",
  "build": "0d463cfe05",
  "tape": [
@@ -399,19 +399,19 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 91.55,
-    "pct": -0.66
+    "price": 91.75,
+    "pct": -0.44
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4329.5,
-    "pct": 0.26
+    "price": 4324.7,
+    "pct": 0.15
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.128,
+    "price": 101.125,
     "pct": 0.03
    },
    {
@@ -433,9 +433,9 @@
     "pct": 6.83
    }
   ],
-  "as_of": "2026-09-24T01:48:05.780731+00:00",
+  "as_of": "2026-09-24T01:54:05.869771+00:00",
   "tone": "risk-off",
-  "age_min": 1.9574636
+  "age_min": 0.94873755
  },
  "stories": [
   {
@@ -450,13 +450,6 @@
    "title": "Don\u2019t Be Fooled by China\u2019s Recent Months of Low Military Activity - The Daily Signal",
    "source": "The Daily Signal",
    "published": "Wed, 23 Sep 2026 21:20:00 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Is Iran\u2019s Hormuz offer a sign of economic strain or a bid to buy time? - arabnews.com",
-   "source": "arabnews.com",
-   "published": "Wed, 23 Sep 2026 20:29:38 GMT",
    "read": "unclear"
   },
   {
@@ -478,6 +471,13 @@
    "title": "Iran\u2019s president laid out Tehran\u2019s demands to the world, from a podium in New York - CNN",
    "source": "CNN",
    "published": "Wed, 23 Sep 2026 19:35:12 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Trump extends invite to Putin to attend Miami G20 - thehill.com",
+   "source": "thehill.com",
+   "published": "Wed, 23 Sep 2026 18:13:00 GMT",
    "read": "unclear"
   }
  ],
