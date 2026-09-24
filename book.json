@@ -1,12 +1,12 @@
 {
- "generated_utc": "2026-09-24T15:05:05.254847+00:00",
+ "generated_utc": "2026-09-24T16:05:05.011251+00:00",
  "paper": true,
  "strategy": "the wheel (cash-secured puts -> covered calls)",
  "since": "2026-07-13",
- "trading_days": 43,
+ "trading_days": 44,
  "green_days": 24,
  "red_days": 2,
- "total_fills": 131,
+ "total_fills": 132,
  "symbols_traded": 22,
  "cumulative_realized": 7722.27,
  "days": [
@@ -310,6 +310,13 @@
    "realized": 0.0,
    "commission": 0.0,
    "cumulative": 7722.27
+  },
+  {
+   "date": "2026-09-24",
+   "fills": 1,
+   "realized": 0.0,
+   "commission": 0.0,
+   "cumulative": 7722.27
   }
  ],
  "open_legs": [
@@ -323,7 +330,7 @@
    "engine": true,
    "agree": true,
    "entry": 0.1,
-   "upnl": -120.0,
+   "upnl": -30.0,
    "lane": "OPTIONS"
   },
   {
@@ -336,7 +343,7 @@
    "engine": true,
    "agree": true,
    "entry": 32.5,
-   "upnl": -2103.0,
+   "upnl": -2160.0,
    "lane": "OPTIONS"
   },
   {
@@ -349,7 +356,7 @@
    "engine": true,
    "agree": true,
    "entry": 0.9,
-   "upnl": -60.0,
+   "upnl": 0.0,
    "lane": "OPTIONS"
   },
   {
@@ -375,7 +382,7 @@
    "engine": true,
    "agree": true,
    "entry": 70.0,
-   "upnl": -1237.0,
+   "upnl": -1271.0,
    "lane": "OPTIONS"
   },
   {
@@ -392,6 +399,19 @@
    "lane": "OPTIONS"
   },
   {
+   "instrument": "DLO 10/16 P12",
+   "raw": "DLO261016P00012000",
+   "strategy": "HT_WHEEL",
+   "side": "short 6",
+   "broker": true,
+   "db": true,
+   "engine": true,
+   "agree": true,
+   "entry": 0.05,
+   "upnl": -30.0,
+   "lane": "OPTIONS"
+  },
+  {
    "instrument": "DLO shares",
    "raw": "DLO",
    "strategy": "HT_WHEEL",
@@ -401,7 +421,7 @@
    "engine": true,
    "agree": true,
    "entry": 13.68,
-   "upnl": 189.0,
+   "upnl": 88.2,
    "lane": "OPTIONS"
   },
   {
@@ -414,7 +434,7 @@
    "engine": true,
    "agree": true,
    "entry": 0.28,
-   "upnl": -224.0,
+   "upnl": -248.0,
    "lane": "OPTIONS"
   },
   {
@@ -427,7 +447,7 @@
    "engine": true,
    "agree": true,
    "entry": 0.7,
-   "upnl": 140.0,
+   "upnl": 160.0,
    "lane": "OPTIONS"
   },
   {
@@ -440,7 +460,7 @@
    "engine": true,
    "agree": true,
    "entry": 0.45,
-   "upnl": -280.0,
+   "upnl": -320.0,
    "lane": "OPTIONS"
   },
   {
@@ -453,12 +473,12 @@
    "engine": true,
    "agree": true,
    "entry": 35.0,
-   "upnl": -1708.0,
+   "upnl": -1813.6,
    "lane": "OPTIONS"
   }
  ],
- "open_upnl": -5338.0,
- "reconciliation": "11/11 open legs reconciled against the broker statement and our own database",
+ "open_upnl": -5559.4,
+ "reconciliation": "12/12 open legs reconciled against the broker statement and our own database",
  "stats": {
   "closed_trades": 40,
   "win_rate": 85.0,
@@ -466,11 +486,11 @@
   "avg_loss": -197.83,
   "profit_factor": 7.51,
   "expectancy": 193.06,
-  "sharpe_daily_ann": 5.8,
-  "capital_at_risk": 96926.0,
-  "period_return_pct": 7.97,
-  "ann_pace_pct": 41.0,
-  "elapsed_days": 71
+  "sharpe_daily_ann": 5.73,
+  "capital_at_risk": 104126.0,
+  "period_return_pct": 7.42,
+  "ann_pace_pct": 36.6,
+  "elapsed_days": 74
  },
  "assigned": [
   {
@@ -491,8 +511,8 @@
    "symbol": "DLO",
    "shares": 700,
    "entry": 13.68,
-   "basis": 13.09,
-   "reduced_pct": 4.3
+   "basis": 13.05,
+   "reduced_pct": 4.6
   },
   {
    "symbol": "Z",
