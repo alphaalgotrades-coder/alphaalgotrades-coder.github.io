@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-24T01:10:02+00:00",
+ "generated_utc": "2026-09-24T01:15:02+00:00",
  "date_et": "2026-09-23",
  "build": "0d463cfe05",
  "tape": [
@@ -399,20 +399,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 91.59,
-    "pct": -0.62
+    "price": 91.49,
+    "pct": -0.73
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4333.9,
-    "pct": 0.36
+    "price": 4331.4,
+    "pct": 0.3
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.17,
-    "pct": 0.07
+    "price": 101.144,
+    "pct": 0.05
    },
    {
     "sym": "SPY",
@@ -433,11 +433,18 @@
     "pct": 6.83
    }
   ],
-  "as_of": "2026-09-24T01:09:05.797085+00:00",
+  "as_of": "2026-09-24T01:12:05.854955+00:00",
   "tone": "risk-off",
-  "age_min": 0.9415303166666666
+  "age_min": 2.9482464833333335
  },
  "stories": [
+  {
+   "topic": "Russia / Ukraine",
+   "title": "\u2018We hope he\u2019ll accept\u2019: US invites Putin to G20 summit at Trump golf club - theguardian.com",
+   "source": "theguardian.com",
+   "published": "Wed, 23 Sep 2026 22:37:00 GMT",
+   "read": "unclear"
+  },
   {
    "topic": "Taiwan / China",
    "title": "Don\u2019t Be Fooled by China\u2019s Recent Months of Low Military Activity - The Daily Signal",
@@ -458,13 +465,6 @@
    "source": "arabnews.com",
    "published": "Wed, 23 Sep 2026 20:29:38 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Zelensky says Putin using fighters from 47 countries in Ukraine war - Arab News",
-   "source": "Arab News",
-   "published": "Wed, 23 Sep 2026 20:08:02 GMT",
-   "read": "escalation"
   },
   {
    "topic": "Russia / Ukraine",
