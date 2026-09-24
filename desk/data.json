@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-24T23:10:03+00:00",
+ "generated_utc": "2026-09-24T23:15:03+00:00",
  "date_et": "2026-09-24",
  "build": "0d463cfe05",
  "tape": [
@@ -208,7 +208,7 @@
    "title": "GfK Consumer Confidence",
    "cons": "-16",
    "prev": "-14",
-   "actual": ""
+   "actual": "-13"
   },
   {
    "time": "19:01",
@@ -453,13 +453,13 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 94.33,
-    "pct": -0.3
+    "price": 94.3,
+    "pct": -0.33
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4308.0,
+    "price": 4307.8,
     "pct": 0.23
    },
    {
@@ -487,9 +487,9 @@
     "pct": 3.23
    }
   ],
-  "as_of": "2026-09-24T23:09:05.922847+00:00",
+  "as_of": "2026-09-24T23:12:05.048104+00:00",
   "tone": "mixed",
-  "age_min": 0.9619738666666666
+  "age_min": 2.9788638666666665
  },
  "stories": [
   {
@@ -515,6 +515,13 @@
   },
   {
    "topic": "Iran / Hormuz",
+   "title": "US-Iran Discuss Phased Deal To Reopen Strait Of Hormuz, Says Report \u2014 USO, UCO In Focus - Yahoo Finance",
+   "source": "Yahoo Finance",
+   "published": "Thu, 24 Sep 2026 19:36:58 GMT",
+   "read": "de-escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
    "title": "Iran awaiting response from Trump on proposal to open strait of Hormuz in six days - The Guardian",
    "source": "The Guardian",
    "published": "Thu, 24 Sep 2026 19:13:00 GMT",
@@ -526,13 +533,6 @@
    "source": "The Guardian",
    "published": "Thu, 24 Sep 2026 18:39:56 GMT",
    "read": "de-escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran\u2019s president says Tehran wants a deal with U.S. before midterm elections - NBC News",
-   "source": "NBC News",
-   "published": "Thu, 24 Sep 2026 18:38:14 GMT",
-   "read": "unclear"
   }
  ],
  "ratings": [
