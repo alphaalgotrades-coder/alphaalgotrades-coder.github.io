@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-24T22:10:03+00:00",
+ "generated_utc": "2026-09-24T22:15:04+00:00",
  "date_et": "2026-09-24",
  "build": "0d463cfe05",
  "tape": [
@@ -453,20 +453,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 94.76,
-    "pct": 0.16
+    "price": 94.44,
+    "pct": -0.18
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4310.1,
-    "pct": 0.28
+    "price": 4310.6,
+    "pct": 0.29
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.256,
-    "pct": 0.16
+    "price": 101.246,
+    "pct": 0.15
    },
    {
     "sym": "SPY",
@@ -487,15 +487,15 @@
     "pct": 3.23
    }
   ],
-  "as_of": "2026-09-24T22:09:06.768867+00:00",
+  "as_of": "2026-09-24T22:12:05.944447+00:00",
   "tone": "mixed",
-  "age_min": 0.9515066666666667
+  "age_min": 2.9736683499999996
  },
  "stories": [
   {
    "topic": "Taiwan / China",
-   "title": "Xi Jinping called on Trump to oppose Taiwan's independence - ua.news",
-   "source": "ua.news",
+   "title": "Xi Jinping called on Trump to oppose Taiwan's independence - UA.NEWS",
+   "source": "UA.NEWS",
    "published": "Thu, 24 Sep 2026 20:43:14 GMT",
    "read": "unclear"
   },
@@ -522,16 +522,16 @@
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "US, Iran Said to Be Exploring Phased Deal to Open Hormuz - Bloomberg",
-   "source": "Bloomberg",
-   "published": "Thu, 24 Sep 2026 18:25:07 GMT",
-   "read": "de-escalation"
+   "title": "Iran\u2019s president says Tehran wants a deal with U.S. before midterm elections - NBC News",
+   "source": "NBC News",
+   "published": "Thu, 24 Sep 2026 18:38:14 GMT",
+   "read": "unclear"
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "US and Iran discuss phased deal to reopen Hormuz and end US blockade, sources say - reuters.com",
-   "source": "reuters.com",
-   "published": "Thu, 24 Sep 2026 17:52:33 GMT",
+   "title": "US, Iran Said to Be Exploring Phased Deal to Open Hormuz - Bloomberg",
+   "source": "Bloomberg",
+   "published": "Thu, 24 Sep 2026 18:25:07 GMT",
    "read": "de-escalation"
   }
  ],
