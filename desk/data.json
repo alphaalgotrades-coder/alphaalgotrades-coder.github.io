@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-24T23:50:03+00:00",
+ "generated_utc": "2026-09-24T23:55:03+00:00",
  "date_et": "2026-09-24",
  "build": "0d463cfe05",
  "tape": [
@@ -453,14 +453,14 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 94.03,
-    "pct": -0.61
+    "price": 93.97,
+    "pct": -0.68
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4308.8,
-    "pct": 0.25
+    "price": 4309.3,
+    "pct": 0.26
    },
    {
     "sym": "DXY",
@@ -487,9 +487,9 @@
     "pct": 3.23
    }
   ],
-  "as_of": "2026-09-24T23:48:05.812329+00:00",
+  "as_of": "2026-09-24T23:54:05.713939+00:00",
   "tone": "mixed",
-  "age_min": 1.9595748666666668
+  "age_min": 0.9675195999999999
  },
  "stories": [
   {
@@ -515,8 +515,8 @@
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "US-Iran Discuss Phased Deal To Reopen Strait Of Hormuz, Says Report \u2014 USO, UCO In Focus - Yahoo Finance",
-   "source": "Yahoo Finance",
+   "title": "US-Iran Discuss Phased Deal To Reopen Strait Of Hormuz, Says Report \u2014 USO, UCO In Focus - finance.yahoo.com",
+   "source": "finance.yahoo.com",
    "published": "Thu, 24 Sep 2026 19:36:58 GMT",
    "read": "de-escalation"
   },
