@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-24T05:55:03+00:00",
+ "generated_utc": "2026-09-24T06:00:04+00:00",
  "date_et": "2026-09-24",
  "build": "0d463cfe05",
  "tape": [
@@ -208,15 +208,6 @@
    "title": "Bank Holiday",
    "cons": "",
    "prev": "",
-   "actual": ""
-  },
-  {
-   "time": "21:30",
-   "ccy": "AUD",
-   "impact": "Low",
-   "title": "NAB Quarterly Business Confidence",
-   "cons": "",
-   "prev": "-19",
    "actual": ""
   }
  ],
@@ -453,20 +444,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 92.15,
-    "pct": -0.01
+    "price": 92.09,
+    "pct": -0.08
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4315.9,
-    "pct": -0.06
+    "price": 4319.3,
+    "pct": 0.02
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.118,
-    "pct": 0.02
+    "price": 101.124,
+    "pct": 0.03
    },
    {
     "sym": "SPY",
@@ -487,9 +478,9 @@
     "pct": 6.83
    }
   ],
-  "as_of": "2026-09-24T05:54:05.196418+00:00",
+  "as_of": "2026-09-24T05:57:05.148197+00:00",
   "tone": "risk-off",
-  "age_min": 0.9782281333333334
+  "age_min": 2.9864283333333335
  },
  "stories": [
   {
