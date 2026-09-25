@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-25T06:10:03+00:00",
+ "generated_utc": "2026-09-25T06:15:04+00:00",
  "date_et": "2026-09-25",
  "build": "0d463cfe05",
  "tape": [
@@ -19,7 +19,7 @@
    "title": "German GfK Consumer Climate",
    "cons": "-27.1",
    "prev": "-26.6",
-   "actual": ""
+   "actual": "-30.6"
   },
   {
    "time": "04:00",
@@ -345,20 +345,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 92.8,
-    "pct": -1.91
+    "price": 92.73,
+    "pct": -1.99
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4301.8,
-    "pct": 0.09
+    "price": 4306.3,
+    "pct": 0.19
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.232,
-    "pct": -0.05
+    "price": 101.219,
+    "pct": -0.07
    },
    {
     "sym": "SPY",
@@ -379,9 +379,9 @@
     "pct": 3.23
    }
   ],
-  "as_of": "2026-09-25T06:09:05.667158+00:00",
+  "as_of": "2026-09-25T06:12:05.482186+00:00",
   "tone": "mixed",
-  "age_min": 0.9672997833333333
+  "age_min": 2.9834524333333334
  },
  "stories": [
   {
@@ -407,13 +407,6 @@
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "Russia unlikely to agree to energy truce as Putin eyes winter strikes - tvpworld.com",
-   "source": "tvpworld.com",
-   "published": "Thu, 24 Sep 2026 19:55:00 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
    "title": "What a Limited Russian Incursion Into Estonia Might Look Like: A Narva Scenario - Institute for the Study of War",
    "source": "Institute for the Study of War",
    "published": "Thu, 24 Sep 2026 17:19:15 GMT",
@@ -424,6 +417,13 @@
    "title": "Saudi East-West Pipeline building up volumes, loading yet to resume, sources say - reuters.com",
    "source": "reuters.com",
    "published": "Thu, 24 Sep 2026 14:53:00 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Saudi / Gulf supply",
+   "title": "[Analysis] Beyond Hormuz: Saudi Pipeline Attack Proves No Middle East Crude Artery Is Out of Reach - Pipeline Technology Journal",
+   "source": "Pipeline Technology Journal",
+   "published": "Thu, 24 Sep 2026 14:08:23 GMT",
    "read": "unclear"
   }
  ],
