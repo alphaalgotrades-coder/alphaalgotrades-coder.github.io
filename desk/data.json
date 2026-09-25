@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-25T08:50:03+00:00",
+ "generated_utc": "2026-09-25T08:55:03+00:00",
  "date_et": "2026-09-25",
  "build": "0d463cfe05",
  "tape": [
@@ -345,20 +345,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 93.15,
-    "pct": -1.54
+    "price": 93.08,
+    "pct": -1.62
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4321.4,
-    "pct": 0.54
+    "price": 4325.7,
+    "pct": 0.64
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.147,
-    "pct": -0.14
+    "price": 101.135,
+    "pct": -0.15
    },
    {
     "sym": "SPY",
@@ -375,15 +375,22 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 15.47,
-    "pct": -1.28
+    "price": 15.43,
+    "pct": -1.53
    }
   ],
-  "as_of": "2026-09-25T08:48:05.109153+00:00",
+  "as_of": "2026-09-25T08:54:12.706724+00:00",
   "tone": "mixed",
-  "age_min": 1.9754971166666666
+  "age_min": 0.8559510166666667
  },
  "stories": [
+  {
+   "topic": "Taiwan / China",
+   "title": "Rubio says delay in arms sales to Taiwan based on U.S. weapons-building concerns - Washington Times",
+   "source": "Washington Times",
+   "published": "Thu, 24 Sep 2026 20:29:00 GMT",
+   "read": "unclear"
+  },
   {
    "topic": "Iran / Hormuz",
    "title": "Iran awaiting response from Trump on proposal to open strait of Hormuz in six days - theguardian.com",
@@ -414,17 +421,10 @@
   },
   {
    "topic": "Taiwan / China",
-   "title": "The US needs a new Taiwan policy beyond strategic ambiguity - Nikkei Asia",
-   "source": "Nikkei Asia",
+   "title": "The US needs a new Taiwan policy beyond strategic ambiguity - asia.nikkei.com",
+   "source": "asia.nikkei.com",
    "published": "Fri, 25 Sep 2026 08:05:00 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Moscow \u2018Will Not Pause\u2019 Military Operations in Ukraine, to Review Putin's Participation in G20 Summit - ASHARQ AL-AWSAT English",
-   "source": "ASHARQ AL-AWSAT English",
-   "published": "Fri, 25 Sep 2026 06:00:30 GMT",
-   "read": "escalation"
   }
  ],
  "ratings": [
