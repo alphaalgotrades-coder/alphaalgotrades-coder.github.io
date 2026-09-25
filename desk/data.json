@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-25T07:50:03+00:00",
+ "generated_utc": "2026-09-25T07:55:03+00:00",
  "date_et": "2026-09-25",
  "build": "0d463cfe05",
  "tape": [
@@ -345,20 +345,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 93.46,
-    "pct": -1.22
+    "price": 93.5,
+    "pct": -1.17
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4314.6,
-    "pct": 0.39
+    "price": 4311.4,
+    "pct": 0.31
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.172,
-    "pct": -0.11
+    "price": 101.168,
+    "pct": -0.12
    },
    {
     "sym": "SPY",
@@ -375,13 +375,13 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 15.59,
-    "pct": -0.51
+    "price": 15.58,
+    "pct": -0.57
    }
   ],
-  "as_of": "2026-09-25T07:48:05.265400+00:00",
+  "as_of": "2026-09-25T07:54:05.412820+00:00",
   "tone": "mixed",
-  "age_min": 1.97506745
+  "age_min": 0.9729667000000001
  },
  "stories": [
   {
@@ -406,6 +406,13 @@
    "read": "unclear"
   },
   {
+   "topic": "Saudi / Gulf supply",
+   "title": "Saudi Aramco is exploring new routes for exporting oil - inspenet.com",
+   "source": "inspenet.com",
+   "published": "Thu, 24 Sep 2026 14:34:31 GMT",
+   "read": "unclear"
+  },
+  {
    "topic": "Taiwan / China",
    "title": "Exclusive: The Admiral Who Must Prevent War With China - time.com",
    "source": "time.com",
@@ -418,13 +425,6 @@
    "source": "ASHARQ AL-AWSAT English",
    "published": "Fri, 25 Sep 2026 06:00:30 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Kremlin: EU transfer of Russian asset revenue to Ukraine illegal - chinadailyasia.com",
-   "source": "chinadailyasia.com",
-   "published": "Fri, 25 Sep 2026 05:01:56 GMT",
-   "read": "unclear"
   }
  ],
  "ratings": [
