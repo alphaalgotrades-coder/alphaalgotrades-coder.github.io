@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-25T03:50:03+00:00",
+ "generated_utc": "2026-09-25T03:55:03+00:00",
  "date_et": "2026-09-24",
  "build": "0d463cfe05",
  "tape": [
@@ -462,20 +462,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 93.1,
-    "pct": -1.6
+    "price": 93.06,
+    "pct": -1.64
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4309.5,
-    "pct": 0.27
+    "price": 4310.5,
+    "pct": 0.29
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.286,
-    "pct": 0.0
+    "price": 101.283,
+    "pct": -0.0
    },
    {
     "sym": "SPY",
@@ -496,9 +496,9 @@
     "pct": 3.23
    }
   ],
-  "as_of": "2026-09-25T03:48:05.450762+00:00",
+  "as_of": "2026-09-25T03:54:05.204908+00:00",
   "tone": "mixed",
-  "age_min": 1.9680463000000001
+  "age_min": 0.9814238333333333
  },
  "stories": [
   {
@@ -523,13 +523,6 @@
    "read": "unclear"
   },
   {
-   "topic": "Taiwan / China",
-   "title": "Xi Jinping called on Trump to oppose Taiwan's independence - UA.NEWS",
-   "source": "UA.NEWS",
-   "published": "Thu, 24 Sep 2026 20:43:14 GMT",
-   "read": "unclear"
-  },
-  {
    "topic": "Russia / Ukraine",
    "title": "Russia unlikely to agree to energy truce as Putin eyes winter strikes - tvpworld.com",
    "source": "tvpworld.com",
@@ -542,6 +535,13 @@
    "source": "Institute for the Study of War",
    "published": "Thu, 24 Sep 2026 17:19:15 GMT",
    "read": "unclear"
+  },
+  {
+   "topic": "Saudi / Gulf supply",
+   "title": "Brent Climbs Above $107 After Houthi Attack Against Saudi Arabia Sites - wsj.com",
+   "source": "wsj.com",
+   "published": "Thu, 24 Sep 2026 16:50:00 GMT",
+   "read": "escalation"
   }
  ],
  "ratings": [
