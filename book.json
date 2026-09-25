@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-25T13:05:03.757528+00:00",
+ "generated_utc": "2026-09-25T14:05:02.965737+00:00",
  "paper": true,
  "strategy": "the wheel (cash-secured puts -> covered calls)",
  "since": "2026-07-13",
@@ -330,7 +330,7 @@
    "engine": true,
    "agree": true,
    "entry": 0.1,
-   "upnl": -30.0,
+   "upnl": -120.0,
    "lane": "OPTIONS"
   },
   {
@@ -343,7 +343,7 @@
    "engine": true,
    "agree": true,
    "entry": 32.5,
-   "upnl": -1920.0,
+   "upnl": -1893.0,
    "lane": "OPTIONS"
   },
   {
@@ -356,7 +356,7 @@
    "engine": true,
    "agree": true,
    "entry": 0.9,
-   "upnl": -30.0,
+   "upnl": -10.0,
    "lane": "OPTIONS"
   },
   {
@@ -369,7 +369,7 @@
    "engine": true,
    "agree": true,
    "entry": 0.5,
-   "upnl": -5.0,
+   "upnl": -10.0,
    "lane": "OPTIONS"
   },
   {
@@ -382,7 +382,7 @@
    "engine": true,
    "agree": true,
    "entry": 70.0,
-   "upnl": -935.0,
+   "upnl": -1271.0,
    "lane": "OPTIONS"
   },
   {
@@ -395,7 +395,7 @@
    "engine": true,
    "agree": true,
    "entry": 0.3,
-   "upnl": 70.0,
+   "upnl": 35.0,
    "lane": "OPTIONS"
   },
   {
@@ -421,7 +421,7 @@
    "engine": true,
    "agree": true,
    "entry": 13.68,
-   "upnl": 140.0,
+   "upnl": 234.5,
    "lane": "OPTIONS"
   },
   {
@@ -434,7 +434,7 @@
    "engine": true,
    "agree": true,
    "entry": 0.28,
-   "upnl": -344.0,
+   "upnl": -288.0,
    "lane": "OPTIONS"
   },
   {
@@ -447,7 +447,7 @@
    "engine": true,
    "agree": true,
    "entry": 0.7,
-   "upnl": 100.0,
+   "upnl": 120.0,
    "lane": "OPTIONS"
   },
   {
@@ -460,7 +460,7 @@
    "engine": true,
    "agree": true,
    "entry": 0.45,
-   "upnl": -300.0,
+   "upnl": -220.0,
    "lane": "OPTIONS"
   },
   {
@@ -473,11 +473,11 @@
    "engine": true,
    "agree": true,
    "entry": 35.0,
-   "upnl": -1585.48,
+   "upnl": -1566.0,
    "lane": "OPTIONS"
   }
  ],
- "open_upnl": -4899.48,
+ "open_upnl": -5048.5,
  "reconciliation": "12/12 open legs reconciled against the broker statement and our own database",
  "stats": {
   "closed_trades": 40,
