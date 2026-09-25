@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-25T00:30:04+00:00",
+ "generated_utc": "2026-09-25T00:35:03+00:00",
  "date_et": "2026-09-24",
  "build": "0d463cfe05",
  "tape": [
@@ -462,20 +462,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 93.83,
-    "pct": -0.82
+    "price": 93.87,
+    "pct": -0.78
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4302.8,
-    "pct": 0.11
+    "price": 4304.0,
+    "pct": 0.14
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.287,
-    "pct": 0.0
+    "price": 101.295,
+    "pct": 0.01
    },
    {
     "sym": "SPY",
@@ -496,9 +496,9 @@
     "pct": 3.23
    }
   ],
-  "as_of": "2026-09-25T00:27:14.553562+00:00",
+  "as_of": "2026-09-25T00:33:05.997087+00:00",
   "tone": "mixed",
-  "age_min": 2.830210966666667
+  "age_min": 1.9668595333333334
  },
  "stories": [
   {
@@ -509,10 +509,24 @@
    "read": "de-escalation"
   },
   {
+   "topic": "Iran / Hormuz",
+   "title": "US, Iran explore phased deal to reopen Hormuz - Semafor",
+   "source": "Semafor",
+   "published": "Thu, 24 Sep 2026 22:26:00 GMT",
+   "read": "de-escalation"
+  },
+  {
    "topic": "Saudi / Gulf supply",
    "title": "Crude Oil Futures Jump About 3% as Houthi Attacks on Saudi Arabia Reignite Supply Concerns - finance.biggo.com",
    "source": "finance.biggo.com",
    "published": "Thu, 24 Sep 2026 22:05:00 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Russia could attack a Nato country within months, Danish intelligence says - The Guardian",
+   "source": "The Guardian",
+   "published": "Thu, 24 Sep 2026 21:42:00 GMT",
    "read": "escalation"
   },
   {
@@ -523,25 +537,11 @@
    "read": "unclear"
   },
   {
-   "topic": "Russia / Ukraine",
-   "title": "Russian strikes kill 8 civilians in Ukraine as UN debates how to end the war - PBS",
-   "source": "PBS",
-   "published": "Thu, 24 Sep 2026 20:34:13 GMT",
-   "read": "escalation"
-  },
-  {
    "topic": "Iran / Hormuz",
    "title": "US-Iran Discuss Phased Deal To Reopen Strait Of Hormuz, Says Report \u2014 USO, UCO In Focus - finance.yahoo.com",
    "source": "finance.yahoo.com",
    "published": "Thu, 24 Sep 2026 19:36:58 GMT",
    "read": "de-escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran awaiting response from Trump on proposal to open strait of Hormuz in six days - The Guardian",
-   "source": "The Guardian",
-   "published": "Thu, 24 Sep 2026 19:13:00 GMT",
-   "read": "unclear"
   }
  ],
  "ratings": [
