@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-25T22:30:04+00:00",
+ "generated_utc": "2026-09-25T22:35:04+00:00",
  "date_et": "2026-09-25",
  "build": "0d463cfe05",
  "tape": [
@@ -379,9 +379,9 @@
     "pct": -5.11
    }
   ],
-  "as_of": "2026-09-25T22:27:05.997189+00:00",
+  "as_of": "2026-09-25T22:33:05.602646+00:00",
   "tone": "risk-on",
-  "age_min": 2.9723618666666667
+  "age_min": 1.9771530833333335
  },
  "stories": [
   {
@@ -399,6 +399,20 @@
    "read": "de-escalation"
   },
   {
+   "topic": "Iran / Hormuz",
+   "title": "Iran says Strait of Hormuz can reopen within 7 days if US accepts plan - Anadolu Ajans\u0131",
+   "source": "Anadolu Ajans\u0131",
+   "published": "Fri, 25 Sep 2026 22:22:06 GMT",
+   "read": "de-escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iran pitches 7-day plan to restart US talks, reopen Strait of Hormuz - The Hill",
+   "source": "The Hill",
+   "published": "Fri, 25 Sep 2026 22:16:00 GMT",
+   "read": "de-escalation"
+  },
+  {
    "topic": "Russia / Ukraine",
    "title": "The Meaning of Vladimir Putin\u2019s New War Duma - The National Interest",
    "source": "The National Interest",
@@ -411,20 +425,6 @@
    "source": "South China Morning Post",
    "published": "Fri, 25 Sep 2026 21:03:29 GMT",
    "read": "de-escalation"
-  },
-  {
-   "topic": "Saudi / Gulf supply",
-   "title": "A volatile week for crude ends with lower prices - Oil &amp; Gas Journal",
-   "source": "Oil &amp; Gas Journal",
-   "published": "Fri, 25 Sep 2026 20:41:20 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Putin says all Ukraine peace proposals on table, but Russia must weigh its interests - wtvbam.com",
-   "source": "wtvbam.com",
-   "published": "Fri, 25 Sep 2026 20:34:33 GMT",
-   "read": "unclear"
   }
  ],
  "ratings": [
