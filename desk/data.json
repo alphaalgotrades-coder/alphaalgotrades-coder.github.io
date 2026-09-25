@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-25T22:50:03+00:00",
+ "generated_utc": "2026-09-25T22:55:03+00:00",
  "date_et": "2026-09-25",
  "build": "0d463cfe05",
  "tape": [
@@ -379,9 +379,9 @@
     "pct": -5.11
    }
   ],
-  "as_of": "2026-09-25T22:48:05.593679+00:00",
+  "as_of": "2026-09-25T22:54:05.696027+00:00",
   "tone": "risk-on",
-  "age_min": 1.9698263
+  "age_min": 0.9712661833333333
  },
  "stories": [
   {
@@ -400,6 +400,20 @@
   },
   {
    "topic": "Iran / Hormuz",
+   "title": "Iran pitches 7-day plan to US to reopen strait - The Hill",
+   "source": "The Hill",
+   "published": "Fri, 25 Sep 2026 22:46:00 GMT",
+   "read": "de-escalation"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Exclusive | Putin plots payback for Ukraine energy attacks, tells US: \u2018Now it\u2019s our turn\u2019 - New York Post",
+   "source": "New York Post",
+   "published": "Fri, 25 Sep 2026 22:35:00 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
    "title": "Iran says Strait of Hormuz can reopen within 7 days if US accepts plan - Anadolu Ajans\u0131",
    "source": "Anadolu Ajans\u0131",
    "published": "Fri, 25 Sep 2026 22:22:06 GMT",
@@ -410,20 +424,6 @@
    "title": "Iran pitches 7-day plan to restart US talks, reopen Strait of Hormuz - The Hill",
    "source": "The Hill",
    "published": "Fri, 25 Sep 2026 22:16:00 GMT",
-   "read": "de-escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "The Meaning of Vladimir Putin\u2019s New War Duma - The National Interest",
-   "source": "The National Interest",
-   "published": "Fri, 25 Sep 2026 21:20:27 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran offers US plan to reopen Hormuz within 7 days - South China Morning Post",
-   "source": "South China Morning Post",
-   "published": "Fri, 25 Sep 2026 21:03:29 GMT",
    "read": "de-escalation"
   }
  ],
