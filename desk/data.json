@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-25T02:05:04+00:00",
+ "generated_utc": "2026-09-25T02:10:03+00:00",
  "date_et": "2026-09-24",
  "build": "0d463cfe05",
  "tape": [
@@ -462,19 +462,19 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 93.28,
-    "pct": -1.41
+    "price": 93.23,
+    "pct": -1.46
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4322.6,
-    "pct": 0.57
+    "price": 4324.3,
+    "pct": 0.61
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.269,
+    "price": 101.261,
     "pct": -0.02
    },
    {
@@ -496,9 +496,9 @@
     "pct": 3.23
    }
   ],
-  "as_of": "2026-09-25T02:03:15.020236+00:00",
+  "as_of": "2026-09-25T02:09:05.951384+00:00",
   "tone": "mixed",
-  "age_min": 1.8241618833333333
+  "age_min": 0.96687065
  },
  "stories": [
   {
