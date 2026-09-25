@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-25T09:30:04+00:00",
+ "generated_utc": "2026-09-25T09:35:03+00:00",
  "date_et": "2026-09-25",
  "build": "0d463cfe05",
  "tape": [
@@ -345,20 +345,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 92.69,
-    "pct": -2.03
+    "price": 92.81,
+    "pct": -1.9
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4328.5,
-    "pct": 0.71
+    "price": 4331.9,
+    "pct": 0.79
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.105,
-    "pct": -0.18
+    "price": 101.074,
+    "pct": -0.21
    },
    {
     "sym": "SPY",
@@ -375,13 +375,13 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 15.31,
-    "pct": -2.3
+    "price": 15.33,
+    "pct": -2.17
    }
   ],
-  "as_of": "2026-09-25T09:27:05.093866+00:00",
+  "as_of": "2026-09-25T09:33:05.107246+00:00",
   "tone": "mixed",
-  "age_min": 2.98911405
+  "age_min": 1.978517
  },
  "stories": [
   {
@@ -389,13 +389,6 @@
    "title": "Rubio says delay in arms sales to Taiwan based on U.S. weapons-building concerns - Washington Times",
    "source": "Washington Times",
    "published": "Thu, 24 Sep 2026 20:29:00 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran awaiting response from Trump on proposal to open strait of Hormuz in six days - theguardian.com",
-   "source": "theguardian.com",
-   "published": "Thu, 24 Sep 2026 19:13:00 GMT",
    "read": "unclear"
   },
   {
@@ -424,6 +417,13 @@
    "title": "The US needs a new Taiwan policy beyond strategic ambiguity - asia.nikkei.com",
    "source": "asia.nikkei.com",
    "published": "Fri, 25 Sep 2026 08:05:00 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Saudi Arabia, UAE urge Trump to maintain pressure on Iran - WSJ - Iran International",
+   "source": "Iran International",
+   "published": "Fri, 25 Sep 2026 07:54:24 GMT",
    "read": "unclear"
   }
  ],
