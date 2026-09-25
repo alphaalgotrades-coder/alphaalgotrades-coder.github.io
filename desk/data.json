@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-25T00:10:03+00:00",
+ "generated_utc": "2026-09-25T00:15:04+00:00",
  "date_et": "2026-09-24",
  "build": "0d463cfe05",
  "tape": [
@@ -462,20 +462,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 94.01,
-    "pct": -0.63
+    "price": 93.86,
+    "pct": -0.79
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4300.6,
-    "pct": 0.06
+    "price": 4303.7,
+    "pct": 0.13
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.295,
-    "pct": 0.01
+    "price": 101.284,
+    "pct": -0.0
    },
    {
     "sym": "SPY",
@@ -496,11 +496,18 @@
     "pct": 3.23
    }
   ],
-  "as_of": "2026-09-25T00:09:05.843645+00:00",
+  "as_of": "2026-09-25T00:12:05.790427+00:00",
   "tone": "mixed",
-  "age_min": 0.9619161500000001
+  "age_min": 2.98472115
  },
  "stories": [
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iran says it has given Trump administration new proposal for peace talks - The Washington Post",
+   "source": "The Washington Post",
+   "published": "Thu, 24 Sep 2026 22:51:24 GMT",
+   "read": "de-escalation"
+  },
   {
    "topic": "Saudi / Gulf supply",
    "title": "Crude Oil Futures Jump About 3% as Houthi Attacks on Saudi Arabia Reignite Supply Concerns - finance.biggo.com",
@@ -535,13 +542,6 @@
    "source": "The Guardian",
    "published": "Thu, 24 Sep 2026 19:13:00 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Taiwan / China",
-   "title": "At Trump meeting, Xi Jinping lays out terms to avoid US-China military conflict - The Guardian",
-   "source": "The Guardian",
-   "published": "Thu, 24 Sep 2026 18:39:56 GMT",
-   "read": "de-escalation"
   }
  ],
  "ratings": [
