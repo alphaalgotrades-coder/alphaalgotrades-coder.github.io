@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-25T23:10:03+00:00",
+ "generated_utc": "2026-09-25T23:15:04+00:00",
  "date_et": "2026-09-25",
  "build": "0d463cfe05",
  "tape": [
@@ -379,23 +379,30 @@
     "pct": -5.11
    }
   ],
-  "as_of": "2026-09-25T23:09:06.073845+00:00",
+  "as_of": "2026-09-25T23:12:05.870397+00:00",
   "tone": "risk-on",
-  "age_min": 0.9671046166666667
+  "age_min": 2.9769119833333333
  },
  "stories": [
   {
    "topic": "Taiwan / China",
-   "title": "Taiwan Upgrades Maritime Patrol Capacity for Vulnerable South China Sea Outpost - gcaptain.com",
-   "source": "gcaptain.com",
-   "published": "Thu, 24 Sep 2026 12:00:18 GMT",
-   "read": "escalation"
+   "title": "On Taiwan, US \u2018Strategic Ambiguity\u2019 Is Not Dead Yet - thediplomat.com",
+   "source": "thediplomat.com",
+   "published": "Wed, 23 Sep 2026 14:22:58 GMT",
+   "read": "unclear"
   },
   {
    "topic": "Saudi / Gulf supply",
    "title": "Saudi Gulf Oil Exports Pick Up After Pipeline Attack - Marine Link",
    "source": "Marine Link",
    "published": "Mon, 21 Sep 2026 19:36:39 GMT",
+   "read": "de-escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iran\u2019s new proposal to re-open Strait of Hormuz - NBC News",
+   "source": "NBC News",
+   "published": "Fri, 25 Sep 2026 23:00:41 GMT",
    "read": "de-escalation"
   },
   {
@@ -417,13 +424,6 @@
    "title": "Iran says Strait of Hormuz can reopen within 7 days if US accepts plan - Anadolu Ajans\u0131",
    "source": "Anadolu Ajans\u0131",
    "published": "Fri, 25 Sep 2026 22:22:06 GMT",
-   "read": "de-escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran pitches 7-day plan to restart US talks, reopen Strait of Hormuz - The Hill",
-   "source": "The Hill",
-   "published": "Fri, 25 Sep 2026 22:16:00 GMT",
    "read": "de-escalation"
   }
  ],
