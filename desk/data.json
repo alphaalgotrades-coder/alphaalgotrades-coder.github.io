@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-25T21:30:05+00:00",
+ "generated_utc": "2026-09-25T21:35:04+00:00",
  "date_et": "2026-09-25",
  "build": "0d463cfe05",
  "tape": [
@@ -379,9 +379,9 @@
     "pct": -5.11
    }
   ],
-  "as_of": "2026-09-25T21:27:05.415078+00:00",
+  "as_of": "2026-09-25T21:33:05.298586+00:00",
   "tone": "risk-on",
-  "age_min": 2.9956317166666664
+  "age_min": 1.9805427333333334
  },
  "stories": [
   {
@@ -397,6 +397,13 @@
    "source": "Marine Link",
    "published": "Mon, 21 Sep 2026 19:36:39 GMT",
    "read": "de-escalation"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "The Meaning of Vladimir Putin\u2019s New War Duma - The National Interest",
+   "source": "The National Interest",
+   "published": "Fri, 25 Sep 2026 21:20:27 GMT",
+   "read": "unclear"
   },
   {
    "topic": "Iran / Hormuz",
@@ -418,13 +425,6 @@
    "source": "wtvbam.com",
    "published": "Fri, 25 Sep 2026 20:34:33 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Russia \u2018not preparing for any military action\u2019 with Europe: Putin - turkiyetoday.com",
-   "source": "turkiyetoday.com",
-   "published": "Fri, 25 Sep 2026 19:44:00 GMT",
-   "read": "de-escalation"
   }
  ],
  "ratings": [
