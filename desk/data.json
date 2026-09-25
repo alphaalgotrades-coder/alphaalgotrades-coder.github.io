@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-25T08:10:03+00:00",
+ "generated_utc": "2026-09-25T08:15:03+00:00",
  "date_et": "2026-09-25",
  "build": "0d463cfe05",
  "tape": [
@@ -28,7 +28,7 @@
    "title": "M3 Money Supply y/y",
    "cons": "3.5%",
    "prev": "3.4%",
-   "actual": ""
+   "actual": "3.5%"
   },
   {
    "time": "04:00",
@@ -37,7 +37,7 @@
    "title": "Private Loans y/y",
    "cons": "3.2%",
    "prev": "3.1%",
-   "actual": ""
+   "actual": "3.1%"
   },
   {
    "time": "05:15",
@@ -345,20 +345,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 93.58,
-    "pct": -1.09
+    "price": 93.56,
+    "pct": -1.11
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4314.8,
-    "pct": 0.39
+    "price": 4313.8,
+    "pct": 0.37
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.127,
-    "pct": -0.16
+    "price": 101.145,
+    "pct": -0.14
    },
    {
     "sym": "SPY",
@@ -379,9 +379,9 @@
     "pct": -0.51
    }
   ],
-  "as_of": "2026-09-25T08:09:05.549998+00:00",
+  "as_of": "2026-09-25T08:12:05.219165+00:00",
   "tone": "mixed",
-  "age_min": 0.9714249666666667
+  "age_min": 2.9799748166666666
  },
  "stories": [
   {
@@ -414,9 +414,9 @@
   },
   {
    "topic": "Taiwan / China",
-   "title": "Exclusive: The Admiral Who Must Prevent War With China - time.com",
-   "source": "time.com",
-   "published": "Thu, 24 Sep 2026 12:00:04 GMT",
+   "title": "The US needs a new Taiwan policy beyond strategic ambiguity - Nikkei Asia",
+   "source": "Nikkei Asia",
+   "published": "Fri, 25 Sep 2026 08:05:00 GMT",
    "read": "unclear"
   },
   {
