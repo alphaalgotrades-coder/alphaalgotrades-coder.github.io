@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-25T09:10:03+00:00",
+ "generated_utc": "2026-09-25T09:15:04+00:00",
  "date_et": "2026-09-25",
  "build": "0d463cfe05",
  "tape": [
@@ -351,13 +351,13 @@
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4329.8,
-    "pct": 0.74
+    "price": 4330.5,
+    "pct": 0.76
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.11,
+    "price": 101.115,
     "pct": -0.17
    },
    {
@@ -375,13 +375,13 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 15.37,
-    "pct": -1.91
+    "price": 15.34,
+    "pct": -2.11
    }
   ],
-  "as_of": "2026-09-25T09:09:05.321397+00:00",
+  "as_of": "2026-09-25T09:12:04.920036+00:00",
   "tone": "mixed",
-  "age_min": 0.9766657999999999
+  "age_min": 2.9910856166666666
  },
  "stories": [
   {
