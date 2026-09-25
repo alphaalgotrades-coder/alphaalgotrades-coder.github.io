@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-25T04:30:03+00:00",
+ "generated_utc": "2026-09-25T04:35:04+00:00",
  "date_et": "2026-09-25",
  "build": "0d463cfe05",
  "tape": [
@@ -345,19 +345,19 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 93.14,
-    "pct": -1.55
+    "price": 93.11,
+    "pct": -1.59
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4303.2,
-    "pct": 0.12
+    "price": 4304.5,
+    "pct": 0.15
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.274,
+    "price": 101.279,
     "pct": -0.01
    },
    {
@@ -379,9 +379,9 @@
     "pct": 3.23
    }
   ],
-  "as_of": "2026-09-25T04:27:05.307171+00:00",
+  "as_of": "2026-09-25T04:33:05.492662+00:00",
   "tone": "mixed",
-  "age_min": 2.977871583333333
+  "age_min": 1.9773935999999999
  },
  "stories": [
   {
@@ -390,6 +390,13 @@
    "source": "finance.biggo.com",
    "published": "Thu, 24 Sep 2026 22:05:00 GMT",
    "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iran proposed new seven-day plan to reopen Strait of Hormuz to U.S. this week: MS NOW - CNBC",
+   "source": "CNBC",
+   "published": "Thu, 24 Sep 2026 21:57:00 GMT",
+   "read": "de-escalation"
   },
   {
    "topic": "Russia / Ukraine",
@@ -418,13 +425,6 @@
    "source": "Institute for the Study of War",
    "published": "Thu, 24 Sep 2026 17:19:15 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Saudi / Gulf supply",
-   "title": "Brent Climbs Above $107 After Houthi Attack Against Saudi Arabia Sites - wsj.com",
-   "source": "wsj.com",
-   "published": "Thu, 24 Sep 2026 16:50:00 GMT",
-   "read": "escalation"
   }
  ],
  "ratings": [
