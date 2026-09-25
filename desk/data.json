@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-25T05:50:03+00:00",
+ "generated_utc": "2026-09-25T05:55:03+00:00",
  "date_et": "2026-09-25",
  "build": "0d463cfe05",
  "tape": [
@@ -345,14 +345,14 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 92.74,
-    "pct": -1.98
+    "price": 92.65,
+    "pct": -2.07
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4302.7,
-    "pct": 0.11
+    "price": 4307.8,
+    "pct": 0.23
    },
    {
     "sym": "DXY",
@@ -379,9 +379,9 @@
     "pct": 3.23
    }
   ],
-  "as_of": "2026-09-25T05:48:05.013286+00:00",
+  "as_of": "2026-09-25T05:54:05.529810+00:00",
   "tone": "mixed",
-  "age_min": 1.9773682000000001
+  "age_min": 0.9755580166666667
  },
  "stories": [
   {
@@ -421,10 +421,10 @@
   },
   {
    "topic": "Saudi / Gulf supply",
-   "title": "Brent Climbs Above $107 After Houthi Attack Against Saudi Arabia Sites - wsj.com",
-   "source": "wsj.com",
-   "published": "Thu, 24 Sep 2026 16:50:00 GMT",
-   "read": "escalation"
+   "title": "Saudi East-West Pipeline building up volumes, loading yet to resume, sources say - reuters.com",
+   "source": "reuters.com",
+   "published": "Thu, 24 Sep 2026 14:53:00 GMT",
+   "read": "unclear"
   }
  ],
  "ratings": [
