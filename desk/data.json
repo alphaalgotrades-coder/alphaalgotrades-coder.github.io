@@ -1,55 +1,55 @@
 {
- "generated_utc": "2026-09-25T03:55:03+00:00",
- "date_et": "2026-09-24",
+ "generated_utc": "2026-09-25T04:00:04+00:00",
+ "date_et": "2026-09-25",
  "build": "0d463cfe05",
  "tape": [
   {
-   "time": "03:30",
-   "ccy": "CHF",
-   "impact": "High",
-   "title": "SNB Monetary Policy Assessment",
-   "cons": "",
-   "prev": "",
+   "time": "01:00",
+   "ccy": "JPY",
+   "impact": "Low",
+   "title": "BOJ Core CPI y/y",
+   "cons": "1.5%",
+   "prev": "1.6%",
    "actual": ""
   },
   {
-   "time": "03:30",
-   "ccy": "CHF",
-   "impact": "High",
-   "title": "SNB Policy Rate",
-   "cons": "0.00%",
-   "prev": "0.00%",
-   "actual": "0.00%"
-  },
-  {
-   "time": "04:00",
-   "ccy": "CHF",
-   "impact": "High",
-   "title": "SNB Press Conference",
-   "cons": "",
-   "prev": "",
+   "time": "02:00",
+   "ccy": "EUR",
+   "impact": "Low",
+   "title": "German GfK Consumer Climate",
+   "cons": "-27.1",
+   "prev": "-26.6",
    "actual": ""
   },
   {
    "time": "04:00",
    "ccy": "EUR",
    "impact": "Low",
-   "title": "ECB Economic Bulletin",
-   "cons": "",
-   "prev": "",
+   "title": "M3 Money Supply y/y",
+   "cons": "3.5%",
+   "prev": "3.4%",
    "actual": ""
   },
   {
    "time": "04:00",
    "ccy": "EUR",
    "impact": "Low",
-   "title": "German ifo Business Climate",
-   "cons": "89.1",
-   "prev": "88.8",
-   "actual": "89.9"
+   "title": "Private Loans y/y",
+   "cons": "3.2%",
+   "prev": "3.1%",
+   "actual": ""
   },
   {
-   "time": "04:10",
+   "time": "05:15",
+   "ccy": "GBP",
+   "impact": "High",
+   "title": "BOE Gov Bailey Speaks",
+   "cons": "",
+   "prev": "",
+   "actual": ""
+  },
+  {
+   "time": "05:15",
    "ccy": "USD",
    "impact": "Low",
    "title": "FOMC Member Williams Speaks",
@@ -58,172 +58,55 @@
    "actual": ""
   },
   {
-   "time": "05:30",
-   "ccy": "GBP",
+   "time": "08:30",
+   "ccy": "USD",
    "impact": "Low",
-   "title": "MPC Member Dhingra Speaks",
+   "title": "Core Durable Goods Orders m/m",
+   "cons": "0.6%",
+   "prev": "0.4%",
+   "actual": ""
+  },
+  {
+   "time": "08:30",
+   "ccy": "USD",
+   "impact": "Low",
+   "title": "Durable Goods Orders m/m",
+   "cons": "-0.3%",
+   "prev": "1.1%",
+   "actual": ""
+  },
+  {
+   "time": "09:20",
+   "ccy": "USD",
+   "impact": "Low",
+   "title": "FOMC Member Schmid Speaks",
    "cons": "",
    "prev": "",
    "actual": ""
   },
   {
-   "time": "06:00",
-   "ccy": "GBP",
-   "impact": "Low",
-   "title": "CBI Realized Sales",
-   "cons": "-42",
-   "prev": "-48",
-   "actual": "-55"
-  },
-  {
-   "time": "08:30",
-   "ccy": "CAD",
+   "time": "10:00",
+   "ccy": "USD",
    "impact": "Medi",
-   "title": "Core Retail Sales m/m",
-   "cons": "-0.5%",
-   "prev": "0.5%",
-   "actual": "-0.7%"
-  },
-  {
-   "time": "08:30",
-   "ccy": "CAD",
-   "impact": "Medi",
-   "title": "Retail Sales m/m",
-   "cons": "-0.8%",
-   "prev": "0.6%",
-   "actual": "-0.7%"
-  },
-  {
-   "time": "08:30",
-   "ccy": "USD",
-   "impact": "High",
-   "title": "Unemployment Claims",
-   "cons": "201K",
-   "prev": "196K",
-   "actual": "197K"
-  },
-  {
-   "time": "08:30",
-   "ccy": "USD",
-   "impact": "Low",
-   "title": "Current Account",
-   "cons": "-258B",
-   "prev": "-227B",
-   "actual": "-246B"
-  },
-  {
-   "time": "08:30",
-   "ccy": "USD",
-   "impact": "Low",
-   "title": "FOMC Member Barkin Speaks",
-   "cons": "",
-   "prev": "",
+   "title": "Revised UoM Consumer Sentiment",
+   "cons": "47.4",
+   "prev": "47.8",
    "actual": ""
   },
   {
-   "time": "08:50",
+   "time": "10:00",
+   "ccy": "USD",
+   "impact": "Medi",
+   "title": "Revised UoM Inflation Expectations",
+   "cons": "",
+   "prev": "4.6%",
+   "actual": ""
+  },
+  {
+   "time": "14:00",
    "ccy": "USD",
    "impact": "Low",
    "title": "FOMC Member Hammack Speaks",
-   "cons": "",
-   "prev": "",
-   "actual": ""
-  },
-  {
-   "time": "09:00",
-   "ccy": "CNY",
-   "impact": "Low",
-   "title": "CB Leading Index m/m",
-   "cons": "",
-   "prev": "-0.3%",
-   "actual": "-0.2%"
-  },
-  {
-   "time": "09:00",
-   "ccy": "EUR",
-   "impact": "Low",
-   "title": "Belgian NBB Business Climate",
-   "cons": "-13.5",
-   "prev": "-13.2",
-   "actual": "-12.1"
-  },
-  {
-   "time": "09:30",
-   "ccy": "GBP",
-   "impact": "Low",
-   "title": "MPC Member Breeden Speaks",
-   "cons": "",
-   "prev": "",
-   "actual": ""
-  },
-  {
-   "time": "10:00",
-   "ccy": "GBP",
-   "impact": "Low",
-   "title": "MPC Member Lombardelli Speaks",
-   "cons": "",
-   "prev": "",
-   "actual": ""
-  },
-  {
-   "time": "10:00",
-   "ccy": "USD",
-   "impact": "Low",
-   "title": "New Home Sales",
-   "cons": "615K",
-   "prev": "607K",
-   "actual": "684K"
-  },
-  {
-   "time": "10:10",
-   "ccy": "USD",
-   "impact": "Low",
-   "title": "FOMC Member Paulson Speaks",
-   "cons": "",
-   "prev": "",
-   "actual": ""
-  },
-  {
-   "time": "10:15",
-   "ccy": "USD",
-   "impact": "Medi",
-   "title": "President Trump Speaks",
-   "cons": "",
-   "prev": "",
-   "actual": ""
-  },
-  {
-   "time": "10:30",
-   "ccy": "USD",
-   "impact": "Low",
-   "title": "Natural Gas Storage",
-   "cons": "50B",
-   "prev": "44B",
-   "actual": "53B"
-  },
-  {
-   "time": "19:01",
-   "ccy": "GBP",
-   "impact": "Low",
-   "title": "GfK Consumer Confidence",
-   "cons": "-16",
-   "prev": "-14",
-   "actual": "-13"
-  },
-  {
-   "time": "19:01",
-   "ccy": "CNY",
-   "impact": "Holi",
-   "title": "Bank Holiday",
-   "cons": "",
-   "prev": "",
-   "actual": ""
-  },
-  {
-   "time": "19:55",
-   "ccy": "USD",
-   "impact": "Medi",
-   "title": "President Trump Speaks",
    "cons": "",
    "prev": "",
    "actual": ""
@@ -468,13 +351,13 @@
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4310.5,
-    "pct": 0.29
+    "price": 4307.2,
+    "pct": 0.21
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.283,
+    "price": 101.281,
     "pct": -0.0
    },
    {
@@ -496,9 +379,9 @@
     "pct": 3.23
    }
   ],
-  "as_of": "2026-09-25T03:54:05.204908+00:00",
+  "as_of": "2026-09-25T03:57:05.747305+00:00",
   "tone": "mixed",
-  "age_min": 0.9814238333333333
+  "age_min": 2.9733560833333335
  },
  "stories": [
   {
