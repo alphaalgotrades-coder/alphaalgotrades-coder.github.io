@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-25T10:30:04+00:00",
+ "generated_utc": "2026-09-25T10:35:03+00:00",
  "date_et": "2026-09-25",
  "build": "0d463cfe05",
  "tape": [
@@ -121,7 +121,7 @@
     "lean": "flat",
     "source": "YAHOO_TSY_FUT_ZT",
     "latency": "after-hours-futures-proxy",
-    "snapshot_ts": "2026-09-25T10:16:00+00:00",
+    "snapshot_ts": "2026-09-25T10:21:00+00:00",
     "snapshot_date": "2026-09-25",
     "prior_day": "2026-09-23",
     "prior_day_close": 4.85,
@@ -137,26 +137,25 @@
      4.854,
      4.854,
      4.852,
-     4.854,
      4.852,
      4.846,
-     4.848,
      4.846,
-     4.848,
-     4.848,
      4.844,
-     4.852,
-     4.854,
-     4.854,
-     4.856,
-     4.854,
-     4.852,
-     4.852,
      4.846,
-     4.842,
+     4.846,
+     4.846,
+     4.848,
+     4.852,
+     4.854,
+     4.854,
+     4.854,
+     4.854,
+     4.852,
+     4.85,
+     4.848,
+     4.84,
      4.84,
      4.838,
-     4.842,
      4.844,
      4.842,
      4.848,
@@ -165,7 +164,8 @@
      4.848,
      4.85,
      4.846,
-     4.848
+     4.848,
+     4.85
     ]
    },
    {
@@ -175,7 +175,7 @@
     "lean": "flat",
     "source": "YAHOO_TSY_FUT_ZF",
     "latency": "after-hours-futures-proxy",
-    "snapshot_ts": "2026-09-25T10:16:00+00:00",
+    "snapshot_ts": "2026-09-25T10:21:00+00:00",
     "snapshot_date": "2026-09-25",
     "prior_day": "2026-09-23",
     "prior_day_close": 4.997,
@@ -190,27 +190,26 @@
      5.011,
      5.008,
      5.002,
-     5.002,
      5.004,
-     5.004,
-     4.997,
-     4.995,
-     4.995,
-     4.997,
-     4.997,
-     4.997,
-     4.997,
+     5.006,
      5.002,
-     5.002,
-     5.002,
-     5.002,
-     5.004,
-     5.004,
+     4.997,
+     4.997,
+     4.999,
      4.999,
      4.997,
+     4.995,
+     5.004,
+     5.004,
+     5.004,
+     5.004,
+     5.004,
+     5.002,
+     5.001,
+     4.993,
+     4.992,
      4.99,
-     4.99,
-     4.986,
+     4.988,
      4.997,
      4.997,
      5.001,
@@ -219,7 +218,8 @@
      5.004,
      5.004,
      5.002,
-     5.004
+     5.004,
+     5.006
     ]
    },
    {
@@ -229,7 +229,7 @@
     "lean": "flat",
     "source": "YAHOO_TSY_FUT_ZN",
     "latency": "after-hours-futures-proxy",
-    "snapshot_ts": "2026-09-25T10:18:00+00:00",
+    "snapshot_ts": "2026-09-25T10:21:00+00:00",
     "snapshot_date": "2026-09-25",
     "prior_day": "2026-09-23",
     "prior_day_close": 5.114,
@@ -248,20 +248,19 @@
      5.123,
      5.121,
      5.114,
-     5.112,
-     5.112,
+     5.114,
+     5.114,
      5.114,
      5.114,
      5.112,
-     5.114,
-     5.119,
      5.121,
      5.119,
-     5.119,
+     5.116,
      5.119,
      5.116,
-     5.116,
-     5.109,
+     5.119,
+     5.119,
+     5.112,
      5.109,
      5.107,
      5.103,
@@ -273,7 +272,8 @@
      5.123,
      5.121,
      5.121,
-     5.121
+     5.121,
+     5.123
     ]
    },
    {
@@ -283,7 +283,7 @@
     "lean": "hawkish",
     "source": "YAHOO_TSY_FUT_ZB",
     "latency": "after-hours-futures-proxy",
-    "snapshot_ts": "2026-09-25T10:18:00+00:00",
+    "snapshot_ts": "2026-09-25T10:22:00+00:00",
     "snapshot_date": "2026-09-25",
     "prior_day": "2026-09-23",
     "prior_day_close": 5.401,
@@ -298,26 +298,25 @@
      5.416,
      5.414,
      5.41,
+     5.412,
+     5.412,
      5.41,
-     5.412,
-     5.412,
-     5.407,
-     5.405,
      5.405,
      5.405,
      5.403,
-     5.405,
-     5.407,
-     5.408,
-     5.407,
-     5.407,
-     5.408,
-     5.408,
-     5.408,
-     5.405,
      5.403,
-     5.399,
+     5.407,
+     5.405,
+     5.408,
+     5.408,
+     5.408,
+     5.407,
+     5.41,
+     5.408,
+     5.407,
+     5.403,
      5.401,
+     5.399,
      5.399,
      5.407,
      5.407,
@@ -327,11 +326,12 @@
      5.412,
      5.41,
      5.41,
-     5.41
+     5.41,
+     5.412
     ]
    }
   ],
-  "as_of": "2026-09-25T10:16:00+00:00",
+  "as_of": "2026-09-25T10:21:00+00:00",
   "note": "after-hours-futures-proxy"
  },
  "strip": {
@@ -345,20 +345,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 92.72,
-    "pct": -2.0
+    "price": 92.96,
+    "pct": -1.74
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4339.9,
-    "pct": 0.97
+    "price": 4343.6,
+    "pct": 1.06
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.032,
-    "pct": -0.25
+    "price": 101.043,
+    "pct": -0.24
    },
    {
     "sym": "SPY",
@@ -375,13 +375,13 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 15.36,
-    "pct": -1.98
+    "price": 15.32,
+    "pct": -2.23
    }
   ],
-  "as_of": "2026-09-25T10:27:05.133248+00:00",
+  "as_of": "2026-09-25T10:33:05.133266+00:00",
   "tone": "mixed",
-  "age_min": 2.9915029333333334
+  "age_min": 1.98213565
  },
  "stories": [
   {
@@ -407,6 +407,13 @@
   },
   {
    "topic": "Iran / Hormuz",
+   "title": "Iran\u2019s Seven-Day Plan to Reopen the Strait of Hormuz - IranWire",
+   "source": "IranWire",
+   "published": "Fri, 25 Sep 2026 10:05:35 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
    "title": "Iran pitches seven-day roadmap to end conflict with US - Al Jazeera",
    "source": "Al Jazeera",
    "published": "Fri, 25 Sep 2026 09:54:57 GMT",
@@ -417,13 +424,6 @@
    "title": "Kremlin hails election of Ukraine war veterans to Russian parliament - Reuters",
    "source": "Reuters",
    "published": "Fri, 25 Sep 2026 09:39:44 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Full results from Russia\u2019s parliamentary election confirm Kremlin\u2019s dominance - AP News",
-   "source": "AP News",
-   "published": "Fri, 25 Sep 2026 09:19:00 GMT",
    "read": "unclear"
   }
  ],
@@ -546,29 +546,29 @@
    {
     "code": "FR",
     "name": "France",
-    "level": 4.6873,
+    "level": 4.6862,
     "as_of": "2026-09-25",
-    "spread_bp": 108.5,
-    "d_day_bps": 0.2
+    "spread_bp": 108.3,
+    "d_day_bps": 0.1
    },
    {
     "code": "DE",
     "name": "Germany",
-    "level": 3.6022,
+    "level": 3.6035,
     "as_of": "2026-09-25",
     "spread_bp": null,
-    "d_day_bps": 0.2
+    "d_day_bps": 0.3
    },
    {
     "code": "IT",
     "name": "Italy",
-    "level": 4.5375,
+    "level": 4.5384,
     "as_of": "2026-09-25",
     "spread_bp": 93.5,
-    "d_day_bps": 3.0
+    "d_day_bps": 3.1
    }
   ],
-  "bund": 3.6022,
+  "bund": 3.6035,
   "note": "10-year government bonds; spread measured over Germany"
  },
  "auctions": {
