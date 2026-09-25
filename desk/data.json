@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-25T01:10:03+00:00",
+ "generated_utc": "2026-09-25T01:15:03+00:00",
  "date_et": "2026-09-24",
  "build": "0d463cfe05",
  "tape": [
@@ -462,19 +462,19 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 93.57,
-    "pct": -1.1
+    "price": 93.67,
+    "pct": -0.99
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4315.0,
-    "pct": 0.4
+    "price": 4317.6,
+    "pct": 0.46
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.261,
+    "price": 101.26,
     "pct": -0.02
    },
    {
@@ -496,9 +496,9 @@
     "pct": 3.23
    }
   ],
-  "as_of": "2026-09-25T01:09:05.804377+00:00",
+  "as_of": "2026-09-25T01:12:05.592499+00:00",
   "tone": "mixed",
-  "age_min": 0.9695849333333334
+  "age_min": 2.9720288166666666
  },
  "stories": [
   {
@@ -531,17 +531,17 @@
   },
   {
    "topic": "Taiwan / China",
+   "title": "Pentagon probing how shipment of F-35 fighter jet parts was diverted - cbsnews.com",
+   "source": "cbsnews.com",
+   "published": "Thu, 24 Sep 2026 21:30:49 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Taiwan / China",
    "title": "Xi Jinping called on Trump to oppose Taiwan's independence - UA.NEWS",
    "source": "UA.NEWS",
    "published": "Thu, 24 Sep 2026 20:43:14 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "US-Iran Discuss Phased Deal To Reopen Strait Of Hormuz, Says Report \u2014 USO, UCO In Focus - finance.yahoo.com",
-   "source": "finance.yahoo.com",
-   "published": "Thu, 24 Sep 2026 19:36:58 GMT",
-   "read": "de-escalation"
   }
  ],
  "ratings": [
