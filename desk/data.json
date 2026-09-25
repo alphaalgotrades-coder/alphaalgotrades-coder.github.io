@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-24T23:55:03+00:00",
+ "generated_utc": "2026-09-25T00:00:04+00:00",
  "date_et": "2026-09-24",
  "build": "0d463cfe05",
  "tape": [
@@ -215,6 +215,15 @@
    "ccy": "CNY",
    "impact": "Holi",
    "title": "Bank Holiday",
+   "cons": "",
+   "prev": "",
+   "actual": ""
+  },
+  {
+   "time": "19:55",
+   "ccy": "USD",
+   "impact": "Medi",
+   "title": "President Trump Speaks",
    "cons": "",
    "prev": "",
    "actual": ""
@@ -453,20 +462,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 93.97,
-    "pct": -0.68
+    "price": 93.96,
+    "pct": -0.69
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4309.3,
-    "pct": 0.26
+    "price": 4308.5,
+    "pct": 0.24
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.248,
-    "pct": -0.04
+    "price": 101.27,
+    "pct": -0.01
    },
    {
     "sym": "SPY",
@@ -487,9 +496,9 @@
     "pct": 3.23
    }
   ],
-  "as_of": "2026-09-24T23:54:05.713939+00:00",
+  "as_of": "2026-09-24T23:57:06.285206+00:00",
   "tone": "mixed",
-  "age_min": 0.9675195999999999
+  "age_min": 2.9713333333333334
  },
  "stories": [
   {
