@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-25T03:10:03+00:00",
+ "generated_utc": "2026-09-25T03:15:04+00:00",
  "date_et": "2026-09-24",
  "build": "0d463cfe05",
  "tape": [
@@ -456,26 +456,26 @@
    {
     "sym": "MOVE",
     "name": "Bond-market volatility",
-    "price": 104.5805,
-    "pct": 9.56
+    "price": 104.58,
+    "pct": 9.57
    },
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 93.01,
-    "pct": -1.69
+    "price": 92.9,
+    "pct": -1.81
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4318.4,
-    "pct": 0.47
+    "price": 4317.8,
+    "pct": 0.46
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.271,
-    "pct": -0.01
+    "price": 101.28,
+    "pct": -0.0
    },
    {
     "sym": "SPY",
@@ -496,18 +496,11 @@
     "pct": 3.23
    }
   ],
-  "as_of": "2026-09-25T03:09:08.782825+00:00",
+  "as_of": "2026-09-25T03:12:05.188285+00:00",
   "tone": "mixed",
-  "age_min": 0.9115940499999999
+  "age_min": 2.98459885
  },
  "stories": [
-  {
-   "topic": "Iran / Hormuz",
-   "title": "US, Iran explore phased deal to reopen Hormuz - Semafor",
-   "source": "Semafor",
-   "published": "Thu, 24 Sep 2026 22:26:00 GMT",
-   "read": "de-escalation"
-  },
   {
    "topic": "Saudi / Gulf supply",
    "title": "Crude Oil Futures Jump About 3% as Houthi Attacks on Saudi Arabia Reignite Supply Concerns - finance.biggo.com",
@@ -542,6 +535,13 @@
    "source": "tvpworld.com",
    "published": "Thu, 24 Sep 2026 19:55:00 GMT",
    "read": "escalation"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "What a Limited Russian Incursion Into Estonia Might Look Like: A Narva Scenario - Institute for the Study of War",
+   "source": "Institute for the Study of War",
+   "published": "Thu, 24 Sep 2026 17:19:15 GMT",
+   "read": "unclear"
   }
  ],
  "ratings": [
