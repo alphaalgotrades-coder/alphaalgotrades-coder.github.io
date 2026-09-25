@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-25T07:30:03+00:00",
+ "generated_utc": "2026-09-25T07:35:03+00:00",
  "date_et": "2026-09-25",
  "build": "0d463cfe05",
  "tape": [
@@ -345,20 +345,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 93.22,
-    "pct": -1.47
+    "price": 93.53,
+    "pct": -1.14
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4311.0,
-    "pct": 0.3
+    "price": 4310.0,
+    "pct": 0.28
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.17,
-    "pct": -0.11
+    "price": 101.197,
+    "pct": -0.09
    },
    {
     "sym": "SPY",
@@ -375,13 +375,13 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 15.67,
-    "pct": null
+    "price": 15.6,
+    "pct": -0.45
    }
   ],
-  "as_of": "2026-09-25T07:27:05.615932+00:00",
+  "as_of": "2026-09-25T07:33:05.573150+00:00",
   "tone": "mixed",
-  "age_min": 2.9711996833333334
+  "age_min": 1.971709
  },
  "stories": [
   {
@@ -406,13 +406,6 @@
    "read": "unclear"
   },
   {
-   "topic": "Saudi / Gulf supply",
-   "title": "Saudi East-West Pipeline building up volumes, loading yet to resume, sources say - reuters.com",
-   "source": "reuters.com",
-   "published": "Thu, 24 Sep 2026 14:53:00 GMT",
-   "read": "unclear"
-  },
-  {
    "topic": "Taiwan / China",
    "title": "Exclusive: The Admiral Who Must Prevent War With China - time.com",
    "source": "time.com",
@@ -425,6 +418,13 @@
    "source": "ASHARQ AL-AWSAT English",
    "published": "Fri, 25 Sep 2026 06:00:30 GMT",
    "read": "escalation"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Kremlin: EU transfer of Russian asset revenue to Ukraine illegal - chinadailyasia.com",
+   "source": "chinadailyasia.com",
+   "published": "Fri, 25 Sep 2026 05:01:56 GMT",
+   "read": "unclear"
   }
  ],
  "ratings": [
