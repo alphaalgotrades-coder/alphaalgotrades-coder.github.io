@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-25T07:10:03+00:00",
+ "generated_utc": "2026-09-25T07:15:04+00:00",
  "date_et": "2026-09-25",
  "build": "0d463cfe05",
  "tape": [
@@ -345,20 +345,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 93.08,
-    "pct": -1.62
+    "price": 93.1,
+    "pct": -1.6
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4312.1,
-    "pct": 0.33
+    "price": 4313.2,
+    "pct": 0.35
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.137,
-    "pct": -0.15
+    "price": 101.154,
+    "pct": -0.13
    },
    {
     "sym": "SPY",
@@ -376,26 +376,19 @@
     "sym": "VIX",
     "name": "Volatility index",
     "price": 15.67,
-    "pct": null
+    "pct": 3.23
    }
   ],
-  "as_of": "2026-09-25T07:09:05.288228+00:00",
+  "as_of": "2026-09-25T07:12:08.094396+00:00",
   "tone": "mixed",
-  "age_min": 0.9744159166666667
+  "age_min": 2.94020385
  },
  "stories": [
   {
-   "topic": "Saudi / Gulf supply",
-   "title": "Crude Oil Futures Jump About 3% as Houthi Attacks on Saudi Arabia Reignite Supply Concerns - finance.biggo.com",
-   "source": "finance.biggo.com",
-   "published": "Thu, 24 Sep 2026 22:05:00 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Taiwan / China",
-   "title": "Pentagon probing how shipment of F-35 fighter jet parts was diverted - CBS News",
-   "source": "CBS News",
-   "published": "Thu, 24 Sep 2026 21:30:49 GMT",
+   "topic": "Iran / Hormuz",
+   "title": "Iran awaiting response from Trump on proposal to open strait of Hormuz in six days - theguardian.com",
+   "source": "theguardian.com",
+   "published": "Thu, 24 Sep 2026 19:13:00 GMT",
    "read": "unclear"
   },
   {
@@ -425,6 +418,13 @@
    "source": "time.com",
    "published": "Thu, 24 Sep 2026 12:00:04 GMT",
    "read": "unclear"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Moscow \u2018Will Not Pause\u2019 Military Operations in Ukraine, to Review Putin's Participation in G20 Summit - ASHARQ AL-AWSAT English",
+   "source": "ASHARQ AL-AWSAT English",
+   "published": "Fri, 25 Sep 2026 06:00:30 GMT",
+   "read": "escalation"
   }
  ],
  "ratings": [
