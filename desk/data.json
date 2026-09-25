@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-25T06:30:04+00:00",
+ "generated_utc": "2026-09-25T06:35:03+00:00",
  "date_et": "2026-09-25",
  "build": "0d463cfe05",
  "tape": [
@@ -345,20 +345,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 92.56,
-    "pct": -2.17
+    "price": 92.99,
+    "pct": -1.71
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4315.0,
-    "pct": 0.4
+    "price": 4312.5,
+    "pct": 0.34
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.153,
-    "pct": -0.13
+    "price": 101.164,
+    "pct": -0.12
    },
    {
     "sym": "SPY",
@@ -379,9 +379,9 @@
     "pct": 3.23
    }
   ],
-  "as_of": "2026-09-25T06:27:05.635448+00:00",
+  "as_of": "2026-09-25T06:33:05.210474+00:00",
   "tone": "mixed",
-  "age_min": 2.9806417333333335
+  "age_min": 1.9786037166666666
  },
  "stories": [
   {
@@ -390,13 +390,6 @@
    "source": "finance.biggo.com",
    "published": "Thu, 24 Sep 2026 22:05:00 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran proposed new seven-day plan to reopen Strait of Hormuz to U.S. this week: MS NOW - CNBC",
-   "source": "CNBC",
-   "published": "Thu, 24 Sep 2026 21:57:00 GMT",
-   "read": "de-escalation"
   },
   {
    "topic": "Taiwan / China",
@@ -414,16 +407,23 @@
   },
   {
    "topic": "Saudi / Gulf supply",
+   "title": "Aramco CEO Amin Nasser is studying a fourth and fifth crude export route. - energynewsbeat.co",
+   "source": "energynewsbeat.co",
+   "published": "Thu, 24 Sep 2026 15:41:34 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Saudi / Gulf supply",
    "title": "Saudi East-West Pipeline building up volumes, loading yet to resume, sources say - reuters.com",
    "source": "reuters.com",
    "published": "Thu, 24 Sep 2026 14:53:00 GMT",
    "read": "unclear"
   },
   {
-   "topic": "Saudi / Gulf supply",
-   "title": "[Analysis] Beyond Hormuz: Saudi Pipeline Attack Proves No Middle East Crude Artery Is Out of Reach - Pipeline Technology Journal",
-   "source": "Pipeline Technology Journal",
-   "published": "Thu, 24 Sep 2026 14:08:23 GMT",
+   "topic": "Taiwan / China",
+   "title": "Exclusive: The Admiral Who Must Prevent War With China - time.com",
+   "source": "time.com",
+   "published": "Thu, 24 Sep 2026 12:00:04 GMT",
    "read": "unclear"
   }
  ],
