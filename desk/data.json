@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-25T05:10:03+00:00",
+ "generated_utc": "2026-09-25T05:15:04+00:00",
  "date_et": "2026-09-25",
  "build": "0d463cfe05",
  "tape": [
@@ -10,7 +10,7 @@
    "title": "BOJ Core CPI y/y",
    "cons": "1.5%",
    "prev": "1.6%",
-   "actual": ""
+   "actual": "1.8%"
   },
   {
    "time": "02:00",
@@ -345,20 +345,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 93.1,
-    "pct": -1.6
+    "price": 93.05,
+    "pct": -1.65
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4297.1,
-    "pct": -0.02
+    "price": 4296.6,
+    "pct": -0.03
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.281,
-    "pct": -0.0
+    "price": 101.274,
+    "pct": -0.01
    },
    {
     "sym": "SPY",
@@ -379,9 +379,9 @@
     "pct": 3.23
    }
   ],
-  "as_of": "2026-09-25T05:09:04.954085+00:00",
+  "as_of": "2026-09-25T05:12:04.824747+00:00",
   "tone": "mixed",
-  "age_min": 0.9837986
+  "age_min": 2.9919511666666665
  },
  "stories": [
   {
@@ -397,13 +397,6 @@
    "source": "CNBC",
    "published": "Thu, 24 Sep 2026 21:57:00 GMT",
    "read": "de-escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Russia could attack a Nato country within months, Danish intelligence says - The Guardian",
-   "source": "The Guardian",
-   "published": "Thu, 24 Sep 2026 21:42:00 GMT",
-   "read": "escalation"
   },
   {
    "topic": "Taiwan / China",
@@ -425,6 +418,13 @@
    "source": "Institute for the Study of War",
    "published": "Thu, 24 Sep 2026 17:19:15 GMT",
    "read": "unclear"
+  },
+  {
+   "topic": "Saudi / Gulf supply",
+   "title": "Brent Climbs Above $107 After Houthi Attack Against Saudi Arabia Sites - wsj.com",
+   "source": "wsj.com",
+   "published": "Thu, 24 Sep 2026 16:50:00 GMT",
+   "read": "escalation"
   }
  ],
  "ratings": [
