@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-26T01:10:03+00:00",
+ "generated_utc": "2026-09-26T01:15:04+00:00",
  "date_et": "2026-09-25",
  "build": "0d463cfe05",
  "tape": [
@@ -379,9 +379,9 @@
     "pct": -5.11
    }
   ],
-  "as_of": "2026-09-26T01:09:06.082933+00:00",
+  "as_of": "2026-09-26T01:12:05.880964+00:00",
   "tone": "risk-on",
-  "age_min": 0.9609417166666667
+  "age_min": 2.9815570166666663
  },
  "stories": [
   {
@@ -390,6 +390,13 @@
    "source": "thediplomat.com",
    "published": "Wed, 23 Sep 2026 14:22:58 GMT",
    "read": "unclear"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iran Says It Offered the US a New Proposal to Open the Strait of Hormuz - The Maritime Executive",
+   "source": "The Maritime Executive",
+   "published": "Sat, 26 Sep 2026 00:02:47 GMT",
+   "read": "de-escalation"
   },
   {
    "topic": "Saudi / Gulf supply",
@@ -413,17 +420,10 @@
    "read": "de-escalation"
   },
   {
-   "topic": "Iran / Hormuz",
-   "title": "Iran says Strait of Hormuz can reopen within 7 days if US accepts plan - aa.com.tr",
-   "source": "aa.com.tr",
-   "published": "Fri, 25 Sep 2026 22:22:41 GMT",
-   "read": "de-escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran pitches 7-day plan to restart US talks, reopen Strait of Hormuz - thehill.com",
-   "source": "thehill.com",
-   "published": "Fri, 25 Sep 2026 22:16:00 GMT",
+   "topic": "Russia / Ukraine",
+   "title": "Putin says Russia will not attack Europe and blames Ukraine for the breakdown in peace talks - Meduza",
+   "source": "Meduza",
+   "published": "Fri, 25 Sep 2026 22:02:00 GMT",
    "read": "de-escalation"
   }
  ],
