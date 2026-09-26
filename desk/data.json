@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-26T16:30:04+00:00",
+ "generated_utc": "2026-09-26T16:35:03+00:00",
  "date_et": "2026-09-26",
  "build": "0d463cfe05",
  "tape": [
@@ -280,9 +280,9 @@
     "pct": -5.11
    }
   ],
-  "as_of": "2026-09-26T16:27:05.394758+00:00",
+  "as_of": "2026-09-26T16:33:05.448779+00:00",
   "tone": "risk-on",
-  "age_min": 2.986871133333333
+  "age_min": 1.9753559666666667
  },
  "stories": [
   {
@@ -294,10 +294,10 @@
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Iran\u2019s president delivers defiant UN speech, and other Mideast developments - AP News",
-   "source": "AP News",
-   "published": "Thu, 24 Sep 2026 02:10:00 GMT",
-   "read": "unclear"
+   "title": "Trump Rejects Iranian Proposal for Cease-Fire and Opening of Strait - The New York Times",
+   "source": "The New York Times",
+   "published": "Sat, 26 Sep 2026 16:12:21 GMT",
+   "read": "escalation"
   },
   {
    "topic": "Taiwan / China",
@@ -308,9 +308,16 @@
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Trump says he has rejected Iranian proposal to reopen Strait of Hormuz - nbcnews.com",
-   "source": "nbcnews.com",
-   "published": "Sat, 26 Sep 2026 15:37:14 GMT",
+   "title": "Trump rejects Iran's proposal to reopen the Strait of Hormuz - Spectrum News",
+   "source": "Spectrum News",
+   "published": "Sat, 26 Sep 2026 16:04:00 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Trump rejects Iran\u2019s latest proposal to reopen the Strait of Hormuz - WISN",
+   "source": "WISN",
+   "published": "Sat, 26 Sep 2026 15:26:00 GMT",
    "read": "escalation"
   },
   {
@@ -318,13 +325,6 @@
    "title": "Trump rejects Iran\u2019s proposal to reopen the Strait of Hormuz - WABI",
    "source": "WABI",
    "published": "Sat, 26 Sep 2026 15:09:00 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Russia strikes Ukraine as Putin denies plans to attack Europe amid growing tensions - euronews.com",
-   "source": "euronews.com",
-   "published": "Sat, 26 Sep 2026 10:57:14 GMT",
    "read": "escalation"
   }
  ],
