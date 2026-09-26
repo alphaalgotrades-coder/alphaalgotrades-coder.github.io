@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-26T13:30:03+00:00",
+ "generated_utc": "2026-09-26T13:35:04+00:00",
  "date_et": "2026-09-26",
  "build": "0d463cfe05",
  "tape": [
@@ -240,7 +240,7 @@
    {
     "sym": "MOVE",
     "name": "Bond-market volatility",
-    "price": 96.003,
+    "price": 96.0025,
     "pct": -8.2
    },
    {
@@ -280,9 +280,9 @@
     "pct": -5.11
    }
   ],
-  "as_of": "2026-09-26T13:27:08.997349+00:00",
+  "as_of": "2026-09-26T13:33:05.829794+00:00",
   "tone": "risk-on",
-  "age_min": 2.9154859666666666
+  "age_min": 1.9792587166666666
  },
  "stories": [
   {
@@ -301,8 +301,8 @@
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Trump posts map showing \u2018Trump Strait\u2019 after Iran proposes deal to open the waterway - WITN",
-   "source": "WITN",
+   "title": "Trump posts map showing \u2018Trump Strait\u2019 after Iran proposes deal to open the waterway - fox8live.com",
+   "source": "fox8live.com",
    "published": "Sat, 26 Sep 2026 12:52:00 GMT",
    "read": "unclear"
   },
@@ -314,18 +314,18 @@
    "read": "escalation"
   },
   {
-   "topic": "Iran / Hormuz",
-   "title": "Where things stand after Iran's new pitch for a deal to open the Strait of Hormuz - KOCO",
-   "source": "KOCO",
-   "published": "Sat, 26 Sep 2026 11:02:00 GMT",
-   "read": "unclear"
-  },
-  {
    "topic": "Russia / Ukraine",
    "title": "Russia strikes Ukraine as Putin denies plans to attack Europe amid growing tensions - euronews.com",
    "source": "euronews.com",
    "published": "Sat, 26 Sep 2026 10:57:14 GMT",
    "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Trump posts map showing 'Trump Strait' off Iran, and other Mideast developments - abcnews.com",
+   "source": "abcnews.com",
+   "published": "Sat, 26 Sep 2026 10:43:10 GMT",
+   "read": "unclear"
   }
  ],
  "ratings": [
