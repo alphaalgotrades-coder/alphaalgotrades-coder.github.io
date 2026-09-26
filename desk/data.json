@@ -1,112 +1,13 @@
 {
- "generated_utc": "2026-09-26T03:55:03+00:00",
- "date_et": "2026-09-25",
+ "generated_utc": "2026-09-26T04:00:03+00:00",
+ "date_et": "2026-09-26",
  "build": "0d463cfe05",
  "tape": [
   {
-   "time": "01:00",
-   "ccy": "JPY",
-   "impact": "Low",
-   "title": "BOJ Core CPI y/y",
-   "cons": "1.5%",
-   "prev": "1.6%",
-   "actual": "1.8%"
-  },
-  {
-   "time": "02:00",
-   "ccy": "EUR",
-   "impact": "Low",
-   "title": "German GfK Consumer Climate",
-   "cons": "-27.1",
-   "prev": "-26.6",
-   "actual": "-30.6"
-  },
-  {
-   "time": "04:00",
-   "ccy": "EUR",
-   "impact": "Low",
-   "title": "M3 Money Supply y/y",
-   "cons": "3.5%",
-   "prev": "3.4%",
-   "actual": "3.5%"
-  },
-  {
-   "time": "04:00",
-   "ccy": "EUR",
-   "impact": "Low",
-   "title": "Private Loans y/y",
-   "cons": "3.2%",
-   "prev": "3.1%",
-   "actual": "3.1%"
-  },
-  {
-   "time": "05:15",
-   "ccy": "GBP",
-   "impact": "High",
-   "title": "BOE Gov Bailey Speaks",
-   "cons": "",
-   "prev": "",
-   "actual": ""
-  },
-  {
-   "time": "05:15",
-   "ccy": "USD",
-   "impact": "Low",
-   "title": "FOMC Member Williams Speaks",
-   "cons": "",
-   "prev": "",
-   "actual": ""
-  },
-  {
-   "time": "08:30",
-   "ccy": "USD",
-   "impact": "Low",
-   "title": "Core Durable Goods Orders m/m",
-   "cons": "0.6%",
-   "prev": "0.4%",
-   "actual": "0.3%"
-  },
-  {
-   "time": "08:30",
-   "ccy": "USD",
-   "impact": "Low",
-   "title": "Durable Goods Orders m/m",
-   "cons": "-0.3%",
-   "prev": "1.1%",
-   "actual": "0.0%"
-  },
-  {
-   "time": "09:20",
-   "ccy": "USD",
-   "impact": "Low",
-   "title": "FOMC Member Schmid Speaks",
-   "cons": "",
-   "prev": "",
-   "actual": ""
-  },
-  {
    "time": "10:00",
-   "ccy": "USD",
-   "impact": "Medi",
-   "title": "Revised UoM Consumer Sentiment",
-   "cons": "47.4",
-   "prev": "47.8",
-   "actual": "48.1"
-  },
-  {
-   "time": "10:00",
-   "ccy": "USD",
-   "impact": "Medi",
-   "title": "Revised UoM Inflation Expectations",
-   "cons": "",
-   "prev": "4.6%",
-   "actual": "4.6%"
-  },
-  {
-   "time": "14:00",
-   "ccy": "USD",
-   "impact": "Low",
-   "title": "FOMC Member Hammack Speaks",
+   "ccy": "NZD",
+   "impact": "Holi",
+   "title": "Daylight Saving Time Shift",
    "cons": "",
    "prev": "",
    "actual": ""
@@ -379,9 +280,9 @@
     "pct": -5.11
    }
   ],
-  "as_of": "2026-09-26T03:54:08.314846+00:00",
+  "as_of": "2026-09-26T03:57:05.384821+00:00",
   "tone": "risk-on",
-  "age_min": 0.9154927333333334
+  "age_min": 2.9768072
  },
  "stories": [
   {
