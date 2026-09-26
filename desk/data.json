@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-26T18:10:04+00:00",
+ "generated_utc": "2026-09-26T18:15:03+00:00",
  "date_et": "2026-09-26",
  "build": "0d463cfe05",
  "tape": [
@@ -280,9 +280,9 @@
     "pct": -5.11
    }
   ],
-  "as_of": "2026-09-26T18:09:05.737109+00:00",
+  "as_of": "2026-09-26T18:12:14.024802+00:00",
   "tone": "risk-on",
-  "age_min": 0.97550995
+  "age_min": 2.8313973333333333
  },
  "stories": [
   {
@@ -315,16 +315,16 @@
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Trump rejects Iran proposal to reopen Strait of Hormuz - DW.com",
-   "source": "DW.com",
-   "published": "Sat, 26 Sep 2026 15:37:58 GMT",
+   "title": "US-Iran war news updates: Donald Trump rejects Iran's proposal to reopen the Strait of Hormuz - ABC7 Chicago",
+   "source": "ABC7 Chicago",
+   "published": "Sat, 26 Sep 2026 15:44:51 GMT",
    "read": "escalation"
   },
   {
-   "topic": "Russia / Ukraine",
-   "title": "Russia strikes Ukraine as Putin denies plans to attack Europe amid growing tensions - euronews.com",
-   "source": "euronews.com",
-   "published": "Sat, 26 Sep 2026 10:57:14 GMT",
+   "topic": "Iran / Hormuz",
+   "title": "Trump rejects Iran proposal to reopen Strait of Hormuz - DW.com",
+   "source": "DW.com",
+   "published": "Sat, 26 Sep 2026 15:37:58 GMT",
    "read": "escalation"
   }
  ],
