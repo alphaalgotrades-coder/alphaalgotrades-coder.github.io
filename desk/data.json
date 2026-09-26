@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-26T12:10:03+00:00",
+ "generated_utc": "2026-09-26T12:15:03+00:00",
  "date_et": "2026-09-26",
  "build": "0d463cfe05",
  "tape": [
@@ -280,11 +280,18 @@
     "pct": -5.11
    }
   ],
-  "as_of": "2026-09-26T12:09:09.157339+00:00",
+  "as_of": "2026-09-26T12:12:05.698906+00:00",
   "tone": "risk-on",
-  "age_min": 0.90519825
+  "age_min": 2.9697584999999997
  },
  "stories": [
+  {
+   "topic": "Taiwan / China",
+   "title": "Rubio says delay in arms sales to Taiwan based on U.S. weapons-building concerns - washingtontimes.com",
+   "source": "washingtontimes.com",
+   "published": "Thu, 24 Sep 2026 20:29:00 GMT",
+   "read": "unclear"
+  },
   {
    "topic": "Taiwan / China",
    "title": "Taiwan upgrades maritime patrol capacity for vulnerable South China Sea outpost - Reuters",
@@ -300,6 +307,13 @@
    "read": "unclear"
   },
   {
+   "topic": "Russia / Ukraine",
+   "title": "Russia strikes Ukraine as Putin denies plans to attack Europe amid growing tensions - euronews.com",
+   "source": "euronews.com",
+   "published": "Sat, 26 Sep 2026 10:57:14 GMT",
+   "read": "escalation"
+  },
+  {
    "topic": "Iran / Hormuz",
    "title": "Iran president says supreme leader backs new plan to reopen Hormuz - Arab News",
    "source": "Arab News",
@@ -312,20 +326,6 @@
    "source": "marineinsight.com",
    "published": "Sat, 26 Sep 2026 10:16:05 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Trump \u2018rejects\u2019 Iran\u2019s seven-day ceasefire proposal. What\u2019s next? - Al Jazeera",
-   "source": "Al Jazeera",
-   "published": "Sat, 26 Sep 2026 09:42:52 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Russia strikes Ukraine as Putin denies plans to attack Europe amid growing tensions - Euronews.com",
-   "source": "Euronews.com",
-   "published": "Sat, 26 Sep 2026 09:28:45 GMT",
-   "read": "escalation"
   }
  ],
  "ratings": [
