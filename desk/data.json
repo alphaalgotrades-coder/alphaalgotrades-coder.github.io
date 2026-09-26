@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-26T11:30:04+00:00",
+ "generated_utc": "2026-09-26T11:35:03+00:00",
  "date_et": "2026-09-26",
  "build": "0d463cfe05",
  "tape": [
@@ -280,9 +280,9 @@
     "pct": -5.11
    }
   ],
-  "as_of": "2026-09-26T11:27:05.557550+00:00",
+  "as_of": "2026-09-26T11:33:12.627206+00:00",
   "tone": "risk-on",
-  "age_min": 2.977011333333333
+  "age_min": 1.8458924
  },
  "stories": [
   {
@@ -294,10 +294,17 @@
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Where things stand after Iran's new pitch for a deal to open the Strait of Hormuz - WVTM Channel 13",
-   "source": "WVTM Channel 13",
+   "title": "Where things stand after Iran's new pitch for a deal to open the Strait of Hormuz - koat.com",
+   "source": "koat.com",
    "published": "Sat, 26 Sep 2026 11:02:00 GMT",
    "read": "unclear"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iran president says supreme leader backs new plan to reopen Hormuz - Arab News",
+   "source": "Arab News",
+   "published": "Sat, 26 Sep 2026 10:30:00 GMT",
+   "read": "de-escalation"
   },
   {
    "topic": "Saudi / Gulf supply",
@@ -308,16 +315,9 @@
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Iran says choice on reopening Hormuz \u2018rests with the United States\u2019 after deal offer - NBC News",
-   "source": "NBC News",
-   "published": "Sat, 26 Sep 2026 09:35:55 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Trump reportedly rejects Iran\u2019s seven-day peace deal to reopen strait of Hormuz - The Guardian",
-   "source": "The Guardian",
-   "published": "Sat, 26 Sep 2026 09:33:00 GMT",
+   "title": "Trump \u2018rejects\u2019 Iran\u2019s seven-day ceasefire proposal. What\u2019s next? - Al Jazeera",
+   "source": "Al Jazeera",
+   "published": "Sat, 26 Sep 2026 09:42:52 GMT",
    "read": "escalation"
   },
   {
