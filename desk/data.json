@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-26T10:50:03+00:00",
+ "generated_utc": "2026-09-26T10:55:02+00:00",
  "date_et": "2026-09-26",
  "build": "0d463cfe05",
  "tape": [
@@ -280,9 +280,9 @@
     "pct": -5.11
    }
   ],
-  "as_of": "2026-09-26T10:48:14.311122+00:00",
+  "as_of": "2026-09-26T10:54:05.373240+00:00",
   "tone": "risk-on",
-  "age_min": 1.81541825
+  "age_min": 0.9585651666666667
  },
  "stories": [
   {
@@ -293,11 +293,18 @@
    "read": "unclear"
   },
   {
-   "topic": "Saudi / Gulf supply",
-   "title": "Saudis Surge Oil Exports to War-Time Peak on Hormuz Ramp Up - Bloomberg.com",
-   "source": "Bloomberg.com",
-   "published": "Thu, 24 Sep 2026 13:07:09 GMT",
+   "topic": "Taiwan / China",
+   "title": "Taiwan upgrades maritime patrol capacity for vulnerable South China Sea outpost - reuters.com",
+   "source": "reuters.com",
+   "published": "Thu, 24 Sep 2026 02:26:00 GMT",
    "read": "escalation"
+  },
+  {
+   "topic": "Saudi / Gulf supply",
+   "title": "Gulf Of Oman Ship-to-Ship Oil Transfers Reach Capacity As Saudi Exports Surge - Marine Insight",
+   "source": "Marine Insight",
+   "published": "Sat, 26 Sep 2026 10:16:05 GMT",
+   "read": "unclear"
   },
   {
    "topic": "Iran / Hormuz",
@@ -315,17 +322,10 @@
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "US, Europe worry Russia is testing NATO with hybrid attacks and sabotage - USA Today",
-   "source": "USA Today",
-   "published": "Sat, 26 Sep 2026 09:07:00 GMT",
+   "title": "Russia strikes Ukraine as Putin denies plans to attack Europe amid growing tensions - Euronews.com",
+   "source": "Euronews.com",
+   "published": "Sat, 26 Sep 2026 09:28:45 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran proposes Hormuz plan, Trump reportedly refuses - al-monitor.com",
-   "source": "al-monitor.com",
-   "published": "Sat, 26 Sep 2026 08:30:21 GMT",
-   "read": "unclear"
   }
  ],
  "ratings": [
