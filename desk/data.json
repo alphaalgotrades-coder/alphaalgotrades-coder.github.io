@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-26T18:50:03+00:00",
+ "generated_utc": "2026-09-26T18:55:02+00:00",
  "date_et": "2026-09-26",
  "build": "0d463cfe05",
  "tape": [
@@ -280,24 +280,24 @@
     "pct": -5.11
    }
   ],
-  "as_of": "2026-09-26T18:48:05.173661+00:00",
+  "as_of": "2026-09-26T18:54:05.556819+00:00",
   "tone": "risk-on",
-  "age_min": 1.9782517833333333
+  "age_min": 0.9582255166666667
  },
  "stories": [
+  {
+   "topic": "Taiwan / China",
+   "title": "Don\u2019t Be Fooled by China\u2019s Recent Months of Low Military Activity - dailysignal.com",
+   "source": "dailysignal.com",
+   "published": "Wed, 23 Sep 2026 21:20:00 GMT",
+   "read": "unclear"
+  },
   {
    "topic": "Taiwan / China",
    "title": "Rubio says delay in arms sales to Taiwan based on U.S. weapons-building concerns - washingtontimes.com",
    "source": "washingtontimes.com",
    "published": "Thu, 24 Sep 2026 20:29:00 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Russian and Ukrainian strikes leave 10 dead as Trump calls on Zelenskyy to 'settle with Putin' - WHEC.com",
-   "source": "WHEC.com",
-   "published": "Sat, 26 Sep 2026 18:30:15 GMT",
-   "read": "escalation"
   },
   {
    "topic": "Iran / Hormuz",
