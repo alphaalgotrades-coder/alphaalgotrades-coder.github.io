@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-26T08:30:03+00:00",
+ "generated_utc": "2026-09-26T08:35:03+00:00",
  "date_et": "2026-09-26",
  "build": "0d463cfe05",
  "tape": [
@@ -280,9 +280,9 @@
     "pct": -5.11
    }
   ],
-  "as_of": "2026-09-26T08:27:05.060690+00:00",
+  "as_of": "2026-09-26T08:33:05.050012+00:00",
   "tone": "risk-on",
-  "age_min": 2.9779128
+  "age_min": 1.97294045
  },
  "stories": [
   {
@@ -298,6 +298,13 @@
    "source": "Bloomberg.com",
    "published": "Thu, 24 Sep 2026 13:07:09 GMT",
    "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Live - Trump rejected Iran Hormuz plan, expects strikes after midterms - Iran International",
+   "source": "Iran International",
+   "published": "Sat, 26 Sep 2026 07:40:55 GMT",
+   "read": "unclear"
   },
   {
    "topic": "Taiwan / China",
@@ -319,13 +326,6 @@
    "source": "bbc.com",
    "published": "Sat, 26 Sep 2026 03:49:41 GMT",
    "read": "de-escalation"
-  },
-  {
-   "topic": "Taiwan / China",
-   "title": "Taiwan tracks 5 military aircraft and 11 Chinese ships - Taiwan News",
-   "source": "Taiwan News",
-   "published": "Sat, 26 Sep 2026 02:38:00 GMT",
-   "read": "escalation"
   }
  ],
  "ratings": [
