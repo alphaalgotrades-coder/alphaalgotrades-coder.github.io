@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-26T23:10:03+00:00",
+ "generated_utc": "2026-09-26T23:15:03+00:00",
  "date_et": "2026-09-26",
  "build": "0d463cfe05",
  "tape": [
@@ -280,18 +280,11 @@
     "pct": -5.11
    }
   ],
-  "as_of": "2026-09-26T23:09:05.673617+00:00",
+  "as_of": "2026-09-26T23:12:05.250294+00:00",
   "tone": "risk-on",
-  "age_min": 0.9652819833333334
+  "age_min": 2.9781898833333336
  },
  "stories": [
-  {
-   "topic": "Taiwan / China",
-   "title": "Don\u2019t Be Fooled by China\u2019s Recent Months of Low Military Activity - dailysignal.com",
-   "source": "dailysignal.com",
-   "published": "Wed, 23 Sep 2026 21:20:00 GMT",
-   "read": "unclear"
-  },
   {
    "topic": "Saudi / Gulf supply",
    "title": "Saudi Aramco boosts crude loadings after pipeline disruption - investing.com",
@@ -319,6 +312,13 @@
    "source": "CBS News",
    "published": "Sat, 26 Sep 2026 20:59:00 GMT",
    "read": "escalation"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "German and Russian foreign ministers have rare meeting at United Nations General Assembly - PBS",
+   "source": "PBS",
+   "published": "Sat, 26 Sep 2026 19:08:31 GMT",
+   "read": "unclear"
   },
   {
    "topic": "Iran / Hormuz",
