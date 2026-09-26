@@ -1,57 +1,27 @@
 {
- "week": 10,
- "from": "2026-09-14",
- "to": "2026-09-18",
- "realized": 220,
- "fills": 9,
- "green_days": 1,
+ "week": 11,
+ "from": "2026-09-21",
+ "to": "2026-09-25",
+ "realized": 0,
+ "fills": 7,
+ "green_days": 0,
  "red_days": 0,
- "closed": [
-  {
-   "symbol": "ADEA",
-   "legs": [
-    {
-     "leg": "P25.00",
-     "expiry": "20260918",
-     "opened": "2026-08-27",
-     "closed": "2026-09-17",
-     "sold_at": 0.75,
-     "bought_at": 0.2,
-     "contracts": 4,
-     "kept_pct": 73,
-     "days_held": 21,
-     "realized": 220,
-     "kind": "CSP_OPEN",
-     "reason": "CSP entry | aimed $0.87 -> filled $0.75 | vrp 1.09 VIX 14.6 grade FAIR"
-    }
-   ],
-   "realized": 220,
-   "assigned": false,
-   "recovered": false
-  }
- ],
- "spotlight": "ADEA",
+ "closed": [],
+ "spotlight": null,
  "cycle": {
-  "sold_puts": [],
-  "kept": [
-   "ADEA"
+  "sold_puts": [
+   "PATH"
   ],
-  "expired": [
-   "DLO"
+  "kept": [],
+  "expired": [],
+  "assigned": [],
+  "calls": [
+   "Z",
+   "BLDR"
   ],
-  "assigned": [
-   "AS",
-   "BLDR",
-   "Z"
-  ],
-  "calls": [],
-  "rolled": [
-   "DLO"
-  ],
+  "rolled": [],
   "called_away": [],
-  "kept_pct": {
-   "ADEA": 73
-  }
+  "kept_pct": {}
  },
- "generated": "2026-09-19 11:07"
+ "generated": "2026-09-26 08:32"
 }
