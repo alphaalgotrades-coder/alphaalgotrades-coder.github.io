@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-26T13:10:03+00:00",
+ "generated_utc": "2026-09-26T13:15:03+00:00",
  "date_et": "2026-09-26",
  "build": "0d463cfe05",
  "tape": [
@@ -280,9 +280,9 @@
     "pct": -5.11
    }
   ],
-  "as_of": "2026-09-26T13:09:05.849206+00:00",
+  "as_of": "2026-09-26T13:12:05.824257+00:00",
   "tone": "risk-on",
-  "age_min": 0.9666314333333333
+  "age_min": 2.966589233333333
  },
  "stories": [
   {
@@ -301,6 +301,20 @@
   },
   {
    "topic": "Iran / Hormuz",
+   "title": "Trump posts map showing \u2018Trump Strait\u2019 after Iran proposes deal to open the waterway - WITN",
+   "source": "WITN",
+   "published": "Sat, 26 Sep 2026 12:52:00 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Trump rejects Iran's conditional ceasefire proposal, WSJ reports, as Saudi coalition intercepts projectiles - CNBC",
+   "source": "CNBC",
+   "published": "Sat, 26 Sep 2026 12:39:09 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
    "title": "Where things stand after Iran's new pitch for a deal to open the Strait of Hormuz - KOCO",
    "source": "KOCO",
    "published": "Sat, 26 Sep 2026 11:02:00 GMT",
@@ -312,20 +326,6 @@
    "source": "euronews.com",
    "published": "Sat, 26 Sep 2026 10:57:14 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran president says supreme leader backs new plan to reopen Hormuz - Arab News",
-   "source": "Arab News",
-   "published": "Sat, 26 Sep 2026 10:30:00 GMT",
-   "read": "de-escalation"
-  },
-  {
-   "topic": "Saudi / Gulf supply",
-   "title": "Gulf Of Oman Ship-to-Ship Oil Transfers Reach Capacity As Saudi Exports Surge - marineinsight.com",
-   "source": "marineinsight.com",
-   "published": "Sat, 26 Sep 2026 10:16:05 GMT",
-   "read": "unclear"
   }
  ],
  "ratings": [
