@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-26T19:50:03+00:00",
+ "generated_utc": "2026-09-26T19:55:02+00:00",
  "date_et": "2026-09-26",
  "build": "0d463cfe05",
  "tape": [
@@ -280,9 +280,9 @@
     "pct": -5.11
    }
   ],
-  "as_of": "2026-09-26T19:48:05.685421+00:00",
+  "as_of": "2026-09-26T19:54:05.764356+00:00",
   "tone": "risk-on",
-  "age_min": 1.9570410833333334
+  "age_min": 0.9464812333333333
  },
  "stories": [
   {
@@ -300,17 +300,17 @@
    "read": "unclear"
   },
   {
+   "topic": "Russia / Ukraine",
+   "title": "Russian and Ukrainian strikes leave 10 dead as Trump calls on Zelenskyy to 'settle with Putin' - The Washington Post",
+   "source": "The Washington Post",
+   "published": "Sat, 26 Sep 2026 19:37:25 GMT",
+   "read": "escalation"
+  },
+  {
    "topic": "Iran / Hormuz",
    "title": "Trump rejects Iran\u2019s proposal to reopen Strait of Hormuz, restart peace talks - The Washington Post",
    "source": "The Washington Post",
    "published": "Sat, 26 Sep 2026 18:58:57 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Russian and Ukrainian strikes leave 10 dead as Trump calls on Zelenskyy to 'settle with Putin' - Pittsburgh Post-Gazette",
-   "source": "Pittsburgh Post-Gazette",
-   "published": "Sat, 26 Sep 2026 18:46:55 GMT",
    "read": "escalation"
   },
   {
