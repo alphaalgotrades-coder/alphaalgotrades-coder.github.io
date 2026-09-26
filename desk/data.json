@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-26T03:10:03+00:00",
+ "generated_utc": "2026-09-26T03:15:04+00:00",
  "date_et": "2026-09-25",
  "build": "0d463cfe05",
  "tape": [
@@ -339,7 +339,7 @@
    {
     "sym": "MOVE",
     "name": "Bond-market volatility",
-    "price": 96.0025,
+    "price": 96.0,
     "pct": -8.2
    },
    {
@@ -379,9 +379,9 @@
     "pct": -5.11
    }
   ],
-  "as_of": "2026-09-26T03:09:05.494779+00:00",
+  "as_of": "2026-09-26T03:12:05.486704+00:00",
   "tone": "risk-on",
-  "age_min": 0.9722755666666667
+  "age_min": 2.9771606999999998
  },
  "stories": [
   {
@@ -407,9 +407,16 @@
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Iran proposes Hormuz plan, Trump reportedly refuses - arabnews.com",
-   "source": "arabnews.com",
+   "title": "Iran proposes Hormuz plan, Trump reportedly refuses - Arab News",
+   "source": "Arab News",
    "published": "Sat, 26 Sep 2026 02:10:17 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iran awaits US move after WSJ report says Trump rejects peace plan - reuters.com",
+   "source": "reuters.com",
+   "published": "Sat, 26 Sep 2026 02:04:00 GMT",
    "read": "unclear"
   },
   {
@@ -417,13 +424,6 @@
    "title": "Iran offers new proposal to reopen Strait of Hormuz - nbcnews.com",
    "source": "nbcnews.com",
    "published": "Sat, 26 Sep 2026 01:36:01 GMT",
-   "read": "de-escalation"
-  },
-  {
-   "topic": "Saudi / Gulf supply",
-   "title": "Saudi Gulf Oil Exports Pick Up After Pipeline Attack - Marine Link",
-   "source": "Marine Link",
-   "published": "Mon, 21 Sep 2026 19:36:39 GMT",
    "read": "de-escalation"
   }
  ],
