@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-26T23:50:03+00:00",
+ "generated_utc": "2026-09-26T23:55:03+00:00",
  "date_et": "2026-09-26",
  "build": "0d463cfe05",
  "tape": [
@@ -280,9 +280,9 @@
     "pct": -5.11
    }
   ],
-  "as_of": "2026-09-26T23:48:05.294700+00:00",
+  "as_of": "2026-09-26T23:54:05.457740+00:00",
   "tone": "risk-on",
-  "age_min": 1.9707561666666666
+  "age_min": 0.9717402333333334
  },
  "stories": [
   {
@@ -307,6 +307,13 @@
    "read": "unclear"
   },
   {
+   "topic": "Iran / Hormuz",
+   "title": "Iran insists on diplomatic solution after Trump rejects peace plan - reuters.com",
+   "source": "reuters.com",
+   "published": "Sat, 26 Sep 2026 22:42:34 GMT",
+   "read": "unclear"
+  },
+  {
    "topic": "Russia / Ukraine",
    "title": "Kellogg: Putin could end war tomorrow if he declares 'victory' to Russians - The New Voice of Ukraine",
    "source": "The New Voice of Ukraine",
@@ -319,13 +326,6 @@
    "source": "PBS",
    "published": "Sat, 26 Sep 2026 19:08:31 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Trump rejects Iran proposal to reopen Strait of Hormuz - dw.com",
-   "source": "dw.com",
-   "published": "Sat, 26 Sep 2026 18:57:48 GMT",
-   "read": "escalation"
   }
  ],
  "ratings": [
