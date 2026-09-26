@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-26T08:50:02+00:00",
+ "generated_utc": "2026-09-26T08:55:03+00:00",
  "date_et": "2026-09-26",
  "build": "0d463cfe05",
  "tape": [
@@ -280,11 +280,18 @@
     "pct": -5.11
    }
   ],
-  "as_of": "2026-09-26T08:48:05.088078+00:00",
+  "as_of": "2026-09-26T08:54:05.454721+00:00",
   "tone": "risk-on",
-  "age_min": 1.9656997833333334
+  "age_min": 0.96524075
  },
  "stories": [
+  {
+   "topic": "Taiwan / China",
+   "title": "Paraguay\u2019s president urges UN to let Taiwan in, calls island\u2019s exclusion \u2018a stain\u2019 - South China Morning Post",
+   "source": "South China Morning Post",
+   "published": "Wed, 23 Sep 2026 19:01:59 GMT",
+   "read": "unclear"
+  },
   {
    "topic": "Taiwan / China",
    "title": "On Taiwan, US \u2018Strategic Ambiguity\u2019 Is Not Dead Yet - thediplomat.com",
@@ -301,6 +308,13 @@
   },
   {
    "topic": "Iran / Hormuz",
+   "title": "Iran proposes Hormuz plan, Trump reportedly refuses - Al-Monitor",
+   "source": "Al-Monitor",
+   "published": "Sat, 26 Sep 2026 08:30:21 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Iran / Hormuz",
    "title": "Live - Trump rejected Iran Hormuz plan, expects strikes after midterms - Iran International",
    "source": "Iran International",
    "published": "Sat, 26 Sep 2026 07:40:55 GMT",
@@ -312,20 +326,6 @@
    "source": "Taiwan News",
    "published": "Sat, 26 Sep 2026 05:53:00 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Saudi / Gulf supply",
-   "title": "Saudi Arabia Sells 100 Million Barrels of Crude to Asia via Strait of Hormuz - IndexBox",
-   "source": "IndexBox",
-   "published": "Sat, 26 Sep 2026 04:20:36 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran offers US deal to reopen Strait of Hormuz in seven days - bbc.com",
-   "source": "bbc.com",
-   "published": "Sat, 26 Sep 2026 03:49:41 GMT",
-   "read": "de-escalation"
   }
  ],
  "ratings": [
