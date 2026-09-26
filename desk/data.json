@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-26T22:50:03+00:00",
+ "generated_utc": "2026-09-26T22:55:03+00:00",
  "date_et": "2026-09-26",
  "build": "0d463cfe05",
  "tape": [
@@ -280,9 +280,9 @@
     "pct": -5.11
    }
   ],
-  "as_of": "2026-09-26T22:48:04.857992+00:00",
+  "as_of": "2026-09-26T22:54:05.134945+00:00",
   "tone": "risk-on",
-  "age_min": 1.97446745
+  "age_min": 0.9711572
  },
  "stories": [
   {
@@ -297,6 +297,13 @@
    "title": "Saudi Aramco boosts crude loadings after pipeline disruption - investing.com",
    "source": "investing.com",
    "published": "Tue, 22 Sep 2026 00:44:46 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iran\u2019s president delivers defiant UN speech, and other Mideast developments - apnews.com",
+   "source": "apnews.com",
+   "published": "Thu, 24 Sep 2026 02:10:00 GMT",
    "read": "unclear"
   },
   {
@@ -315,16 +322,9 @@
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "President Trump Rejects Iran Strait of Hormuz Deal, Posts \u2018Trump Strait\u2019 Map - themedialine.org",
-   "source": "themedialine.org",
-   "published": "Sat, 26 Sep 2026 19:19:06 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days - bbc.com",
-   "source": "bbc.com",
-   "published": "Sat, 26 Sep 2026 18:17:12 GMT",
+   "title": "Trump rejects Iran proposal to reopen Strait of Hormuz - dw.com",
+   "source": "dw.com",
+   "published": "Sat, 26 Sep 2026 18:57:48 GMT",
    "read": "escalation"
   }
  ],
