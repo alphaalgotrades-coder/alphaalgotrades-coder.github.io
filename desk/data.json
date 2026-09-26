@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-26T16:10:03+00:00",
+ "generated_utc": "2026-09-26T16:15:03+00:00",
  "date_et": "2026-09-26",
  "build": "0d463cfe05",
  "tape": [
@@ -280,9 +280,9 @@
     "pct": -5.11
    }
   ],
-  "as_of": "2026-09-26T16:09:05.555235+00:00",
+  "as_of": "2026-09-26T16:12:05.426368+00:00",
   "tone": "risk-on",
-  "age_min": 0.9678994666666667
+  "age_min": 2.9675230499999996
  },
  "stories": [
   {
@@ -293,13 +293,6 @@
    "read": "unclear"
   },
   {
-   "topic": "Taiwan / China",
-   "title": "Taiwan upgrades maritime patrol capacity for vulnerable South China Sea outpost - Reuters",
-   "source": "Reuters",
-   "published": "Thu, 24 Sep 2026 02:26:00 GMT",
-   "read": "escalation"
-  },
-  {
    "topic": "Iran / Hormuz",
    "title": "Iran\u2019s president delivers defiant UN speech, and other Mideast developments - AP News",
    "source": "AP News",
@@ -307,17 +300,24 @@
    "read": "unclear"
   },
   {
+   "topic": "Taiwan / China",
+   "title": "China\u2019s risk calculus to use force on Taiwan - The Manila Times",
+   "source": "The Manila Times",
+   "published": "Sat, 26 Sep 2026 16:06:00 GMT",
+   "read": "unclear"
+  },
+  {
    "topic": "Iran / Hormuz",
-   "title": "Trump says he has rejected Iranian proposal to reopen Strait of Hormuz - NBC News",
-   "source": "NBC News",
+   "title": "Trump says he has rejected Iranian proposal to reopen Strait of Hormuz - nbcnews.com",
+   "source": "nbcnews.com",
    "published": "Sat, 26 Sep 2026 15:37:14 GMT",
    "read": "escalation"
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Trump rejects Iran proposal to reopen Strait of Hormuz, calls it 'Trump Strait' - scrippsnews.com",
-   "source": "scrippsnews.com",
-   "published": "Sat, 26 Sep 2026 15:20:09 GMT",
+   "title": "Trump rejects Iran\u2019s proposal to reopen the Strait of Hormuz - WABI",
+   "source": "WABI",
+   "published": "Sat, 26 Sep 2026 15:09:00 GMT",
    "read": "escalation"
   },
   {
