@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-26T20:10:03+00:00",
+ "generated_utc": "2026-09-26T20:15:03+00:00",
  "date_et": "2026-09-26",
  "build": "0d463cfe05",
  "tape": [
@@ -280,9 +280,9 @@
     "pct": -5.11
    }
   ],
-  "as_of": "2026-09-26T20:09:06.019773+00:00",
+  "as_of": "2026-09-26T20:12:05.952514+00:00",
   "tone": "risk-on",
-  "age_min": 0.9515663166666666
+  "age_min": 2.965243
  },
  "stories": [
   {
@@ -293,11 +293,25 @@
    "read": "unclear"
   },
   {
+   "topic": "Russia / Ukraine",
+   "title": "Russian Blood and Treasure: The Ballooning Costs of Putin\u2019s War - CSIS | Center for Strategic and International Studies",
+   "source": "CSIS | Center for Strategic and International Studies",
+   "published": "Wed, 01 Jul 2026 07:00:00 GMT",
+   "read": "unclear"
+  },
+  {
    "topic": "Taiwan / China",
    "title": "Rubio says delay in arms sales to Taiwan based on U.S. weapons-building concerns - washingtontimes.com",
    "source": "washingtontimes.com",
    "published": "Thu, 24 Sep 2026 20:29:00 GMT",
    "read": "unclear"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Trump calls Iranian plan to reopen Strait of Hormuz not 'acceptable' - NPR",
+   "source": "NPR",
+   "published": "Sat, 26 Sep 2026 20:08:28 GMT",
+   "read": "de-escalation"
   },
   {
    "topic": "Russia / Ukraine",
@@ -307,25 +321,11 @@
    "read": "escalation"
   },
   {
-   "topic": "Iran / Hormuz",
-   "title": "Trump rejects Iran\u2019s proposal to reopen Strait of Hormuz, restart peace talks - The Washington Post",
-   "source": "The Washington Post",
-   "published": "Sat, 26 Sep 2026 18:58:57 GMT",
-   "read": "escalation"
-  },
-  {
    "topic": "Russia / Ukraine",
-   "title": "Trump claims stunning casualty numbers in Russia-Ukraine war - Fox News",
-   "source": "Fox News",
-   "published": "Sat, 26 Sep 2026 18:43:30 GMT",
+   "title": "Trump claims stunning casualty numbers in Russia-Ukraine war - 930 WFMD Free Talk",
+   "source": "930 WFMD Free Talk",
+   "published": "Sat, 26 Sep 2026 19:15:39 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days - BBC",
-   "source": "BBC",
-   "published": "Sat, 26 Sep 2026 18:17:12 GMT",
-   "read": "escalation"
   }
  ],
  "ratings": [
