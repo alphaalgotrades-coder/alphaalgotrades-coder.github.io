@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-26T19:30:03+00:00",
+ "generated_utc": "2026-09-26T19:35:02+00:00",
  "date_et": "2026-09-26",
  "build": "0d463cfe05",
  "tape": [
@@ -280,9 +280,9 @@
     "pct": -5.11
    }
   ],
-  "as_of": "2026-09-26T19:27:05.943196+00:00",
+  "as_of": "2026-09-26T19:33:06.166756+00:00",
   "tone": "risk-on",
-  "age_min": 2.959226
+  "age_min": 1.9422997
  },
  "stories": [
   {
@@ -300,6 +300,20 @@
    "read": "unclear"
   },
   {
+   "topic": "Iran / Hormuz",
+   "title": "Trump rejects Iran\u2019s proposal to reopen Strait of Hormuz, restart peace talks - The Washington Post",
+   "source": "The Washington Post",
+   "published": "Sat, 26 Sep 2026 18:58:57 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Russian and Ukrainian strikes leave 10 dead as Trump calls on Zelenskyy to 'settle with Putin' - Pittsburgh Post-Gazette",
+   "source": "Pittsburgh Post-Gazette",
+   "published": "Sat, 26 Sep 2026 18:46:55 GMT",
+   "read": "escalation"
+  },
+  {
    "topic": "Russia / Ukraine",
    "title": "Trump claims stunning casualty numbers in Russia-Ukraine war - Fox News",
    "source": "Fox News",
@@ -308,23 +322,9 @@
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Where things stand after Iran's new pitch for a deal to open the Strait of Hormuz - WLWT",
-   "source": "WLWT",
-   "published": "Sat, 26 Sep 2026 17:03:45 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Trump says no to Iran\u2019s Hormuz deal - Salon.com",
-   "source": "Salon.com",
-   "published": "Sat, 26 Sep 2026 17:00:15 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Trump Rejects Iran\u2019s Cease-Fire Proposal to Reopen Strait of Hormuz - The New York Times",
-   "source": "The New York Times",
-   "published": "Sat, 26 Sep 2026 16:30:10 GMT",
+   "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days - BBC",
+   "source": "BBC",
+   "published": "Sat, 26 Sep 2026 18:17:12 GMT",
    "read": "escalation"
   }
  ],
