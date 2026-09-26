@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-26T00:50:03+00:00",
+ "generated_utc": "2026-09-26T00:55:04+00:00",
  "date_et": "2026-09-25",
  "build": "0d463cfe05",
  "tape": [
@@ -379,9 +379,9 @@
     "pct": -5.11
    }
   ],
-  "as_of": "2026-09-26T00:48:05.750645+00:00",
+  "as_of": "2026-09-26T00:54:05.752531+00:00",
   "tone": "risk-on",
-  "age_min": 1.96667525
+  "age_min": 0.9761366166666666
  },
  "stories": [
   {
@@ -392,13 +392,6 @@
    "read": "unclear"
   },
   {
-   "topic": "Iran / Hormuz",
-   "title": "Iran says it awaits US response on seven-day roadmap to end war - Al Jazeera",
-   "source": "Al Jazeera",
-   "published": "Sat, 26 Sep 2026 00:00:00 GMT",
-   "read": "de-escalation"
-  },
-  {
    "topic": "Saudi / Gulf supply",
    "title": "Saudi Gulf Oil Exports Pick Up After Pipeline Attack - Marine Link",
    "source": "Marine Link",
@@ -407,24 +400,31 @@
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Iran\u2019s new proposal to re-open Strait of Hormuz - NBC News",
-   "source": "NBC News",
-   "published": "Fri, 25 Sep 2026 23:00:41 GMT",
-   "read": "de-escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran pitches 7-day plan to US to reopen strait - The Hill",
-   "source": "The Hill",
+   "title": "Iran pitches 7-day plan to US to reopen strait - thehill.com",
+   "source": "thehill.com",
    "published": "Fri, 25 Sep 2026 22:46:00 GMT",
    "read": "de-escalation"
   },
   {
-   "topic": "Russia / Ukraine",
-   "title": "Exclusive | Putin plots payback for Ukraine drone attacks on oil refineries, tells US: \u2018Now it\u2019s our turn\u2019 - New York Post",
-   "source": "New York Post",
-   "published": "Fri, 25 Sep 2026 22:35:00 GMT",
-   "read": "escalation"
+   "topic": "Iran / Hormuz",
+   "title": "Iran says it has given the US a \"concrete\" seven-day plan to reopen the Strait of Hormuz. - Sky News",
+   "source": "Sky News",
+   "published": "Fri, 25 Sep 2026 22:38:38 GMT",
+   "read": "de-escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iran says Strait of Hormuz can reopen within 7 days if US accepts plan - aa.com.tr",
+   "source": "aa.com.tr",
+   "published": "Fri, 25 Sep 2026 22:22:41 GMT",
+   "read": "de-escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iran pitches 7-day plan to restart US talks, reopen Strait of Hormuz - thehill.com",
+   "source": "thehill.com",
+   "published": "Fri, 25 Sep 2026 22:16:00 GMT",
+   "read": "de-escalation"
   }
  ],
  "ratings": [
