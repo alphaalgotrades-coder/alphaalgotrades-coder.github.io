@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-27T10:10:03+00:00",
+ "generated_utc": "2026-09-27T10:15:04+00:00",
  "date_et": "2026-09-27",
  "build": "0d463cfe05",
  "tape": [
@@ -289,9 +289,9 @@
     "pct": -5.11
    }
   ],
-  "as_of": "2026-09-27T10:09:05.679606+00:00",
+  "as_of": "2026-09-27T10:12:05.451354+00:00",
   "tone": "risk-on",
-  "age_min": 0.9630201833333333
+  "age_min": 2.9813906166666664
  },
  "stories": [
   {
@@ -299,6 +299,13 @@
    "title": "Saudis Surge Oil Exports to War-Time Peak on Hormuz Ramp Up - Bloomberg",
    "source": "Bloomberg",
    "published": "Thu, 24 Sep 2026 13:07:09 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Russian strikes kill four in Ukraine - France 24",
+   "source": "France 24",
+   "published": "Sun, 27 Sep 2026 09:51:06 GMT",
    "read": "escalation"
   },
   {
@@ -323,17 +330,10 @@
    "read": "de-escalation"
   },
   {
-   "topic": "Russia / Ukraine",
-   "title": "Opinion | Trump Gives Putin Another Blessing - WSJ",
-   "source": "WSJ",
-   "published": "Sun, 27 Sep 2026 07:03:40 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Taiwan / China",
-   "title": "US \u2018very much\u2019 understands Taiwan\u2019s defence needs, Taipei official says - Internazionale",
-   "source": "Internazionale",
-   "published": "Sun, 27 Sep 2026 02:43:56 GMT",
+   "topic": "Iran / Hormuz",
+   "title": "Why Trump said no to Iran\u2019s Hormuz proposal - iranintl.com",
+   "source": "iranintl.com",
+   "published": "Sun, 27 Sep 2026 02:54:57 GMT",
    "read": "unclear"
   }
  ],
