@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-27T22:10:03+00:00",
+ "generated_utc": "2026-09-27T22:15:03+00:00",
  "date_et": "2026-09-27",
  "build": "0d463cfe05",
  "tape": [
@@ -289,9 +289,9 @@
     "pct": -5.11
    }
   ],
-  "as_of": "2026-09-27T22:09:06.094384+00:00",
+  "as_of": "2026-09-27T22:12:05.646360+00:00",
   "tone": "risk-on",
-  "age_min": 0.9531846500000001
+  "age_min": 2.9725362166666667
  },
  "stories": [
   {
@@ -310,17 +310,17 @@
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Iran Still Awaits \u2018Official\u2019 U.S. Response Despite Trump\u2019s Rebuff of Cease-Fire Offer - The New York Times",
-   "source": "The New York Times",
-   "published": "Sun, 27 Sep 2026 20:02:12 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
    "title": "Iran is Overestimating its Bargaining Power in the Strait of Hormuz - The Maritime Executive",
    "source": "The Maritime Executive",
    "published": "Sun, 27 Sep 2026 19:23:55 GMT",
    "read": "unclear"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Trump expects new Iran talks despite rejecting deal offer - yahoo.com",
+   "source": "yahoo.com",
+   "published": "Sun, 27 Sep 2026 18:40:27 GMT",
+   "read": "de-escalation"
   },
   {
    "topic": "Russia / Ukraine",
