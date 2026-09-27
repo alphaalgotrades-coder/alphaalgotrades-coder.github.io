@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-27T02:30:04+00:00",
+ "generated_utc": "2026-09-27T02:35:03+00:00",
  "date_et": "2026-09-26",
  "build": "0d463cfe05",
  "tape": [
@@ -280,9 +280,9 @@
     "pct": -5.11
    }
   ],
-  "as_of": "2026-09-27T02:27:05.425974+00:00",
+  "as_of": "2026-09-27T02:33:05.819111+00:00",
   "tone": "risk-on",
-  "age_min": 2.97860665
+  "age_min": 1.9631782666666666
  },
  "stories": [
   {
@@ -301,9 +301,9 @@
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Trump rejects Iran\u2019s Hormuz deal as Houthis target Riyadh - The Spokesman-Review",
-   "source": "The Spokesman-Review",
-   "published": "Sun, 27 Sep 2026 00:52:26 GMT",
+   "title": "Trump rejects Iran\u2019s Hormuz deal as Houthis target Riyadh - spokesman.com",
+   "source": "spokesman.com",
+   "published": "Sun, 27 Sep 2026 01:16:17 GMT",
    "read": "escalation"
   },
   {
