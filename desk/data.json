@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-27T02:50:03+00:00",
+ "generated_utc": "2026-09-27T02:55:03+00:00",
  "date_et": "2026-09-26",
  "build": "0d463cfe05",
  "tape": [
@@ -280,9 +280,9 @@
     "pct": -5.11
    }
   ],
-  "as_of": "2026-09-27T02:48:05.606602+00:00",
+  "as_of": "2026-09-27T02:54:05.678474+00:00",
   "tone": "risk-on",
-  "age_min": 1.9662678333333334
+  "age_min": 0.9696107166666666
  },
  "stories": [
   {
@@ -300,6 +300,13 @@
    "read": "unclear"
   },
   {
+   "topic": "Taiwan / China",
+   "title": "US 'very much' understands Taiwan's defence needs, Taipei official says - straitstimes.com",
+   "source": "straitstimes.com",
+   "published": "Sun, 27 Sep 2026 02:47:00 GMT",
+   "read": "unclear"
+  },
+  {
    "topic": "Iran / Hormuz",
    "title": "Trump rejects Iran\u2019s Hormuz deal as Houthis target Riyadh - spokesman.com",
    "source": "spokesman.com",
@@ -308,23 +315,16 @@
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Trump rejects Iran\u2019s proposal to reopen the Strait of Hormuz and other Mideast news - apnews.com",
-   "source": "apnews.com",
+   "title": "Trump rejects Iran\u2019s proposal to reopen the Strait of Hormuz and other Mideast news - AP News",
+   "source": "AP News",
    "published": "Sat, 26 Sep 2026 21:30:00 GMT",
-   "read": "unclear"
+   "read": "de-escalation"
   },
   {
    "topic": "Iran / Hormuz",
    "title": "US helps double oil volume exiting the Gulf, with the military now guiding ships in broad daylight - fortune.com",
    "source": "fortune.com",
    "published": "Sat, 26 Sep 2026 19:40:00 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Taiwan / China",
-   "title": "China\u2019s risk calculus to use force on Taiwan - manilatimes.net",
-   "source": "manilatimes.net",
-   "published": "Sat, 26 Sep 2026 16:06:00 GMT",
    "read": "unclear"
   }
  ],
