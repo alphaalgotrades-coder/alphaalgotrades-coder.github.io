@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-27T16:30:04+00:00",
+ "generated_utc": "2026-09-27T16:35:03+00:00",
  "date_et": "2026-09-27",
  "build": "0d463cfe05",
  "tape": [
@@ -289,9 +289,9 @@
     "pct": -5.11
    }
   ],
-  "as_of": "2026-09-27T16:27:05.653397+00:00",
+  "as_of": "2026-09-27T16:33:05.821904+00:00",
   "tone": "risk-on",
-  "age_min": 2.98114555
+  "age_min": 1.9690227833333334
  },
  "stories": [
   {
@@ -324,8 +324,8 @@
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "Finland's Stubb credits Trump for pushing Ukraine peace talks while dismissing Russian invasion fears - Fox News",
-   "source": "Fox News",
+   "title": "Finland's Stubb credits Trump for pushing Ukraine peace talks while dismissing Russian invasion fears - foxnews.com",
+   "source": "foxnews.com",
    "published": "Sun, 27 Sep 2026 10:00:14 GMT",
    "read": "unclear"
   },
