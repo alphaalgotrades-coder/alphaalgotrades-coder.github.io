@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-27T01:10:03+00:00",
+ "generated_utc": "2026-09-27T01:15:04+00:00",
  "date_et": "2026-09-26",
  "build": "0d463cfe05",
  "tape": [
@@ -280,9 +280,9 @@
     "pct": -5.11
    }
   ],
-  "as_of": "2026-09-27T01:09:05.266991+00:00",
+  "as_of": "2026-09-27T01:12:04.821305+00:00",
   "tone": "risk-on",
-  "age_min": 0.9720983833333333
+  "age_min": 2.99283885
  },
  "stories": [
   {
@@ -294,16 +294,23 @@
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Trump rejects Iran\u2019s seven-day roadmap to end war and reopen Hormuz - Al Jazeera",
-   "source": "Al Jazeera",
+   "title": "Trump rejects Iran\u2019s Hormuz deal as Houthis target Riyadh - The Spokesman-Review",
+   "source": "The Spokesman-Review",
+   "published": "Sun, 27 Sep 2026 00:52:26 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Trump rejects Iran\u2019s seven-day roadmap to end war and reopen Hormuz - aljazeera.com",
+   "source": "aljazeera.com",
    "published": "Sun, 27 Sep 2026 00:12:53 GMT",
    "read": "escalation"
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Live - Iran says awaiting formal US answer after Trump rejection - iranintl.com",
-   "source": "iranintl.com",
-   "published": "Sat, 26 Sep 2026 22:55:54 GMT",
+   "title": "US helps double oil volume exiting the Gulf, with the military now guiding ships in broad daylight - Fortune",
+   "source": "Fortune",
+   "published": "Sat, 26 Sep 2026 19:40:00 GMT",
    "read": "unclear"
   },
   {
@@ -319,13 +326,6 @@
    "source": "manilatimes.net",
    "published": "Sat, 26 Sep 2026 16:06:00 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Russia expected to intensify hybrid war on Europe - dw.com",
-   "source": "dw.com",
-   "published": "Sat, 26 Sep 2026 15:41:34 GMT",
-   "read": "escalation"
   }
  ],
  "ratings": [
