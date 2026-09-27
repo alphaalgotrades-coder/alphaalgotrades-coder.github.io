@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-27T15:30:03+00:00",
+ "generated_utc": "2026-09-27T15:35:03+00:00",
  "date_et": "2026-09-27",
  "build": "0d463cfe05",
  "tape": [
@@ -289,9 +289,9 @@
     "pct": -5.11
    }
   ],
-  "as_of": "2026-09-27T15:27:05.835143+00:00",
+  "as_of": "2026-09-27T15:33:05.343841+00:00",
   "tone": "risk-on",
-  "age_min": 2.9679162166666666
+  "age_min": 1.9763352666666667
  },
  "stories": [
   {
@@ -299,6 +299,13 @@
    "title": "Saudis Surge Oil Exports to War-Time Peak on Hormuz Ramp Up - Bloomberg",
    "source": "Bloomberg",
    "published": "Thu, 24 Sep 2026 13:07:09 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Strait of Hormuz tensions linger as Iran and US move further from a deal - Al Jazeera",
+   "source": "Al Jazeera",
+   "published": "Sun, 27 Sep 2026 14:47:13 GMT",
    "read": "escalation"
   },
   {
@@ -327,13 +334,6 @@
    "title": "Russia intensifies hybrid war beyond Ukraine, rattling Europe - The Hill",
    "source": "The Hill",
    "published": "Sun, 27 Sep 2026 10:00:00 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Russian strikes kill four in Ukraine - france24.com",
-   "source": "france24.com",
-   "published": "Sun, 27 Sep 2026 09:51:06 GMT",
    "read": "escalation"
   }
  ],
