@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-27T08:30:03+00:00",
+ "generated_utc": "2026-09-27T08:35:03+00:00",
  "date_et": "2026-09-27",
  "build": "0d463cfe05",
  "tape": [
@@ -289,9 +289,9 @@
     "pct": -5.11
    }
   ],
-  "as_of": "2026-09-27T08:27:05.210057+00:00",
+  "as_of": "2026-09-27T08:33:05.031123+00:00",
   "tone": "risk-on",
-  "age_min": 2.97692825
+  "age_min": 1.9802221166666667
  },
  "stories": [
   {
@@ -307,6 +307,13 @@
    "source": "CBC",
    "published": "Sun, 27 Sep 2026 08:00:00 GMT",
    "read": "unclear"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal - BBC",
+   "source": "BBC",
+   "published": "Sun, 27 Sep 2026 07:44:11 GMT",
+   "read": "de-escalation"
   },
   {
    "topic": "Russia / Ukraine",
@@ -328,13 +335,6 @@
    "source": "The Straits Times",
    "published": "Sun, 27 Sep 2026 02:47:00 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Trump rejects Iran\u2019s proposal to reopen Strait of Hormuz, restart peace talks - washingtonpost.com",
-   "source": "washingtonpost.com",
-   "published": "Sun, 27 Sep 2026 02:21:17 GMT",
-   "read": "escalation"
   }
  ],
  "ratings": [
