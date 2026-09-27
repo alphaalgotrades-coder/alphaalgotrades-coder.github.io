@@ -1,18 +1,8 @@
 {
- "generated_utc": "2026-09-27T03:55:03+00:00",
- "date_et": "2026-09-26",
+ "generated_utc": "2026-09-27T04:00:04+00:00",
+ "date_et": "2026-09-27",
  "build": "0d463cfe05",
- "tape": [
-  {
-   "time": "10:00",
-   "ccy": "NZD",
-   "impact": "Holi",
-   "title": "Daylight Saving Time Shift",
-   "cons": "",
-   "prev": "",
-   "actual": ""
-  }
- ],
+ "tape": [],
  "rates": {
   "rows": [
    {
@@ -280,9 +270,9 @@
     "pct": -5.11
    }
   ],
-  "as_of": "2026-09-27T03:54:05.644579+00:00",
+  "as_of": "2026-09-27T03:57:05.631300+00:00",
   "tone": "risk-on",
-  "age_min": 0.9684601833333333
+  "age_min": 2.975267166666667
  },
  "stories": [
   {
