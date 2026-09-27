@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-27T10:30:04+00:00",
+ "generated_utc": "2026-09-27T10:35:03+00:00",
  "date_et": "2026-09-27",
  "build": "0d463cfe05",
  "tape": [
@@ -289,9 +289,9 @@
     "pct": -5.11
    }
   ],
-  "as_of": "2026-09-27T10:27:05.913896+00:00",
+  "as_of": "2026-09-27T10:33:05.622127+00:00",
   "tone": "risk-on",
-  "age_min": 2.97398985
+  "age_min": 1.9704211
  },
  "stories": [
   {
@@ -316,13 +316,6 @@
    "read": "unclear"
   },
   {
-   "topic": "Russia / Ukraine",
-   "title": "Putin appears to be eyeing NATO. The question is, will he actually attack? - CBC",
-   "source": "CBC",
-   "published": "Sun, 27 Sep 2026 08:00:00 GMT",
-   "read": "unclear"
-  },
-  {
    "topic": "Iran / Hormuz",
    "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal - BBC",
    "source": "BBC",
@@ -330,9 +323,16 @@
    "read": "de-escalation"
   },
   {
+   "topic": "Russia / Ukraine",
+   "title": "Russia's finance ministry raises taxes to bolster military budget - Euronews.com",
+   "source": "Euronews.com",
+   "published": "Sun, 27 Sep 2026 05:30:35 GMT",
+   "read": "escalation"
+  },
+  {
    "topic": "Iran / Hormuz",
-   "title": "Why Trump said no to Iran\u2019s Hormuz proposal - iranintl.com",
-   "source": "iranintl.com",
+   "title": "Why Trump said no to Iran\u2019s Hormuz proposal - Iran International",
+   "source": "Iran International",
    "published": "Sun, 27 Sep 2026 02:54:57 GMT",
    "read": "unclear"
   }
