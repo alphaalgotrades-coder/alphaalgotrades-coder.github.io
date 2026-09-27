@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-27T22:50:03+00:00",
+ "generated_utc": "2026-09-27T22:55:03+00:00",
  "date_et": "2026-09-27",
  "build": "0d463cfe05",
  "tape": [
@@ -255,8 +255,8 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 93.53,
-    "pct": 1.21
+    "price": 93.57,
+    "pct": 1.26
    },
    {
     "sym": "GC",
@@ -289,9 +289,9 @@
     "pct": -5.11
    }
   ],
-  "as_of": "2026-09-27T22:48:05.962206+00:00",
+  "as_of": "2026-09-27T22:54:06.393888+00:00",
   "tone": "risk-on",
-  "age_min": 1.9581298166666667
+  "age_min": 0.9594150333333332
  },
  "stories": [
   {
@@ -310,13 +310,6 @@
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "IRGC spokesperson says Iran captured second American submarine in Hormuz 'hunting ground' - report - The Jerusalem Post",
-   "source": "The Jerusalem Post",
-   "published": "Sun, 27 Sep 2026 20:48:50 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
    "title": "Trump expects new Iran talks despite rejecting deal offer - yahoo.com",
    "source": "yahoo.com",
    "published": "Sun, 27 Sep 2026 18:40:27 GMT",
@@ -327,6 +320,13 @@
    "title": "Hormuz oil flows rise despite Iran threats against shipping - Iran International",
    "source": "Iran International",
    "published": "Sun, 27 Sep 2026 15:16:57 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "After nixing Iran proposal, Trump tells Axios he expects talks this week - Axios",
+   "source": "Axios",
+   "published": "Sun, 27 Sep 2026 15:06:34 GMT",
    "read": "unclear"
   },
   {
