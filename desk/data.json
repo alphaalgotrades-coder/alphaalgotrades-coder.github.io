@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-27T19:10:04+00:00",
+ "generated_utc": "2026-09-27T19:15:04+00:00",
  "date_et": "2026-09-27",
  "build": "0d463cfe05",
  "tape": [
@@ -289,9 +289,9 @@
     "pct": -5.11
    }
   ],
-  "as_of": "2026-09-27T19:09:06.372435+00:00",
+  "as_of": "2026-09-27T19:12:06.052821+00:00",
   "tone": "risk-on",
-  "age_min": 0.9629953833333332
+  "age_min": 2.971687316666667
  },
  "stories": [
   {
@@ -300,6 +300,20 @@
    "source": "Bloomberg",
    "published": "Thu, 24 Sep 2026 13:07:09 GMT",
    "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "US War on Iran, Day 213: Trump Rejects Tehran Proposal to Reopen Talks and Strait of Hormuz - EA WorldView",
+   "source": "EA WorldView",
+   "published": "Sun, 27 Sep 2026 18:53:36 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Trump expects new Iran talks despite rejecting deal offer - Yahoo",
+   "source": "Yahoo",
+   "published": "Sun, 27 Sep 2026 18:40:27 GMT",
+   "read": "unclear"
   },
   {
    "topic": "Iran / Hormuz",
@@ -320,20 +334,6 @@
    "title": "Kremlin warns Starlink use for strikes deep inside Russia would be \u2018dangerous\u2019 - Anadolu Ajans\u0131",
    "source": "Anadolu Ajans\u0131",
    "published": "Sun, 27 Sep 2026 16:08:22 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran Says Won\u2019t Soften Demands as Trump Rejects Hormuz Offer - Bloomberg.com",
-   "source": "Bloomberg.com",
-   "published": "Sun, 27 Sep 2026 16:06:17 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran Says Won\u2019t Soften Demands After Trump Rejects Hormuz Offer - Bloomberg.com",
-   "source": "Bloomberg.com",
-   "published": "Sun, 27 Sep 2026 16:06:17 GMT",
    "read": "escalation"
   }
  ],
