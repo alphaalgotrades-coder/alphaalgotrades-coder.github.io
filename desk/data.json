@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-27T09:10:03+00:00",
+ "generated_utc": "2026-09-27T09:15:04+00:00",
  "date_et": "2026-09-27",
  "build": "0d463cfe05",
  "tape": [
@@ -289,9 +289,9 @@
     "pct": -5.11
    }
   ],
-  "as_of": "2026-09-27T09:09:05.154573+00:00",
+  "as_of": "2026-09-27T09:12:05.009683+00:00",
   "tone": "risk-on",
-  "age_min": 0.9778074666666666
+  "age_min": 2.9854536333333335
  },
  "stories": [
   {
@@ -324,17 +324,17 @@
   },
   {
    "topic": "Taiwan / China",
-   "title": "Taiwan says US 'very much' understands its defence needs amid China threat - timesofindia.indiatimes.com",
-   "source": "timesofindia.indiatimes.com",
-   "published": "Sun, 27 Sep 2026 05:28:00 GMT",
+   "title": "US \u2018very much\u2019 understands Taiwan\u2019s defence needs, Taipei official says - Internazionale",
+   "source": "Internazionale",
+   "published": "Sun, 27 Sep 2026 02:43:56 GMT",
    "read": "unclear"
   },
   {
-   "topic": "Taiwan / China",
-   "title": "US \u2018very much\u2019 understands Taiwan\u2019s defence needs, Taipei official says - WTVB",
-   "source": "WTVB",
-   "published": "Sun, 27 Sep 2026 03:10:42 GMT",
-   "read": "unclear"
+   "topic": "Iran / Hormuz",
+   "title": "Trump rejects Iran\u2019s proposal to reopen Strait of Hormuz, restart peace talks - washingtonpost.com",
+   "source": "washingtonpost.com",
+   "published": "Sun, 27 Sep 2026 02:21:17 GMT",
+   "read": "escalation"
   }
  ],
  "ratings": [
