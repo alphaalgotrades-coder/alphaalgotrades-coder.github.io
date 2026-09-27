@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-27T18:30:04+00:00",
+ "generated_utc": "2026-09-27T18:35:03+00:00",
  "date_et": "2026-09-27",
  "build": "0d463cfe05",
  "tape": [
@@ -289,9 +289,9 @@
     "pct": -5.11
    }
   ],
-  "as_of": "2026-09-27T18:27:06.423454+00:00",
+  "as_of": "2026-09-27T18:33:06.188534+00:00",
   "tone": "risk-on",
-  "age_min": 2.9656135166666666
+  "age_min": 1.964159
  },
  "stories": [
   {
@@ -299,6 +299,13 @@
    "title": "Saudis Surge Oil Exports to War-Time Peak on Hormuz Ramp Up - Bloomberg",
    "source": "Bloomberg",
    "published": "Thu, 24 Sep 2026 13:07:09 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Live - Yemen forces say four Iranian drone, missile experts killed - iranintl.com",
+   "source": "iranintl.com",
+   "published": "Sun, 27 Sep 2026 17:13:27 GMT",
    "read": "escalation"
   },
   {
@@ -317,23 +324,16 @@
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Iran Says Won\u2019t Soften Demands After Trump Rejects Hormuz Offer - Bloomberg.com",
+   "title": "Iran Says Won\u2019t Soften Demands as Trump Rejects Hormuz Offer - Bloomberg.com",
    "source": "Bloomberg.com",
    "published": "Sun, 27 Sep 2026 16:06:17 GMT",
    "read": "escalation"
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "IRGC claims, US denies seizure of underwater US drone in Hormuz - Euronews.com",
-   "source": "Euronews.com",
-   "published": "Sun, 27 Sep 2026 15:01:14 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran stands firm on Hormuz plan after US rejection - yahoo.com",
-   "source": "yahoo.com",
-   "published": "Sun, 27 Sep 2026 14:44:26 GMT",
+   "title": "Iran Says Won\u2019t Soften Demands After Trump Rejects Hormuz Offer - Bloomberg.com",
+   "source": "Bloomberg.com",
+   "published": "Sun, 27 Sep 2026 16:06:17 GMT",
    "read": "escalation"
   }
  ],
