@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-27T13:55:03+00:00",
+ "generated_utc": "2026-09-27T14:00:04+00:00",
  "date_et": "2026-09-27",
  "build": "0d463cfe05",
  "tape": [
@@ -289,9 +289,9 @@
     "pct": -5.11
    }
   ],
-  "as_of": "2026-09-27T13:54:05.318814+00:00",
+  "as_of": "2026-09-27T13:57:05.505631+00:00",
   "tone": "risk-on",
-  "age_min": 0.9692571666666667
+  "age_min": 2.9869857166666667
  },
  "stories": [
   {
@@ -337,7 +337,24 @@
    "read": "escalation"
   }
  ],
- "ratings": [],
+ "ratings": [
+  {
+   "date": "2026-09-18",
+   "title": "Scope upgrades the Hellenic Republic\u2019s rating to BBB+ with Stable Outlook",
+   "text": "Rapid debt reduction and improved economic resilience support the upgrade. Still-high public debt, structural growth constraints and persistent external vulnerabilities remain key constraints.",
+   "action": "upgrade",
+   "agency": "Scope Ratings",
+   "id": 181034
+  },
+  {
+   "date": "2026-09-18",
+   "title": "Scope downgrades France\u2019s long-term ratings to A+ and revises the Outlooks to Stable",
+   "text": "A sustained deterioration in the fiscal outlook, characterised by rising general government debt, persistently high fiscal deficits and limited progress on structural reforms drive the downgrade.",
+   "action": "downgrade",
+   "agency": "Scope Ratings",
+   "id": 181031
+  }
+ ],
  "policy": [
   {
    "ccy": "USD",
