@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-27T00:50:03+00:00",
+ "generated_utc": "2026-09-27T00:55:03+00:00",
  "date_et": "2026-09-26",
  "build": "0d463cfe05",
  "tape": [
@@ -280,9 +280,9 @@
     "pct": -5.11
    }
   ],
-  "as_of": "2026-09-27T00:48:08.526994+00:00",
+  "as_of": "2026-09-27T00:54:05.692066+00:00",
   "tone": "risk-on",
-  "age_min": 1.9215029833333332
+  "age_min": 0.96642385
  },
  "stories": [
   {
@@ -307,13 +307,6 @@
    "read": "unclear"
   },
   {
-   "topic": "Iran / Hormuz",
-   "title": "Iran insists on diplomatic solution after Trump rejects peace plan - Reuters",
-   "source": "Reuters",
-   "published": "Sat, 26 Sep 2026 22:42:34 GMT",
-   "read": "unclear"
-  },
-  {
    "topic": "Russia / Ukraine",
    "title": "German and Russian foreign ministers have rare meeting at United Nations General Assembly - PBS",
    "source": "PBS",
@@ -326,6 +319,13 @@
    "source": "manilatimes.net",
    "published": "Sat, 26 Sep 2026 16:06:00 GMT",
    "read": "unclear"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Russia expected to intensify hybrid war on Europe - dw.com",
+   "source": "dw.com",
+   "published": "Sat, 26 Sep 2026 15:41:34 GMT",
+   "read": "escalation"
   }
  ],
  "ratings": [
