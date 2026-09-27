@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-27T20:10:02+00:00",
+ "generated_utc": "2026-09-27T20:15:03+00:00",
  "date_et": "2026-09-27",
  "build": "0d463cfe05",
  "tape": [
@@ -289,9 +289,9 @@
     "pct": -5.11
    }
   ],
-  "as_of": "2026-09-27T20:09:09.517213+00:00",
+  "as_of": "2026-09-27T20:12:05.395251+00:00",
   "tone": "risk-on",
-  "age_min": 0.8860795166666667
+  "age_min": 2.9674900833333333
  },
  "stories": [
   {
@@ -300,6 +300,13 @@
    "source": "Bloomberg",
    "published": "Thu, 24 Sep 2026 13:07:09 GMT",
    "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Trump says that Iran wants a Strait of Hormuz deal \u2018because they\u2019re dying\u2019 - fox23.com",
+   "source": "fox23.com",
+   "published": "Sun, 27 Sep 2026 19:07:04 GMT",
+   "read": "unclear"
   },
   {
    "topic": "Iran / Hormuz",
@@ -321,13 +328,6 @@
    "source": "Fox News",
    "published": "Sun, 27 Sep 2026 16:59:44 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran Says Won\u2019t Soften Demands as Trump Rejects Hormuz Offer - Bloomberg.com",
-   "source": "Bloomberg.com",
-   "published": "Sun, 27 Sep 2026 16:06:17 GMT",
-   "read": "escalation"
   },
   {
    "topic": "Iran / Hormuz",
