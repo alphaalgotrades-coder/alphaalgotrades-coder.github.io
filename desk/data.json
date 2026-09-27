@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-27T08:50:03+00:00",
+ "generated_utc": "2026-09-27T08:55:03+00:00",
  "date_et": "2026-09-27",
  "build": "0d463cfe05",
  "tape": [
@@ -289,9 +289,9 @@
     "pct": -5.11
    }
   ],
-  "as_of": "2026-09-27T08:48:04.715297+00:00",
+  "as_of": "2026-09-27T08:54:04.715448+00:00",
   "tone": "risk-on",
-  "age_min": 1.9808689833333333
+  "age_min": 0.9818029333333332
  },
  "stories": [
   {
@@ -331,9 +331,9 @@
   },
   {
    "topic": "Taiwan / China",
-   "title": "US \u2018very much\u2019 understands Taiwan\u2019s defence needs, Taipei official says - The Straits Times",
-   "source": "The Straits Times",
-   "published": "Sun, 27 Sep 2026 02:47:00 GMT",
+   "title": "US \u2018very much\u2019 understands Taiwan\u2019s defence needs, Taipei official says - WTVB",
+   "source": "WTVB",
+   "published": "Sun, 27 Sep 2026 03:10:42 GMT",
    "read": "unclear"
   }
  ],
