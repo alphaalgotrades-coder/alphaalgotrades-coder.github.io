@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-27T17:10:03+00:00",
+ "generated_utc": "2026-09-27T17:15:04+00:00",
  "date_et": "2026-09-27",
  "build": "0d463cfe05",
  "tape": [
@@ -249,7 +249,7 @@
    {
     "sym": "MOVE",
     "name": "Bond-market volatility",
-    "price": 96.0025,
+    "price": 96.003,
     "pct": -8.2
    },
    {
@@ -267,8 +267,8 @@
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.035,
-    "pct": 0.06
+    "price": 100.971,
+    "pct": null
    },
    {
     "sym": "SPY",
@@ -289,9 +289,9 @@
     "pct": -5.11
    }
   ],
-  "as_of": "2026-09-27T17:09:06.224248+00:00",
+  "as_of": "2026-09-27T17:12:05.698531+00:00",
   "tone": "risk-on",
-  "age_min": 0.9565873666666668
+  "age_min": 2.975340533333333
  },
  "stories": [
   {
@@ -323,18 +323,18 @@
    "read": "escalation"
   },
   {
+   "topic": "Iran / Hormuz",
+   "title": "\u2018Better deal\u2019: What\u2019s behind Trump\u2019s rejection of Iran\u2019s truce offer? - Al Jazeera",
+   "source": "Al Jazeera",
+   "published": "Sun, 27 Sep 2026 13:26:03 GMT",
+   "read": "unclear"
+  },
+  {
    "topic": "Russia / Ukraine",
    "title": "Finland's Stubb credits Trump for pushing Ukraine peace talks while dismissing Russian invasion fears - foxnews.com",
    "source": "foxnews.com",
    "published": "Sun, 27 Sep 2026 10:00:14 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Russia intensifies hybrid war beyond Ukraine, rattling Europe - The Hill",
-   "source": "The Hill",
-   "published": "Sun, 27 Sep 2026 10:00:00 GMT",
-   "read": "escalation"
   }
  ],
  "ratings": [
