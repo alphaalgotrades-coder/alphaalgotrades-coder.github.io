@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-27T21:50:03+00:00",
+ "generated_utc": "2026-09-27T21:55:03+00:00",
  "date_et": "2026-09-27",
  "build": "0d463cfe05",
  "tape": [
@@ -289,9 +289,9 @@
     "pct": -5.11
    }
   ],
-  "as_of": "2026-09-27T21:48:08.636987+00:00",
+  "as_of": "2026-09-27T21:54:06.011568+00:00",
   "tone": "risk-on",
-  "age_min": 1.9093921333333335
+  "age_min": 0.9564711
  },
  "stories": [
   {
@@ -307,13 +307,6 @@
    "source": "The Jerusalem Post",
    "published": "Sun, 27 Sep 2026 20:48:50 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Live - Trump expects new Iran talks as Tehran says none planned - Iran International",
-   "source": "Iran International",
-   "published": "Sun, 27 Sep 2026 20:10:37 GMT",
-   "read": "unclear"
   },
   {
    "topic": "Iran / Hormuz",
@@ -334,6 +327,13 @@
    "title": "South Korea, Ukraine relations sour over North Korean POW transfer - Al Jazeera",
    "source": "Al Jazeera",
    "published": "Sun, 27 Sep 2026 18:35:29 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Ukraine's attacks on Russia are pushing Putin closer to negotiating table, Trump NATO ambassador says - Fox News",
+   "source": "Fox News",
+   "published": "Sun, 27 Sep 2026 16:59:44 GMT",
    "read": "unclear"
   }
  ],
