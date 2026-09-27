@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-27T07:30:04+00:00",
+ "generated_utc": "2026-09-27T07:35:03+00:00",
  "date_et": "2026-09-27",
  "build": "0d463cfe05",
  "tape": [
@@ -289,9 +289,9 @@
     "pct": -5.11
    }
   ],
-  "as_of": "2026-09-27T07:27:04.952097+00:00",
+  "as_of": "2026-09-27T07:33:06.789618+00:00",
   "tone": "risk-on",
-  "age_min": 2.990395233333333
+  "age_min": 1.95327235
  },
  "stories": [
   {
@@ -309,32 +309,32 @@
    "read": "unclear"
   },
   {
+   "topic": "Russia / Ukraine",
+   "title": "Opinion | Trump Gives Putin Another Blessing - WSJ",
+   "source": "WSJ",
+   "published": "Sun, 27 Sep 2026 07:03:40 GMT",
+   "read": "unclear"
+  },
+  {
    "topic": "Taiwan / China",
-   "title": "Taiwan says US 'very much' understands its defence needs amid China threat - The Times of India",
-   "source": "The Times of India",
+   "title": "Taiwan says US 'very much' understands its defence needs amid China threat - timesofindia.indiatimes.com",
+   "source": "timesofindia.indiatimes.com",
    "published": "Sun, 27 Sep 2026 05:28:00 GMT",
    "read": "unclear"
   },
   {
    "topic": "Taiwan / China",
-   "title": "Taiwan tracks 11 Chinese ships and 2 military aircraft - Taiwan News",
-   "source": "Taiwan News",
-   "published": "Sun, 27 Sep 2026 04:51:21 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Taiwan / China",
-   "title": "Mike Gallagher says Beijing eyes Taiwan as key to AI dominance - Taiwan News",
-   "source": "Taiwan News",
-   "published": "Sun, 27 Sep 2026 03:19:00 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Taiwan / China",
-   "title": "US 'very much' understands Taiwan's defence needs, Taipei official says - The Straits Times",
+   "title": "US \u2018very much\u2019 understands Taiwan\u2019s defence needs, Taipei official says - The Straits Times",
    "source": "The Straits Times",
    "published": "Sun, 27 Sep 2026 02:47:00 GMT",
    "read": "unclear"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Trump rejects Iran\u2019s proposal to reopen Strait of Hormuz, restart peace talks - washingtonpost.com",
+   "source": "washingtonpost.com",
+   "published": "Sun, 27 Sep 2026 02:21:17 GMT",
+   "read": "escalation"
   }
  ],
  "ratings": [
