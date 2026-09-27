@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-27T13:10:03+00:00",
+ "generated_utc": "2026-09-27T13:15:04+00:00",
  "date_et": "2026-09-27",
  "build": "0d463cfe05",
  "tape": [
@@ -289,9 +289,9 @@
     "pct": -5.11
    }
   ],
-  "as_of": "2026-09-27T13:09:05.163999+00:00",
+  "as_of": "2026-09-27T13:12:05.146567+00:00",
   "tone": "risk-on",
-  "age_min": 0.9716619000000001
+  "age_min": 2.9846808166666667
  },
  "stories": [
   {
@@ -310,8 +310,15 @@
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Iran says it\u2019s ready for renewed strikes after Trump rejects deal - NewsNation",
-   "source": "NewsNation",
+   "title": "Iran Guards say seized US underwater drone in Hormuz - Arab News",
+   "source": "Arab News",
+   "published": "Sun, 27 Sep 2026 10:49:09 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iran says it\u2019s ready for renewed strikes after Trump rejects deal - newsnationnow.com",
+   "source": "newsnationnow.com",
    "published": "Sun, 27 Sep 2026 10:41:24 GMT",
    "read": "escalation"
   },
@@ -328,13 +335,6 @@
    "source": "france24.com",
    "published": "Sun, 27 Sep 2026 09:51:06 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Taiwan / China",
-   "title": "Mark Montgomery calls for stronger Taiwan-US military interoperability - Taiwan News",
-   "source": "Taiwan News",
-   "published": "Sun, 27 Sep 2026 09:16:00 GMT",
-   "read": "unclear"
   }
  ],
  "ratings": [
