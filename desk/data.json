@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-27T21:30:04+00:00",
+ "generated_utc": "2026-09-27T21:35:03+00:00",
  "date_et": "2026-09-27",
  "build": "0d463cfe05",
  "tape": [
@@ -289,9 +289,9 @@
     "pct": -5.11
    }
   ],
-  "as_of": "2026-09-27T21:27:05.494035+00:00",
+  "as_of": "2026-09-27T21:33:05.479835+00:00",
   "tone": "risk-on",
-  "age_min": 2.9811421666666664
+  "age_min": 1.9694480666666665
  },
  "stories": [
   {
@@ -299,6 +299,13 @@
    "title": "Saudis Surge Oil Exports to War-Time Peak on Hormuz Ramp Up - Bloomberg",
    "source": "Bloomberg",
    "published": "Thu, 24 Sep 2026 13:07:09 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "IRGC spokesperson says Iran captured second American submarine in Hormuz 'hunting ground' - report - The Jerusalem Post",
+   "source": "The Jerusalem Post",
+   "published": "Sun, 27 Sep 2026 20:48:50 GMT",
    "read": "escalation"
   },
   {
@@ -317,9 +324,9 @@
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Trump says that Iran wants a Strait of Hormuz deal \u2018because they\u2019re dying\u2019 - fox23.com",
-   "source": "fox23.com",
-   "published": "Sun, 27 Sep 2026 19:07:04 GMT",
+   "title": "Iran is Overestimating its Bargaining Power in the Strait of Hormuz - The Maritime Executive",
+   "source": "The Maritime Executive",
+   "published": "Sun, 27 Sep 2026 19:23:55 GMT",
    "read": "unclear"
   },
   {
@@ -327,13 +334,6 @@
    "title": "South Korea, Ukraine relations sour over North Korean POW transfer - Al Jazeera",
    "source": "Al Jazeera",
    "published": "Sun, 27 Sep 2026 18:35:29 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Ukraine's attacks on Russia are pushing Putin closer to negotiating table, Trump NATO ambassador says - Fox News",
-   "source": "Fox News",
-   "published": "Sun, 27 Sep 2026 16:59:44 GMT",
    "read": "unclear"
   }
  ],
