@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-27T13:50:03+00:00",
+ "generated_utc": "2026-09-27T13:55:03+00:00",
  "date_et": "2026-09-27",
  "build": "0d463cfe05",
  "tape": [
@@ -289,9 +289,9 @@
     "pct": -5.11
    }
   ],
-  "as_of": "2026-09-27T13:48:04.795162+00:00",
+  "as_of": "2026-09-27T13:54:05.318814+00:00",
   "tone": "risk-on",
-  "age_min": 1.9771655833333335
+  "age_min": 0.9692571666666667
  },
  "stories": [
   {
@@ -299,13 +299,6 @@
    "title": "Saudis Surge Oil Exports to War-Time Peak on Hormuz Ramp Up - Bloomberg",
    "source": "Bloomberg",
    "published": "Thu, 24 Sep 2026 13:07:09 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran Guards say seized US underwater drone in Hormuz - Arab News",
-   "source": "Arab News",
-   "published": "Sun, 27 Sep 2026 10:49:09 GMT",
    "read": "escalation"
   },
   {
@@ -330,6 +323,13 @@
    "read": "escalation"
   },
   {
+   "topic": "Iran / Hormuz",
+   "title": "A new flash point in the Iran war: The narrow strait called the \u2018Gate of Tears\u2019 - latimes.com",
+   "source": "latimes.com",
+   "published": "Sun, 27 Sep 2026 10:00:00 GMT",
+   "read": "unclear"
+  },
+  {
    "topic": "Russia / Ukraine",
    "title": "Russian strikes kill four in Ukraine - france24.com",
    "source": "france24.com",
@@ -337,24 +337,7 @@
    "read": "escalation"
   }
  ],
- "ratings": [
-  {
-   "date": "2026-09-18",
-   "title": "Scope upgrades the Hellenic Republic\u2019s rating to BBB+ with Stable Outlook",
-   "text": "Rapid debt reduction and improved economic resilience support the upgrade. Still-high public debt, structural growth constraints and persistent external vulnerabilities remain key constraints.",
-   "action": "upgrade",
-   "agency": "Scope Ratings",
-   "id": 181034
-  },
-  {
-   "date": "2026-09-18",
-   "title": "Scope downgrades France\u2019s long-term ratings to A+ and revises the Outlooks to Stable",
-   "text": "A sustained deterioration in the fiscal outlook, characterised by rising general government debt, persistently high fiscal deficits and limited progress on structural reforms drive the downgrade.",
-   "action": "downgrade",
-   "agency": "Scope Ratings",
-   "id": 181031
-  }
- ],
+ "ratings": [],
  "policy": [
   {
    "ccy": "USD",
