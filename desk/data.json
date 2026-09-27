@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-27T03:10:03+00:00",
+ "generated_utc": "2026-09-27T03:15:03+00:00",
  "date_et": "2026-09-26",
  "build": "0d463cfe05",
  "tape": [
@@ -280,9 +280,9 @@
     "pct": -5.11
    }
   ],
-  "as_of": "2026-09-27T03:09:05.946026+00:00",
+  "as_of": "2026-09-27T03:12:05.790933+00:00",
   "tone": "risk-on",
-  "age_min": 0.961549
+  "age_min": 2.9705070166666667
  },
  "stories": [
   {
@@ -297,6 +297,13 @@
    "title": "Russian Offensive Campaign Assessment, September 23, 2026 - understandingwar.org",
    "source": "understandingwar.org",
    "published": "Thu, 24 Sep 2026 02:38:04 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Taiwan / China",
+   "title": "US \u2018very much\u2019 understands Taiwan\u2019s defence needs, Taipei official says - The Mighty 790 KFGO",
+   "source": "The Mighty 790 KFGO",
+   "published": "Sun, 27 Sep 2026 03:03:51 GMT",
    "read": "unclear"
   },
   {
@@ -319,13 +326,6 @@
    "source": "AP News",
    "published": "Sat, 26 Sep 2026 21:30:00 GMT",
    "read": "de-escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "US helps double oil volume exiting the Gulf, with the military now guiding ships in broad daylight - fortune.com",
-   "source": "fortune.com",
-   "published": "Sat, 26 Sep 2026 19:40:00 GMT",
-   "read": "unclear"
   }
  ],
  "ratings": [
