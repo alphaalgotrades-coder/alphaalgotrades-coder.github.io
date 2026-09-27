@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-27T08:10:03+00:00",
+ "generated_utc": "2026-09-27T08:15:04+00:00",
  "date_et": "2026-09-27",
  "build": "0d463cfe05",
  "tape": [
@@ -289,9 +289,9 @@
     "pct": -5.11
    }
   ],
-  "as_of": "2026-09-27T08:09:05.170579+00:00",
+  "as_of": "2026-09-27T08:12:04.671939+00:00",
   "tone": "risk-on",
-  "age_min": 0.9745971499999999
+  "age_min": 2.9913955833333334
  },
  "stories": [
   {
@@ -303,9 +303,9 @@
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "Russian Offensive Campaign Assessment, September 23, 2026 - understandingwar.org",
-   "source": "understandingwar.org",
-   "published": "Thu, 24 Sep 2026 02:38:04 GMT",
+   "title": "Putin appears to be eyeing NATO. The question is, will he actually attack? - CBC",
+   "source": "CBC",
+   "published": "Sun, 27 Sep 2026 08:00:00 GMT",
    "read": "unclear"
   },
   {
