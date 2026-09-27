@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-27T00:10:03+00:00",
+ "generated_utc": "2026-09-27T00:15:04+00:00",
  "date_et": "2026-09-26",
  "build": "0d463cfe05",
  "tape": [
@@ -280,9 +280,9 @@
     "pct": -5.11
    }
   ],
-  "as_of": "2026-09-27T00:09:05.874450+00:00",
+  "as_of": "2026-09-27T00:12:14.002453+00:00",
   "tone": "risk-on",
-  "age_min": 0.9601251333333334
+  "age_min": 2.835825
  },
  "stories": [
   {
@@ -294,22 +294,8 @@
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Iran\u2019s president delivers defiant UN speech, and other Mideast developments - apnews.com",
-   "source": "apnews.com",
-   "published": "Thu, 24 Sep 2026 02:10:00 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Live - Iran says awaiting formal US answer after Trump rejection - Iran International",
-   "source": "Iran International",
-   "published": "Sat, 26 Sep 2026 22:55:54 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran insists on diplomatic solution after Trump rejects peace plan - reuters.com",
-   "source": "reuters.com",
+   "title": "Iran insists on diplomatic solution after Trump rejects peace plan - Reuters",
+   "source": "Reuters",
    "published": "Sat, 26 Sep 2026 22:42:34 GMT",
    "read": "unclear"
   },
@@ -321,10 +307,24 @@
    "read": "unclear"
   },
   {
+   "topic": "Iran / Hormuz",
+   "title": "Trump calls Iranian plan to reopen Strait of Hormuz not 'acceptable' - npr.org",
+   "source": "npr.org",
+   "published": "Sat, 26 Sep 2026 20:08:28 GMT",
+   "read": "escalation"
+  },
+  {
    "topic": "Russia / Ukraine",
    "title": "German and Russian foreign ministers have rare meeting at United Nations General Assembly - PBS",
    "source": "PBS",
    "published": "Sat, 26 Sep 2026 19:08:31 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Taiwan / China",
+   "title": "China\u2019s risk calculus to use force on Taiwan - manilatimes.net",
+   "source": "manilatimes.net",
+   "published": "Sat, 26 Sep 2026 16:06:00 GMT",
    "read": "unclear"
   }
  ],
