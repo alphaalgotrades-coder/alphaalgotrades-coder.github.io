@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-27T11:10:03+00:00",
+ "generated_utc": "2026-09-27T11:15:04+00:00",
  "date_et": "2026-09-27",
  "build": "0d463cfe05",
  "tape": [
@@ -289,9 +289,9 @@
     "pct": -5.11
    }
   ],
-  "as_of": "2026-09-27T11:09:05.809029+00:00",
+  "as_of": "2026-09-27T11:12:05.699647+00:00",
   "tone": "risk-on",
-  "age_min": 0.9622710166666667
+  "age_min": 2.978018083333333
  },
  "stories": [
   {
@@ -299,6 +299,27 @@
    "title": "Saudis Surge Oil Exports to War-Time Peak on Hormuz Ramp Up - Bloomberg",
    "source": "Bloomberg",
    "published": "Thu, 24 Sep 2026 13:07:09 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "The Hidden State Russia Is Building Inside Ukraine - The Atlantic",
+   "source": "The Atlantic",
+   "published": "Sun, 27 Sep 2026 11:00:00 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Official Media: Iran Seizes US Autonomous Submarine in Strait of Hormuz - Arab News",
+   "source": "Arab News",
+   "published": "Sun, 27 Sep 2026 10:49:09 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "A new flash point in the Iran war: The narrow strait called the \u2018Gate of Tears\u2019 - Los Angeles Times",
+   "source": "Los Angeles Times",
+   "published": "Sun, 27 Sep 2026 10:00:00 GMT",
    "read": "escalation"
   },
   {
@@ -313,27 +334,6 @@
    "title": "Mark Montgomery calls for stronger Taiwan-US military interoperability - Taiwan News",
    "source": "Taiwan News",
    "published": "Sun, 27 Sep 2026 09:16:00 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal - BBC",
-   "source": "BBC",
-   "published": "Sun, 27 Sep 2026 07:44:11 GMT",
-   "read": "de-escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Russia's finance ministry raises taxes to bolster military budget - Euronews.com",
-   "source": "Euronews.com",
-   "published": "Sun, 27 Sep 2026 05:30:35 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Why Trump said no to Iran\u2019s Hormuz proposal - Iran International",
-   "source": "Iran International",
-   "published": "Sun, 27 Sep 2026 02:54:57 GMT",
    "read": "unclear"
   }
  ],
