@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-27T20:30:02+00:00",
+ "generated_utc": "2026-09-27T20:35:03+00:00",
  "date_et": "2026-09-27",
  "build": "0d463cfe05",
  "tape": [
@@ -289,9 +289,9 @@
     "pct": -5.11
    }
   ],
-  "as_of": "2026-09-27T20:27:12.306764+00:00",
+  "as_of": "2026-09-27T20:33:05.598154+00:00",
   "tone": "risk-on",
-  "age_min": 2.8404006833333333
+  "age_min": 1.9600715833333333
  },
  "stories": [
   {
@@ -303,23 +303,30 @@
   },
   {
    "topic": "Iran / Hormuz",
+   "title": "Live - Trump expects new Iran talks as Tehran says none planned - Iran International",
+   "source": "Iran International",
+   "published": "Sun, 27 Sep 2026 20:10:37 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iran Still Awaits \u2018Official\u2019 U.S. Response Despite Trump\u2019s Rebuff of Cease-Fire Offer - The New York Times",
+   "source": "The New York Times",
+   "published": "Sun, 27 Sep 2026 20:02:12 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Iran / Hormuz",
    "title": "Trump says that Iran wants a Strait of Hormuz deal \u2018because they\u2019re dying\u2019 - fox23.com",
    "source": "fox23.com",
    "published": "Sun, 27 Sep 2026 19:07:04 GMT",
    "read": "unclear"
   },
   {
-   "topic": "Iran / Hormuz",
-   "title": "US War on Iran, Day 213: Trump Rejects Tehran Proposal to Reopen Talks and Strait of Hormuz - EA WorldView",
-   "source": "EA WorldView",
-   "published": "Sun, 27 Sep 2026 18:53:36 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Trump expects new Iran talks despite rejecting deal offer - Yahoo",
-   "source": "Yahoo",
-   "published": "Sun, 27 Sep 2026 18:40:27 GMT",
+   "topic": "Russia / Ukraine",
+   "title": "South Korea, Ukraine relations sour over North Korean POW transfer - Al Jazeera",
+   "source": "Al Jazeera",
+   "published": "Sun, 27 Sep 2026 18:35:29 GMT",
    "read": "unclear"
   },
   {
@@ -327,13 +334,6 @@
    "title": "Ukraine's attacks on Russia are pushing Putin closer to negotiating table, Trump NATO ambassador says - Fox News",
    "source": "Fox News",
    "published": "Sun, 27 Sep 2026 16:59:44 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "After nixing Iran proposal, Trump tells Axios he expects talks this week - Axios",
-   "source": "Axios",
-   "published": "Sun, 27 Sep 2026 15:06:34 GMT",
    "read": "unclear"
   }
  ],
