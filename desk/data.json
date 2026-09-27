@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-27T19:30:03+00:00",
+ "generated_utc": "2026-09-27T19:35:04+00:00",
  "date_et": "2026-09-27",
  "build": "0d463cfe05",
  "tape": [
@@ -289,9 +289,9 @@
     "pct": -5.11
    }
   ],
-  "as_of": "2026-09-27T19:27:05.106447+00:00",
+  "as_of": "2026-09-27T19:33:04.966935+00:00",
   "tone": "risk-on",
-  "age_min": 2.9812518999999997
+  "age_min": 1.9949344833333333
  },
  "stories": [
   {
@@ -316,13 +316,6 @@
    "read": "unclear"
   },
   {
-   "topic": "Iran / Hormuz",
-   "title": "Live - Yemen forces say four Iranian drone, missile experts killed - iranintl.com",
-   "source": "iranintl.com",
-   "published": "Sun, 27 Sep 2026 17:13:27 GMT",
-   "read": "escalation"
-  },
-  {
    "topic": "Russia / Ukraine",
    "title": "Ukraine's attacks on Russia are pushing Putin closer to negotiating table, Trump NATO ambassador says - Fox News",
    "source": "Fox News",
@@ -330,11 +323,18 @@
    "read": "unclear"
   },
   {
-   "topic": "Russia / Ukraine",
-   "title": "Kremlin warns Starlink use for strikes deep inside Russia would be \u2018dangerous\u2019 - Anadolu Ajans\u0131",
-   "source": "Anadolu Ajans\u0131",
-   "published": "Sun, 27 Sep 2026 16:08:22 GMT",
+   "topic": "Iran / Hormuz",
+   "title": "Iran Says Won\u2019t Soften Demands as Trump Rejects Hormuz Offer - Bloomberg.com",
+   "source": "Bloomberg.com",
+   "published": "Sun, 27 Sep 2026 16:06:17 GMT",
    "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "After nixing Iran proposal, Trump tells Axios he expects talks this week - Axios",
+   "source": "Axios",
+   "published": "Sun, 27 Sep 2026 15:06:34 GMT",
+   "read": "unclear"
   }
  ],
  "ratings": [
