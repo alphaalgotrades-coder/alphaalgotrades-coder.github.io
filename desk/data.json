@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-27T01:30:03+00:00",
+ "generated_utc": "2026-09-27T01:35:03+00:00",
  "date_et": "2026-09-26",
  "build": "0d463cfe05",
  "tape": [
@@ -280,9 +280,9 @@
     "pct": -5.11
    }
   ],
-  "as_of": "2026-09-27T01:27:08.763164+00:00",
+  "as_of": "2026-09-27T01:33:05.113316+00:00",
   "tone": "risk-on",
-  "age_min": 2.914260216666667
+  "age_min": 1.9736638666666666
  },
  "stories": [
   {
@@ -290,6 +290,13 @@
    "title": "Saudi Aramco boosts crude loadings after pipeline disruption - investing.com",
    "source": "investing.com",
    "published": "Tue, 22 Sep 2026 00:44:46 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Russian Offensive Campaign Assessment, September 23, 2026 - understandingwar.org",
+   "source": "understandingwar.org",
+   "published": "Thu, 24 Sep 2026 02:38:04 GMT",
    "read": "unclear"
   },
   {
@@ -308,16 +315,9 @@
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "US helps double oil volume exiting the Gulf, with the military now guiding ships in broad daylight - Fortune",
-   "source": "Fortune",
+   "title": "US helps double oil volume exiting the Gulf, with the military now guiding ships in broad daylight - fortune.com",
+   "source": "fortune.com",
    "published": "Sat, 26 Sep 2026 19:40:00 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "German and Russian foreign ministers have rare meeting at United Nations General Assembly - PBS",
-   "source": "PBS",
-   "published": "Sat, 26 Sep 2026 19:08:31 GMT",
    "read": "unclear"
   },
   {
