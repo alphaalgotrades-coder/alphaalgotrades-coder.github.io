@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-27T00:30:04+00:00",
+ "generated_utc": "2026-09-27T00:35:03+00:00",
  "date_et": "2026-09-26",
  "build": "0d463cfe05",
  "tape": [
@@ -280,9 +280,9 @@
     "pct": -5.11
    }
   ],
-  "as_of": "2026-09-27T00:27:05.371326+00:00",
+  "as_of": "2026-09-27T00:33:05.507494+00:00",
   "tone": "risk-on",
-  "age_min": 2.9811712166666666
+  "age_min": 1.9668989000000001
  },
  "stories": [
   {
@@ -294,24 +294,24 @@
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Iran insists on diplomatic solution after Trump rejects peace plan - Reuters",
-   "source": "Reuters",
-   "published": "Sat, 26 Sep 2026 22:42:34 GMT",
-   "read": "unclear"
+   "title": "Trump rejects Iran\u2019s seven-day roadmap to end war and reopen Hormuz - Al Jazeera",
+   "source": "Al Jazeera",
+   "published": "Sun, 27 Sep 2026 00:12:53 GMT",
+   "read": "escalation"
   },
   {
-   "topic": "Russia / Ukraine",
-   "title": "Kellogg: Putin could end war tomorrow if he declares 'victory' to Russians - The New Voice of Ukraine",
-   "source": "The New Voice of Ukraine",
-   "published": "Sat, 26 Sep 2026 22:18:00 GMT",
+   "topic": "Iran / Hormuz",
+   "title": "Live - Iran says awaiting formal US answer after Trump rejection - iranintl.com",
+   "source": "iranintl.com",
+   "published": "Sat, 26 Sep 2026 22:55:54 GMT",
    "read": "unclear"
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Trump calls Iranian plan to reopen Strait of Hormuz not 'acceptable' - npr.org",
-   "source": "npr.org",
-   "published": "Sat, 26 Sep 2026 20:08:28 GMT",
-   "read": "escalation"
+   "title": "Iran insists on diplomatic solution after Trump rejects peace plan - Reuters",
+   "source": "Reuters",
+   "published": "Sat, 26 Sep 2026 22:42:34 GMT",
+   "read": "unclear"
   },
   {
    "topic": "Russia / Ukraine",
