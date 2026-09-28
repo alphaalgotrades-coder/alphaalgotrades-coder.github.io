@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-28T03:30:03+00:00",
+ "generated_utc": "2026-09-28T03:35:03+00:00",
  "date_et": "2026-09-27",
  "build": "0d463cfe05",
  "tape": [
@@ -255,20 +255,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 93.26,
-    "pct": 0.92
+    "price": 93.29,
+    "pct": 0.95
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4232.3,
-    "pct": -2.06
+    "price": 4227.8,
+    "pct": -2.16
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.084,
-    "pct": 0.11
+    "price": 101.1,
+    "pct": 0.13
    },
    {
     "sym": "SPY",
@@ -289,9 +289,9 @@
     "pct": -5.11
    }
   ],
-  "as_of": "2026-09-28T03:27:04.748030+00:00",
+  "as_of": "2026-09-28T03:33:04.758932+00:00",
   "tone": "risk-on",
-  "age_min": 2.9965150166666663
+  "age_min": 1.9888113833333334
  },
  "stories": [
   {
@@ -309,18 +309,11 @@
    "read": "escalation"
   },
   {
-   "topic": "Taiwan / China",
-   "title": "Trump Asked XI To Buy US Weapons as Taiwan's $14BN Arms Deal Remains on Hold, Envoy Says - inkl.com",
-   "source": "inkl.com",
-   "published": "Sun, 27 Sep 2026 23:34:07 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Taiwan / China",
-   "title": "Trump Offered to Sell Arms to China, U.S. Ambassador Says - The New York Times",
-   "source": "The New York Times",
-   "published": "Sun, 27 Sep 2026 22:52:11 GMT",
-   "read": "unclear"
+   "topic": "Iran / Hormuz",
+   "title": "Oil heads higher as US-Iran peace talks in stalemate - reuters.com",
+   "source": "reuters.com",
+   "published": "Sun, 27 Sep 2026 22:13:00 GMT",
+   "read": "de-escalation"
   },
   {
    "topic": "Russia / Ukraine",
@@ -334,6 +327,13 @@
    "title": "Putin appears to be eyeing NATO. The question is, will he actually attack? - cbc.ca",
    "source": "cbc.ca",
    "published": "Sun, 27 Sep 2026 08:00:00 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Taiwan / China",
+   "title": "US 'very much' understands Taiwan's defence needs, Taipei official says - reuters.com",
+   "source": "reuters.com",
+   "published": "Sun, 27 Sep 2026 02:44:00 GMT",
    "read": "unclear"
   }
  ],
