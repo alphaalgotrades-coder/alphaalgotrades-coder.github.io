@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-28T07:30:04+00:00",
+ "generated_utc": "2026-09-28T07:35:03+00:00",
  "date_et": "2026-09-28",
  "build": "0d463cfe05",
  "tape": [
@@ -300,20 +300,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 94.33,
-    "pct": 2.08
+    "price": 94.58,
+    "pct": 2.35
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4195.8,
-    "pct": -2.9
+    "price": 4190.0,
+    "pct": -3.04
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.185,
-    "pct": 0.21
+    "price": 101.17,
+    "pct": 0.2
    },
    {
     "sym": "SPY",
@@ -330,13 +330,13 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 14.87,
-    "pct": null
+    "price": 16.16,
+    "pct": 8.68
    }
   ],
-  "as_of": "2026-09-28T07:27:04.680836+00:00",
-  "tone": "risk-on",
-  "age_min": 2.99171715
+  "as_of": "2026-09-28T07:33:04.937992+00:00",
+  "tone": "mixed",
+  "age_min": 1.9832470833333333
  },
  "stories": [
   {
@@ -355,13 +355,6 @@
   },
   {
    "topic": "Taiwan / China",
-   "title": "US 'very much' understands Taiwan's defence needs, Taipei official says - reuters.com",
-   "source": "reuters.com",
-   "published": "Sun, 27 Sep 2026 02:44:00 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Taiwan / China",
    "title": "Taiwan\u2019s coastguard vessel transfer to the Philippines sparks double outcry - scmp.com",
    "source": "scmp.com",
    "published": "Sat, 26 Sep 2026 05:00:12 GMT",
@@ -369,8 +362,8 @@
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Oil Rises as Iran Says It Won\u2019t Soften Strait of Hormuz Demands - Bloomberg.com",
-   "source": "Bloomberg.com",
+   "title": "Oil Rises as Iran Says It Won\u2019t Soften Strait of Hormuz Demands - bloomberg.com",
+   "source": "bloomberg.com",
    "published": "Mon, 28 Sep 2026 05:37:00 GMT",
    "read": "escalation"
   },
@@ -379,6 +372,13 @@
    "title": "What Matters More to Putin? Russian Refineries or Striking Ukraine? - Kyiv Post",
    "source": "Kyiv Post",
    "published": "Mon, 28 Sep 2026 05:23:15 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Taiwan / China",
+   "title": "Trump offered to sell arms to China, US ambassador tells Fox News - channelnewsasia.com",
+   "source": "channelnewsasia.com",
+   "published": "Mon, 28 Sep 2026 04:13:00 GMT",
    "read": "unclear"
   }
  ],
