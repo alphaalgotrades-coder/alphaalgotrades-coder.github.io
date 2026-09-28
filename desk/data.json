@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-28T00:10:03+00:00",
+ "generated_utc": "2026-09-28T00:15:04+00:00",
  "date_et": "2026-09-27",
  "build": "0d463cfe05",
  "tape": [
@@ -261,8 +261,8 @@
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4294.2,
-    "pct": -0.62
+    "price": 4291.6,
+    "pct": -0.68
    },
    {
     "sym": "DXY",
@@ -289,9 +289,9 @@
     "pct": -5.11
    }
   ],
-  "as_of": "2026-09-28T00:09:05.569770+00:00",
+  "as_of": "2026-09-28T00:12:05.173665+00:00",
   "tone": "risk-on",
-  "age_min": 0.9727617166666668
+  "age_min": 2.9849218333333334
  },
  "stories": [
   {
@@ -307,6 +307,13 @@
    "source": "NBC News",
    "published": "Sun, 27 Sep 2026 23:00:38 GMT",
    "read": "de-escalation"
+  },
+  {
+   "topic": "Taiwan / China",
+   "title": "Trump Offered to Sell Arms to China, U.S. Ambassador Says - The New York Times",
+   "source": "The New York Times",
+   "published": "Sun, 27 Sep 2026 22:52:11 GMT",
+   "read": "unclear"
   },
   {
    "topic": "Iran / Hormuz",
@@ -327,13 +334,6 @@
    "title": "Hormuz oil flows rise despite Iran threats against shipping - iranintl.com",
    "source": "iranintl.com",
    "published": "Sun, 27 Sep 2026 15:16:57 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "After nixing Iran proposal, Trump tells Axios he expects talks this week - Axios",
-   "source": "Axios",
-   "published": "Sun, 27 Sep 2026 15:06:34 GMT",
    "read": "unclear"
   }
  ],
