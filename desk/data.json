@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-28T02:50:03+00:00",
+ "generated_utc": "2026-09-28T02:55:03+00:00",
  "date_et": "2026-09-27",
  "build": "0d463cfe05",
  "tape": [
@@ -255,19 +255,19 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 93.44,
-    "pct": 1.11
+    "price": 93.45,
+    "pct": 1.13
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4241.2,
-    "pct": -1.85
+    "price": 4239.4,
+    "pct": -1.89
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.093,
+    "price": 101.096,
     "pct": 0.12
    },
    {
@@ -289,9 +289,9 @@
     "pct": -5.11
    }
   ],
-  "as_of": "2026-09-28T02:48:06.108358+00:00",
+  "as_of": "2026-09-28T02:54:05.605585+00:00",
   "tone": "risk-on",
-  "age_min": 1.9603612000000001
+  "age_min": 0.96644415
  },
  "stories": [
   {
@@ -316,13 +316,6 @@
    "read": "unclear"
   },
   {
-   "topic": "Iran / Hormuz",
-   "title": "Oil heads higher as US-Iran peace talks in stalemate - Reuters",
-   "source": "Reuters",
-   "published": "Sun, 27 Sep 2026 22:13:00 GMT",
-   "read": "unclear"
-  },
-  {
    "topic": "Russia / Ukraine",
    "title": "South Korea, Ukraine relations sour over North Korean POW transfer - aljazeera.com",
    "source": "aljazeera.com",
@@ -330,10 +323,17 @@
    "read": "unclear"
   },
   {
-   "topic": "Iran / Hormuz",
-   "title": "Trump says he expects new Iran talks despite rejecting Hormuz deal offer - timesofisrael.com",
-   "source": "timesofisrael.com",
-   "published": "Sun, 27 Sep 2026 21:35:59 GMT",
+   "topic": "Russia / Ukraine",
+   "title": "Putin appears to be eyeing NATO. The question is, will he actually attack? - cbc.ca",
+   "source": "cbc.ca",
+   "published": "Sun, 27 Sep 2026 08:00:00 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Saudi / Gulf supply",
+   "title": "Why the global economy depends on Saudi Arabia - dw.com",
+   "source": "dw.com",
+   "published": "Sun, 27 Sep 2026 00:32:17 GMT",
    "read": "unclear"
   }
  ],
