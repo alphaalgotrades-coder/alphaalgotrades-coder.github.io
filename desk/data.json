@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-28T00:05:04+00:00",
+ "generated_utc": "2026-09-28T00:10:03+00:00",
  "date_et": "2026-09-27",
  "build": "0d463cfe05",
  "tape": [
@@ -19,7 +19,7 @@
    "title": "SPPI y/y",
    "cons": "3.6%",
    "prev": "3.6%",
-   "actual": ""
+   "actual": "3.7%"
   }
  ],
  "rates": {
@@ -255,14 +255,14 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 93.35,
-    "pct": 1.02
+    "price": 93.26,
+    "pct": 0.92
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4298.0,
-    "pct": -0.54
+    "price": 4294.2,
+    "pct": -0.62
    },
    {
     "sym": "DXY",
@@ -289,9 +289,9 @@
     "pct": -5.11
    }
   ],
-  "as_of": "2026-09-28T00:03:05.145706+00:00",
+  "as_of": "2026-09-28T00:09:05.569770+00:00",
   "tone": "risk-on",
-  "age_min": 1.9947399166666666
+  "age_min": 0.9727617166666668
  },
  "stories": [
   {
