@@ -1,14 +1,14 @@
 {
- "generated_utc": "2026-09-28T12:05:04.066557+00:00",
+ "generated_utc": "2026-09-28T12:30:04.958696+00:00",
  "paper": true,
  "strategy": "the wheel (cash-secured puts -> covered calls)",
  "since": "2026-07-13",
- "trading_days": 44,
+ "trading_days": 45,
  "green_days": 24,
- "red_days": 2,
- "total_fills": 132,
+ "red_days": 3,
+ "total_fills": 134,
  "symbols_traded": 22,
- "cumulative_realized": 7722.27,
+ "cumulative_realized": 7178.27,
  "days": [
   {
    "date": "2026-07-13",
@@ -317,6 +317,13 @@
    "realized": 0.0,
    "commission": 0.0,
    "cumulative": 7722.27
+  },
+  {
+   "date": "2026-09-28",
+   "fills": 2,
+   "realized": -544.0,
+   "commission": 0.0,
+   "cumulative": 7178.27
   }
  ],
  "open_legs": [
@@ -382,7 +389,7 @@
    "engine": true,
    "agree": true,
    "entry": 70.0,
-   "upnl": -1121.0,
+   "upnl": -1167.0,
    "lane": "OPTIONS"
   },
   {
@@ -473,24 +480,24 @@
    "engine": true,
    "agree": true,
    "entry": 35.0,
-   "upnl": -1641.0,
+   "upnl": -1550.0,
    "lane": "OPTIONS"
   }
  ],
- "open_upnl": -4906.0,
+ "open_upnl": -4861.0,
  "reconciliation": "12/12 open legs reconciled against the broker statement and our own database",
  "stats": {
-  "closed_trades": 40,
-  "win_rate": 85.0,
+  "closed_trades": 41,
+  "win_rate": 82.9,
   "avg_win": 262.04,
-  "avg_loss": -197.83,
-  "profit_factor": 7.51,
-  "expectancy": 193.06,
-  "sharpe_daily_ann": 5.73,
+  "avg_loss": -247.29,
+  "profit_factor": 5.15,
+  "expectancy": 175.08,
+  "sharpe_daily_ann": 5.14,
   "capital_at_risk": 104126.0,
-  "period_return_pct": 7.42,
-  "ann_pace_pct": 36.6,
-  "elapsed_days": 74
+  "period_return_pct": 6.89,
+  "ann_pace_pct": 32.3,
+  "elapsed_days": 78
  },
  "assigned": [
   {
