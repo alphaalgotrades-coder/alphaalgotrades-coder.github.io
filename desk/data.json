@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-28T00:50:03+00:00",
+ "generated_utc": "2026-09-28T00:55:03+00:00",
  "date_et": "2026-09-27",
  "build": "0d463cfe05",
  "tape": [
@@ -255,14 +255,14 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 93.2,
-    "pct": 0.85
+    "price": 93.15,
+    "pct": 0.8
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4271.2,
-    "pct": -1.16
+    "price": 4270.4,
+    "pct": -1.18
    },
    {
     "sym": "DXY",
@@ -289,9 +289,9 @@
     "pct": -5.11
    }
   ],
-  "as_of": "2026-09-28T00:48:05.499522+00:00",
+  "as_of": "2026-09-28T00:54:05.340063+00:00",
   "tone": "risk-on",
-  "age_min": 1.9660767
+  "age_min": 0.9740257
  },
  "stories": [
   {
@@ -300,6 +300,13 @@
    "source": "Bloomberg",
    "published": "Thu, 24 Sep 2026 13:07:09 GMT",
    "read": "escalation"
+  },
+  {
+   "topic": "Taiwan / China",
+   "title": "Trump Asked XI To Buy US Weapons as Taiwan's $14BN Arms Deal Remains on Hold, Envoy Says - inkl.com",
+   "source": "inkl.com",
+   "published": "Sun, 27 Sep 2026 23:34:07 GMT",
+   "read": "unclear"
   },
   {
    "topic": "Iran / Hormuz",
@@ -327,13 +334,6 @@
    "title": "Trump says he expects new Iran talks despite rejecting Hormuz deal offer - The Times of Israel",
    "source": "The Times of Israel",
    "published": "Sun, 27 Sep 2026 21:35:59 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "US denies IRGC claim that it captured second American submarine in Hormuz 'hunting ground' - report - The Jerusalem Post",
-   "source": "The Jerusalem Post",
-   "published": "Sun, 27 Sep 2026 20:48:50 GMT",
    "read": "unclear"
   }
  ],
