@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-28T00:30:04+00:00",
+ "generated_utc": "2026-09-28T00:35:03+00:00",
  "date_et": "2026-09-27",
  "build": "0d463cfe05",
  "tape": [
@@ -255,14 +255,14 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 93.29,
-    "pct": 0.95
+    "price": 93.46,
+    "pct": 1.14
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4289.0,
-    "pct": -0.75
+    "price": 4287.1,
+    "pct": -0.79
    },
    {
     "sym": "DXY",
@@ -289,9 +289,9 @@
     "pct": -5.11
    }
   ],
-  "as_of": "2026-09-28T00:27:05.074730+00:00",
+  "as_of": "2026-09-28T00:33:05.047546+00:00",
   "tone": "risk-on",
-  "age_min": 2.987797833333333
+  "age_min": 1.9833242333333334
  },
  "stories": [
   {
@@ -316,13 +316,6 @@
    "read": "unclear"
   },
   {
-   "topic": "Iran / Hormuz",
-   "title": "Oil rebounds after Trump rejects Iran peace deal - Reuters",
-   "source": "Reuters",
-   "published": "Sun, 27 Sep 2026 22:25:29 GMT",
-   "read": "unclear"
-  },
-  {
    "topic": "Russia / Ukraine",
    "title": "South Korea, Ukraine relations sour over North Korean POW transfer - aljazeera.com",
    "source": "aljazeera.com",
@@ -331,9 +324,16 @@
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Hormuz oil flows rise despite Iran threats against shipping - iranintl.com",
-   "source": "iranintl.com",
-   "published": "Sun, 27 Sep 2026 15:16:57 GMT",
+   "title": "Trump says he expects new Iran talks despite rejecting Hormuz deal offer - The Times of Israel",
+   "source": "The Times of Israel",
+   "published": "Sun, 27 Sep 2026 21:35:59 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "US denies IRGC claim that it captured second American submarine in Hormuz 'hunting ground' - report - The Jerusalem Post",
+   "source": "The Jerusalem Post",
+   "published": "Sun, 27 Sep 2026 20:48:50 GMT",
    "read": "unclear"
   }
  ],
