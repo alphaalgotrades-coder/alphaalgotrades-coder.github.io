@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-28T22:50:03+00:00",
+ "generated_utc": "2026-09-28T22:55:03+00:00",
  "date_et": "2026-09-28",
  "build": "0d463cfe05",
  "tape": [
@@ -300,20 +300,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 93.36,
-    "pct": 0.82
+    "price": 93.31,
+    "pct": 0.77
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4155.7,
-    "pct": -0.3
+    "price": 4157.0,
+    "pct": -0.27
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
     "price": 101.175,
-    "pct": 0.2
+    "pct": -0.02
    },
    {
     "sym": "SPY",
@@ -334,18 +334,11 @@
     "pct": 8.07
    }
   ],
-  "as_of": "2026-09-28T22:48:05.293971+00:00",
+  "as_of": "2026-09-28T22:54:05.434576+00:00",
   "tone": "risk-off",
-  "age_min": 1.9652631
+  "age_min": 0.9652141333333333
  },
  "stories": [
-  {
-   "topic": "Taiwan / China",
-   "title": "Donald Trump asked Xi Jinping if China wanted to buy American weapons, US envoy says - Financial Times",
-   "source": "Financial Times",
-   "published": "Sun, 27 Sep 2026 20:31:48 GMT",
-   "read": "unclear"
-  },
   {
    "topic": "Taiwan / China",
    "title": "Taiwan tracks 11 Chinese ships and 2 military aircraft - taiwannews.com.tw",
@@ -376,10 +369,17 @@
   },
   {
    "topic": "Taiwan / China",
-   "title": "'Unsettling to American partners': Trump\u2019s offer to sell arms to China is an admission he doesn\u2019t take its security threats seriously, experts warn - Fortune",
-   "source": "Fortune",
+   "title": "'Unsettling to American partners': Trump\u2019s offer to sell arms to China is an admission he doesn\u2019t take its security threats seriously, experts warn - fortune.com",
+   "source": "fortune.com",
    "published": "Mon, 28 Sep 2026 19:33:00 GMT",
    "read": "unclear"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Putin Adds 15,500 Active Troops to Russia\u2019s Military, Raising Force to 1.55 Million - united24media.com",
+   "source": "united24media.com",
+   "published": "Mon, 28 Sep 2026 19:25:43 GMT",
+   "read": "escalation"
   }
  ],
  "ratings": [
