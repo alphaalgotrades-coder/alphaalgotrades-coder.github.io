@@ -1,25 +1,70 @@
 {
- "generated_utc": "2026-09-28T03:55:03+00:00",
- "date_et": "2026-09-27",
+ "generated_utc": "2026-09-28T04:00:04+00:00",
+ "date_et": "2026-09-28",
  "build": "0d463cfe05",
  "tape": [
   {
-   "time": "19:50",
-   "ccy": "JPY",
+   "time": "06:00",
+   "ccy": "GBP",
    "impact": "Low",
-   "title": "Monetary Policy Meeting Minutes",
+   "title": "MPC Member Ramsden Speaks",
    "cons": "",
    "prev": "",
    "actual": ""
   },
   {
-   "time": "19:50",
-   "ccy": "JPY",
+   "time": "08:15",
+   "ccy": "USD",
    "impact": "Low",
-   "title": "SPPI y/y",
-   "cons": "3.6%",
-   "prev": "3.6%",
-   "actual": "3.7%"
+   "title": "FOMC Member Bowman Speaks",
+   "cons": "",
+   "prev": "",
+   "actual": ""
+  },
+  {
+   "time": "09:30",
+   "ccy": "EUR",
+   "impact": "Medi",
+   "title": "ECB President Lagarde Speaks",
+   "cons": "",
+   "prev": "",
+   "actual": ""
+  },
+  {
+   "time": "13:25",
+   "ccy": "USD",
+   "impact": "Low",
+   "title": "FOMC Member Cook Speaks",
+   "cons": "",
+   "prev": "",
+   "actual": ""
+  },
+  {
+   "time": "13:30",
+   "ccy": "USD",
+   "impact": "Low",
+   "title": "FOMC Member Barkin Speaks",
+   "cons": "",
+   "prev": "",
+   "actual": ""
+  },
+  {
+   "time": "19:01",
+   "ccy": "GBP",
+   "impact": "Low",
+   "title": "BRC Shop Price Index y/y",
+   "cons": "1.5%",
+   "prev": "1.5%",
+   "actual": ""
+  },
+  {
+   "time": "21:30",
+   "ccy": "AUD",
+   "impact": "Low",
+   "title": "Household Spending m/m",
+   "cons": "0.4%",
+   "prev": "1.1%",
+   "actual": ""
   }
  ],
  "rates": {
@@ -255,20 +300,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 93.77,
-    "pct": 1.47
+    "price": 93.8,
+    "pct": 1.5
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4226.0,
-    "pct": -2.2
+    "price": 4225.5,
+    "pct": -2.21
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.114,
-    "pct": 0.14
+    "price": 101.123,
+    "pct": 0.15
    },
    {
     "sym": "SPY",
@@ -289,9 +334,9 @@
     "pct": -5.11
    }
   ],
-  "as_of": "2026-09-28T03:54:04.755366+00:00",
+  "as_of": "2026-09-28T03:57:04.982537+00:00",
   "tone": "risk-on",
-  "age_min": 0.9830919
+  "age_min": 2.99035745
  },
  "stories": [
   {
