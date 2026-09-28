@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-28T22:10:03+00:00",
+ "generated_utc": "2026-09-28T22:15:03+00:00",
  "date_et": "2026-09-28",
  "build": "0d463cfe05",
  "tape": [
@@ -300,20 +300,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 93.29,
-    "pct": 0.75
+    "price": 93.43,
+    "pct": 0.9
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4148.5,
-    "pct": -0.48
+    "price": 4150.6,
+    "pct": -0.43
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.2,
-    "pct": 0.23
+    "price": 101.169,
+    "pct": 0.2
    },
    {
     "sym": "SPY",
@@ -334,9 +334,9 @@
     "pct": 8.07
    }
   ],
-  "as_of": "2026-09-28T22:09:05.817618+00:00",
+  "as_of": "2026-09-28T22:12:04.936363+00:00",
   "tone": "risk-off",
-  "age_min": 0.9609811666666667
+  "age_min": 2.97238995
  },
  "stories": [
   {
@@ -369,17 +369,17 @@
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Trump says U.S. will \u2018win\u2019 Iran war \u2018very soon\u2019 as he rejects proposal to reopen Strait of Hormuz - NBC News",
-   "source": "NBC News",
-   "published": "Mon, 28 Sep 2026 20:40:57 GMT",
+   "title": "President Rejects Iran\u2019s Proposal to Open Strait of Hormuz - The Presidential Prayer Team",
+   "source": "The Presidential Prayer Team",
+   "published": "Mon, 28 Sep 2026 20:59:54 GMT",
    "read": "escalation"
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Why Trump rejected Iran\u2019s Hormuz deal but kept the negotiating channel open - arabnews.com",
-   "source": "arabnews.com",
-   "published": "Mon, 28 Sep 2026 20:38:07 GMT",
-   "read": "unclear"
+   "title": "Trump says U.S. will \u2018win\u2019 Iran war \u2018very soon\u2019 as he rejects proposal to reopen Strait of Hormuz - NBC News",
+   "source": "NBC News",
+   "published": "Mon, 28 Sep 2026 20:40:57 GMT",
+   "read": "escalation"
   }
  ],
  "ratings": [
