@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-28T21:50:03+00:00",
+ "generated_utc": "2026-09-28T21:55:03+00:00",
  "date_et": "2026-09-28",
  "build": "0d463cfe05",
  "tape": [
@@ -301,18 +301,18 @@
     "sym": "CL",
     "name": "WTI crude futures",
     "price": 93.29,
-    "pct": 0.95
+    "pct": 0.75
    },
    {
     "sym": "GC",
     "name": "Gold futures",
     "price": 4148.5,
-    "pct": -4.0
+    "pct": -0.48
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.193,
+    "price": 101.192,
     "pct": 0.22
    },
    {
@@ -334,9 +334,9 @@
     "pct": 8.07
    }
   ],
-  "as_of": "2026-09-28T21:48:04.823018+00:00",
+  "as_of": "2026-09-28T21:54:05.256232+00:00",
   "tone": "risk-off",
-  "age_min": 1.9731044833333333
+  "age_min": 0.9660683166666666
  },
  "stories": [
   {
@@ -352,6 +352,13 @@
    "source": "Financial Times",
    "published": "Sun, 27 Sep 2026 20:31:48 GMT",
    "read": "unclear"
+  },
+  {
+   "topic": "Taiwan / China",
+   "title": "Taiwan tracks 11 Chinese ships and 2 military aircraft - taiwannews.com.tw",
+   "source": "taiwannews.com.tw",
+   "published": "Sun, 27 Sep 2026 04:51:21 GMT",
+   "read": "escalation"
   },
   {
    "topic": "Taiwan / China",
@@ -372,13 +379,6 @@
    "title": "Why Trump rejected Iran\u2019s Hormuz deal but kept the negotiating channel open - arabnews.com",
    "source": "arabnews.com",
    "published": "Mon, 28 Sep 2026 20:38:07 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran Threatens Vessel Charterers as Dispute Over Hormuz Continues - maritime-executive.com",
-   "source": "maritime-executive.com",
-   "published": "Mon, 28 Sep 2026 19:44:38 GMT",
    "read": "unclear"
   }
  ],
