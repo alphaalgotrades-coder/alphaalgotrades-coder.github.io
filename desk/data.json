@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-28T05:10:03+00:00",
+ "generated_utc": "2026-09-28T05:15:03+00:00",
  "date_et": "2026-09-28",
  "build": "0d463cfe05",
  "tape": [
@@ -300,19 +300,19 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 94.05,
-    "pct": 1.77
+    "price": 94.06,
+    "pct": 1.79
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4229.0,
-    "pct": -2.13
+    "price": 4228.9,
+    "pct": -2.14
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.113,
+    "price": 101.111,
     "pct": 0.14
    },
    {
@@ -334,18 +334,11 @@
     "pct": -5.11
    }
   ],
-  "as_of": "2026-09-28T05:09:04.790149+00:00",
+  "as_of": "2026-09-28T05:12:04.754502+00:00",
   "tone": "risk-on",
-  "age_min": 0.9787119166666667
+  "age_min": 2.9869767333333335
  },
  "stories": [
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Oil gains over 1% as Trump rejects Iranian proposal to reopen Hormuz Strait - CNBC",
-   "source": "CNBC",
-   "published": "Sun, 27 Sep 2026 23:58:57 GMT",
-   "read": "escalation"
-  },
   {
    "topic": "Iran / Hormuz",
    "title": "Oil heads higher as US-Iran peace talks in stalemate - reuters.com",
@@ -362,13 +355,6 @@
   },
   {
    "topic": "Saudi / Gulf supply",
-   "title": "Why the global economy depends on Saudi Arabia - dw.com",
-   "source": "dw.com",
-   "published": "Sun, 27 Sep 2026 00:32:17 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Saudi / Gulf supply",
    "title": "Saudi Arabia\u2019s April Crude Exports Extend Fall to Lowest on Record, JODI Data Shows - energynow.com",
    "source": "energynow.com",
    "published": "Sat, 26 Sep 2026 11:32:35 GMT",
@@ -380,6 +366,20 @@
    "source": "scmp.com",
    "published": "Sat, 26 Sep 2026 05:00:12 GMT",
    "read": "unclear"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Oil Rises as Iran Says It Won\u2019t Soften Strait of Hormuz Demands - Bloomberg",
+   "source": "Bloomberg",
+   "published": "Mon, 28 Sep 2026 04:55:00 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Kremlin pressures Russian businesses to pay for drone defences - Financial Times",
+   "source": "Financial Times",
+   "published": "Mon, 28 Sep 2026 04:06:36 GMT",
+   "read": "escalation"
   }
  ],
  "ratings": [
