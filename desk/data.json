@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-28T23:50:03+00:00",
+ "generated_utc": "2026-09-28T23:55:03+00:00",
  "date_et": "2026-09-28",
  "build": "0d463cfe05",
  "tape": [
@@ -300,14 +300,14 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 93.19,
-    "pct": 0.64
+    "price": 93.18,
+    "pct": 0.63
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4159.3,
-    "pct": -0.22
+    "price": 4159.5,
+    "pct": -0.21
    },
    {
     "sym": "DXY",
@@ -334,24 +334,24 @@
     "pct": 8.07
    }
   ],
-  "as_of": "2026-09-28T23:48:05.591535+00:00",
+  "as_of": "2026-09-28T23:54:08.825102+00:00",
   "tone": "risk-off",
-  "age_min": 1.9610746666666665
+  "age_min": 0.9167806333333334
  },
  "stories": [
-  {
-   "topic": "Taiwan / China",
-   "title": "Taiwan tracks 11 Chinese ships and 2 military aircraft - taiwannews.com.tw",
-   "source": "taiwannews.com.tw",
-   "published": "Sun, 27 Sep 2026 04:51:21 GMT",
-   "read": "escalation"
-  },
   {
    "topic": "Russia / Ukraine",
    "title": "Russia accuses Europe of blocking Ukraine peace talks as Trump calls on Zelenskyy to \"settle with Putin\" - CBS News",
    "source": "CBS News",
    "published": "Sat, 26 Sep 2026 20:59:00 GMT",
    "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Negotiations continue after US rejects Iran's latest proposal to open the Strait of Hormuz - Scripps News",
+   "source": "Scripps News",
+   "published": "Mon, 28 Sep 2026 23:37:28 GMT",
+   "read": "unclear"
   },
   {
    "topic": "Iran / Hormuz",
@@ -368,17 +368,17 @@
    "read": "escalation"
   },
   {
+   "topic": "Taiwan / China",
+   "title": "US officials deny there are plans to sell weapons to China - ABC News - Breaking News, Latest News and Videos",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "published": "Mon, 28 Sep 2026 20:26:15 GMT",
+   "read": "unclear"
+  },
+  {
    "topic": "Iran / Hormuz",
    "title": "Iran Threatens Vessel Charterers as Dispute Over Hormuz Continues - maritime-executive.com",
    "source": "maritime-executive.com",
    "published": "Mon, 28 Sep 2026 19:44:38 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Taiwan / China",
-   "title": "'Unsettling to American partners': Trump\u2019s offer to sell arms to China is an admission he doesn\u2019t take its security threats seriously, experts warn - fortune.com",
-   "source": "fortune.com",
-   "published": "Mon, 28 Sep 2026 19:33:00 GMT",
    "read": "unclear"
   }
  ],
