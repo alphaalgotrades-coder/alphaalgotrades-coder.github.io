@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-28T05:50:03+00:00",
+ "generated_utc": "2026-09-28T05:55:03+00:00",
  "date_et": "2026-09-28",
  "build": "0d463cfe05",
  "tape": [
@@ -300,20 +300,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 94.41,
-    "pct": 2.16
+    "price": 94.65,
+    "pct": 2.42
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4216.9,
-    "pct": -2.41
+    "price": 4215.5,
+    "pct": -2.45
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.096,
-    "pct": 0.12
+    "price": 101.137,
+    "pct": 0.16
    },
    {
     "sym": "SPY",
@@ -334,9 +334,9 @@
     "pct": -5.11
    }
   ],
-  "as_of": "2026-09-28T05:48:04.906463+00:00",
+  "as_of": "2026-09-28T05:54:04.943503+00:00",
   "tone": "risk-on",
-  "age_min": 1.9825033166666666
+  "age_min": 0.9819470333333334
  },
  "stories": [
   {
@@ -351,13 +351,6 @@
    "title": "US 'very much' understands Taiwan's defence needs, Taipei official says - reuters.com",
    "source": "reuters.com",
    "published": "Sun, 27 Sep 2026 02:44:00 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Saudi / Gulf supply",
-   "title": "Saudi Arabia\u2019s April Crude Exports Extend Fall to Lowest on Record, JODI Data Shows - energynow.com",
-   "source": "energynow.com",
-   "published": "Sat, 26 Sep 2026 11:32:35 GMT",
    "read": "unclear"
   },
   {
@@ -379,6 +372,13 @@
    "title": "Oil Rises as Iran Says It Won\u2019t Soften Strait of Hormuz Demands - Bloomberg",
    "source": "Bloomberg",
    "published": "Mon, 28 Sep 2026 04:55:00 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Kremlin pressures Russian businesses to pay for drone defences - Financial Times",
+   "source": "Financial Times",
+   "published": "Mon, 28 Sep 2026 04:06:36 GMT",
    "read": "escalation"
   }
  ],
