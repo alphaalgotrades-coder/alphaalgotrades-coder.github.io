@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-28T06:50:03+00:00",
+ "generated_utc": "2026-09-28T06:55:03+00:00",
  "date_et": "2026-09-28",
  "build": "0d463cfe05",
  "tape": [
@@ -300,20 +300,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 94.07,
-    "pct": 1.8
+    "price": 93.94,
+    "pct": 1.66
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4206.3,
+    "price": 4206.1,
     "pct": -2.66
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.159,
-    "pct": 0.19
+    "price": 101.132,
+    "pct": 0.16
    },
    {
     "sym": "SPY",
@@ -334,17 +334,17 @@
     "pct": -5.11
    }
   ],
-  "as_of": "2026-09-28T06:48:05.636323+00:00",
+  "as_of": "2026-09-28T06:54:05.813399+00:00",
   "tone": "risk-on",
-  "age_min": 1.9647404
+  "age_min": 0.9690967666666667
  },
  "stories": [
   {
    "topic": "Iran / Hormuz",
-   "title": "Brent gains 2.7% as Trump rejects Iranian proposal to reopen Hormuz Strait - cnbc.com",
-   "source": "cnbc.com",
+   "title": "Brent gains 2.7% as Trump rejects Iranian proposal to reopen Hormuz Strait - CNBC",
+   "source": "CNBC",
    "published": "Sun, 27 Sep 2026 23:58:57 GMT",
-   "read": "de-escalation"
+   "read": "unclear"
   },
   {
    "topic": "Iran / Hormuz",
@@ -369,17 +369,17 @@
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Iran stands firm on Hormuz plan after US rejection - \u30a2\u30e9\u30d6\u30cb\u30e5\u30fc\u30b9",
-   "source": "\u30a2\u30e9\u30d6\u30cb\u30e5\u30fc\u30b9",
-   "published": "Mon, 28 Sep 2026 05:55:08 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
    "title": "Oil Rises as Iran Says It Won\u2019t Soften Strait of Hormuz Demands - Bloomberg.com",
    "source": "Bloomberg.com",
    "published": "Mon, 28 Sep 2026 05:37:00 GMT",
    "read": "escalation"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "What Matters More to Putin? Russian Refineries or Striking Ukraine? - Kyiv Post",
+   "source": "Kyiv Post",
+   "published": "Mon, 28 Sep 2026 05:23:15 GMT",
+   "read": "unclear"
   }
  ],
  "ratings": [
