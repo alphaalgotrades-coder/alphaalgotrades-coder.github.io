@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-28T09:10:03+00:00",
+ "generated_utc": "2026-09-28T09:15:03+00:00",
  "date_et": "2026-09-28",
  "build": "0d463cfe05",
  "tape": [
@@ -300,19 +300,19 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 95.59,
-    "pct": 3.44
+    "price": 95.51,
+    "pct": 3.35
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4176.8,
-    "pct": -3.34
+    "price": 4177.1,
+    "pct": -3.33
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.088,
+    "price": 101.094,
     "pct": 0.12
    },
    {
@@ -330,20 +330,27 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 16.22,
-    "pct": 9.08
+    "price": 16.24,
+    "pct": 9.21
    }
   ],
-  "as_of": "2026-09-28T09:09:04.798017+00:00",
+  "as_of": "2026-09-28T09:12:04.762459+00:00",
   "tone": "mixed",
-  "age_min": 0.9792006333333333
+  "age_min": 2.975297116666667
  },
  "stories": [
   {
    "topic": "Iran / Hormuz",
-   "title": "Brent gains 2.7% as Trump rejects Iranian proposal to reopen Hormuz Strait - CNBC",
+   "title": "Brent crude tops $108 as Trump rejects Iranian proposal to reopen Hormuz Strait - CNBC",
    "source": "CNBC",
    "published": "Sun, 27 Sep 2026 23:58:57 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Oil gains over 2% as US-Iran peace talks in stalemate - Reuters",
+   "source": "Reuters",
+   "published": "Sun, 27 Sep 2026 22:13:00 GMT",
    "read": "unclear"
   },
   {
@@ -354,13 +361,6 @@
    "read": "unclear"
   },
   {
-   "topic": "Iran / Hormuz",
-   "title": "Iran shifts trade north to Caspian Sea as war impairs Strait of Hormuz - aljazeera.com",
-   "source": "aljazeera.com",
-   "published": "Sun, 27 Sep 2026 08:53:52 GMT",
-   "read": "unclear"
-  },
-  {
    "topic": "Taiwan / China",
    "title": "Taiwan\u2019s coastguard vessel transfer to the Philippines sparks double outcry - scmp.com",
    "source": "scmp.com",
@@ -368,17 +368,17 @@
    "read": "unclear"
   },
   {
-   "topic": "Saudi / Gulf supply",
-   "title": "Middle East Oil Exports Surge as Saudi Arabia Drives September Recovery - Egypt Oil &amp; Gas",
-   "source": "Egypt Oil &amp; Gas",
-   "published": "Mon, 28 Sep 2026 07:13:57 GMT",
+   "topic": "Russia / Ukraine",
+   "title": "They Lost Sons to the War, but Want Russia to Fight On - The New York Times",
+   "source": "The New York Times",
+   "published": "Mon, 28 Sep 2026 09:00:20 GMT",
    "read": "unclear"
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Oil Rises as Iran Says It Won\u2019t Soften Strait of Hormuz Demands - bloomberg.com",
-   "source": "bloomberg.com",
-   "published": "Mon, 28 Sep 2026 05:37:00 GMT",
+   "title": "Iran Firm on Demands for Hormuz Reopening - Rigzone",
+   "source": "Rigzone",
+   "published": "Mon, 28 Sep 2026 08:13:32 GMT",
    "read": "escalation"
   }
  ],
