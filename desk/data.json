@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-28T23:10:03+00:00",
+ "generated_utc": "2026-09-28T23:15:03+00:00",
  "date_et": "2026-09-28",
  "build": "0d463cfe05",
  "tape": [
@@ -55,7 +55,7 @@
    "title": "BRC Shop Price Index y/y",
    "cons": "1.5%",
    "prev": "1.5%",
-   "actual": ""
+   "actual": "1.4%"
   },
   {
    "time": "21:30",
@@ -300,14 +300,14 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 93.38,
-    "pct": 0.84
+    "price": 93.29,
+    "pct": 0.75
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4153.8,
-    "pct": -0.35
+    "price": 4155.3,
+    "pct": -0.31
    },
    {
     "sym": "DXY",
@@ -334,9 +334,9 @@
     "pct": 8.07
    }
   ],
-  "as_of": "2026-09-28T23:09:05.476101+00:00",
+  "as_of": "2026-09-28T23:12:05.419806+00:00",
   "tone": "risk-off",
-  "age_min": 0.9632831500000001
+  "age_min": 2.96528875
  },
  "stories": [
   {
@@ -347,17 +347,24 @@
    "read": "escalation"
   },
   {
-   "topic": "Iran / Hormuz",
-   "title": "President Rejects Iran\u2019s Proposal to Open Strait of Hormuz - The Presidential Prayer Team",
-   "source": "The Presidential Prayer Team",
-   "published": "Mon, 28 Sep 2026 20:59:54 GMT",
+   "topic": "Russia / Ukraine",
+   "title": "Russia accuses Europe of blocking Ukraine peace talks as Trump calls on Zelenskyy to \"settle with Putin\" - CBS News",
+   "source": "CBS News",
+   "published": "Sat, 26 Sep 2026 20:59:00 GMT",
    "read": "escalation"
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Trump says U.S. will \u2018win\u2019 Iran war \u2018very soon\u2019 as he rejects proposal to reopen Strait of Hormuz - NBC News",
-   "source": "NBC News",
-   "published": "Mon, 28 Sep 2026 20:40:57 GMT",
+   "title": "US, Iran separately talk with mediators in latest bid to end war - Reuters",
+   "source": "Reuters",
+   "published": "Mon, 28 Sep 2026 22:42:23 GMT",
+   "read": "de-escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "President Rejects Iran\u2019s Proposal to Open Strait of Hormuz - The Presidential Prayer Team",
+   "source": "The Presidential Prayer Team",
+   "published": "Mon, 28 Sep 2026 20:59:54 GMT",
    "read": "escalation"
   },
   {
@@ -373,13 +380,6 @@
    "source": "fortune.com",
    "published": "Mon, 28 Sep 2026 19:33:00 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Putin Adds 15,500 Active Troops to Russia\u2019s Military, Raising Force to 1.55 Million - united24media.com",
-   "source": "united24media.com",
-   "published": "Mon, 28 Sep 2026 19:25:43 GMT",
-   "read": "escalation"
   }
  ],
  "ratings": [
