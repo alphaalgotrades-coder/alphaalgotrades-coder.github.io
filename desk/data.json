@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-28T05:30:03+00:00",
+ "generated_utc": "2026-09-28T05:35:03+00:00",
  "date_et": "2026-09-28",
  "build": "0d463cfe05",
  "tape": [
@@ -300,20 +300,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 94.18,
-    "pct": 1.92
+    "price": 94.3,
+    "pct": 2.05
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4226.1,
-    "pct": -2.2
+    "price": 4218.5,
+    "pct": -2.38
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.114,
-    "pct": 0.14
+    "price": 101.128,
+    "pct": 0.16
    },
    {
     "sym": "SPY",
@@ -334,17 +334,17 @@
     "pct": -5.11
    }
   ],
-  "as_of": "2026-09-28T05:27:04.870299+00:00",
+  "as_of": "2026-09-28T05:33:08.705549+00:00",
   "tone": "risk-on",
-  "age_min": 2.97999635
+  "age_min": 1.9175675166666666
  },
  "stories": [
   {
    "topic": "Iran / Hormuz",
-   "title": "Oil heads higher as US-Iran peace talks in stalemate - reuters.com",
-   "source": "reuters.com",
-   "published": "Sun, 27 Sep 2026 22:13:00 GMT",
-   "read": "de-escalation"
+   "title": "US denies IRGC claim that it captured second American submarine in Hormuz 'hunting ground' - report - jpost.com",
+   "source": "jpost.com",
+   "published": "Sun, 27 Sep 2026 20:48:50 GMT",
+   "read": "unclear"
   },
   {
    "topic": "Taiwan / China",
@@ -368,17 +368,17 @@
    "read": "unclear"
   },
   {
+   "topic": "Russia / Ukraine",
+   "title": "What Matters More to Putin? Russian Refineries or Striking Ukraine? - Kyiv Post",
+   "source": "Kyiv Post",
+   "published": "Mon, 28 Sep 2026 05:23:15 GMT",
+   "read": "unclear"
+  },
+  {
    "topic": "Iran / Hormuz",
    "title": "Oil Rises as Iran Says It Won\u2019t Soften Strait of Hormuz Demands - Bloomberg",
    "source": "Bloomberg",
    "published": "Mon, 28 Sep 2026 04:55:00 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Kremlin pressures Russian businesses to pay for drone defences - Financial Times",
-   "source": "Financial Times",
-   "published": "Mon, 28 Sep 2026 04:06:36 GMT",
    "read": "escalation"
   }
  ],
