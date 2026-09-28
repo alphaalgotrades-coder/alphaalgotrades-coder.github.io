@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-28T06:10:03+00:00",
+ "generated_utc": "2026-09-28T06:15:04+00:00",
  "date_et": "2026-09-28",
  "build": "0d463cfe05",
  "tape": [
@@ -300,20 +300,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 94.29,
-    "pct": 2.03
+    "price": 94.2,
+    "pct": 1.94
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4213.5,
-    "pct": -2.49
+    "price": 4208.7,
+    "pct": -2.6
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.135,
-    "pct": 0.16
+    "price": 101.155,
+    "pct": 0.18
    },
    {
     "sym": "SPY",
@@ -334,11 +334,18 @@
     "pct": -5.11
    }
   ],
-  "as_of": "2026-09-28T06:09:15.448934+00:00",
+  "as_of": "2026-09-28T06:12:12.361466+00:00",
   "tone": "risk-on",
-  "age_min": 0.80334325
+  "age_min": 2.8683468
  },
  "stories": [
+  {
+   "topic": "Iran / Hormuz",
+   "title": "After nixing Iran proposal, Trump tells Axios he expects talks this week - axios.com",
+   "source": "axios.com",
+   "published": "Sun, 27 Sep 2026 21:04:30 GMT",
+   "read": "unclear"
+  },
   {
    "topic": "Iran / Hormuz",
    "title": "US denies IRGC claim that it captured second American submarine in Hormuz 'hunting ground' - report - jpost.com",
@@ -361,24 +368,17 @@
    "read": "unclear"
   },
   {
-   "topic": "Russia / Ukraine",
-   "title": "What Matters More to Putin? Russian Refineries or Striking Ukraine? - Kyiv Post",
-   "source": "Kyiv Post",
-   "published": "Mon, 28 Sep 2026 05:23:15 GMT",
-   "read": "unclear"
-  },
-  {
    "topic": "Iran / Hormuz",
-   "title": "Oil Rises as Iran Says It Won\u2019t Soften Strait of Hormuz Demands - Bloomberg",
-   "source": "Bloomberg",
-   "published": "Mon, 28 Sep 2026 04:55:00 GMT",
+   "title": "Iran stands firm on Hormuz plan after US rejection - \u30a2\u30e9\u30d6\u30cb\u30e5\u30fc\u30b9",
+   "source": "\u30a2\u30e9\u30d6\u30cb\u30e5\u30fc\u30b9",
+   "published": "Mon, 28 Sep 2026 05:55:08 GMT",
    "read": "escalation"
   },
   {
-   "topic": "Russia / Ukraine",
-   "title": "Kremlin pressures Russian businesses to pay for drone defences - Financial Times",
-   "source": "Financial Times",
-   "published": "Mon, 28 Sep 2026 04:06:36 GMT",
+   "topic": "Iran / Hormuz",
+   "title": "Oil Rises as Iran Says It Won\u2019t Soften Strait of Hormuz Demands - Bloomberg.com",
+   "source": "Bloomberg.com",
+   "published": "Mon, 28 Sep 2026 05:37:00 GMT",
    "read": "escalation"
   }
  ],
