@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-28T06:30:04+00:00",
+ "generated_utc": "2026-09-28T06:35:04+00:00",
  "date_et": "2026-09-28",
  "build": "0d463cfe05",
  "tape": [
@@ -300,20 +300,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 93.85,
-    "pct": 1.56
+    "price": 94.14,
+    "pct": 1.87
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4211.0,
-    "pct": -2.55
+    "price": 4205.3,
+    "pct": -2.68
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.159,
-    "pct": 0.19
+    "price": 101.176,
+    "pct": 0.2
    },
    {
     "sym": "SPY",
@@ -334,23 +334,23 @@
     "pct": -5.11
    }
   ],
-  "as_of": "2026-09-28T06:27:06.343735+00:00",
+  "as_of": "2026-09-28T06:33:06.052584+00:00",
   "tone": "risk-on",
-  "age_min": 2.972205633333333
+  "age_min": 1.96861005
  },
  "stories": [
   {
    "topic": "Iran / Hormuz",
-   "title": "After nixing Iran proposal, Trump tells Axios he expects talks this week - axios.com",
-   "source": "axios.com",
-   "published": "Sun, 27 Sep 2026 21:04:30 GMT",
-   "read": "unclear"
+   "title": "Brent gains 2.7% as Trump rejects Iranian proposal to reopen Hormuz Strait - cnbc.com",
+   "source": "cnbc.com",
+   "published": "Sun, 27 Sep 2026 23:58:57 GMT",
+   "read": "de-escalation"
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "US denies IRGC claim that it captured second American submarine in Hormuz 'hunting ground' - report - jpost.com",
-   "source": "jpost.com",
-   "published": "Sun, 27 Sep 2026 20:48:50 GMT",
+   "title": "Iran shifts trade north to Caspian Sea as war impairs Strait of Hormuz - aljazeera.com",
+   "source": "aljazeera.com",
+   "published": "Sun, 27 Sep 2026 08:53:52 GMT",
    "read": "unclear"
   },
   {
