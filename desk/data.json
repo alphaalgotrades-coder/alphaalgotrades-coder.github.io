@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-28T22:30:03+00:00",
+ "generated_utc": "2026-09-28T22:35:03+00:00",
  "date_et": "2026-09-28",
  "build": "0d463cfe05",
  "tape": [
@@ -300,14 +300,14 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 93.2,
-    "pct": 0.65
+    "price": 93.24,
+    "pct": 0.69
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4155.7,
-    "pct": -0.3
+    "price": 4157.9,
+    "pct": -0.25
    },
    {
     "sym": "DXY",
@@ -334,18 +334,11 @@
     "pct": 8.07
    }
   ],
-  "as_of": "2026-09-28T22:27:05.406205+00:00",
+  "as_of": "2026-09-28T22:33:05.544364+00:00",
   "tone": "risk-off",
-  "age_min": 2.9725013833333334
+  "age_min": 1.9703270333333334
  },
  "stories": [
-  {
-   "topic": "Taiwan / China",
-   "title": "Trump Asked XI To Buy US Weapons as Taiwan's $14BN Arms Deal Remains on Hold, Envoy Says - inkl",
-   "source": "inkl",
-   "published": "Sun, 27 Sep 2026 23:34:07 GMT",
-   "read": "unclear"
-  },
   {
    "topic": "Taiwan / China",
    "title": "Donald Trump asked Xi Jinping if China wanted to buy American weapons, US envoy says - Financial Times",
@@ -361,13 +354,6 @@
    "read": "escalation"
   },
   {
-   "topic": "Taiwan / China",
-   "title": "Trump, Xi end summit with tea, tour of US archives - and little sign of progress - Reuters",
-   "source": "Reuters",
-   "published": "Sat, 26 Sep 2026 00:59:09 GMT",
-   "read": "unclear"
-  },
-  {
    "topic": "Iran / Hormuz",
    "title": "President Rejects Iran\u2019s Proposal to Open Strait of Hormuz - The Presidential Prayer Team",
    "source": "The Presidential Prayer Team",
@@ -380,6 +366,20 @@
    "source": "NBC News",
    "published": "Mon, 28 Sep 2026 20:40:57 GMT",
    "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iran Threatens Vessel Charterers as Dispute Over Hormuz Continues - maritime-executive.com",
+   "source": "maritime-executive.com",
+   "published": "Mon, 28 Sep 2026 19:44:38 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Taiwan / China",
+   "title": "'Unsettling to American partners': Trump\u2019s offer to sell arms to China is an admission he doesn\u2019t take its security threats seriously, experts warn - Fortune",
+   "source": "Fortune",
+   "published": "Mon, 28 Sep 2026 19:33:00 GMT",
+   "read": "unclear"
   }
  ],
  "ratings": [
