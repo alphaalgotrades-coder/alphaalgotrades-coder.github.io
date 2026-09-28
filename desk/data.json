@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-28T04:50:03+00:00",
+ "generated_utc": "2026-09-28T04:55:03+00:00",
  "date_et": "2026-09-28",
  "build": "0d463cfe05",
  "tape": [
@@ -306,14 +306,14 @@
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4229.3,
-    "pct": -2.13
+    "price": 4231.8,
+    "pct": -2.07
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.094,
-    "pct": 0.12
+    "price": 101.082,
+    "pct": 0.11
    },
    {
     "sym": "SPY",
@@ -334,18 +334,11 @@
     "pct": -5.11
    }
   ],
-  "as_of": "2026-09-28T04:48:04.629736+00:00",
+  "as_of": "2026-09-28T04:54:04.872402+00:00",
   "tone": "risk-on",
-  "age_min": 1.9840411666666666
+  "age_min": 0.9841822
  },
  "stories": [
-  {
-   "topic": "Saudi / Gulf supply",
-   "title": "Saudis Surge Oil Exports to War-Time Peak on Hormuz Ramp Up - Bloomberg",
-   "source": "Bloomberg",
-   "published": "Thu, 24 Sep 2026 13:07:09 GMT",
-   "read": "escalation"
-  },
   {
    "topic": "Iran / Hormuz",
    "title": "Oil gains over 1% as Trump rejects Iranian proposal to reopen Hormuz Strait - CNBC",
@@ -361,13 +354,6 @@
    "read": "de-escalation"
   },
   {
-   "topic": "Russia / Ukraine",
-   "title": "Putin appears to be eyeing NATO. The question is, will he actually attack? - cbc.ca",
-   "source": "cbc.ca",
-   "published": "Sun, 27 Sep 2026 08:00:00 GMT",
-   "read": "unclear"
-  },
-  {
    "topic": "Taiwan / China",
    "title": "US 'very much' understands Taiwan's defence needs, Taipei official says - reuters.com",
    "source": "reuters.com",
@@ -379,6 +365,20 @@
    "title": "Why the global economy depends on Saudi Arabia - dw.com",
    "source": "dw.com",
    "published": "Sun, 27 Sep 2026 00:32:17 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Saudi / Gulf supply",
+   "title": "Saudi Arabia\u2019s April Crude Exports Extend Fall to Lowest on Record, JODI Data Shows - energynow.com",
+   "source": "energynow.com",
+   "published": "Sat, 26 Sep 2026 11:32:35 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Taiwan / China",
+   "title": "Taiwan\u2019s coastguard vessel transfer to the Philippines sparks double outcry - scmp.com",
+   "source": "scmp.com",
+   "published": "Sat, 26 Sep 2026 05:00:12 GMT",
    "read": "unclear"
   }
  ],
