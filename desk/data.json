@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-28T01:30:04+00:00",
+ "generated_utc": "2026-09-28T01:35:03+00:00",
  "date_et": "2026-09-27",
  "build": "0d463cfe05",
  "tape": [
@@ -255,14 +255,14 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 93.12,
-    "pct": 0.77
+    "price": 93.49,
+    "pct": 1.17
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4257.7,
-    "pct": -1.47
+    "price": 4250.4,
+    "pct": -1.64
    },
    {
     "sym": "DXY",
@@ -289,9 +289,9 @@
     "pct": -5.11
    }
   ],
-  "as_of": "2026-09-28T01:27:05.297291+00:00",
+  "as_of": "2026-09-28T01:33:05.539409+00:00",
   "tone": "risk-on",
-  "age_min": 2.980308583333333
+  "age_min": 1.9723491166666667
  },
  "stories": [
   {
@@ -309,17 +309,17 @@
    "read": "unclear"
   },
   {
-   "topic": "Iran / Hormuz",
-   "title": "Trump says he rejected Iranian proposal to reopen Strait of Hormuz - NBC News",
-   "source": "NBC News",
-   "published": "Sun, 27 Sep 2026 23:00:38 GMT",
-   "read": "de-escalation"
-  },
-  {
    "topic": "Taiwan / China",
    "title": "Trump Offered to Sell Arms to China, U.S. Ambassador Says - The New York Times",
    "source": "The New York Times",
    "published": "Sun, 27 Sep 2026 22:52:11 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Oil heads higher as US-Iran peace talks in stalemate - Reuters",
+   "source": "Reuters",
+   "published": "Sun, 27 Sep 2026 22:13:00 GMT",
    "read": "unclear"
   },
   {
@@ -331,8 +331,8 @@
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Trump says he expects new Iran talks despite rejecting Hormuz deal offer - The Times of Israel",
-   "source": "The Times of Israel",
+   "title": "Trump says he expects new Iran talks despite rejecting Hormuz deal offer - timesofisrael.com",
+   "source": "timesofisrael.com",
    "published": "Sun, 27 Sep 2026 21:35:59 GMT",
    "read": "unclear"
   }
