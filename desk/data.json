@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-29T09:50:05+00:00",
+ "generated_utc": "2026-09-29T09:55:04+00:00",
  "date_et": "2026-09-29",
  "build": "0d463cfe05",
  "tape": [
@@ -588,19 +588,19 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 92.47,
-    "pct": -0.14
+    "price": 92.24,
+    "pct": -0.39
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4174.1,
-    "pct": 0.14
+    "price": 4177.7,
+    "pct": 0.22
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.452,
+    "price": 101.445,
     "pct": 0.25
    },
    {
@@ -618,19 +618,19 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 16.15,
-    "pct": 0.5
+    "price": 16.13,
+    "pct": 0.37
    }
   ],
-  "as_of": "2026-09-29T09:48:05.695316+00:00",
+  "as_of": "2026-09-29T09:54:05.915761+00:00",
   "tone": "risk-off",
-  "age_min": 1.9990774833333333
+  "age_min": 0.9706321666666666
  },
  "stories": [
   {
    "topic": "Russia / Ukraine",
-   "title": "Putin has now expanded Russia's military four times this year, to 1.55 million troops. Ukraine says it just recaptured 176 square kilometers in Donetsk - Plataforma Media",
-   "source": "Plataforma Media",
+   "title": "Putin has now expanded Russia's military four times this year, to 1.55 million troops. Ukraine says it just recaptured 176 square kilometers in Donetsk - plataformamedia.com",
+   "source": "plataformamedia.com",
    "published": "Tue, 29 Sep 2026 09:21:11 GMT",
    "read": "escalation"
   },
@@ -649,13 +649,6 @@
    "read": "unclear"
   },
   {
-   "topic": "Russia / Ukraine",
-   "title": "Putin claims that Ukraine has no \u2018antidote\u2019 to Russia\u2019s new jet-powered drones. Kyiv has already shown it can shoot them down, but doing it at scale could cost billions. - meduza.i",
-   "source": "meduza.io",
-   "published": "Tue, 29 Sep 2026 07:36:00 GMT",
-   "read": "escalation"
-  },
-  {
    "topic": "Saudi / Gulf supply",
    "title": "Saudi Arabia resumes oil loadings from Red Sea port of Yanbu - Latest news from Azerbaijan",
    "source": "Latest news from Azerbaijan",
@@ -667,6 +660,13 @@
    "title": "Saudi Arabia Restarts Yanbu Crude Loadings as Repaired East-West Pipeline Returns to Service - finance.biggo.com",
    "source": "finance.biggo.com",
    "published": "Tue, 29 Sep 2026 07:25:00 GMT",
+   "read": "de-escalation"
+  },
+  {
+   "topic": "Saudi / Gulf supply",
+   "title": "Saudi Arabia resumes oil exports through East-West Pipeline as Brent nears $107 - Oil &amp; Gas Middle East",
+   "source": "Oil &amp; Gas Middle East",
+   "published": "Tue, 29 Sep 2026 06:49:46 GMT",
    "read": "de-escalation"
   }
  ],
