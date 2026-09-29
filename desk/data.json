@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-29T05:10:03+00:00",
+ "generated_utc": "2026-09-29T05:15:04+00:00",
  "date_et": "2026-09-29",
  "build": "0d463cfe05",
  "tape": [
@@ -588,20 +588,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 94.26,
-    "pct": 1.79
+    "price": 94.29,
+    "pct": 1.83
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4158.8,
-    "pct": -0.23
+    "price": 4159.4,
+    "pct": -0.22
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.299,
-    "pct": 0.1
+    "price": 101.292,
+    "pct": 0.09
    },
    {
     "sym": "SPY",
@@ -622,11 +622,18 @@
     "pct": 8.07
    }
   ],
-  "as_of": "2026-09-29T05:09:05.390797+00:00",
+  "as_of": "2026-09-29T05:12:05.174146+00:00",
   "tone": "risk-off",
-  "age_min": 0.9788318833333334
+  "age_min": 2.9885326500000002
  },
  "stories": [
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Ukraine War, Day 1,678: Putin Restricts Access to Data on Oil Refineries and Energy Exports - EA WorldView",
+   "source": "EA WorldView",
+   "published": "Tue, 29 Sep 2026 05:11:06 GMT",
+   "read": "unclear"
+  },
   {
    "topic": "Taiwan / China",
    "title": "Taiwan diplomat seeks stronger US support as China increases pressure - Taiwan News",
@@ -660,13 +667,6 @@
    "title": "Saudi Arabia Resumes Red Sea Crude Oil Exports Following Repairs to Hit East-West Pipeline - news.sbs.co.kr",
    "source": "news.sbs.co.kr",
    "published": "Tue, 29 Sep 2026 01:02:16 GMT",
-   "read": "de-escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Middle East Oil Exports Rebound as Iran\u2019s Chokehold on Hormuz Breaks Down - wsj.com",
-   "source": "wsj.com",
-   "published": "Tue, 29 Sep 2026 01:00:00 GMT",
    "read": "de-escalation"
   }
  ],
