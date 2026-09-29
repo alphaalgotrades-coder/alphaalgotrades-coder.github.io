@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-29T07:50:03+00:00",
+ "generated_utc": "2026-09-29T07:55:04+00:00",
  "date_et": "2026-09-29",
  "build": "0d463cfe05",
  "tape": [
@@ -588,20 +588,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 93.33,
-    "pct": 0.79
+    "price": 93.22,
+    "pct": 0.67
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4176.2,
-    "pct": 0.19
+    "price": 4174.9,
+    "pct": 0.16
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.362,
-    "pct": 0.16
+    "price": 101.339,
+    "pct": 0.14
    },
    {
     "sym": "SPY",
@@ -618,15 +618,29 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 16.04,
-    "pct": -0.19
+    "price": 16.02,
+    "pct": -0.31
    }
   ],
-  "as_of": "2026-09-29T07:48:05.361582+00:00",
+  "as_of": "2026-09-29T07:54:05.738479+00:00",
   "tone": "risk-off",
-  "age_min": 1.9738324833333332
+  "age_min": 0.97379185
  },
  "stories": [
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Putin claims that Ukraine has no \u2018antidote\u2019 to Russia\u2019s new jet-powered drones. Kyiv has already shown it can shoot them down, but doing it at scale could cost billions. - Meduza",
+   "source": "Meduza",
+   "published": "Tue, 29 Sep 2026 07:36:00 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Saudi / Gulf supply",
+   "title": "Saudi Arabia resumes oil loadings from Red Sea port of Yanbu - Latest news from Azerbaijan",
+   "source": "Latest news from Azerbaijan",
+   "published": "Tue, 29 Sep 2026 07:33:25 GMT",
+   "read": "unclear"
+  },
   {
    "topic": "Saudi / Gulf supply",
    "title": "Saudi Arabia Restarts Yanbu Crude Loadings as Repaired East-West Pipeline Returns to Service - finance.biggo.com",
@@ -649,25 +663,11 @@
    "read": "unclear"
   },
   {
-   "topic": "Russia / Ukraine",
-   "title": "Putin Tightens Secrecy Around Russia\u2019s Oil Flows as Ukraine Strikes 45% of Refining Capacity - Kyiv Post",
-   "source": "Kyiv Post",
-   "published": "Tue, 29 Sep 2026 06:03:51 GMT",
-   "read": "escalation"
-  },
-  {
    "topic": "Iran / Hormuz",
-   "title": "Iran FM says expects US answer Tuesday on plan to open Hormuz - Arab News",
-   "source": "Arab News",
-   "published": "Tue, 29 Sep 2026 05:48:34 GMT",
+   "title": "Iran Officials Pessimistic About US Deal Before Midterms - Bloomberg.com",
+   "source": "Bloomberg.com",
+   "published": "Tue, 29 Sep 2026 06:13:00 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran's oil stockpile nears empty as US-led Hormuz blockade holds - www.israelhayom.com",
-   "source": "www.israelhayom.com",
-   "published": "Tue, 29 Sep 2026 05:42:37 GMT",
-   "read": "escalation"
   }
  ],
  "ratings": [
