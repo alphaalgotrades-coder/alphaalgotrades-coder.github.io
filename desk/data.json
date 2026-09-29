@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-29T22:30:04+00:00",
+ "generated_utc": "2026-09-29T22:35:04+00:00",
  "date_et": "2026-09-29",
  "build": "0d463cfe05",
  "tape": [
@@ -588,14 +588,14 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 88.65,
-    "pct": -0.82
+    "price": 88.73,
+    "pct": -0.73
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4213.8,
-    "pct": 0.82
+    "price": 4215.0,
+    "pct": 0.84
    },
    {
     "sym": "DXY",
@@ -622,9 +622,9 @@
     "pct": -0.19
    }
   ],
-  "as_of": "2026-09-29T22:27:05.815758+00:00",
+  "as_of": "2026-09-29T22:33:06.200590+00:00",
   "tone": "mixed",
-  "age_min": 2.980947733333333
+  "age_min": 1.9657598333333333
  },
  "stories": [
   {
@@ -633,6 +633,13 @@
    "source": "The Economist",
    "published": "Tue, 29 Sep 2026 21:09:15 GMT",
    "read": "unclear"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "The Parade of Hormuz Horribles Fizzles Out - National Review",
+   "source": "National Review",
+   "published": "Tue, 29 Sep 2026 19:38:16 GMT",
+   "read": "de-escalation"
   },
   {
    "topic": "Iran / Hormuz",
@@ -661,13 +668,6 @@
    "source": "The Times",
    "published": "Tue, 29 Sep 2026 17:30:07 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Putin\u2019s new bombardment of Kyiv has a terrible logic - economist.com",
-   "source": "economist.com",
-   "published": "Tue, 29 Sep 2026 16:17:16 GMT",
-   "read": "escalation"
   }
  ],
  "ratings": [
