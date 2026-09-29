@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-29T23:10:03+00:00",
+ "generated_utc": "2026-09-29T23:15:04+00:00",
  "date_et": "2026-09-29",
  "build": "0d463cfe05",
  "tape": [
@@ -588,14 +588,14 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 89.3,
-    "pct": -0.09
+    "price": 89.35,
+    "pct": -0.03
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4211.4,
-    "pct": 0.76
+    "price": 4212.9,
+    "pct": 0.79
    },
    {
     "sym": "DXY",
@@ -622,9 +622,9 @@
     "pct": -0.19
    }
   ],
-  "as_of": "2026-09-29T23:09:06.484485+00:00",
+  "as_of": "2026-09-29T23:12:05.926634+00:00",
   "tone": "mixed",
-  "age_min": 0.9566159
+  "age_min": 2.9800787
  },
  "stories": [
   {
@@ -657,17 +657,17 @@
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "Putin is counting the cost of a war without an end - The Times",
-   "source": "The Times",
+   "title": "Putin is counting the cost of a war without an end - thetimes.com",
+   "source": "thetimes.com",
    "published": "Tue, 29 Sep 2026 17:30:07 GMT",
    "read": "unclear"
   },
   {
-   "topic": "Russia / Ukraine",
-   "title": "Putin\u2019s new bombardment of Kyiv has a terrible logic - economist.com",
-   "source": "economist.com",
-   "published": "Tue, 29 Sep 2026 16:17:16 GMT",
-   "read": "escalation"
+   "topic": "Iran / Hormuz",
+   "title": "How the War is Changing the Geography of Iran\u2019s Influence - time.com",
+   "source": "time.com",
+   "published": "Tue, 29 Sep 2026 15:55:00 GMT",
+   "read": "unclear"
   }
  ],
  "ratings": [
