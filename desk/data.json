@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-29T03:10:03+00:00",
+ "generated_utc": "2026-09-29T03:15:04+00:00",
  "date_et": "2026-09-28",
  "build": "0d463cfe05",
  "tape": [
@@ -294,26 +294,26 @@
    {
     "sym": "MOVE",
     "name": "Bond-market volatility",
-    "price": 101.8206,
+    "price": 101.82,
     "pct": 6.06
    },
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 93.87,
-    "pct": 1.37
+    "price": 93.78,
+    "pct": 1.27
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4170.7,
-    "pct": 0.06
+    "price": 4169.5,
+    "pct": 0.03
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.214,
-    "pct": 0.02
+    "price": 101.21,
+    "pct": 0.01
    },
    {
     "sym": "SPY",
@@ -334,11 +334,32 @@
     "pct": 8.07
    }
   ],
-  "as_of": "2026-09-29T03:09:04.624682+00:00",
+  "as_of": "2026-09-29T03:12:04.688006+00:00",
   "tone": "risk-off",
-  "age_min": 0.9840896166666667
+  "age_min": 2.9939511666666667
  },
  "stories": [
+  {
+   "topic": "Taiwan / China",
+   "title": "Taiwan diplomat seeks stronger US support as China increases pressure - Taiwan News",
+   "source": "Taiwan News",
+   "published": "Tue, 29 Sep 2026 03:01:13 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Putin Orders 15,500 Troops Added To Russian Army, Raising Authorized Strength To 2,441,630 - NewsCord",
+   "source": "NewsCord",
+   "published": "Tue, 29 Sep 2026 02:48:27 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iran\u2019s Araghchi meets Qatari mediators as US calls for nuclear talks - Al Jazeera",
+   "source": "Al Jazeera",
+   "published": "Tue, 29 Sep 2026 02:37:30 GMT",
+   "read": "de-escalation"
+  },
   {
    "topic": "Taiwan / China",
    "title": "Trump-Xi Summit: Trade Truce Holds, but Taiwan &amp; Security Divides Remain - openthemagazine.com",
@@ -354,32 +375,11 @@
    "read": "de-escalation"
   },
   {
-   "topic": "Russia / Ukraine",
-   "title": "Ukraine war briefing: Putin orders army expansion as Zelenskyy says more North Koreans to be deployed in Russia - The Guardian",
-   "source": "The Guardian",
-   "published": "Tue, 29 Sep 2026 00:43:00 GMT",
-   "read": "escalation"
-  },
-  {
    "topic": "Iran / Hormuz",
    "title": "Oil prices surge after Trump rejects Iran\u2019s plan to reopen Strait of Hormuz - aljazeera.com",
    "source": "aljazeera.com",
    "published": "Tue, 29 Sep 2026 00:42:44 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Trump Rejects Iranian Proposal for Cease-Fire and Opening of Strait - nytimes.com",
-   "source": "nytimes.com",
-   "published": "Sat, 26 Sep 2026 15:54:20 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Negotiations continue after US rejects Iran's latest proposal to open the Strait of Hormuz - scrippsnews.com",
-   "source": "scrippsnews.com",
-   "published": "Mon, 28 Sep 2026 23:37:28 GMT",
-   "read": "unclear"
   }
  ],
  "ratings": [
