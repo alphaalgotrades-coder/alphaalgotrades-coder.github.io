@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-29T06:30:04+00:00",
+ "generated_utc": "2026-09-29T06:35:04+00:00",
  "date_et": "2026-09-29",
  "build": "0d463cfe05",
  "tape": [
@@ -588,19 +588,19 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 93.82,
-    "pct": 1.32
+    "price": 93.98,
+    "pct": 1.49
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4175.8,
-    "pct": 0.18
+    "price": 4176.3,
+    "pct": 0.19
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.26,
+    "price": 101.256,
     "pct": 0.06
    },
    {
@@ -622,11 +622,18 @@
     "pct": 8.07
    }
   ],
-  "as_of": "2026-09-29T06:27:05.998548+00:00",
+  "as_of": "2026-09-29T06:33:05.850652+00:00",
   "tone": "risk-off",
-  "age_min": 2.9793801833333333
+  "age_min": 1.97441175
  },
  "stories": [
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iran FM says expects US answer Tuesday on plan to open Hormuz - Arab News",
+   "source": "Arab News",
+   "published": "Tue, 29 Sep 2026 05:48:34 GMT",
+   "read": "unclear"
+  },
   {
    "topic": "Iran / Hormuz",
    "title": "Iran's Hormuz oil leverage crumbles as US blockade bites - www.israelhayom.com",
@@ -650,23 +657,16 @@
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "Putin Orders 15,500 Troops Added To Russian Army, Raising Authorized Strength To 2,441,630 - NewsCord",
-   "source": "NewsCord",
+   "title": "Putin Orders 15,500 Troops Added To Russian Army, Raising Authorized Strength To 2,441,630 - newscord.org",
+   "source": "newscord.org",
    "published": "Tue, 29 Sep 2026 02:48:27 GMT",
-   "read": "escalation"
+   "read": "unclear"
   },
   {
    "topic": "Iran / Hormuz",
    "title": "Iran\u2019s Araghchi meets Qatari mediators as US calls for nuclear talks - aljazeera.com",
    "source": "aljazeera.com",
    "published": "Tue, 29 Sep 2026 02:37:30 GMT",
-   "read": "de-escalation"
-  },
-  {
-   "topic": "Taiwan / China",
-   "title": "Trump-Xi Summit: Trade Truce Holds, but Taiwan &amp; Security Divides Remain - Open Magazine",
-   "source": "Open Magazine",
-   "published": "Tue, 29 Sep 2026 02:09:17 GMT",
    "read": "de-escalation"
   }
  ],
