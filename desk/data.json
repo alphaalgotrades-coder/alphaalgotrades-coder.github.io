@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-29T09:10:03+00:00",
+ "generated_utc": "2026-09-29T09:15:04+00:00",
  "date_et": "2026-09-29",
  "build": "0d463cfe05",
  "tape": [
@@ -588,20 +588,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 92.7,
-    "pct": 0.11
+    "price": 92.61,
+    "pct": 0.01
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4169.4,
-    "pct": 0.02
+    "price": 4172.9,
+    "pct": 0.11
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.377,
-    "pct": 0.18
+    "price": 101.363,
+    "pct": 0.16
    },
    {
     "sym": "SPY",
@@ -618,15 +618,29 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 16.09,
-    "pct": 0.12
+    "price": 16.08,
+    "pct": 0.06
    }
   ],
-  "as_of": "2026-09-29T09:09:06.322471+00:00",
+  "as_of": "2026-09-29T09:12:05.506143+00:00",
   "tone": "risk-off",
-  "age_min": 0.9603520333333333
+  "age_min": 2.9849444999999997
  },
  "stories": [
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Russia hikes 2027 defense budget by 27% as Putin orders fourth troop expansion of the year - report - i24NEWS",
+   "source": "i24NEWS",
+   "published": "Tue, 29 Sep 2026 08:56:00 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Putin Orders Russian Army to Increase Troop Size to 1.55M - The Moscow Times",
+   "source": "The Moscow Times",
+   "published": "Tue, 29 Sep 2026 08:48:31 GMT",
+   "read": "unclear"
+  },
   {
    "topic": "Russia / Ukraine",
    "title": "Putin claims that Ukraine has no \u2018antidote\u2019 to Russia\u2019s new jet-powered drones. Kyiv has already shown it can shoot them down, but doing it at scale could cost billions. - meduza.i",
@@ -654,20 +668,6 @@
    "source": "Euronews.com",
    "published": "Tue, 29 Sep 2026 07:15:44 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "New Russian mobilisation: Putin signs decree adding 15,500 troops to army - Euronews.com",
-   "source": "Euronews.com",
-   "published": "Tue, 29 Sep 2026 07:15:44 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Saudi / Gulf supply",
-   "title": "Saudi Arabia resumes oil exports through East-West Pipeline as Brent nears $107 - Oil &amp; Gas Middle East",
-   "source": "Oil &amp; Gas Middle East",
-   "published": "Tue, 29 Sep 2026 06:49:46 GMT",
-   "read": "de-escalation"
   }
  ],
  "ratings": [
