@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-29T08:10:03+00:00",
+ "generated_utc": "2026-09-29T08:15:04+00:00",
  "date_et": "2026-09-29",
  "build": "0d463cfe05",
  "tape": [
@@ -588,20 +588,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 93.48,
-    "pct": 0.95
+    "price": 93.41,
+    "pct": 0.87
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4172.3,
-    "pct": 0.09
+    "price": 4174.2,
+    "pct": 0.14
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.354,
-    "pct": 0.16
+    "price": 101.348,
+    "pct": 0.15
    },
    {
     "sym": "SPY",
@@ -618,13 +618,13 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 16.1,
-    "pct": 0.19
+    "price": 16.12,
+    "pct": 0.31
    }
   ],
-  "as_of": "2026-09-29T08:09:06.130112+00:00",
+  "as_of": "2026-09-29T08:12:13.971916+00:00",
   "tone": "risk-off",
-  "age_min": 0.9607589833333333
+  "age_min": 2.8409400999999996
  },
  "stories": [
   {
@@ -649,6 +649,13 @@
    "read": "de-escalation"
   },
   {
+   "topic": "Russia / Ukraine",
+   "title": "New Russian mobilisation: Putin signs decree adding 15,500 troops to army - Euronews.com",
+   "source": "Euronews.com",
+   "published": "Tue, 29 Sep 2026 07:15:44 GMT",
+   "read": "escalation"
+  },
+  {
    "topic": "Saudi / Gulf supply",
    "title": "Saudi Arabia resumes oil exports through East-West Pipeline as Brent nears $107 - Oil &amp; Gas Middle East",
    "source": "Oil &amp; Gas Middle East",
@@ -660,13 +667,6 @@
    "title": "Iran says it expects US response Tuesday on plan to reopen Strait of Hormuz - France 24",
    "source": "France 24",
    "published": "Tue, 29 Sep 2026 06:32:31 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran Officials Pessimistic About US Deal Before Midterms - Bloomberg.com",
-   "source": "Bloomberg.com",
-   "published": "Tue, 29 Sep 2026 06:13:00 GMT",
    "read": "unclear"
   }
  ],
