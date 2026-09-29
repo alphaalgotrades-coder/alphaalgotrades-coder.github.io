@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-29T04:40:04+00:00",
+ "generated_utc": "2026-09-29T04:45:04+00:00",
  "date_et": "2026-09-29",
  "build": "0d463cfe05",
  "tape": [
@@ -10,7 +10,7 @@
    "title": "Cash Rate",
    "cons": "4.60%",
    "prev": "4.35%",
-   "actual": ""
+   "actual": "4.60%"
   },
   {
    "time": "00:30",
@@ -588,19 +588,19 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 94.19,
-    "pct": 1.72
+    "price": 94.32,
+    "pct": 1.86
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4160.5,
-    "pct": -0.19
+    "price": 4161.1,
+    "pct": -0.18
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.272,
+    "price": 101.263,
     "pct": 0.07
    },
    {
@@ -622,9 +622,9 @@
     "pct": 8.07
    }
   ],
-  "as_of": "2026-09-29T04:39:05.216809+00:00",
+  "as_of": "2026-09-29T04:42:05.087423+00:00",
   "tone": "risk-off",
-  "age_min": 0.9835376
+  "age_min": 2.990920516666667
  },
  "stories": [
   {
