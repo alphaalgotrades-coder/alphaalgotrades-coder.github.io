@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-29T00:50:03+00:00",
+ "generated_utc": "2026-09-29T00:55:03+00:00",
  "date_et": "2026-09-28",
  "build": "0d463cfe05",
  "tape": [
@@ -300,19 +300,19 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 93.15,
-    "pct": 0.59
+    "price": 93.09,
+    "pct": 0.53
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4156.3,
-    "pct": -0.29
+    "price": 4153.7,
+    "pct": -0.35
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.242,
+    "price": 101.24,
     "pct": 0.04
    },
    {
@@ -334,11 +334,18 @@
     "pct": 8.07
    }
   ],
-  "as_of": "2026-09-29T00:48:09.929326+00:00",
+  "as_of": "2026-09-29T00:54:09.846571+00:00",
   "tone": "risk-off",
-  "age_min": 1.8899305
+  "age_min": 0.8904485
  },
  "stories": [
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Ukraine war briefing: Putin orders army expansion as Zelenskyy says more North Koreans to be deployed in Russia - The Guardian",
+   "source": "The Guardian",
+   "published": "Tue, 29 Sep 2026 00:43:00 GMT",
+   "read": "escalation"
+  },
   {
    "topic": "Russia / Ukraine",
    "title": "Russia accuses Europe of blocking Ukraine peace talks as Trump calls on Zelenskyy to \"settle with Putin\" - CBS News",
@@ -373,13 +380,6 @@
    "source": "The Presidential Prayer Team",
    "published": "Mon, 28 Sep 2026 20:59:54 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Taiwan / China",
-   "title": "US officials deny there are plans to sell weapons to China - ABC News - Breaking News, Latest News and Videos",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "published": "Mon, 28 Sep 2026 20:26:15 GMT",
-   "read": "unclear"
   }
  ],
  "ratings": [
