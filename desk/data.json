@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-29T00:30:04+00:00",
+ "generated_utc": "2026-09-29T00:35:03+00:00",
  "date_et": "2026-09-28",
  "build": "0d463cfe05",
  "tape": [
@@ -300,20 +300,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 93.5,
-    "pct": 0.97
+    "price": 93.21,
+    "pct": 0.66
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4151.0,
-    "pct": -0.42
+    "price": 4149.0,
+    "pct": -0.47
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.244,
-    "pct": 0.05
+    "price": 101.254,
+    "pct": 0.06
    },
    {
     "sym": "SPY",
@@ -334,9 +334,9 @@
     "pct": 8.07
    }
   ],
-  "as_of": "2026-09-29T00:27:06.149940+00:00",
+  "as_of": "2026-09-29T00:33:05.595243+00:00",
   "tone": "risk-off",
-  "age_min": 2.982257316666667
+  "age_min": 1.9692998000000002
  },
  "stories": [
   {
@@ -362,6 +362,13 @@
   },
   {
    "topic": "Iran / Hormuz",
+   "title": "Persian Gulf oil exports hit 72% of prewar levels \u2014 as US says Iran is 'exhausted' by blockade - New York Post",
+   "source": "New York Post",
+   "published": "Mon, 28 Sep 2026 21:09:00 GMT",
+   "read": "de-escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
    "title": "President Rejects Iran\u2019s Proposal to Open Strait of Hormuz - The Presidential Prayer Team",
    "source": "The Presidential Prayer Team",
    "published": "Mon, 28 Sep 2026 20:59:54 GMT",
@@ -372,13 +379,6 @@
    "title": "US officials deny there are plans to sell weapons to China - ABC News - Breaking News, Latest News and Videos",
    "source": "ABC News - Breaking News, Latest News and Videos",
    "published": "Mon, 28 Sep 2026 20:26:15 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran Threatens Vessel Charterers as Dispute Over Hormuz Continues - maritime-executive.com",
-   "source": "maritime-executive.com",
-   "published": "Mon, 28 Sep 2026 19:44:38 GMT",
    "read": "unclear"
   }
  ],
