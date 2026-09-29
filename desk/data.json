@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-29T08:40:04+00:00",
+ "generated_utc": "2026-09-29T08:45:04+00:00",
  "date_et": "2026-09-29",
  "build": "0d463cfe05",
  "tape": [
@@ -55,7 +55,7 @@
    "title": "M4 Money Supply m/m",
    "cons": "0.1%",
    "prev": "-0.3%",
-   "actual": ""
+   "actual": "0.4%"
   },
   {
    "time": "04:30",
@@ -64,7 +64,7 @@
    "title": "Mortgage Approvals",
    "cons": "56K",
    "prev": "56K",
-   "actual": ""
+   "actual": "55K"
   },
   {
    "time": "04:30",
@@ -73,7 +73,7 @@
    "title": "Net Lending to Individuals m/m",
    "cons": "6.2B",
    "prev": "6.3B",
-   "actual": ""
+   "actual": "6.9B"
   },
   {
    "time": "05:33",
@@ -588,20 +588,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 92.83,
-    "pct": 0.25
+    "price": 92.91,
+    "pct": 0.33
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4172.2,
-    "pct": 0.09
+    "price": 4172.7,
+    "pct": 0.1
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.362,
-    "pct": 0.16
+    "price": 101.378,
+    "pct": 0.18
    },
    {
     "sym": "SPY",
@@ -622,9 +622,9 @@
     "pct": 0.25
    }
   ],
-  "as_of": "2026-09-29T08:39:05.890686+00:00",
+  "as_of": "2026-09-29T08:42:05.400110+00:00",
   "tone": "risk-off",
-  "age_min": 0.97280965
+  "age_min": 2.9859985166666667
  },
  "stories": [
   {
