@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-29T09:30:04+00:00",
+ "generated_utc": "2026-09-29T09:35:04+00:00",
  "date_et": "2026-09-29",
  "build": "0d463cfe05",
  "tape": [
@@ -588,20 +588,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 92.68,
-    "pct": 0.09
+    "price": 92.59,
+    "pct": -0.01
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4173.8,
-    "pct": 0.13
+    "price": 4174.6,
+    "pct": 0.15
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.44,
-    "pct": 0.24
+    "price": 101.421,
+    "pct": 0.22
    },
    {
     "sym": "SPY",
@@ -618,15 +618,22 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 16.07,
-    "pct": null
+    "price": 16.1,
+    "pct": 0.19
    }
   ],
-  "as_of": "2026-09-29T09:27:05.684022+00:00",
+  "as_of": "2026-09-29T09:33:05.648375+00:00",
   "tone": "risk-off",
-  "age_min": 2.97903575
+  "age_min": 1.9774331833333332
  },
  "stories": [
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Putin has now expanded Russia's military four times this year, to 1.55 million troops. Ukraine says it just recaptured 176 square kilometers in Donetsk - Plataforma Media",
+   "source": "Plataforma Media",
+   "published": "Tue, 29 Sep 2026 09:21:11 GMT",
+   "read": "escalation"
+  },
   {
    "topic": "Russia / Ukraine",
    "title": "Russia hikes 2027 defense budget by 27% as Putin orders fourth troop expansion of the year - report - i24NEWS",
@@ -661,13 +668,6 @@
    "source": "finance.biggo.com",
    "published": "Tue, 29 Sep 2026 07:25:00 GMT",
    "read": "de-escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Putin expands army for fourth time this year as war losses mount - Euronews.com",
-   "source": "Euronews.com",
-   "published": "Tue, 29 Sep 2026 07:15:44 GMT",
-   "read": "escalation"
   }
  ],
  "ratings": [
