@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-29T21:30:05+00:00",
+ "generated_utc": "2026-09-29T21:35:04+00:00",
  "date_et": "2026-09-29",
  "build": "0d463cfe05",
  "tape": [
@@ -600,8 +600,8 @@
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.397,
-    "pct": 0.2
+    "price": 101.393,
+    "pct": 0.19
    },
    {
     "sym": "SPY",
@@ -622,17 +622,17 @@
     "pct": -0.19
    }
   ],
-  "as_of": "2026-09-29T21:27:06.285909+00:00",
+  "as_of": "2026-09-29T21:33:05.298677+00:00",
   "tone": "mixed",
-  "age_min": 2.984690366666667
+  "age_min": 1.9874349500000001
  },
  "stories": [
   {
    "topic": "Iran / Hormuz",
-   "title": "Hormuz traffic nears prewar levels as Iran war simmers - Washington Times",
-   "source": "Washington Times",
+   "title": "Hormuz traffic nears prewar levels as Iran war simmers - washingtontimes.com",
+   "source": "washingtontimes.com",
    "published": "Tue, 29 Sep 2026 19:19:00 GMT",
-   "read": "escalation"
+   "read": "de-escalation"
   },
   {
    "topic": "Saudi / Gulf supply",
@@ -657,16 +657,16 @@
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "How Putin is counting the cost of a war without an end - The Times",
-   "source": "The Times",
-   "published": "Tue, 29 Sep 2026 17:30:07 GMT",
-   "read": "unclear"
+   "title": "Putin\u2019s new bombardment of Kyiv has a terrible logic - economist.com",
+   "source": "economist.com",
+   "published": "Tue, 29 Sep 2026 16:17:16 GMT",
+   "read": "escalation"
   },
   {
-   "topic": "Russia / Ukraine",
-   "title": "Ukrainian Group Reveals Putin\u2019s Inner Circle - Newsweek",
-   "source": "Newsweek",
-   "published": "Tue, 29 Sep 2026 16:38:00 GMT",
+   "topic": "Iran / Hormuz",
+   "title": "US-Iran talks in New York: What\u2019s the latest? - Al Jazeera",
+   "source": "Al Jazeera",
+   "published": "Tue, 29 Sep 2026 15:33:16 GMT",
    "read": "unclear"
   }
  ],
