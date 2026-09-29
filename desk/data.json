@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-29T04:50:03+00:00",
+ "generated_utc": "2026-09-29T04:55:03+00:00",
  "date_et": "2026-09-29",
  "build": "0d463cfe05",
  "tape": [
@@ -588,20 +588,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 94.25,
-    "pct": 1.78
+    "price": 94.26,
+    "pct": 1.79
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4156.5,
-    "pct": -0.29
+    "price": 4157.5,
+    "pct": -0.26
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.28,
-    "pct": 0.08
+    "price": 101.29,
+    "pct": 0.09
    },
    {
     "sym": "SPY",
@@ -622,9 +622,9 @@
     "pct": 8.07
    }
   ],
-  "as_of": "2026-09-29T04:48:04.952084+00:00",
+  "as_of": "2026-09-29T04:54:05.189797+00:00",
   "tone": "risk-off",
-  "age_min": 1.9814033500000001
+  "age_min": 0.9759409166666667
  },
  "stories": [
   {
@@ -664,10 +664,10 @@
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Oil prices surge after Trump rejects Iran\u2019s plan to reopen Strait of Hormuz - aljazeera.com",
-   "source": "aljazeera.com",
-   "published": "Tue, 29 Sep 2026 00:42:44 GMT",
-   "read": "escalation"
+   "title": "Middle East Oil Exports Rebound as Iran\u2019s Chokehold on Hormuz Breaks Down - wsj.com",
+   "source": "wsj.com",
+   "published": "Tue, 29 Sep 2026 01:00:00 GMT",
+   "read": "de-escalation"
   }
  ],
  "ratings": [
