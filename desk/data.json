@@ -1,28 +1,109 @@
 {
- "generated_utc": "2026-09-29T03:55:03+00:00",
- "date_et": "2026-09-28",
+ "generated_utc": "2026-09-29T04:00:04+00:00",
+ "date_et": "2026-09-29",
  "build": "0d463cfe05",
  "tape": [
   {
-   "time": "06:00",
+   "time": "00:30",
+   "ccy": "AUD",
+   "impact": "High",
+   "title": "Cash Rate",
+   "cons": "4.60%",
+   "prev": "4.35%",
+   "actual": ""
+  },
+  {
+   "time": "00:30",
+   "ccy": "AUD",
+   "impact": "High",
+   "title": "RBA Rate Statement",
+   "cons": "",
+   "prev": "",
+   "actual": ""
+  },
+  {
+   "time": "01:30",
+   "ccy": "AUD",
+   "impact": "Medi",
+   "title": "RBA Press Conference",
+   "cons": "",
+   "prev": "",
+   "actual": ""
+  },
+  {
+   "time": "03:00",
+   "ccy": "CHF",
+   "impact": "Low",
+   "title": "KOF Economic Barometer",
+   "cons": "106.0",
+   "prev": "106.7",
+   "actual": ""
+  },
+  {
+   "time": "03:00",
+   "ccy": "EUR",
+   "impact": "Low",
+   "title": "Spanish Flash CPI y/y",
+   "cons": "4.6%",
+   "prev": "4.3%",
+   "actual": ""
+  },
+  {
+   "time": "04:30",
    "ccy": "GBP",
    "impact": "Low",
-   "title": "MPC Member Ramsden Speaks",
-   "cons": "",
-   "prev": "",
+   "title": "M4 Money Supply m/m",
+   "cons": "0.1%",
+   "prev": "-0.3%",
    "actual": ""
   },
   {
-   "time": "08:15",
-   "ccy": "USD",
+   "time": "04:30",
+   "ccy": "GBP",
    "impact": "Low",
-   "title": "FOMC Member Bowman Speaks",
+   "title": "Mortgage Approvals",
+   "cons": "56K",
+   "prev": "56K",
+   "actual": ""
+  },
+  {
+   "time": "04:30",
+   "ccy": "GBP",
+   "impact": "Low",
+   "title": "Net Lending to Individuals m/m",
+   "cons": "6.2B",
+   "prev": "6.3B",
+   "actual": ""
+  },
+  {
+   "time": "05:33",
+   "ccy": "EUR",
+   "impact": "Low",
+   "title": "Italian 10-y Bond Auction",
+   "cons": "",
+   "prev": "4.10|1.6",
+   "actual": ""
+  },
+  {
+   "time": "05:33",
+   "ccy": "GBP",
+   "impact": "Low",
+   "title": "10-y Bond Auction",
+   "cons": "",
+   "prev": "5.16|3.6",
+   "actual": ""
+  },
+  {
+   "time": "06:00",
+   "ccy": "EUR",
+   "impact": "Low",
+   "title": "German Buba President Nagel Speaks",
    "cons": "",
    "prev": "",
    "actual": ""
   },
   {
-   "time": "09:30",
+   "time": "07:00",
    "ccy": "EUR",
    "impact": "Medi",
    "title": "ECB President Lagarde Speaks",
@@ -31,10 +112,100 @@
    "actual": ""
   },
   {
-   "time": "13:25",
+   "time": "08:30",
+   "ccy": "CAD",
+   "impact": "Medi",
+   "title": "GDP m/m",
+   "cons": "0.0%",
+   "prev": "0.3%",
+   "actual": ""
+  },
+  {
+   "time": "09:00",
    "ccy": "USD",
    "impact": "Low",
-   "title": "FOMC Member Cook Speaks",
+   "title": "HPI m/m",
+   "cons": "0.1%",
+   "prev": "0.0%",
+   "actual": ""
+  },
+  {
+   "time": "09:00",
+   "ccy": "USD",
+   "impact": "Low",
+   "title": "S&P/CS Composite-20 HPI y/y",
+   "cons": "2.2%",
+   "prev": "2.1%",
+   "actual": ""
+  },
+  {
+   "time": "10:00",
+   "ccy": "USD",
+   "impact": "Medi",
+   "title": "CB Consumer Confidence",
+   "cons": "89.2",
+   "prev": "89.4",
+   "actual": ""
+  },
+  {
+   "time": "10:00",
+   "ccy": "USD",
+   "impact": "High",
+   "title": "JOLTS Job Openings",
+   "cons": "7.23M",
+   "prev": "7.27M",
+   "actual": ""
+  },
+  {
+   "time": "11:00",
+   "ccy": "GBP",
+   "impact": "Low",
+   "title": "MPC Member Mann Speaks",
+   "cons": "",
+   "prev": "",
+   "actual": ""
+  },
+  {
+   "time": "11:00",
+   "ccy": "USD",
+   "impact": "Low",
+   "title": "FOMC Member Bowman Speaks",
+   "cons": "",
+   "prev": "",
+   "actual": ""
+  },
+  {
+   "time": "11:30",
+   "ccy": "GBP",
+   "impact": "Low",
+   "title": "MPC Member Taylor Speaks",
+   "cons": "",
+   "prev": "",
+   "actual": ""
+  },
+  {
+   "time": "12:40",
+   "ccy": "USD",
+   "impact": "Low",
+   "title": "FOMC Member Barr Speaks",
+   "cons": "",
+   "prev": "",
+   "actual": ""
+  },
+  {
+   "time": "13:00",
+   "ccy": "USD",
+   "impact": "Low",
+   "title": "FOMC Member Goolsbee Speaks",
+   "cons": "",
+   "prev": "",
+   "actual": ""
+  },
+  {
+   "time": "13:20",
+   "ccy": "CAD",
+   "impact": "Low",
+   "title": "Gov Council Member Gravelle Speaks",
    "cons": "",
    "prev": "",
    "actual": ""
@@ -43,28 +214,145 @@
    "time": "13:30",
    "ccy": "USD",
    "impact": "Low",
-   "title": "FOMC Member Barkin Speaks",
+   "title": "FOMC Member Musalem Speaks",
    "cons": "",
    "prev": "",
    "actual": ""
   },
   {
-   "time": "19:01",
-   "ccy": "GBP",
+   "time": "14:00",
+   "ccy": "USD",
    "impact": "Low",
-   "title": "BRC Shop Price Index y/y",
-   "cons": "1.5%",
-   "prev": "1.5%",
-   "actual": "1.4%"
+   "title": "FOMC Member Williams Speaks",
+   "cons": "",
+   "prev": "",
+   "actual": ""
+  },
+  {
+   "time": "15:00",
+   "ccy": "USD",
+   "impact": "Low",
+   "title": "FOMC Member Waller Speaks",
+   "cons": "",
+   "prev": "",
+   "actual": ""
+  },
+  {
+   "time": "16:30",
+   "ccy": "USD",
+   "impact": "Low",
+   "title": "API Weekly Statistical Bulletin",
+   "cons": "",
+   "prev": "",
+   "actual": ""
+  },
+  {
+   "time": "19:50",
+   "ccy": "JPY",
+   "impact": "Low",
+   "title": "Prelim Industrial Production m/m",
+   "cons": "1.4%",
+   "prev": "0.1%",
+   "actual": ""
+  },
+  {
+   "time": "19:50",
+   "ccy": "JPY",
+   "impact": "Low",
+   "title": "Retail Sales y/y",
+   "cons": "3.3%",
+   "prev": "4.0%",
+   "actual": ""
+  },
+  {
+   "time": "20:00",
+   "ccy": "NZD",
+   "impact": "Low",
+   "title": "ANZ Business Confidence",
+   "cons": "",
+   "prev": "53.7",
+   "actual": ""
+  },
+  {
+   "time": "21:30",
+   "ccy": "AUD",
+   "impact": "High",
+   "title": "CPI m/m",
+   "cons": "0.5%",
+   "prev": "1.0%",
+   "actual": ""
+  },
+  {
+   "time": "21:30",
+   "ccy": "AUD",
+   "impact": "High",
+   "title": "CPI y/y",
+   "cons": "4.1%",
+   "prev": "3.5%",
+   "actual": ""
+  },
+  {
+   "time": "21:30",
+   "ccy": "AUD",
+   "impact": "High",
+   "title": "Trimmed Mean CPI m/m",
+   "cons": "0.3%",
+   "prev": "0.5%",
+   "actual": ""
   },
   {
    "time": "21:30",
    "ccy": "AUD",
    "impact": "Low",
-   "title": "Household Spending m/m",
-   "cons": "0.3%",
-   "prev": "1.1%",
-   "actual": "0.0%"
+   "title": "Building Approvals m/m",
+   "cons": "-1.6%",
+   "prev": "-3.6%",
+   "actual": ""
+  },
+  {
+   "time": "21:30",
+   "ccy": "AUD",
+   "impact": "Low",
+   "title": "Private Sector Credit m/m",
+   "cons": "0.5%",
+   "prev": "0.6%",
+   "actual": ""
+  },
+  {
+   "time": "21:30",
+   "ccy": "CNY",
+   "impact": "Low",
+   "title": "Manufacturing PMI",
+   "cons": "50.1",
+   "prev": "49.8",
+   "actual": ""
+  },
+  {
+   "time": "21:30",
+   "ccy": "CNY",
+   "impact": "Low",
+   "title": "Non-Manufacturing PMI",
+   "cons": "49.2",
+   "prev": "49.0",
+   "actual": ""
+  },
+  {
+   "time": "21:45",
+   "ccy": "CNY",
+   "impact": "Low",
+   "title": "RatingDog Manufacturing PMI",
+   "cons": "51.7",
+   "prev": "51.5",
+   "actual": ""
+  },
+  {
+   "time": "21:45",
+   "ccy": "CNY",
+   "impact": "Low",
+   "title": "RatingDog Services PMI",
+   "cons": "51.3",
+   "prev": "51.4",
+   "actual": ""
   }
  ],
  "rates": {
@@ -300,20 +588,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 93.93,
-    "pct": 1.44
+    "price": 93.96,
+    "pct": 1.47
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4170.2,
-    "pct": 0.04
+    "price": 4165.8,
+    "pct": -0.06
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.25,
-    "pct": 0.05
+    "price": 101.257,
+    "pct": 0.06
    },
    {
     "sym": "SPY",
@@ -334,9 +622,9 @@
     "pct": 8.07
    }
   ],
-  "as_of": "2026-09-29T03:54:04.530777+00:00",
+  "as_of": "2026-09-29T03:57:04.857937+00:00",
   "tone": "risk-off",
-  "age_min": 0.9871747833333333
+  "age_min": 2.9895880999999997
  },
  "stories": [
   {
