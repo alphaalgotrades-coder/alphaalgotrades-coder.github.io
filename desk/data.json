@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-29T23:30:04+00:00",
+ "generated_utc": "2026-09-29T23:35:04+00:00",
  "date_et": "2026-09-29",
  "build": "0d463cfe05",
  "tape": [
@@ -588,14 +588,14 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 89.17,
-    "pct": -0.23
+    "price": 89.3,
+    "pct": -0.09
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4215.2,
-    "pct": 0.85
+    "price": 4212.3,
+    "pct": 0.78
    },
    {
     "sym": "DXY",
@@ -622,18 +622,11 @@
     "pct": -0.19
    }
   ],
-  "as_of": "2026-09-29T23:27:06.139392+00:00",
+  "as_of": "2026-09-29T23:33:06.059364+00:00",
   "tone": "mixed",
-  "age_min": 2.977069016666667
+  "age_min": 1.9718302166666668
  },
  "stories": [
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Has Iran lost its grip on Gulf oil exports? - The Economist",
-   "source": "The Economist",
-   "published": "Tue, 29 Sep 2026 21:09:15 GMT",
-   "read": "unclear"
-  },
   {
    "topic": "Iran / Hormuz",
    "title": "The Parade of Hormuz Horribles Fizzles Out - National Review",
@@ -667,6 +660,13 @@
    "title": "How the War is Changing the Geography of Iran\u2019s Influence - time.com",
    "source": "time.com",
    "published": "Tue, 29 Sep 2026 15:55:00 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Donald Trump weighs easing Russia sanctions if Kremlin frees political prisoners - jpost.com",
+   "source": "jpost.com",
+   "published": "Tue, 29 Sep 2026 15:16:47 GMT",
    "read": "unclear"
   }
  ],
