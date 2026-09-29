@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-29T06:10:03+00:00",
+ "generated_utc": "2026-09-29T06:15:04+00:00",
  "date_et": "2026-09-29",
  "build": "0d463cfe05",
  "tape": [
@@ -588,20 +588,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 94.1,
-    "pct": 1.62
+    "price": 94.07,
+    "pct": 1.59
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4169.3,
-    "pct": 0.02
+    "price": 4171.0,
+    "pct": 0.06
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.309,
-    "pct": 0.11
+    "price": 101.296,
+    "pct": 0.1
    },
    {
     "sym": "SPY",
@@ -622,11 +622,18 @@
     "pct": 8.07
    }
   ],
-  "as_of": "2026-09-29T06:09:05.861725+00:00",
+  "as_of": "2026-09-29T06:12:05.046062+00:00",
   "tone": "risk-off",
-  "age_min": 0.9673772666666667
+  "age_min": 2.9948082166666667
  },
  "stories": [
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iran's Hormuz oil leverage crumbles as US blockade bites - www.israelhayom.com",
+   "source": "www.israelhayom.com",
+   "published": "Tue, 29 Sep 2026 05:42:37 GMT",
+   "read": "escalation"
+  },
   {
    "topic": "Russia / Ukraine",
    "title": "Ukraine War, Day 1,678: Putin Restricts Access to Data on Oil Refineries and Energy Exports - EA WorldView",
@@ -660,13 +667,6 @@
    "title": "Trump-Xi Summit: Trade Truce Holds, but Taiwan &amp; Security Divides Remain - Open Magazine",
    "source": "Open Magazine",
    "published": "Tue, 29 Sep 2026 02:09:17 GMT",
-   "read": "de-escalation"
-  },
-  {
-   "topic": "Saudi / Gulf supply",
-   "title": "Saudi Arabia Resumes Red Sea Crude Oil Exports Following Repairs to Hit East-West Pipeline - news.sbs.co.kr",
-   "source": "news.sbs.co.kr",
-   "published": "Tue, 29 Sep 2026 01:02:16 GMT",
    "read": "de-escalation"
   }
  ],
