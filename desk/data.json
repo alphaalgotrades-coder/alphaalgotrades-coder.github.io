@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-29T06:50:04+00:00",
+ "generated_utc": "2026-09-29T06:55:04+00:00",
  "date_et": "2026-09-29",
  "build": "0d463cfe05",
  "tape": [
@@ -588,20 +588,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 93.93,
-    "pct": 1.44
+    "price": 93.86,
+    "pct": 1.36
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4174.4,
-    "pct": 0.14
+    "price": 4175.5,
+    "pct": 0.17
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.278,
-    "pct": 0.08
+    "price": 101.262,
+    "pct": 0.06
    },
    {
     "sym": "SPY",
@@ -622,17 +622,38 @@
     "pct": 8.07
    }
   ],
-  "as_of": "2026-09-29T06:48:05.884973+00:00",
+  "as_of": "2026-09-29T06:54:06.032461+00:00",
   "tone": "risk-off",
-  "age_min": 1.9724658833333335
+  "age_min": 0.9736697833333333
  },
  "stories": [
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iran says it expects US response Tuesday on plan to reopen Strait of Hormuz - France 24",
+   "source": "France 24",
+   "published": "Tue, 29 Sep 2026 06:32:31 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Putin Tightens Secrecy Around Russia\u2019s Oil Flows as Ukraine Strikes 45% of Refining Capacity - kyivpost.com",
+   "source": "kyivpost.com",
+   "published": "Tue, 29 Sep 2026 06:03:51 GMT",
+   "read": "escalation"
+  },
   {
    "topic": "Iran / Hormuz",
    "title": "Iran FM says expects US answer Tuesday on plan to open Hormuz - Arab News",
    "source": "Arab News",
    "published": "Tue, 29 Sep 2026 05:48:34 GMT",
    "read": "unclear"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iran's oil stockpile nears empty as US-led Hormuz blockade holds - www.israelhayom.com",
+   "source": "www.israelhayom.com",
+   "published": "Tue, 29 Sep 2026 05:42:37 GMT",
+   "read": "escalation"
   },
   {
    "topic": "Iran / Hormuz",
@@ -647,27 +668,6 @@
    "source": "EA WorldView",
    "published": "Tue, 29 Sep 2026 05:11:06 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Taiwan / China",
-   "title": "Taiwan diplomat seeks stronger US support as China increases pressure - Taiwan News",
-   "source": "Taiwan News",
-   "published": "Tue, 29 Sep 2026 03:01:13 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Putin Orders 15,500 Troops Added To Russian Army, Raising Authorized Strength To 2,441,630 - newscord.org",
-   "source": "newscord.org",
-   "published": "Tue, 29 Sep 2026 02:48:27 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran\u2019s Araghchi meets Qatari mediators as US calls for nuclear talks - aljazeera.com",
-   "source": "aljazeera.com",
-   "published": "Tue, 29 Sep 2026 02:37:30 GMT",
-   "read": "de-escalation"
   }
  ],
  "ratings": [
