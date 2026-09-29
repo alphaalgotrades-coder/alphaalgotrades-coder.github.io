@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-29T08:50:03+00:00",
+ "generated_utc": "2026-09-29T08:55:04+00:00",
  "date_et": "2026-09-29",
  "build": "0d463cfe05",
  "tape": [
@@ -588,19 +588,19 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 93.01,
-    "pct": 0.44
+    "price": 92.81,
+    "pct": 0.23
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4170.6,
-    "pct": 0.05
+    "price": 4171.3,
+    "pct": 0.07
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.393,
+    "price": 101.388,
     "pct": 0.19
    },
    {
@@ -618,19 +618,19 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 16.06,
-    "pct": -0.06
+    "price": 16.05,
+    "pct": -0.12
    }
   ],
-  "as_of": "2026-09-29T08:48:05.140369+00:00",
+  "as_of": "2026-09-29T08:54:14.694609+00:00",
   "tone": "risk-off",
-  "age_min": 1.9793487333333333
+  "age_min": 0.82846225
  },
  "stories": [
   {
    "topic": "Russia / Ukraine",
-   "title": "Putin claims that Ukraine has no \u2018antidote\u2019 to Russia\u2019s new jet-powered drones. Kyiv has already shown it can shoot them down, but doing it at scale could cost billions. - Meduza",
-   "source": "Meduza",
+   "title": "Putin claims that Ukraine has no \u2018antidote\u2019 to Russia\u2019s new jet-powered drones. Kyiv has already shown it can shoot them down, but doing it at scale could cost billions. - meduza.i",
+   "source": "meduza.io",
    "published": "Tue, 29 Sep 2026 07:36:00 GMT",
    "read": "escalation"
   },
@@ -650,6 +650,13 @@
   },
   {
    "topic": "Russia / Ukraine",
+   "title": "Putin expands army for fourth time this year as war losses mount - Euronews.com",
+   "source": "Euronews.com",
+   "published": "Tue, 29 Sep 2026 07:15:44 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Russia / Ukraine",
    "title": "New Russian mobilisation: Putin signs decree adding 15,500 troops to army - Euronews.com",
    "source": "Euronews.com",
    "published": "Tue, 29 Sep 2026 07:15:44 GMT",
@@ -661,13 +668,6 @@
    "source": "Oil &amp; Gas Middle East",
    "published": "Tue, 29 Sep 2026 06:49:46 GMT",
    "read": "de-escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran says it expects US response Tuesday on plan to reopen Strait of Hormuz - France 24",
-   "source": "France 24",
-   "published": "Tue, 29 Sep 2026 06:32:31 GMT",
-   "read": "unclear"
   }
  ],
  "ratings": [
