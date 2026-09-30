@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-30T00:10:03+00:00",
+ "generated_utc": "2026-09-30T00:15:06+00:00",
  "date_et": "2026-09-29",
  "build": "0d463cfe05",
  "tape": [
@@ -588,14 +588,14 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 89.11,
-    "pct": -0.3
+    "price": 89.15,
+    "pct": -0.26
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4216.9,
-    "pct": 0.89
+    "price": 4219.1,
+    "pct": 0.94
    },
    {
     "sym": "DXY",
@@ -622,9 +622,9 @@
     "pct": -0.19
    }
   ],
-  "as_of": "2026-09-30T00:09:04.685942+00:00",
+  "as_of": "2026-09-30T00:12:04.633321+00:00",
   "tone": "mixed",
-  "age_min": 0.9878664500000001
+  "age_min": 3.0290103000000004
  },
  "stories": [
   {
@@ -663,10 +663,10 @@
    "read": "unclear"
   },
   {
-   "topic": "Russia / Ukraine",
-   "title": "Donald Trump weighs easing Russia sanctions if Kremlin frees political prisoners - jpost.com",
-   "source": "jpost.com",
-   "published": "Tue, 29 Sep 2026 15:16:47 GMT",
+   "topic": "Saudi / Gulf supply",
+   "title": "Saudi Arabia\u2019s January Crude Exports Rose, Output Highest Since 2023, JODI Says - EnergyNow.com",
+   "source": "EnergyNow.com",
+   "published": "Tue, 29 Sep 2026 15:20:03 GMT",
    "read": "unclear"
   }
  ],
