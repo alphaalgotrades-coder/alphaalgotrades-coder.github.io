@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-30T00:50:03+00:00",
+ "generated_utc": "2026-09-30T00:55:04+00:00",
  "date_et": "2026-09-29",
  "build": "0d463cfe05",
  "tape": [
@@ -588,20 +588,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 89.34,
-    "pct": -0.04
+    "price": 89.21,
+    "pct": -0.19
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4211.0,
-    "pct": 0.75
+    "price": 4210.3,
+    "pct": 0.73
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.409,
-    "pct": 0.04
+    "price": 101.405,
+    "pct": 0.03
    },
    {
     "sym": "SPY",
@@ -622,9 +622,9 @@
     "pct": -0.19
    }
   ],
-  "as_of": "2026-09-30T00:48:04.939421+00:00",
+  "as_of": "2026-09-30T00:54:05.270584+00:00",
   "tone": "mixed",
-  "age_min": 1.9804321166666665
+  "age_min": 0.9835863666666668
  },
  "stories": [
   {
@@ -635,24 +635,17 @@
    "read": "de-escalation"
   },
   {
-   "topic": "Saudi / Gulf supply",
-   "title": "Saudi stocks hit wartime low as Aramco slides, Gulf oil exports rebound - Al-Monitor",
-   "source": "Al-Monitor",
-   "published": "Tue, 29 Sep 2026 18:21:31 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Saudi / Gulf supply",
-   "title": "United States Oil Fund (USO) Slides Tuesday: What's Driving the Action? - TradingView",
-   "source": "TradingView",
-   "published": "Tue, 29 Sep 2026 18:19:57 GMT",
-   "read": "unclear"
-  },
-  {
    "topic": "Russia / Ukraine",
    "title": "Putin is counting the cost of a war without an end - thetimes.com",
    "source": "thetimes.com",
    "published": "Tue, 29 Sep 2026 17:30:07 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iran's currency hits a new record low as war erodes the country's economic stability - PBS",
+   "source": "PBS",
+   "published": "Tue, 29 Sep 2026 15:58:07 GMT",
    "read": "unclear"
   },
   {
@@ -668,6 +661,13 @@
    "source": "jpost.com",
    "published": "Tue, 29 Sep 2026 15:16:47 GMT",
    "read": "unclear"
+  },
+  {
+   "topic": "Taiwan / China",
+   "title": "US Navy launches drone command that could reshape Taiwan war planning - South China Morning Post",
+   "source": "South China Morning Post",
+   "published": "Tue, 29 Sep 2026 14:00:12 GMT",
+   "read": "escalation"
   }
  ],
  "ratings": [
