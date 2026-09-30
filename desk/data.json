@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-30T03:10:03+00:00",
+ "generated_utc": "2026-09-30T03:15:03+00:00",
  "date_et": "2026-09-29",
  "build": "0d463cfe05",
  "tape": [
@@ -582,26 +582,26 @@
    {
     "sym": "MOVE",
     "name": "Bond-market volatility",
-    "price": 106.6027,
-    "pct": 4.7
+    "price": 106.6,
+    "pct": 4.69
    },
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 89.64,
-    "pct": 0.29
+    "price": 89.63,
+    "pct": 0.28
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4211.5,
-    "pct": 0.76
+    "price": 4212.6,
+    "pct": 0.79
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.351,
-    "pct": -0.02
+    "price": 101.342,
+    "pct": -0.03
    },
    {
     "sym": "SPY",
@@ -622,17 +622,31 @@
     "pct": -0.19
    }
   ],
-  "as_of": "2026-09-30T03:09:06.026418+00:00",
+  "as_of": "2026-09-30T03:12:05.005535+00:00",
   "tone": "mixed",
-  "age_min": 0.9637303
+  "age_min": 2.975050733333333
  },
  "stories": [
+  {
+   "topic": "Taiwan / China",
+   "title": "Taiwan tracks 13 Chinese ships, 9 military aircraft - Taiwan News",
+   "source": "Taiwan News",
+   "published": "Wed, 30 Sep 2026 02:51:29 GMT",
+   "read": "escalation"
+  },
   {
    "topic": "Taiwan / China",
    "title": "Taiwan plans US$850 million munition spend to prepare for potential PLA blockade - South China Morning Post",
    "source": "South China Morning Post",
    "published": "Wed, 30 Sep 2026 02:00:17 GMT",
    "read": "escalation"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Tokayev in Berlin calls Putin outstanding statesman and most acceptable political figure for Europe - Ukrinform",
+   "source": "Ukrinform",
+   "published": "Wed, 30 Sep 2026 01:35:00 GMT",
+   "read": "unclear"
   },
   {
    "topic": "Taiwan / China",
@@ -643,8 +657,8 @@
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Qatari mediators press peace deal between US and Iran - reuters.com",
-   "source": "reuters.com",
+   "title": "Qatari mediators press peace deal between US and Iran - Reuters",
+   "source": "Reuters",
    "published": "Tue, 29 Sep 2026 22:19:14 GMT",
    "read": "de-escalation"
   },
@@ -654,20 +668,6 @@
    "source": "Atlantic Council",
    "published": "Tue, 29 Sep 2026 19:06:00 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Putin is counting the cost of a war without an end - thetimes.com",
-   "source": "thetimes.com",
-   "published": "Tue, 29 Sep 2026 17:30:07 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran's currency hits a new record low as war erodes the country's economic stability - PBS",
-   "source": "PBS",
-   "published": "Tue, 29 Sep 2026 15:58:07 GMT",
-   "read": "unclear"
   }
  ],
  "ratings": [
