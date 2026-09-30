@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-30T21:50:03+00:00",
+ "generated_utc": "2026-09-30T21:55:03+00:00",
  "date_et": "2026-09-30",
  "build": "0d463cfe05",
  "tape": [
@@ -607,19 +607,19 @@
     "sym": "CL",
     "name": "WTI crude futures",
     "price": 90.34,
-    "pct": 1.07
+    "pct": -0.09
    },
    {
     "sym": "GC",
     "name": "Gold futures",
     "price": 4189.1,
-    "pct": 0.22
+    "pct": 0.06
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.45,
-    "pct": 0.08
+    "price": 101.447,
+    "pct": 0.07
    },
    {
     "sym": "SPY",
@@ -640,9 +640,9 @@
     "pct": 1.87
    }
   ],
-  "as_of": "2026-09-30T21:48:05.248638+00:00",
+  "as_of": "2026-09-30T21:54:04.955498+00:00",
   "tone": "mixed",
-  "age_min": 1.97375255
+  "age_min": 0.9840092333333333
  },
  "stories": [
   {
@@ -650,6 +650,13 @@
    "title": "Iran Receives US Response To Seven-Day Hormuz Proposal, Gap Is Over Sequencing Not Substance - \u06a9\u0648\u0631\u062f\u0633\u062a\u0627\u0646 24",
    "source": "\u06a9\u0648\u0631\u062f\u0633\u062a\u0627\u0646 24",
    "published": "Wed, 30 Sep 2026 20:46:36 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Time for Trump to confront Putin - washingtontimes.com",
+   "source": "washingtontimes.com",
+   "published": "Wed, 30 Sep 2026 20:31:54 GMT",
    "read": "unclear"
   },
   {
@@ -668,17 +675,10 @@
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "Kremlin Warns Against Expanding Starlink Use for Ukrainian Strikes Inside Russia - caspiannews.com",
-   "source": "caspiannews.com",
-   "published": "Wed, 30 Sep 2026 19:18:11 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "EA-The Sun VideoCast: Is Putin A \"Cornered Rat\" Over Invasion of Ukraine? - EA WorldView",
-   "source": "EA WorldView",
-   "published": "Wed, 30 Sep 2026 19:06:59 GMT",
-   "read": "escalation"
+   "title": "Ukraine\u2019s war chest is running low at the worst possible moment - politico.eu",
+   "source": "politico.eu",
+   "published": "Wed, 30 Sep 2026 20:03:18 GMT",
+   "read": "unclear"
   },
   {
    "topic": "Saudi / Gulf supply",
