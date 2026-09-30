@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-30T09:50:03+00:00",
+ "generated_utc": "2026-09-30T09:55:03+00:00",
  "date_et": "2026-09-30",
  "build": "0d463cfe05",
  "tape": [
@@ -606,19 +606,19 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 90.03,
-    "pct": 0.73
+    "price": 90.23,
+    "pct": 0.95
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4220.9,
-    "pct": 0.99
+    "price": 4219.2,
+    "pct": 0.95
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.256,
+    "price": 101.262,
     "pct": -0.11
    },
    {
@@ -636,15 +636,29 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 15.97,
-    "pct": -0.44
+    "price": 16.0,
+    "pct": -0.25
    }
   ],
-  "as_of": "2026-09-30T09:48:05.320065+00:00",
+  "as_of": "2026-09-30T09:54:04.978496+00:00",
   "tone": "mixed",
-  "age_min": 1.9662419
+  "age_min": 0.9768348
  },
  "stories": [
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iran envoy says strait is sole focus of discussions - The Arkansas Democrat-Gazette",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": "Wed, 30 Sep 2026 09:27:00 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Negotiator of 2015 Iran nuclear deal discusses Trump rejecting Iran's latest proposal - NPR",
+   "source": "NPR",
+   "published": "Wed, 30 Sep 2026 08:43:39 GMT",
+   "read": "de-escalation"
+  },
   {
    "topic": "Iran / Hormuz",
    "title": "Trump denies offering Iran sanctions relief; Qatar pushes for peace talks - CNBC",
@@ -653,38 +667,24 @@
    "read": "unclear"
   },
   {
-   "topic": "Iran / Hormuz",
-   "title": "Oil prices climb as Trump denies offering Iran sanctions relief; Qatar pushes for peace talks - CNBC",
-   "source": "CNBC",
-   "published": "Wed, 30 Sep 2026 07:12:51 GMT",
-   "read": "unclear"
-  },
-  {
    "topic": "Taiwan / China",
-   "title": "Taiwan tracks 13 Chinese ships, 9 military aircraft - Taiwan News",
-   "source": "Taiwan News",
-   "published": "Wed, 30 Sep 2026 02:51:29 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Taiwan / China",
-   "title": "Taiwan plans US$850 million munition spend to prepare for potential PLA blockade - South China Morning Post",
-   "source": "South China Morning Post",
+   "title": "Taiwan plans US$850 million munition spend to prepare for potential PLA blockade - scmp.com",
+   "source": "scmp.com",
    "published": "Wed, 30 Sep 2026 02:00:17 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Oil gains after Trump denies he is willing to ease Iran sanctions - Reuters",
-   "source": "Reuters",
-   "published": "Wed, 30 Sep 2026 01:39:00 GMT",
-   "read": "unclear"
   },
   {
    "topic": "Russia / Ukraine",
    "title": "Tokayev in Berlin calls Putin outstanding statesman and most acceptable political figure for Europe - Ukrinform",
    "source": "Ukrinform",
    "published": "Wed, 30 Sep 2026 01:35:00 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Taiwan / China",
+   "title": "US President Trump and China President Xi didn\u2019t \u2018talk much\u2019 about Taiwan. What does that say about where it stands? - Asia News Network",
+   "source": "Asia News Network",
+   "published": "Wed, 30 Sep 2026 00:21:13 GMT",
    "read": "unclear"
   }
  ],
