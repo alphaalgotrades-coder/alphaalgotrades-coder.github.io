@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-30T03:30:03+00:00",
+ "generated_utc": "2026-09-30T03:35:03+00:00",
  "date_et": "2026-09-29",
  "build": "0d463cfe05",
  "tape": [
@@ -588,20 +588,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 89.7,
-    "pct": 0.36
+    "price": 89.72,
+    "pct": 0.38
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4209.8,
-    "pct": 0.72
+    "price": 4211.3,
+    "pct": 0.76
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.345,
-    "pct": -0.03
+    "price": 101.347,
+    "pct": -0.02
    },
    {
     "sym": "SPY",
@@ -622,9 +622,9 @@
     "pct": -0.19
    }
   ],
-  "as_of": "2026-09-30T03:27:05.220880+00:00",
+  "as_of": "2026-09-30T03:33:05.569885+00:00",
   "tone": "mixed",
-  "age_min": 2.9654244000000003
+  "age_min": 1.9670827499999999
  },
  "stories": [
   {
@@ -650,10 +650,17 @@
   },
   {
    "topic": "Taiwan / China",
-   "title": "US President Trump and China President Xi didn\u2019t \u2018talk much\u2019 about Taiwan. What does that say about where it stands? - asianews.network",
-   "source": "asianews.network",
+   "title": "US President Trump and China President Xi didn\u2019t \u2018talk much\u2019 about Taiwan. What does that say about where it stands? - Asia News Network",
+   "source": "Asia News Network",
    "published": "Wed, 30 Sep 2026 00:21:13 GMT",
    "read": "unclear"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Poland braces for potential confrontation as Russia tests NATO defenses - PBS",
+   "source": "PBS",
+   "published": "Tue, 29 Sep 2026 22:30:57 GMT",
+   "read": "escalation"
   },
   {
    "topic": "Iran / Hormuz",
@@ -661,13 +668,6 @@
    "source": "Reuters",
    "published": "Tue, 29 Sep 2026 22:19:14 GMT",
    "read": "de-escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Ukraine\u2019s innovative robot offensive just reversed a year of Russian gains - Atlantic Council",
-   "source": "Atlantic Council",
-   "published": "Tue, 29 Sep 2026 19:06:00 GMT",
-   "read": "escalation"
   }
  ],
  "ratings": [
