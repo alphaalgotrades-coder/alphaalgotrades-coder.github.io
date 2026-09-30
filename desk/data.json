@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-30T22:10:03+00:00",
+ "generated_utc": "2026-09-30T22:15:04+00:00",
  "date_et": "2026-09-30",
  "build": "0d463cfe05",
  "tape": [
@@ -606,20 +606,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 90.34,
-    "pct": -0.09
+    "price": 90.32,
+    "pct": -0.11
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4189.1,
-    "pct": 0.06
+    "price": 4190.1,
+    "pct": 0.08
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.455,
-    "pct": 0.08
+    "price": 101.464,
+    "pct": 0.09
    },
    {
     "sym": "SPY",
@@ -640,9 +640,9 @@
     "pct": 1.87
    }
   ],
-  "as_of": "2026-09-30T22:09:06.604796+00:00",
+  "as_of": "2026-09-30T22:12:04.780529+00:00",
   "tone": "mixed",
-  "age_min": 0.9507211000000001
+  "age_min": 2.9927609166666667
  },
  "stories": [
   {
@@ -668,10 +668,10 @@
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Iran reviews US ceasefire counterproposal as Strait of Hormuz terms remain unclear - WLUK",
-   "source": "WLUK",
+   "title": "Iran reviews US ceasefire counterproposal as Strait of Hormuz terms remain unclear - fox11online.com",
+   "source": "fox11online.com",
    "published": "Wed, 30 Sep 2026 20:22:33 GMT",
-   "read": "de-escalation"
+   "read": "unclear"
   },
   {
    "topic": "Russia / Ukraine",
