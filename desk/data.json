@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-30T00:03:02+00:00",
+ "generated_utc": "2026-09-30T00:05:04+00:00",
  "date_et": "2026-09-29",
  "build": "0d463cfe05",
  "tape": [
@@ -253,7 +253,7 @@
    "title": "Prelim Industrial Production m/m",
    "cons": "1.4%",
    "prev": "0.1%",
-   "actual": ""
+   "actual": "-1.7%"
   },
   {
    "time": "19:50",
@@ -262,7 +262,7 @@
    "title": "Retail Sales y/y",
    "cons": "3.3%",
    "prev": "4.0%",
-   "actual": ""
+   "actual": "2.7%"
   },
   {
    "time": "20:00",
@@ -271,7 +271,7 @@
    "title": "ANZ Business Confidence",
    "cons": "",
    "prev": "53.7",
-   "actual": ""
+   "actual": "51.9"
   },
   {
    "time": "21:30",
@@ -594,13 +594,13 @@
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4216.9,
-    "pct": 0.89
+    "price": 4216.3,
+    "pct": 0.88
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.419,
+    "price": 101.421,
     "pct": 0.05
    },
    {
@@ -622,9 +622,9 @@
     "pct": -0.19
    }
   ],
-  "as_of": "2026-09-30T00:00:11.675629+00:00",
+  "as_of": "2026-09-30T00:03:04.863054+00:00",
   "tone": "mixed",
-  "age_min": 2.84960055
+  "age_min": 2.0043231833333333
  },
  "stories": [
   {
@@ -857,14 +857,14 @@
   "note": "TreasuryDirect, announced offerings"
  },
  "book": {
-  "as_of_et": "19:05",
+  "as_of_et": "20:05",
   "since": "2026-07-13",
   "trading_days": 45,
   "green_days": 24,
   "red_days": 2,
   "total_fills": 136,
   "realized": 7722.27,
-  "open_upnl": -6014.0,
+  "open_upnl": -5842.0,
   "legs": [
    {
     "id": "AS261002P00024500",
