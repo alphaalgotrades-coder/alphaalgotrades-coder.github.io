@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-30T01:35:04+00:00",
+ "generated_utc": "2026-09-30T01:40:04+00:00",
  "date_et": "2026-09-29",
  "build": "0d463cfe05",
  "tape": [
@@ -307,7 +307,7 @@
    "title": "Building Approvals m/m",
    "cons": "-1.6%",
    "prev": "-3.6%",
-   "actual": ""
+   "actual": "-6.1%"
   },
   {
    "time": "21:30",
@@ -325,7 +325,7 @@
    "title": "Manufacturing PMI",
    "cons": "50.1",
    "prev": "49.8",
-   "actual": ""
+   "actual": "50.1"
   },
   {
    "time": "21:30",
@@ -334,7 +334,7 @@
    "title": "Non-Manufacturing PMI",
    "cons": "49.2",
    "prev": "49.0",
-   "actual": ""
+   "actual": "50.2"
   },
   {
    "time": "21:45",
@@ -588,19 +588,19 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 89.64,
-    "pct": 0.29
+    "price": 89.77,
+    "pct": 0.44
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4201.9,
-    "pct": 0.53
+    "price": 4201.3,
+    "pct": 0.52
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.364,
+    "price": 101.358,
     "pct": -0.01
    },
    {
@@ -622,9 +622,9 @@
     "pct": -0.19
    }
   ],
-  "as_of": "2026-09-30T01:33:05.540806+00:00",
+  "as_of": "2026-09-30T01:39:05.431488+00:00",
   "tone": "mixed",
-  "age_min": 1.983055
+  "age_min": 0.9876912999999999
  },
  "stories": [
   {
