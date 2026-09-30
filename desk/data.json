@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-30T01:50:03+00:00",
+ "generated_utc": "2026-09-30T01:55:03+00:00",
  "date_et": "2026-09-29",
  "build": "0d463cfe05",
  "tape": [
@@ -343,7 +343,7 @@
    "title": "RatingDog Manufacturing PMI",
    "cons": "51.7",
    "prev": "51.5",
-   "actual": ""
+   "actual": "52.1"
   },
   {
    "time": "21:45",
@@ -352,7 +352,7 @@
    "title": "RatingDog Services PMI",
    "cons": "51.3",
    "prev": "51.4",
-   "actual": ""
+   "actual": "51.6"
   }
  ],
  "rates": {
@@ -588,20 +588,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 89.75,
-    "pct": 0.41
+    "price": 89.54,
+    "pct": 0.18
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4201.0,
-    "pct": 0.51
+    "price": 4200.8,
+    "pct": 0.5
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.344,
-    "pct": -0.03
+    "price": 101.333,
+    "pct": -0.04
    },
    {
     "sym": "SPY",
@@ -622,11 +622,18 @@
     "pct": -0.19
    }
   ],
-  "as_of": "2026-09-30T01:48:04.908034+00:00",
+  "as_of": "2026-09-30T01:54:05.238831+00:00",
   "tone": "mixed",
-  "age_min": 1.9866127333333334
+  "age_min": 0.9771263333333333
  },
  "stories": [
+  {
+   "topic": "Taiwan / China",
+   "title": "US President Trump and China President Xi didn\u2019t \u2018talk much\u2019 about Taiwan. What does that say about where it stands? - asianews.network",
+   "source": "asianews.network",
+   "published": "Wed, 30 Sep 2026 00:21:13 GMT",
+   "read": "unclear"
+  },
   {
    "topic": "Iran / Hormuz",
    "title": "The Parade of Hormuz Horribles Fizzles Out - nationalreview.com",
@@ -660,13 +667,6 @@
    "title": "Saudi Arabia\u2019s January Crude Exports Rose, Output Highest Since 2023, JODI Says - EnergyNow.com",
    "source": "EnergyNow.com",
    "published": "Tue, 29 Sep 2026 15:20:03 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Saudi / Gulf supply",
-   "title": "Crude Oil Lower As Saudi Arabia Resumes Red Sea Oil Exports - wsj.com",
-   "source": "wsj.com",
-   "published": "Tue, 29 Sep 2026 13:34:00 GMT",
    "read": "unclear"
   }
  ],
