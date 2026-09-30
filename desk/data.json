@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-30T05:05:04+00:00",
+ "generated_utc": "2026-09-30T05:10:03+00:00",
  "date_et": "2026-09-30",
  "build": "0d463cfe05",
  "tape": [
@@ -10,7 +10,7 @@
    "title": "Housing Starts y/y",
    "cons": "6.9%",
    "prev": "8.2%",
-   "actual": ""
+   "actual": "6.1%"
   },
   {
    "time": "02:00",
@@ -606,20 +606,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 89.53,
-    "pct": 0.17
+    "price": 89.46,
+    "pct": 0.09
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4210.1,
-    "pct": 0.73
+    "price": 4211.1,
+    "pct": 0.75
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.457,
-    "pct": 0.08
+    "price": 101.439,
+    "pct": 0.07
    },
    {
     "sym": "SPY",
@@ -640,9 +640,9 @@
     "pct": -0.19
    }
   ],
-  "as_of": "2026-09-30T05:03:05.456976+00:00",
+  "as_of": "2026-09-30T05:09:06.067804+00:00",
   "tone": "mixed",
-  "age_min": 1.9796339833333334
+  "age_min": 0.9529832333333333
  },
  "stories": [
   {
