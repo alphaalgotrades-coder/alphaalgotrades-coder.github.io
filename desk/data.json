@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-30T01:30:04+00:00",
+ "generated_utc": "2026-09-30T01:35:04+00:00",
  "date_et": "2026-09-29",
  "build": "0d463cfe05",
  "tape": [
@@ -588,20 +588,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 89.73,
-    "pct": 0.39
+    "price": 89.64,
+    "pct": 0.29
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4204.8,
-    "pct": 0.6
+    "price": 4201.9,
+    "pct": 0.53
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.392,
-    "pct": 0.02
+    "price": 101.364,
+    "pct": -0.01
    },
    {
     "sym": "SPY",
@@ -622,9 +622,9 @@
     "pct": -0.19
    }
   ],
-  "as_of": "2026-09-30T01:27:04.892762+00:00",
+  "as_of": "2026-09-30T01:33:05.540806+00:00",
   "tone": "mixed",
-  "age_min": 2.9956956333333333
+  "age_min": 1.983055
  },
  "stories": [
   {
@@ -633,6 +633,13 @@
    "source": "nationalreview.com",
    "published": "Tue, 29 Sep 2026 19:38:16 GMT",
    "read": "de-escalation"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Ukraine\u2019s innovative robot offensive just reversed a year of Russian gains - Atlantic Council",
+   "source": "Atlantic Council",
+   "published": "Tue, 29 Sep 2026 19:06:00 GMT",
+   "read": "escalation"
   },
   {
    "topic": "Russia / Ukraine",
@@ -656,18 +663,11 @@
    "read": "unclear"
   },
   {
-   "topic": "Russia / Ukraine",
-   "title": "Donald Trump weighs easing Russia sanctions if Kremlin frees political prisoners - jpost.com",
-   "source": "jpost.com",
-   "published": "Tue, 29 Sep 2026 15:16:47 GMT",
+   "topic": "Saudi / Gulf supply",
+   "title": "Crude Oil Lower As Saudi Arabia Resumes Red Sea Oil Exports - wsj.com",
+   "source": "wsj.com",
+   "published": "Tue, 29 Sep 2026 13:34:00 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Taiwan / China",
-   "title": "US Navy launches drone command that could reshape Taiwan war planning - South China Morning Post",
-   "source": "South China Morning Post",
-   "published": "Tue, 29 Sep 2026 14:00:12 GMT",
-   "read": "escalation"
   }
  ],
  "ratings": [
