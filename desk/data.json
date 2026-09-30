@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-30T06:10:03+00:00",
+ "generated_utc": "2026-09-30T06:15:04+00:00",
  "date_et": "2026-09-30",
  "build": "0d463cfe05",
  "tape": [
@@ -19,7 +19,7 @@
    "title": "German Import Prices m/m",
    "cons": "0.6%",
    "prev": "0.2%",
-   "actual": ""
+   "actual": "1.0%"
   },
   {
    "time": "02:00",
@@ -46,7 +46,7 @@
    "title": "Final GDP q/q",
    "cons": "0.4%",
    "prev": "0.4%",
-   "actual": ""
+   "actual": "0.5%"
   },
   {
    "time": "02:00",
@@ -55,7 +55,7 @@
    "title": "Revised Business Investment q/q",
    "cons": "1.7%",
    "prev": "1.7%",
-   "actual": ""
+   "actual": "1.8%"
   },
   {
    "time": "02:29",
@@ -606,20 +606,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 89.36,
-    "pct": -0.02
+    "price": 89.39,
+    "pct": 0.01
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4212.3,
-    "pct": 0.78
+    "price": 4209.9,
+    "pct": 0.72
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.312,
-    "pct": -0.06
+    "price": 101.301,
+    "pct": -0.07
    },
    {
     "sym": "SPY",
@@ -640,9 +640,9 @@
     "pct": -0.19
    }
   ],
-  "as_of": "2026-09-30T06:09:05.524610+00:00",
+  "as_of": "2026-09-30T06:12:04.809201+00:00",
   "tone": "mixed",
-  "age_min": 0.9641078166666667
+  "age_min": 2.9932048666666664
  },
  "stories": [
   {
