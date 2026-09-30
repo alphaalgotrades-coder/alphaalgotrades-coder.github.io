@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-30T06:50:03+00:00",
+ "generated_utc": "2026-09-30T06:55:03+00:00",
  "date_et": "2026-09-30",
  "build": "0d463cfe05",
  "tape": [
@@ -73,7 +73,7 @@
    "title": "French Consumer Spending m/m",
    "cons": "0.0%",
    "prev": "0.5%",
-   "actual": ""
+   "actual": "-0.5%"
   },
   {
    "time": "02:45",
@@ -82,7 +82,7 @@
    "title": "French Prelim CPI m/m",
    "cons": "-0.5%",
    "prev": "0.7%",
-   "actual": ""
+   "actual": "-0.3%"
   },
   {
    "time": "03:55",
@@ -606,20 +606,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 89.64,
-    "pct": 0.29
+    "price": 89.66,
+    "pct": 0.31
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4213.6,
-    "pct": 0.81
+    "price": 4212.8,
+    "pct": 0.79
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.315,
-    "pct": -0.06
+    "price": 101.269,
+    "pct": -0.1
    },
    {
     "sym": "SPY",
@@ -640,9 +640,9 @@
     "pct": -0.19
    }
   ],
-  "as_of": "2026-09-30T06:48:04.623224+00:00",
+  "as_of": "2026-09-30T06:54:04.907472+00:00",
   "tone": "mixed",
-  "age_min": 1.9840943833333333
+  "age_min": 0.9805404000000001
  },
  "stories": [
   {
