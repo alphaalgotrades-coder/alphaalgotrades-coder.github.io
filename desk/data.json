@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-30T23:30:04+00:00",
+ "generated_utc": "2026-09-30T23:35:03+00:00",
  "date_et": "2026-09-30",
  "build": "0d463cfe05",
  "tape": [
@@ -606,14 +606,14 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 90.07,
-    "pct": -0.39
+    "price": 90.08,
+    "pct": -0.38
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4182.7,
-    "pct": -0.1
+    "price": 4185.0,
+    "pct": -0.04
    },
    {
     "sym": "DXY",
@@ -640,29 +640,22 @@
     "pct": 1.87
    }
   ],
-  "as_of": "2026-09-30T23:27:05.458019+00:00",
+  "as_of": "2026-09-30T23:33:05.350199+00:00",
   "tone": "mixed",
-  "age_min": 2.9838387333333336
+  "age_min": 1.9791112833333335
  },
  "stories": [
   {
-   "topic": "Iran / Hormuz",
-   "title": "Iran Receives US Response To Seven-Day Hormuz Proposal, Gap Is Over Sequencing Not Substance - \u06a9\u0648\u0631\u062f\u0633\u062a\u0627\u0646 24",
-   "source": "\u06a9\u0648\u0631\u062f\u0633\u062a\u0627\u0646 24",
-   "published": "Wed, 30 Sep 2026 20:46:36 GMT",
-   "read": "unclear"
+   "topic": "Russia / Ukraine",
+   "title": "Putin shows no sign of stopping the war as Russia doubles down on Ukraine - BBC",
+   "source": "BBC",
+   "published": "Wed, 30 Sep 2026 23:10:06 GMT",
+   "read": "escalation"
   },
   {
    "topic": "Russia / Ukraine",
    "title": "Time for Trump to confront Putin - washingtontimes.com",
    "source": "washingtontimes.com",
-   "published": "Wed, 30 Sep 2026 20:31:54 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Time for Trump to confront Putin - Washington Times",
-   "source": "Washington Times",
    "published": "Wed, 30 Sep 2026 20:31:54 GMT",
    "read": "unclear"
   },
@@ -679,6 +672,13 @@
    "source": "politico.eu",
    "published": "Wed, 30 Sep 2026 20:03:18 GMT",
    "read": "unclear"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iran Considers US Counterproposal on Ceasefire, Hormuz Reopening - Yahoo",
+   "source": "Yahoo",
+   "published": "Wed, 30 Sep 2026 20:00:20 GMT",
+   "read": "de-escalation"
   },
   {
    "topic": "Saudi / Gulf supply",
