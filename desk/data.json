@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-30T08:00:04+00:00",
+ "generated_utc": "2026-09-30T08:05:04+00:00",
  "date_et": "2026-09-30",
  "build": "0d463cfe05",
  "tape": [
@@ -91,7 +91,7 @@
    "title": "German Unemployment Change",
    "cons": "1K",
    "prev": "4K",
-   "actual": ""
+   "actual": "12K"
   },
   {
    "time": "04:00",
@@ -100,7 +100,7 @@
    "title": "UBS Economic Expectations",
    "cons": "",
    "prev": "12.1",
-   "actual": ""
+   "actual": "2.6"
   },
   {
    "time": "05:00",
@@ -606,20 +606,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 89.29,
-    "pct": -0.1
+    "price": 89.26,
+    "pct": -0.13
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4224.3,
-    "pct": 1.07
+    "price": 4226.6,
+    "pct": 1.12
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.293,
-    "pct": -0.08
+    "price": 101.311,
+    "pct": -0.06
    },
    {
     "sym": "SPY",
@@ -636,13 +636,13 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 15.86,
-    "pct": -1.12
+    "price": 15.88,
+    "pct": -1.0
    }
   ],
-  "as_of": "2026-09-30T07:57:04.812699+00:00",
+  "as_of": "2026-09-30T08:03:04.843160+00:00",
   "tone": "mixed",
-  "age_min": 3.0017389499999996
+  "age_min": 1.98881465
  },
  "stories": [
   {
@@ -875,7 +875,7 @@
   "note": "TreasuryDirect, announced offerings"
  },
  "book": {
-  "as_of_et": "03:05",
+  "as_of_et": "04:05",
   "since": "2026-07-13",
   "trading_days": 45,
   "green_days": 24,
