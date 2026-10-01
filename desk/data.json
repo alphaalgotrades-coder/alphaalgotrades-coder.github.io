@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-01T03:10:04+00:00",
+ "generated_utc": "2026-10-01T03:15:04+00:00",
  "date_et": "2026-09-30",
  "build": "0d463cfe05",
  "tape": [
@@ -600,26 +600,26 @@
    {
     "sym": "MOVE",
     "name": "Bond-market volatility",
-    "price": 110.4545,
+    "price": 110.45,
     "pct": 3.61
    },
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 89.6,
-    "pct": -0.91
+    "price": 89.55,
+    "pct": -0.96
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4189.2,
-    "pct": 0.06
+    "price": 4191.5,
+    "pct": 0.11
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.58,
-    "pct": 0.13
+    "price": 101.577,
+    "pct": 0.12
    },
    {
     "sym": "SPY",
@@ -640,9 +640,9 @@
     "pct": 1.87
    }
   ],
-  "as_of": "2026-10-01T03:09:04.754266+00:00",
+  "as_of": "2026-10-01T03:12:04.595929+00:00",
   "tone": "mixed",
-  "age_min": 0.9919767666666667
+  "age_min": 2.9981043499999998
  },
  "stories": [
   {
@@ -681,11 +681,11 @@
    "read": "unclear"
   },
   {
-   "topic": "Russia / Ukraine",
-   "title": "Russia is stockpiling weapons to intensify attacks on Ukraine, analysts say - CBS News",
-   "source": "CBS News",
-   "published": "Wed, 30 Sep 2026 15:59:00 GMT",
-   "read": "escalation"
+   "topic": "Iran / Hormuz",
+   "title": "Escaping the Hormuz trap: What should an agreement to reopen the Strait look like? - Chatham House",
+   "source": "Chatham House",
+   "published": "Wed, 30 Sep 2026 14:30:18 GMT",
+   "read": "unclear"
   }
  ],
  "ratings": [],
