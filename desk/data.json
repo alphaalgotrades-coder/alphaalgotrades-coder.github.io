@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-01T08:50:03+00:00",
+ "generated_utc": "2026-10-01T08:55:03+00:00",
  "date_et": "2026-10-01",
  "build": "0d463cfe05",
  "tape": [
@@ -615,20 +615,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 92.85,
-    "pct": 2.69
+    "price": 92.76,
+    "pct": 2.59
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4186.9,
-    "pct": 0.0
+    "price": 4180.9,
+    "pct": -0.14
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.793,
-    "pct": 0.34
+    "price": 101.811,
+    "pct": 0.35
    },
    {
     "sym": "SPY",
@@ -645,13 +645,13 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 16.99,
-    "pct": 3.98
+    "price": 16.81,
+    "pct": 2.88
    }
   ],
-  "as_of": "2026-10-01T08:48:05.208411+00:00",
+  "as_of": "2026-10-01T08:54:05.287722+00:00",
   "tone": "mixed",
-  "age_min": 1.9705033333333333
+  "age_min": 0.9759625166666667
  },
  "stories": [
   {
@@ -690,10 +690,10 @@
    "read": "unclear"
   },
   {
-   "topic": "Taiwan / China",
-   "title": "US assesses Chinese invasion of Taiwan unlikely next year despite 2027 timeline, sources say - The News International",
-   "source": "The News International",
-   "published": "Thu, 01 Oct 2026 08:00:00 GMT",
+   "topic": "Russia / Ukraine",
+   "title": "EA-Ukraine VideoCast: The Kremlin Won\u2019t Talk \u2014 So Russia Must Be Isolated - EA WorldView",
+   "source": "EA WorldView",
+   "published": "Thu, 01 Oct 2026 08:41:58 GMT",
    "read": "unclear"
   }
  ],
