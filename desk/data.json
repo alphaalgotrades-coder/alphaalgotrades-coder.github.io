@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-01T22:50:03+00:00",
+ "generated_utc": "2026-10-01T22:55:05+00:00",
  "date_et": "2026-10-01",
  "build": "0d463cfe05",
  "tape": [
@@ -615,20 +615,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 93.05,
-    "pct": 0.19
+    "price": 93.04,
+    "pct": 0.18
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4205.6,
+    "price": 4205.8,
     "pct": 0.08
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
     "price": 102.043,
-    "pct": 0.58
+    "pct": -0.05
    },
    {
     "sym": "SPY",
@@ -649,9 +649,9 @@
     "pct": 0.31
    }
   ],
-  "as_of": "2026-10-01T22:48:05.227872+00:00",
+  "as_of": "2026-10-01T22:54:05.449263+00:00",
   "tone": "mixed",
-  "age_min": 1.97333425
+  "age_min": 0.99810115
  },
  "stories": [
   {
@@ -670,9 +670,16 @@
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "Russia\u2019s Putin rules out ceasefire with Ukraine during speech in Moscow - Al Jazeera",
-   "source": "Al Jazeera",
-   "published": "Thu, 01 Oct 2026 21:33:56 GMT",
+   "title": "Putin warns West that Russia is prepared to use \u2018all weapons\u2019 to protect Baltic exclave - CNN",
+   "source": "CNN",
+   "published": "Thu, 01 Oct 2026 22:30:37 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Putin says Russia will use \u2018all weapons\u2019 in its arsenal if any of its territory is attacked - NBC News",
+   "source": "NBC News",
+   "published": "Thu, 01 Oct 2026 21:44:47 GMT",
    "read": "escalation"
   },
   {
@@ -685,13 +692,6 @@
   {
    "topic": "Russia / Ukraine",
    "title": "Putin warns Russia will use 'all weapons' if Kaliningrad threatened - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
-   "source": "ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
-   "published": "Thu, 01 Oct 2026 19:15:00 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Putin warns West Russia will use 'all weapons' if Kaliningrad threatened - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
    "source": "ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
    "published": "Thu, 01 Oct 2026 19:15:00 GMT",
    "read": "escalation"
