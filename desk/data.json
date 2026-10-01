@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-01T03:50:03+00:00",
+ "generated_utc": "2026-10-01T03:55:03+00:00",
  "date_et": "2026-09-30",
  "build": "0d463cfe05",
  "tape": [
@@ -606,20 +606,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 89.57,
-    "pct": -0.94
+    "price": 89.47,
+    "pct": -1.05
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4193.3,
-    "pct": 0.16
+    "price": 4199.4,
+    "pct": 0.3
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.597,
-    "pct": 0.14
+    "price": 101.584,
+    "pct": 0.13
    },
    {
     "sym": "SPY",
@@ -640,25 +640,11 @@
     "pct": 1.87
    }
   ],
-  "as_of": "2026-10-01T03:48:05.065448+00:00",
+  "as_of": "2026-10-01T03:54:05.072023+00:00",
   "tone": "mixed",
-  "age_min": 1.9720555833333333
+  "age_min": 0.9702378333333334
  },
  "stories": [
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Putin shows no sign of stopping the war as Russia doubles down on Ukraine - BBC",
-   "source": "BBC",
-   "published": "Wed, 30 Sep 2026 23:10:06 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Russia sends nuclear warning to NATO as tensions rise in the Baltic - reuters.com",
-   "source": "reuters.com",
-   "published": "Wed, 30 Sep 2026 20:11:07 GMT",
-   "read": "escalation"
-  },
   {
    "topic": "Russia / Ukraine",
    "title": "Russia warns NATO of possible nuclear response if Kaliningrad is cut off - Al Jazeera",
@@ -674,17 +660,31 @@
    "read": "unclear"
   },
   {
-   "topic": "Iran / Hormuz",
-   "title": "August 2026 Iran Tanker Tracker - unitedagainstnucleariran.com",
-   "source": "unitedagainstnucleariran.com",
-   "published": "Wed, 30 Sep 2026 16:20:20 GMT",
+   "topic": "Saudi / Gulf supply",
+   "title": "Oil Prices Fall as Gulf Crude Exports Recover - wsj.com",
+   "source": "wsj.com",
+   "published": "Wed, 30 Sep 2026 14:10:34 GMT",
    "read": "unclear"
   },
   {
-   "topic": "Taiwan / China",
-   "title": "China changes mobilization law for first time in 16 years - newsukraine.rbc.ua",
-   "source": "newsukraine.rbc.ua",
-   "published": "Wed, 30 Sep 2026 14:24:35 GMT",
+   "topic": "Iran / Hormuz",
+   "title": "Middle East Crude Oil Exports Back at Prewar Levels, Analysts Say - WSJ",
+   "source": "WSJ",
+   "published": "Wed, 30 Sep 2026 13:35:00 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Europe needs a new strategy for Russian gray zone aggression - Atlantic Council",
+   "source": "Atlantic Council",
+   "published": "Tue, 29 Sep 2026 20:12:08 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Saudi / Gulf supply",
+   "title": "Saudi Aramco Cancels European Crude Cargoes as Key Pipeline Stays Shut - Crude Oil Prices Today | OilPrice.com",
+   "source": "Crude Oil Prices Today | OilPrice.com",
+   "published": "Tue, 15 Sep 2026 07:00:00 GMT",
    "read": "unclear"
   }
  ],
