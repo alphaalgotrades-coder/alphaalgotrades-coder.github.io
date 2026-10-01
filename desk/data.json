@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-01T21:50:03+00:00",
+ "generated_utc": "2026-10-01T21:55:03+00:00",
  "date_et": "2026-10-01",
  "build": "0d463cfe05",
  "tape": [
@@ -616,19 +616,19 @@
     "sym": "CL",
     "name": "WTI crude futures",
     "price": 92.91,
-    "pct": 2.75
+    "pct": 0.04
    },
    {
     "sym": "GC",
     "name": "Gold futures",
     "price": 4207.8,
-    "pct": 0.5
+    "pct": 0.13
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.005,
-    "pct": 0.55
+    "price": 102.017,
+    "pct": 0.56
    },
    {
     "sym": "SPY",
@@ -649,9 +649,9 @@
     "pct": 0.31
    }
   ],
-  "as_of": "2026-10-01T21:48:04.677021+00:00",
+  "as_of": "2026-10-01T21:54:05.265078+00:00",
   "tone": "mixed",
-  "age_min": 1.9791652333333334
+  "age_min": 0.97106885
  },
  "stories": [
   {
@@ -659,13 +659,6 @@
    "title": "Iran\u2019s currency hits a new record low as war erodes the country\u2019s economic stability - apnews.com",
    "source": "apnews.com",
    "published": "Tue, 29 Sep 2026 19:09:00 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Taiwan / China",
-   "title": "China strengthens position for Taiwan conflict with mobilization law - asia.nikkei.com",
-   "source": "asia.nikkei.com",
-   "published": "Tue, 29 Sep 2026 18:06:00 GMT",
    "read": "escalation"
   },
   {
@@ -677,17 +670,10 @@
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "Putin aims to break Ukraine by terrorizing the civilian population - Atlantic Council",
-   "source": "Atlantic Council",
-   "published": "Thu, 01 Oct 2026 21:00:00 GMT",
+   "title": "Russia\u2019s Putin rules out ceasefire with Ukraine during speech in Moscow - Al Jazeera",
+   "source": "Al Jazeera",
+   "published": "Thu, 01 Oct 2026 21:33:56 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Total Victory or Endless War in Ukraine | Atlantic Council - Small Wars Journal",
-   "source": "Small Wars Journal",
-   "published": "Thu, 01 Oct 2026 20:30:05 GMT",
-   "read": "unclear"
   },
   {
    "topic": "Russia / Ukraine",
@@ -695,6 +681,20 @@
    "source": "The Times",
    "published": "Thu, 01 Oct 2026 19:58:26 GMT",
    "read": "escalation"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Putin warns West Russia will use 'all weapons' if Kaliningrad threatened - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
+   "source": "ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
+   "published": "Thu, 01 Oct 2026 19:15:00 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Saudi / Gulf supply",
+   "title": "Saudi Arabia leads Japan\u2019s oil imports in August; U.S. share surges - arabnews.jp",
+   "source": "arabnews.jp",
+   "published": "Thu, 01 Oct 2026 18:43:27 GMT",
+   "read": "unclear"
   }
  ],
  "ratings": [],
