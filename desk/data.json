@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-01T02:50:03+00:00",
+ "generated_utc": "2026-10-01T02:55:03+00:00",
  "date_et": "2026-09-30",
  "build": "0d463cfe05",
  "tape": [
@@ -606,19 +606,19 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 89.92,
-    "pct": -0.55
+    "price": 89.95,
+    "pct": -0.52
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4184.4,
+    "price": 4184.8,
     "pct": -0.05
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.587,
+    "price": 101.579,
     "pct": 0.13
    },
    {
@@ -640,9 +640,9 @@
     "pct": 1.87
    }
   ],
-  "as_of": "2026-10-01T02:48:08.612809+00:00",
+  "as_of": "2026-10-01T02:54:04.709562+00:00",
   "tone": "mixed",
-  "age_min": 1.9212008
+  "age_min": 0.99007025
  },
  "stories": [
   {
@@ -654,16 +654,16 @@
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "Time for Trump to confront Putin - washingtontimes.com",
-   "source": "washingtontimes.com",
-   "published": "Wed, 30 Sep 2026 20:31:54 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
    "title": "Russia sends nuclear warning to NATO as tensions rise in the Baltic - reuters.com",
    "source": "reuters.com",
    "published": "Wed, 30 Sep 2026 20:11:07 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Russia warns NATO of possible nuclear response if Kaliningrad is cut off - Al Jazeera",
+   "source": "Al Jazeera",
+   "published": "Wed, 30 Sep 2026 19:04:29 GMT",
    "read": "escalation"
   },
   {
