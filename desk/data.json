@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-01T00:03:01+00:00",
+ "generated_utc": "2026-10-01T00:05:04+00:00",
  "date_et": "2026-09-30",
  "build": "0d463cfe05",
  "tape": [
@@ -334,7 +334,7 @@
    "title": "Tankan Manufacturing Index",
    "cons": "25",
    "prev": "22",
-   "actual": ""
+   "actual": "24"
   },
   {
    "time": "19:50",
@@ -343,7 +343,7 @@
    "title": "Tankan Non-Manufacturing Index",
    "cons": "36",
    "prev": "37",
-   "actual": ""
+   "actual": "35"
   },
   {
    "time": "20:30",
@@ -606,20 +606,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 89.93,
-    "pct": -0.54
+    "price": 89.94,
+    "pct": -0.53
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4186.3,
+    "price": 4186.4,
     "pct": -0.01
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.476,
-    "pct": 0.02
+    "price": 101.492,
+    "pct": 0.04
    },
    {
     "sym": "SPY",
@@ -640,9 +640,9 @@
     "pct": 1.87
    }
   ],
-  "as_of": "2026-10-01T00:00:07.855123+00:00",
+  "as_of": "2026-10-01T00:03:05.851382+00:00",
   "tone": "mixed",
-  "age_min": 2.9037090333333335
+  "age_min": 1.9844501666666665
  },
  "stories": [
   {
@@ -858,14 +858,14 @@
   "note": "TreasuryDirect, announced offerings"
  },
  "book": {
-  "as_of_et": "19:05",
+  "as_of_et": "20:05",
   "since": "2026-07-13",
   "trading_days": 46,
   "green_days": 25,
   "red_days": 2,
   "total_fills": 137,
   "realized": 7750.27,
-  "open_upnl": -5593.08,
+  "open_upnl": -5722.68,
   "legs": [
    {
     "id": "AS261002P00024500",
