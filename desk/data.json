@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-01T23:50:03+00:00",
+ "generated_utc": "2026-10-01T23:55:03+00:00",
  "date_et": "2026-10-01",
  "build": "0d463cfe05",
  "tape": [
@@ -379,7 +379,7 @@
    "title": "Monetary Base y/y",
    "cons": "-16.3%",
    "prev": "-15.7%",
-   "actual": ""
+   "actual": "-15.2%"
   }
  ],
  "rates": {
@@ -615,14 +615,14 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 92.97,
-    "pct": 0.11
+    "price": 92.99,
+    "pct": 0.13
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4210.2,
-    "pct": 0.19
+    "price": 4207.7,
+    "pct": 0.13
    },
    {
     "sym": "DXY",
@@ -649,9 +649,9 @@
     "pct": 0.31
    }
   ],
-  "as_of": "2026-10-01T23:48:05.376682+00:00",
+  "as_of": "2026-10-01T23:54:05.445580+00:00",
   "tone": "mixed",
-  "age_min": 1.9678250333333334
+  "age_min": 0.9829721666666666
  },
  "stories": [
   {
@@ -684,9 +684,9 @@
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "Putin says Russia will use \u2018all weapons\u2019 in its arsenal if any of its territory is attacked - NBC News",
-   "source": "NBC News",
-   "published": "Thu, 01 Oct 2026 21:44:47 GMT",
+   "title": "Putin Warns West Over Kaliningrad, Admits Ukrainian Strikes Cut Russia's GDP by 1% - UNITED24 Media",
+   "source": "UNITED24 Media",
+   "published": "Thu, 01 Oct 2026 19:46:31 GMT",
    "read": "escalation"
   },
   {
