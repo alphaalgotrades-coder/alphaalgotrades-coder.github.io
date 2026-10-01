@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-01T09:55:03+00:00",
+ "generated_utc": "2026-10-01T10:00:04+00:00",
  "date_et": "2026-10-01",
  "build": "0d463cfe05",
  "tape": [
@@ -121,6 +121,24 @@
    "actual": "51.9"
   },
   {
+   "time": "04:42",
+   "ccy": "EUR",
+   "impact": "Low",
+   "title": "Spanish 10-y Bond Auction",
+   "cons": "",
+   "prev": "3.96|1.7",
+   "actual": "4.18|1.6"
+  },
+  {
+   "time": "04:57",
+   "ccy": "EUR",
+   "impact": "Low",
+   "title": "French 10-y Bond Auction",
+   "cons": "",
+   "prev": "4.23|2.3",
+   "actual": "4.93|2.0"
+  },
+  {
    "time": "05:00",
    "ccy": "EUR",
    "impact": "Low",
@@ -128,24 +146,6 @@
    "cons": "6.4%",
    "prev": "6.4%",
    "actual": "6.4%"
-  },
-  {
-   "time": "05:03",
-   "ccy": "EUR",
-   "impact": "Low",
-   "title": "Spanish 10-y Bond Auction",
-   "cons": "",
-   "prev": "3.96|1.7",
-   "actual": ""
-  },
-  {
-   "time": "05:18",
-   "ccy": "EUR",
-   "impact": "Low",
-   "title": "French 10-y Bond Auction",
-   "cons": "",
-   "prev": "4.23|2.3",
-   "actual": ""
   },
   {
    "time": "05:30",
@@ -615,20 +615,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 92.31,
-    "pct": 2.09
+    "price": 92.23,
+    "pct": 2.0
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4192.0,
+    "price": 4192.2,
     "pct": 0.13
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.819,
-    "pct": 0.36
+    "price": 101.827,
+    "pct": 0.37
    },
    {
     "sym": "SPY",
@@ -645,13 +645,13 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 16.5,
-    "pct": 0.98
+    "price": 16.57,
+    "pct": 1.41
    }
   ],
-  "as_of": "2026-10-01T09:54:05.386044+00:00",
+  "as_of": "2026-10-01T09:57:05.463151+00:00",
   "tone": "mixed",
-  "age_min": 0.97123995
+  "age_min": 2.9852689666666667
  },
  "stories": [
   {
