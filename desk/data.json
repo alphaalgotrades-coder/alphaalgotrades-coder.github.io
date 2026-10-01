@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-01T23:40:03+00:00",
+ "generated_utc": "2026-10-01T23:45:03+00:00",
  "date_et": "2026-10-01",
  "build": "0d463cfe05",
  "tape": [
@@ -361,7 +361,7 @@
    "title": "Tokyo Core CPI y/y",
    "cons": "2.4%",
    "prev": "1.8%",
-   "actual": ""
+   "actual": "2.7%"
   },
   {
    "time": "19:30",
@@ -370,7 +370,7 @@
    "title": "Unemployment Rate",
    "cons": "2.4%",
    "prev": "2.4%",
-   "actual": ""
+   "actual": "2.5%"
   },
   {
    "time": "19:50",
@@ -615,20 +615,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 93.03,
-    "pct": 0.17
+    "price": 93.01,
+    "pct": 0.15
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4210.6,
-    "pct": 0.2
+    "price": 4210.2,
+    "pct": 0.19
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.043,
-    "pct": -0.05
+    "price": 102.016,
+    "pct": -0.08
    },
    {
     "sym": "SPY",
@@ -649,9 +649,9 @@
     "pct": 0.31
    }
   ],
-  "as_of": "2026-10-01T23:39:05.494425+00:00",
+  "as_of": "2026-10-01T23:42:05.267384+00:00",
   "tone": "mixed",
-  "age_min": 0.9700266000000001
+  "age_min": 2.9798239166666667
  },
  "stories": [
   {
@@ -788,8 +788,8 @@
      "date": "2026-09-17"
     },
     "Unemployment": {
-     "v": "2.4%",
-     "date": "2026-08-27"
+     "v": "2.5%",
+     "date": "2026-10-01"
     }
    }
   }
