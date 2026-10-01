@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-01T02:00:04+00:00",
+ "generated_utc": "2026-10-01T02:05:04+00:00",
  "date_et": "2026-09-30",
  "build": "0d463cfe05",
  "tape": [
@@ -606,20 +606,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 90.21,
-    "pct": -0.23
+    "price": 90.15,
+    "pct": -0.3
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4190.4,
-    "pct": 0.09
+    "price": 4191.8,
+    "pct": 0.12
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.521,
-    "pct": 0.07
+    "price": 101.554,
+    "pct": 0.1
    },
    {
     "sym": "SPY",
@@ -640,9 +640,9 @@
     "pct": 1.87
    }
   ],
-  "as_of": "2026-10-01T01:57:14.853534+00:00",
+  "as_of": "2026-10-01T02:03:05.527837+00:00",
   "tone": "mixed",
-  "age_min": 2.833060316666667
+  "age_min": 1.9849072333333335
  },
  "stories": [
   {
@@ -858,14 +858,14 @@
   "note": "TreasuryDirect, announced offerings"
  },
  "book": {
-  "as_of_et": "21:05",
+  "as_of_et": "22:05",
   "since": "2026-07-13",
   "trading_days": 47,
   "green_days": 25,
   "red_days": 2,
   "total_fills": 138,
   "realized": 7750.27,
-  "open_upnl": -5722.68,
+  "open_upnl": -5732.68,
   "legs": [
    {
     "id": "AS261002P00024500",
@@ -953,6 +953,11 @@
     "symbol": "DLO",
     "shares": 700,
     "basis": 13.05
+   },
+   {
+    "symbol": "SPY",
+    "shares": 100,
+    "basis": 767.0
    },
    {
     "symbol": "Z",
