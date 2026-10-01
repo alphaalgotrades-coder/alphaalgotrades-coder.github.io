@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-01T08:00:04+00:00",
+ "generated_utc": "2026-10-01T08:05:03+00:00",
  "date_et": "2026-10-01",
  "build": "0d463cfe05",
  "tape": [
@@ -82,7 +82,7 @@
    "title": "German Final Manufacturing PMI",
    "cons": "53.8",
    "prev": "53.8",
-   "actual": ""
+   "actual": "53.9"
   },
   {
    "time": "04:00",
@@ -91,7 +91,7 @@
    "title": "Final Manufacturing PMI",
    "cons": "52.7",
    "prev": "52.7",
-   "actual": ""
+   "actual": "52.9"
   },
   {
    "time": "04:00",
@@ -100,7 +100,7 @@
    "title": "Italian Monthly Unemployment Rate",
    "cons": "5.8%",
    "prev": "5.8%",
-   "actual": ""
+   "actual": "6.2%"
   },
   {
    "time": "04:00",
@@ -615,20 +615,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 91.95,
-    "pct": 1.69
+    "price": 91.98,
+    "pct": 1.73
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4195.1,
-    "pct": 0.2
+    "price": 4192.8,
+    "pct": 0.15
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.698,
-    "pct": 0.24
+    "price": 101.714,
+    "pct": 0.26
    },
    {
     "sym": "SPY",
@@ -645,13 +645,13 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 16.69,
-    "pct": 2.14
+    "price": 16.68,
+    "pct": 2.08
    }
   ],
-  "as_of": "2026-10-01T07:57:04.897678+00:00",
+  "as_of": "2026-10-01T08:03:05.233336+00:00",
   "tone": "mixed",
-  "age_min": 2.9887281333333333
+  "age_min": 1.9777035833333334
  },
  "stories": [
   {
@@ -867,14 +867,14 @@
   "note": "TreasuryDirect, announced offerings"
  },
  "book": {
-  "as_of_et": "03:05",
+  "as_of_et": "04:05",
   "since": "2026-07-13",
   "trading_days": 47,
   "green_days": 25,
   "red_days": 2,
   "total_fills": 138,
   "realized": 7750.27,
-  "open_upnl": -5587.0,
+  "open_upnl": -5906.0,
   "legs": [
    {
     "id": "AS261002P00024500",
