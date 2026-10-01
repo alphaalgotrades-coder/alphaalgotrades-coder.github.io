@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-01T08:40:03+00:00",
+ "generated_utc": "2026-10-01T08:45:03+00:00",
  "date_et": "2026-10-01",
  "build": "0d463cfe05",
  "tape": [
@@ -118,7 +118,7 @@
    "title": "Final Manufacturing PMI",
    "cons": "52.0",
    "prev": "52.0",
-   "actual": ""
+   "actual": "51.9"
   },
   {
    "time": "05:00",
@@ -615,20 +615,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 92.41,
-    "pct": 2.2
+    "price": 92.76,
+    "pct": 2.59
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4189.5,
-    "pct": 0.07
+    "price": 4185.3,
+    "pct": -0.03
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.757,
-    "pct": 0.3
+    "price": 101.777,
+    "pct": 0.32
    },
    {
     "sym": "SPY",
@@ -645,13 +645,13 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 16.82,
-    "pct": 2.94
+    "price": 16.81,
+    "pct": 2.88
    }
   ],
-  "as_of": "2026-10-01T08:39:05.078779+00:00",
+  "as_of": "2026-10-01T08:42:05.154913+00:00",
   "tone": "mixed",
-  "age_min": 0.9758768166666666
+  "age_min": 2.9787429666666667
  },
  "stories": [
   {
