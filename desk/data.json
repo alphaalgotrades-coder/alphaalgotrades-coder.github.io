@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-01T08:30:03+00:00",
+ "generated_utc": "2026-10-01T08:35:03+00:00",
  "date_et": "2026-10-01",
  "build": "0d463cfe05",
  "tape": [
@@ -615,20 +615,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 92.11,
-    "pct": 1.87
+    "price": 92.29,
+    "pct": 2.07
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4189.1,
-    "pct": 0.06
+    "price": 4188.1,
+    "pct": 0.03
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.752,
-    "pct": 0.3
+    "price": 101.763,
+    "pct": 0.31
    },
    {
     "sym": "SPY",
@@ -645,13 +645,13 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 16.75,
-    "pct": 2.51
+    "price": 16.76,
+    "pct": 2.57
    }
   ],
-  "as_of": "2026-10-01T08:27:12.225215+00:00",
+  "as_of": "2026-10-01T08:33:08.533215+00:00",
   "tone": "mixed",
-  "age_min": 2.8559978
+  "age_min": 1.9224715666666665
  },
  "stories": [
   {
@@ -691,9 +691,9 @@
   },
   {
    "topic": "Taiwan / China",
-   "title": "U.S. officials increasingly view an invasion of Taiwan by China before 2028 as unlikely, despite Xi Jinping\u2019s order to have the military ready by 2027 - Informat.ro",
-   "source": "Informat.ro",
-   "published": "Thu, 01 Oct 2026 07:56:07 GMT",
+   "title": "US assesses Chinese invasion of Taiwan unlikely next year despite 2027 timeline, sources say - The News International",
+   "source": "The News International",
+   "published": "Thu, 01 Oct 2026 08:00:00 GMT",
    "read": "unclear"
   }
  ],
