@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-01T01:05:03.587190+00:00",
+ "generated_utc": "2026-10-01T02:05:03.859197+00:00",
  "paper": true,
  "strategy": "the wheel (cash-secured puts -> covered calls)",
  "since": "2026-07-13",
@@ -459,6 +459,19 @@
    "lane": "OPTIONS"
   },
   {
+   "instrument": "SPY shares",
+   "raw": "SPY",
+   "strategy": "HT_WHEEL",
+   "side": "long 100",
+   "broker": true,
+   "db": true,
+   "engine": true,
+   "agree": true,
+   "entry": 767.0,
+   "upnl": -10.0,
+   "lane": "OPTIONS"
+  },
+  {
    "instrument": "Z 10/16 P27",
    "raw": "Z261016P00027500",
    "strategy": "HT_WHEEL",
@@ -485,8 +498,8 @@
    "lane": "OPTIONS"
   }
  ],
- "open_upnl": -5722.68,
- "reconciliation": "11/11 open legs reconciled against the broker statement and our own database",
+ "open_upnl": -5732.68,
+ "reconciliation": "12/12 open legs reconciled against the broker statement and our own database",
  "stats": {
   "closed_trades": 41,
   "win_rate": 85.4,
@@ -495,9 +508,9 @@
   "profit_factor": 7.53,
   "expectancy": 189.03,
   "sharpe_daily_ann": 5.55,
-  "capital_at_risk": 104126.0,
-  "period_return_pct": 7.44,
-  "ann_pace_pct": 33.5,
+  "capital_at_risk": 180826.0,
+  "period_return_pct": 4.29,
+  "ann_pace_pct": 19.3,
   "elapsed_days": 81
  },
  "assigned": [
@@ -521,6 +534,13 @@
    "entry": 13.68,
    "basis": 13.05,
    "reduced_pct": 4.6
+  },
+  {
+   "symbol": "SPY",
+   "shares": 100,
+   "entry": 767.0,
+   "basis": 767.0,
+   "reduced_pct": 0.0
   },
   {
    "symbol": "Z",
