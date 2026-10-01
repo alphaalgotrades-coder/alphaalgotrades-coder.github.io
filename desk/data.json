@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-01T08:10:03+00:00",
+ "generated_utc": "2026-10-01T08:15:03+00:00",
  "date_et": "2026-10-01",
  "build": "0d463cfe05",
  "tape": [
@@ -615,20 +615,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 92.38,
-    "pct": 2.17
+    "price": 92.35,
+    "pct": 2.13
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4194.2,
-    "pct": 0.18
+    "price": 4194.6,
+    "pct": 0.19
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.706,
-    "pct": 0.25
+    "price": 101.736,
+    "pct": 0.28
    },
    {
     "sym": "SPY",
@@ -645,13 +645,13 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 16.64,
-    "pct": 1.84
+    "price": 16.66,
+    "pct": 1.96
    }
   ],
-  "as_of": "2026-10-01T08:09:05.121633+00:00",
+  "as_of": "2026-10-01T08:12:04.926012+00:00",
   "tone": "mixed",
-  "age_min": 0.9669827833333334
+  "age_min": 2.979870366666667
  },
  "stories": [
   {
@@ -683,17 +683,17 @@
    "read": "unclear"
   },
   {
-   "topic": "Taiwan / China",
-   "title": "China strengthens position for Taiwan conflict with mobilization law - Nikkei Asia",
-   "source": "Nikkei Asia",
-   "published": "Tue, 29 Sep 2026 18:06:00 GMT",
-   "read": "escalation"
-  },
-  {
    "topic": "Saudi / Gulf supply",
    "title": "Saudi Aramco Cancels European Crude Cargoes as Key Pipeline Stays Shut - Crude Oil Prices Today | OilPrice.com",
    "source": "Crude Oil Prices Today | OilPrice.com",
    "published": "Tue, 15 Sep 2026 07:00:00 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Taiwan / China",
+   "title": "U.S. officials increasingly view an invasion of Taiwan by China before 2028 as unlikely, despite Xi Jinping\u2019s order to have the military ready by 2027 - Informat.ro",
+   "source": "Informat.ro",
+   "published": "Thu, 01 Oct 2026 07:56:07 GMT",
    "read": "unclear"
   }
  ],
