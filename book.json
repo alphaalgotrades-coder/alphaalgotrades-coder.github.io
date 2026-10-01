@@ -1,12 +1,12 @@
 {
- "generated_utc": "2026-10-01T15:05:05.789902+00:00",
+ "generated_utc": "2026-10-01T16:05:04.382949+00:00",
  "paper": true,
  "strategy": "the wheel (cash-secured puts -> covered calls)",
  "since": "2026-07-13",
  "trading_days": 47,
  "green_days": 25,
  "red_days": 2,
- "total_fills": 138,
+ "total_fills": 139,
  "symbols_traded": 22,
  "cumulative_realized": 7750.27,
  "days": [
@@ -334,7 +334,7 @@
   },
   {
    "date": "2026-10-01",
-   "fills": 1,
+   "fills": 2,
    "realized": 0.0,
    "commission": 0.0,
    "cumulative": 7750.27
@@ -364,20 +364,7 @@
    "engine": true,
    "agree": true,
    "entry": 32.5,
-   "upnl": -1944.0,
-   "lane": "OPTIONS"
-  },
-  {
-   "instrument": "BLDR 10/16 C65",
-   "raw": "BLDR261016C00065000",
-   "strategy": "HT_WHEEL",
-   "side": "short 2",
-   "broker": true,
-   "db": true,
-   "engine": true,
-   "agree": true,
-   "entry": 0.9,
-   "upnl": 120.0,
+   "upnl": -1992.0,
    "lane": "OPTIONS"
   },
   {
@@ -403,7 +390,7 @@
    "engine": true,
    "agree": true,
    "entry": 70.0,
-   "upnl": -1889.0,
+   "upnl": -1816.0,
    "lane": "OPTIONS"
   },
   {
@@ -416,7 +403,7 @@
    "engine": true,
    "agree": true,
    "entry": 0.3,
-   "upnl": 105.0,
+   "upnl": 140.0,
    "lane": "OPTIONS"
   },
   {
@@ -442,7 +429,7 @@
    "engine": true,
    "agree": true,
    "entry": 13.68,
-   "upnl": -7.0,
+   "upnl": -10.5,
    "lane": "OPTIONS"
   },
   {
@@ -455,7 +442,7 @@
    "engine": true,
    "agree": true,
    "entry": 0.28,
-   "upnl": 40.0,
+   "upnl": 112.0,
    "lane": "OPTIONS"
   },
   {
@@ -468,7 +455,7 @@
    "engine": true,
    "agree": true,
    "entry": 767.0,
-   "upnl": -499.5,
+   "upnl": -587.0,
    "lane": "OPTIONS"
   },
   {
@@ -481,7 +468,7 @@
    "engine": true,
    "agree": true,
    "entry": 0.45,
-   "upnl": -480.0,
+   "upnl": -420.0,
    "lane": "OPTIONS"
   },
   {
@@ -494,12 +481,12 @@
    "engine": true,
    "agree": true,
    "entry": 35.0,
-   "upnl": -2240.0,
+   "upnl": -2138.0,
    "lane": "OPTIONS"
   }
  ],
- "open_upnl": -7129.5,
- "reconciliation": "12/12 open legs reconciled against the broker statement and our own database",
+ "open_upnl": -7046.5,
+ "reconciliation": "11/11 open legs reconciled against the broker statement and our own database",
  "stats": {
   "closed_trades": 41,
   "win_rate": 85.4,
@@ -525,8 +512,8 @@
    "symbol": "BLDR",
    "shares": 200,
    "entry": 70.0,
-   "basis": 63.23,
-   "reduced_pct": 9.7
+   "basis": 63.48,
+   "reduced_pct": 9.3
   },
   {
    "symbol": "DLO",
