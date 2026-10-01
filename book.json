@@ -1,14 +1,14 @@
 {
- "generated_utc": "2026-10-01T16:05:04.382949+00:00",
+ "generated_utc": "2026-10-01T17:05:04.613181+00:00",
  "paper": true,
  "strategy": "the wheel (cash-secured puts -> covered calls)",
  "since": "2026-07-13",
  "trading_days": 47,
- "green_days": 25,
+ "green_days": 26,
  "red_days": 2,
- "total_fills": 139,
+ "total_fills": 140,
  "symbols_traded": 22,
- "cumulative_realized": 7750.27,
+ "cumulative_realized": 7910.27,
  "days": [
   {
    "date": "2026-07-13",
@@ -334,10 +334,10 @@
   },
   {
    "date": "2026-10-01",
-   "fills": 2,
-   "realized": 0.0,
+   "fills": 3,
+   "realized": 160.0,
    "commission": 0.0,
-   "cumulative": 7750.27
+   "cumulative": 7910.27
   }
  ],
  "open_legs": [
@@ -364,7 +364,7 @@
    "engine": true,
    "agree": true,
    "entry": 32.5,
-   "upnl": -1992.0,
+   "upnl": -1884.0,
    "lane": "OPTIONS"
   },
   {
@@ -390,7 +390,7 @@
    "engine": true,
    "agree": true,
    "entry": 70.0,
-   "upnl": -1816.0,
+   "upnl": -1639.0,
    "lane": "OPTIONS"
   },
   {
@@ -403,7 +403,7 @@
    "engine": true,
    "agree": true,
    "entry": 0.3,
-   "upnl": 140.0,
+   "upnl": 105.0,
    "lane": "OPTIONS"
   },
   {
@@ -429,20 +429,7 @@
    "engine": true,
    "agree": true,
    "entry": 13.68,
-   "upnl": -10.5,
-   "lane": "OPTIONS"
-  },
-  {
-   "instrument": "PATH 10/02 P13",
-   "raw": "PATH261002P00013000",
-   "strategy": "HT_WHEEL",
-   "side": "short 8",
-   "broker": true,
-   "db": true,
-   "engine": true,
-   "agree": true,
-   "entry": 0.28,
-   "upnl": 112.0,
+   "upnl": 66.5,
    "lane": "OPTIONS"
   },
   {
@@ -455,7 +442,7 @@
    "engine": true,
    "agree": true,
    "entry": 767.0,
-   "upnl": -587.0,
+   "upnl": -421.5,
    "lane": "OPTIONS"
   },
   {
@@ -481,23 +468,23 @@
    "engine": true,
    "agree": true,
    "entry": 35.0,
-   "upnl": -2138.0,
+   "upnl": -2054.0,
    "lane": "OPTIONS"
   }
  ],
- "open_upnl": -7046.5,
- "reconciliation": "11/11 open legs reconciled against the broker statement and our own database",
+ "open_upnl": -6582.0,
+ "reconciliation": "10/10 open legs reconciled against the broker statement and our own database",
  "stats": {
-  "closed_trades": 41,
-  "win_rate": 85.4,
-  "avg_win": 255.35,
+  "closed_trades": 42,
+  "win_rate": 85.7,
+  "avg_win": 252.7,
   "avg_loss": -197.83,
-  "profit_factor": 7.53,
-  "expectancy": 189.03,
-  "sharpe_daily_ann": 5.55,
-  "capital_at_risk": 180826.0,
-  "period_return_pct": 4.29,
-  "ann_pace_pct": 19.3,
+  "profit_factor": 7.66,
+  "expectancy": 188.34,
+  "sharpe_daily_ann": 5.67,
+  "capital_at_risk": 170426.0,
+  "period_return_pct": 4.64,
+  "ann_pace_pct": 20.9,
   "elapsed_days": 81
  },
  "assigned": [
