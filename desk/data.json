@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-01T07:50:03+00:00",
+ "generated_utc": "2026-10-01T07:55:03+00:00",
  "date_et": "2026-10-01",
  "build": "0d463cfe05",
  "tape": [
@@ -64,7 +64,7 @@
    "title": "Italian Manufacturing PMI",
    "cons": "50.1",
    "prev": "49.6",
-   "actual": ""
+   "actual": "50.4"
   },
   {
    "time": "03:50",
@@ -73,7 +73,7 @@
    "title": "French Final Manufacturing PMI",
    "cons": "50.3",
    "prev": "50.3",
-   "actual": ""
+   "actual": "50.6"
   },
   {
    "time": "03:55",
@@ -615,20 +615,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 92.13,
-    "pct": 1.89
+    "price": 92.18,
+    "pct": 1.95
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4190.5,
-    "pct": 0.09
+    "price": 4191.1,
+    "pct": 0.11
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.726,
-    "pct": 0.27
+    "price": 101.746,
+    "pct": 0.29
    },
    {
     "sym": "SPY",
@@ -645,13 +645,13 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 16.65,
-    "pct": 1.9
+    "price": 16.59,
+    "pct": 1.53
    }
   ],
-  "as_of": "2026-10-01T07:48:04.746977+00:00",
+  "as_of": "2026-10-01T07:54:04.727008+00:00",
   "tone": "mixed",
-  "age_min": 1.97639525
+  "age_min": 0.9819985
  },
  "stories": [
   {
