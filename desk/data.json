@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-01T00:30:04+00:00",
+ "generated_utc": "2026-10-01T00:35:03+00:00",
  "date_et": "2026-09-30",
  "build": "0d463cfe05",
  "tape": [
@@ -606,19 +606,19 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 90.42,
-    "pct": null
+    "price": 90.4,
+    "pct": -0.02
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4176.8,
-    "pct": -0.24
+    "price": 4174.0,
+    "pct": -0.3
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.506,
+    "price": 101.501,
     "pct": 0.05
    },
    {
@@ -640,9 +640,9 @@
     "pct": 1.87
    }
   ],
-  "as_of": "2026-10-01T00:27:05.836154+00:00",
+  "as_of": "2026-10-01T00:33:06.892848+00:00",
   "tone": "mixed",
-  "age_min": 2.9821969999999998
+  "age_min": 1.9518044333333333
  },
  "stories": [
   {
@@ -682,8 +682,8 @@
   },
   {
    "topic": "Saudi / Gulf supply",
-   "title": "European Refiners Scramble for Barrels in Wake of Saudi Pipe Disruption - energyintel.com",
-   "source": "energyintel.com",
+   "title": "European Refiners Scramble After Saudi Pipe Disruption - Energy Intelligence",
+   "source": "Energy Intelligence",
    "published": "Wed, 30 Sep 2026 18:14:21 GMT",
    "read": "unclear"
   }
