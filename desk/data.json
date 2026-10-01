@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-01T00:50:03+00:00",
+ "generated_utc": "2026-10-01T00:55:03+00:00",
  "date_et": "2026-09-30",
  "build": "0d463cfe05",
  "tape": [
@@ -606,20 +606,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 90.47,
-    "pct": 0.06
+    "price": 90.44,
+    "pct": 0.02
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4171.4,
-    "pct": -0.37
+    "price": 4173.3,
+    "pct": -0.32
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.499,
-    "pct": 0.05
+    "price": 101.476,
+    "pct": 0.02
    },
    {
     "sym": "SPY",
@@ -640,9 +640,9 @@
     "pct": 1.87
    }
   ],
-  "as_of": "2026-10-01T00:48:15.448157+00:00",
+  "as_of": "2026-10-01T00:54:05.951685+00:00",
   "tone": "mixed",
-  "age_min": 1.8081113666666666
+  "age_min": 0.9677582333333333
  },
  "stories": [
   {
@@ -657,13 +657,6 @@
    "title": "Time for Trump to confront Putin - washingtontimes.com",
    "source": "washingtontimes.com",
    "published": "Wed, 30 Sep 2026 20:31:54 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran reviews US ceasefire counterproposal as Strait of Hormuz terms remain unclear - fox11online.com",
-   "source": "fox11online.com",
-   "published": "Wed, 30 Sep 2026 20:22:33 GMT",
    "read": "unclear"
   },
   {
@@ -684,6 +677,13 @@
    "topic": "Saudi / Gulf supply",
    "title": "European Refiners Scramble After Saudi Pipe Disruption - Energy Intelligence",
    "source": "Energy Intelligence",
+   "published": "Wed, 30 Sep 2026 18:14:21 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Saudi / Gulf supply",
+   "title": "European Refiners Scramble for Barrels in Wake of Saudi Pipe Disruption - energyintel.com",
+   "source": "energyintel.com",
    "published": "Wed, 30 Sep 2026 18:14:21 GMT",
    "read": "unclear"
   }
