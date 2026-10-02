@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-02T08:50:04+00:00",
+ "generated_utc": "2026-10-02T08:55:04+00:00",
  "date_et": "2026-10-02",
  "build": "0d463cfe05",
  "tape": [
@@ -327,20 +327,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 89.53,
-    "pct": -3.6
+    "price": 89.47,
+    "pct": -3.66
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4214.0,
-    "pct": 0.28
+    "price": 4211.8,
+    "pct": 0.23
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.894,
-    "pct": -0.2
+    "price": 101.925,
+    "pct": -0.17
    },
    {
     "sym": "SPY",
@@ -357,15 +357,22 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 16.0,
-    "pct": -2.38
+    "price": 15.98,
+    "pct": -2.5
    }
   ],
-  "as_of": "2026-10-02T08:48:05.289542+00:00",
+  "as_of": "2026-10-02T08:54:05.546449+00:00",
   "tone": "mixed",
-  "age_min": 1.9864668833333332
+  "age_min": 0.9800211666666667
  },
  "stories": [
+  {
+   "topic": "Taiwan / China",
+   "title": "Xi Tightens Control Over Military and Rebuilds Forces as Prospects of a 2027 Taiwan Invasion Recede - economy.ac",
+   "source": "economy.ac",
+   "published": "Wed, 30 Sep 2026 06:38:28 GMT",
+   "read": "unclear"
+  },
   {
    "topic": "Saudi / Gulf supply",
    "title": "Crude Oil Lower As Saudi Arabia Resumes Red Sea Oil Exports - WSJ",
@@ -388,13 +395,6 @@
    "read": "unclear"
   },
   {
-   "topic": "Russia / Ukraine",
-   "title": "Putin says Russia won't supply diesel to global markets until sanctions are lifted - reuters.com",
-   "source": "reuters.com",
-   "published": "Thu, 01 Oct 2026 17:43:29 GMT",
-   "read": "unclear"
-  },
-  {
    "topic": "Saudi / Gulf supply",
    "title": "Saudis Tell European Refiners They\u2019ll Get No Crude Next Month - Bloomberg.com",
    "source": "Bloomberg.com",
@@ -402,11 +402,11 @@
    "read": "unclear"
   },
   {
-   "topic": "Iran / Hormuz",
-   "title": "September LNG shipments through Hormuz hit highest since start of US-Iran war - reuters.com",
-   "source": "reuters.com",
-   "published": "Fri, 02 Oct 2026 07:47:58 GMT",
-   "read": "unclear"
+   "topic": "Russia / Ukraine",
+   "title": "Putin says Russia will use \u2018all weapons\u2019 in its arsenal if any of its territory is attacked - New York Post",
+   "source": "New York Post",
+   "published": "Fri, 02 Oct 2026 08:21:00 GMT",
+   "read": "escalation"
   }
  ],
  "ratings": [],
