@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-02T09:30:04+00:00",
+ "generated_utc": "2026-10-02T09:35:04+00:00",
  "date_et": "2026-10-02",
  "build": "0d463cfe05",
  "tape": [
@@ -327,20 +327,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 88.86,
-    "pct": -4.32
+    "price": 89.11,
+    "pct": -4.05
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4216.9,
-    "pct": 0.35
+    "price": 4216.1,
+    "pct": 0.33
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.917,
-    "pct": -0.18
+    "price": 101.907,
+    "pct": -0.19
    },
    {
     "sym": "SPY",
@@ -357,13 +357,13 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 15.97,
-    "pct": -2.56
+    "price": 15.95,
+    "pct": -2.68
    }
   ],
-  "as_of": "2026-10-02T09:27:05.406600+00:00",
+  "as_of": "2026-10-02T09:33:12.887814+00:00",
   "tone": "mixed",
-  "age_min": 2.9933304
+  "age_min": 1.8602807666666665
  },
  "stories": [
   {
@@ -382,16 +382,23 @@
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "Russia prepared to use \u2018all weapons\u2019 to protect Kaliningrad, Putin warns West - CNN",
+   "title": "Putin warns Russia is prepared to use \u2018all weapons,\u2019 including nuclear, to protect Kaliningrad - CNN",
    "source": "CNN",
    "published": "Thu, 01 Oct 2026 22:30:37 GMT",
    "read": "escalation"
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "Total Victory or Endless War in Ukraine | Atlantic Council - smallwarsjournal.com",
-   "source": "smallwarsjournal.com",
-   "published": "Thu, 01 Oct 2026 20:39:54 GMT",
+   "title": "Russia prepared to use \u2018all weapons\u2019 to protect Kaliningrad, Putin warns West - CNN",
+   "source": "CNN",
+   "published": "Thu, 01 Oct 2026 22:30:37 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Is the Strait of Hormuz Really Open Again? - The National Interest",
+   "source": "The National Interest",
+   "published": "Thu, 01 Oct 2026 21:19:54 GMT",
    "read": "unclear"
   },
   {
@@ -400,13 +407,6 @@
    "source": "BBC",
    "published": "Thu, 01 Oct 2026 19:38:30 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Saudi / Gulf supply",
-   "title": "Saudi Arabia leads Japan\u2019s oil imports in August; U.S. share surges - arabnews.jp",
-   "source": "arabnews.jp",
-   "published": "Thu, 01 Oct 2026 18:43:27 GMT",
-   "read": "unclear"
   }
  ],
  "ratings": [],
