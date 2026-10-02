@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-02T21:50:04+00:00",
+ "generated_utc": "2026-10-02T21:55:04+00:00",
  "date_et": "2026-10-02",
  "build": "0d463cfe05",
  "tape": [
@@ -370,9 +370,9 @@
     "pct": -6.59
    }
   ],
-  "as_of": "2026-10-02T21:48:04.951187+00:00",
+  "as_of": "2026-10-02T21:54:05.497999+00:00",
   "tone": "risk-on",
-  "age_min": 1.9910536333333333
+  "age_min": 0.9823527333333334
  },
  "stories": [
   {
@@ -383,6 +383,13 @@
    "read": "de-escalation"
   },
   {
+   "topic": "Russia / Ukraine",
+   "title": "Putin says he was ready to resume talks \"as early as 21 September\", but on Russia's terms - pravda.com.ua",
+   "source": "pravda.com.ua",
+   "published": "Thu, 01 Oct 2026 19:24:00 GMT",
+   "read": "unclear"
+  },
+  {
    "topic": "Taiwan / China",
    "title": "As Arizona sees record investments from TSMC, Taiwan faces military pressure from China - kjzz.org",
    "source": "kjzz.org",
@@ -390,31 +397,24 @@
    "read": "unclear"
   },
   {
-   "topic": "Russia / Ukraine",
-   "title": "Putin observes military drills in the Urals involving troops from China and other nations - Arab News",
-   "source": "Arab News",
-   "published": "Fri, 02 Oct 2026 20:22:30 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Taiwan / China",
-   "title": "Taiwan Gets First F-16V Block 70 Jets From US As China Steps Up Military Pressure Around Island - The Times of India",
-   "source": "The Times of India",
-   "published": "Fri, 02 Oct 2026 19:31:53 GMT",
+   "topic": "Iran / Hormuz",
+   "title": "Two More Tankers in Hormuz Report Strikes, Bringing Total to Six in a Week - The Maritime Executive",
+   "source": "The Maritime Executive",
+   "published": "Fri, 02 Oct 2026 21:40:25 GMT",
    "read": "escalation"
   },
   {
    "topic": "Taiwan / China",
-   "title": "China &amp; Taiwan Update, October 2, 2026 - American Enterprise Institute - AEI",
-   "source": "American Enterprise Institute - AEI",
-   "published": "Fri, 02 Oct 2026 19:14:33 GMT",
+   "title": "Xi\u2019s Purge and the War Over Taiwan - The Jamestown Foundation",
+   "source": "The Jamestown Foundation",
+   "published": "Fri, 02 Oct 2026 21:35:29 GMT",
    "read": "unclear"
   },
   {
-   "topic": "Saudi / Gulf supply",
-   "title": "Crude Dips Below $100, Trump Says Europe Agreed To Release \u2018Massive Amount\u2019 Of Diesel - TradingView",
-   "source": "TradingView",
-   "published": "Fri, 02 Oct 2026 16:43:41 GMT",
+   "topic": "Russia / Ukraine",
+   "title": "Putin observes military drills in the Urals involving troops from China and other nations - Arab News",
+   "source": "Arab News",
+   "published": "Fri, 02 Oct 2026 20:22:30 GMT",
    "read": "unclear"
   }
  ],
