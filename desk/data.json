@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-02T03:50:04+00:00",
+ "generated_utc": "2026-10-02T03:55:03+00:00",
  "date_et": "2026-10-01",
  "build": "0d463cfe05",
  "tape": [
@@ -621,14 +621,14 @@
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4202.7,
-    "pct": 0.01
+    "price": 4203.2,
+    "pct": 0.02
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.949,
-    "pct": -0.15
+    "price": 101.951,
+    "pct": -0.14
    },
    {
     "sym": "SPY",
@@ -649,9 +649,9 @@
     "pct": 0.31
    }
   ],
-  "as_of": "2026-10-02T03:48:05.730709+00:00",
+  "as_of": "2026-10-02T03:54:06.005148+00:00",
   "tone": "mixed",
-  "age_min": 1.973972
+  "age_min": 0.9679065666666666
  },
  "stories": [
   {
@@ -662,18 +662,18 @@
    "read": "de-escalation"
   },
   {
+   "topic": "Russia / Ukraine",
+   "title": "Putin says the world is living through a dangerous moment, warns West not to escalate - reuters.com",
+   "source": "reuters.com",
+   "published": "Thu, 01 Oct 2026 23:59:07 GMT",
+   "read": "de-escalation"
+  },
+  {
    "topic": "Iran / Hormuz",
    "title": "No Lights, No Radio: Getting Oil Through Hormuz Is a Risky Job - Bloomberg.com",
    "source": "Bloomberg.com",
    "published": "Thu, 01 Oct 2026 23:01:01 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Putin says Russia will use \u2018all weapons\u2019 in its arsenal if any of its territory is attacked - nbcnews.com",
-   "source": "nbcnews.com",
-   "published": "Thu, 01 Oct 2026 21:44:47 GMT",
-   "read": "escalation"
   },
   {
    "topic": "Iran / Hormuz",
@@ -691,9 +691,9 @@
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "Putin threatens to go nuclear if Russia faces crushing defeat - thetimes.com",
-   "source": "thetimes.com",
-   "published": "Thu, 01 Oct 2026 19:58:26 GMT",
+   "title": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad - bbc.com",
+   "source": "bbc.com",
+   "published": "Thu, 01 Oct 2026 19:38:30 GMT",
    "read": "escalation"
   }
  ],
