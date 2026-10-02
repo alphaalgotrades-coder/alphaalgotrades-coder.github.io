@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-02T05:50:04+00:00",
+ "generated_utc": "2026-10-02T05:55:03+00:00",
  "date_et": "2026-10-02",
  "build": "0d463cfe05",
  "tape": [
@@ -327,20 +327,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 92.49,
-    "pct": -0.41
+    "price": 92.48,
+    "pct": -0.42
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4219.2,
-    "pct": 0.4
+    "price": 4219.6,
+    "pct": 0.41
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.942,
-    "pct": -0.15
+    "price": 101.93,
+    "pct": -0.17
    },
    {
     "sym": "SPY",
@@ -361,9 +361,9 @@
     "pct": 0.31
    }
   ],
-  "as_of": "2026-10-02T05:48:04.409660+00:00",
+  "as_of": "2026-10-02T05:54:04.347015+00:00",
   "tone": "mixed",
-  "age_min": 2.0023299833333335
+  "age_min": 0.9913191
  },
  "stories": [
   {
@@ -374,18 +374,18 @@
    "read": "unclear"
   },
   {
+   "topic": "Saudi / Gulf supply",
+   "title": "Crude Oil Lower As Saudi Arabia Resumes Red Sea Oil Exports - WSJ",
+   "source": "WSJ",
+   "published": "Tue, 29 Sep 2026 13:34:00 GMT",
+   "read": "unclear"
+  },
+  {
    "topic": "Russia / Ukraine",
    "title": "Putin says the world is living through a dangerous moment, warns West not to escalate - reuters.com",
    "source": "reuters.com",
    "published": "Thu, 01 Oct 2026 23:59:07 GMT",
    "read": "de-escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "No Lights, No Radio: Getting Oil Through Hormuz Is a Risky Job - Bloomberg.com",
-   "source": "Bloomberg.com",
-   "published": "Thu, 01 Oct 2026 23:01:01 GMT",
-   "read": "unclear"
   },
   {
    "topic": "Iran / Hormuz",
