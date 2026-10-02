@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-02T03:10:03+00:00",
+ "generated_utc": "2026-10-02T03:15:04+00:00",
  "date_et": "2026-10-01",
  "build": "0d463cfe05",
  "tape": [
@@ -609,26 +609,26 @@
    {
     "sym": "MOVE",
     "name": "Bond-market volatility",
-    "price": 108.1252,
-    "pct": -2.11
+    "price": 108.13,
+    "pct": -2.1
    },
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 92.63,
-    "pct": -0.26
+    "price": 92.6,
+    "pct": -0.29
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4193.7,
-    "pct": -0.2
+    "price": 4199.3,
+    "pct": -0.07
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.02,
-    "pct": -0.08
+    "price": 102.0,
+    "pct": -0.1
    },
    {
     "sym": "SPY",
@@ -649,9 +649,9 @@
     "pct": 0.31
    }
   ],
-  "as_of": "2026-10-02T03:09:05.396325+00:00",
+  "as_of": "2026-10-02T03:12:09.525234+00:00",
   "tone": "mixed",
-  "age_min": 0.9764710666666667
+  "age_min": 2.9138238166666666
  },
  "stories": [
   {
@@ -667,13 +667,6 @@
    "source": "Bloomberg.com",
    "published": "Thu, 01 Oct 2026 23:01:01 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Russia could seize remaining Kyiv-held areas of Donetsk sooner than Ukraine, Europe anticipate: Putin - Anadolu Ajans\u0131",
-   "source": "Anadolu Ajans\u0131",
-   "published": "Thu, 01 Oct 2026 22:51:56 GMT",
-   "read": "escalation"
   },
   {
    "topic": "Russia / Ukraine",
@@ -694,6 +687,13 @@
    "title": "'They\u2019ll be hit very hard': Trump sends 9,000 troops to the Middle East after warning Iran strikes - Fortune",
    "source": "Fortune",
    "published": "Thu, 01 Oct 2026 20:53:00 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Putin threatens to go nuclear if Russia faces crushing defeat - thetimes.com",
+   "source": "thetimes.com",
+   "published": "Thu, 01 Oct 2026 19:58:26 GMT",
    "read": "escalation"
   }
  ],
