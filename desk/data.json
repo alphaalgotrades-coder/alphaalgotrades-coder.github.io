@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-02T21:30:05+00:00",
+ "generated_utc": "2026-10-02T21:35:04+00:00",
  "date_et": "2026-10-02",
  "build": "0d463cfe05",
  "tape": [
@@ -370,9 +370,9 @@
     "pct": -6.59
    }
   ],
-  "as_of": "2026-10-02T21:27:05.171771+00:00",
+  "as_of": "2026-10-02T21:33:05.576048+00:00",
   "tone": "risk-on",
-  "age_min": 3.0114802833333334
+  "age_min": 1.9847238166666665
  },
  "stories": [
   {
@@ -390,6 +390,13 @@
    "read": "unclear"
   },
   {
+   "topic": "Russia / Ukraine",
+   "title": "Putin observes military drills in the Urals involving troops from China and other nations - Arab News",
+   "source": "Arab News",
+   "published": "Fri, 02 Oct 2026 20:22:30 GMT",
+   "read": "unclear"
+  },
+  {
    "topic": "Taiwan / China",
    "title": "Taiwan Gets First F-16V Block 70 Jets From US As China Steps Up Military Pressure Around Island - The Times of India",
    "source": "The Times of India",
@@ -402,13 +409,6 @@
    "source": "American Enterprise Institute - AEI",
    "published": "Fri, 02 Oct 2026 19:14:33 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Ukraine calls for tighter sanctions as Russian attacks spark Kyiv gridlock - Al Jazeera",
-   "source": "Al Jazeera",
-   "published": "Fri, 02 Oct 2026 18:55:56 GMT",
-   "read": "escalation"
   },
   {
    "topic": "Saudi / Gulf supply",
