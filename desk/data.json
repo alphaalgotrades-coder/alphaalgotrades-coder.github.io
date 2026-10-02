@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-02T09:10:04+00:00",
+ "generated_utc": "2026-10-02T09:15:04+00:00",
  "date_et": "2026-10-02",
  "build": "0d463cfe05",
  "tape": [
@@ -28,7 +28,7 @@
    "title": "Core CPI Flash Estimate y/y",
    "cons": "2.5%",
    "prev": "2.4%",
-   "actual": ""
+   "actual": "2.5%"
   },
   {
    "time": "05:00",
@@ -37,7 +37,7 @@
    "title": "CPI Flash Estimate y/y",
    "cons": "3.7%",
    "prev": "3.3%",
-   "actual": ""
+   "actual": "3.8%"
   },
   {
    "time": "08:30",
@@ -327,20 +327,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 89.29,
-    "pct": -3.85
+    "price": 89.35,
+    "pct": -3.79
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4215.1,
-    "pct": 0.3
+    "price": 4212.0,
+    "pct": 0.23
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.92,
-    "pct": -0.18
+    "price": 101.932,
+    "pct": -0.16
    },
    {
     "sym": "SPY",
@@ -357,13 +357,13 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 15.95,
-    "pct": -2.68
+    "price": 15.92,
+    "pct": -2.87
    }
   ],
-  "as_of": "2026-10-02T09:09:12.797044+00:00",
+  "as_of": "2026-10-02T09:12:05.252762+00:00",
   "tone": "mixed",
-  "age_min": 0.8576125
+  "age_min": 2.991511666666667
  },
  "stories": [
   {
@@ -382,10 +382,24 @@
   },
   {
    "topic": "Russia / Ukraine",
+   "title": "Russia prepared to use \u2018all weapons\u2019 to protect Kaliningrad, Putin warns West - CNN",
+   "source": "CNN",
+   "published": "Thu, 01 Oct 2026 22:30:37 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Russia / Ukraine",
    "title": "Total Victory or Endless War in Ukraine | Atlantic Council - smallwarsjournal.com",
    "source": "smallwarsjournal.com",
    "published": "Thu, 01 Oct 2026 20:39:54 GMT",
    "read": "unclear"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad - BBC",
+   "source": "BBC",
+   "published": "Thu, 01 Oct 2026 19:38:30 GMT",
+   "read": "escalation"
   },
   {
    "topic": "Saudi / Gulf supply",
@@ -393,20 +407,6 @@
    "source": "arabnews.jp",
    "published": "Thu, 01 Oct 2026 18:43:27 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Saudi / Gulf supply",
-   "title": "Saudis Tell European Refiners They\u2019ll Get No Crude Next Month - Bloomberg.com",
-   "source": "Bloomberg.com",
-   "published": "Fri, 18 Sep 2026 07:00:00 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Putin says Russia will use \u2018all weapons\u2019 in its arsenal if any of its territory is attacked - New York Post",
-   "source": "New York Post",
-   "published": "Fri, 02 Oct 2026 08:21:00 GMT",
-   "read": "escalation"
   }
  ],
  "ratings": [],
