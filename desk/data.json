@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-02T07:10:04+00:00",
+ "generated_utc": "2026-10-02T07:15:04+00:00",
  "date_et": "2026-10-02",
  "build": "0d463cfe05",
  "tape": [
@@ -10,7 +10,7 @@
    "title": "Spanish Unemployment Change",
    "cons": "17.6K",
    "prev": "44.4K",
-   "actual": ""
+   "actual": "23.6K"
   },
   {
    "time": "04:00",
@@ -321,26 +321,26 @@
    {
     "sym": "MOVE",
     "name": "Bond-market volatility",
-    "price": 108.125,
-    "pct": -2.11
+    "price": 108.13,
+    "pct": -2.1
    },
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 91.73,
-    "pct": -1.23
+    "price": 91.5,
+    "pct": -1.48
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4209.8,
-    "pct": 0.18
+    "price": 4210.7,
+    "pct": 0.2
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.893,
-    "pct": -0.2
+    "price": 101.911,
+    "pct": -0.18
    },
    {
     "sym": "SPY",
@@ -358,12 +358,12 @@
     "sym": "VIX",
     "name": "Volatility index",
     "price": 16.39,
-    "pct": null
+    "pct": 0.31
    }
   ],
-  "as_of": "2026-10-02T07:09:05.400436+00:00",
+  "as_of": "2026-10-02T07:12:08.365111+00:00",
   "tone": "mixed",
-  "age_min": 0.9824948833333333
+  "age_min": 2.9419061166666665
  },
  "stories": [
   {
@@ -396,17 +396,17 @@
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad - bbc.com",
-   "source": "bbc.com",
-   "published": "Thu, 01 Oct 2026 19:38:30 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
    "title": "Putin rules out long-range strike ceasefire with Ukraine - lemonde.fr",
    "source": "lemonde.fr",
    "published": "Thu, 01 Oct 2026 19:07:14 GMT",
    "read": "escalation"
+  },
+  {
+   "topic": "Saudi / Gulf supply",
+   "title": "Saudi Arabia leads Japan\u2019s oil imports in August; U.S. share surges - arabnews.jp",
+   "source": "arabnews.jp",
+   "published": "Thu, 01 Oct 2026 18:43:27 GMT",
+   "read": "unclear"
   }
  ],
  "ratings": [],
