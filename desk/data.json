@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-02T01:30:04+00:00",
+ "generated_utc": "2026-10-02T01:35:03+00:00",
  "date_et": "2026-10-01",
  "build": "0d463cfe05",
  "tape": [
@@ -615,20 +615,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 92.87,
-    "pct": null
+    "price": 92.94,
+    "pct": 0.08
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4172.7,
-    "pct": -0.7
+    "price": 4174.4,
+    "pct": -0.66
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.101,
-    "pct": 0.0
+    "price": 102.11,
+    "pct": 0.01
    },
    {
     "sym": "SPY",
@@ -649,9 +649,9 @@
     "pct": 0.31
    }
   ],
-  "as_of": "2026-10-02T01:27:05.407860+00:00",
+  "as_of": "2026-10-02T01:33:05.270239+00:00",
   "tone": "mixed",
-  "age_min": 2.9820509166666667
+  "age_min": 1.9764000499999999
  },
  "stories": [
   {
@@ -684,17 +684,17 @@
   },
   {
    "topic": "Russia / Ukraine",
+   "title": "Putin threatens to go nuclear if Russia faces crushing defeat - thetimes.com",
+   "source": "thetimes.com",
+   "published": "Thu, 01 Oct 2026 19:58:26 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Russia / Ukraine",
    "title": "Putin Warns West Over Kaliningrad, Admits Ukrainian Strikes Cut Russia's GDP by 1% - UNITED24 Media",
    "source": "UNITED24 Media",
    "published": "Thu, 01 Oct 2026 19:46:31 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Saudi / Gulf supply",
-   "title": "Saudi Arabia leads Japan\u2019s oil imports in August; U.S. share surges - arabnews.jp",
-   "source": "arabnews.jp",
-   "published": "Thu, 01 Oct 2026 18:43:27 GMT",
-   "read": "unclear"
   }
  ],
  "ratings": [],
