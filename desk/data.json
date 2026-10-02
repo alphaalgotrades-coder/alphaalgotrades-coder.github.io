@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-02T05:10:04+00:00",
+ "generated_utc": "2026-10-02T05:15:04+00:00",
  "date_et": "2026-10-02",
  "build": "0d463cfe05",
  "tape": [
@@ -333,14 +333,14 @@
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4212.2,
-    "pct": 0.24
+    "price": 4215.2,
+    "pct": 0.31
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.937,
-    "pct": -0.16
+    "price": 101.923,
+    "pct": -0.17
    },
    {
     "sym": "SPY",
@@ -361,9 +361,9 @@
     "pct": 0.31
    }
   ],
-  "as_of": "2026-10-02T05:09:05.654391+00:00",
+  "as_of": "2026-10-02T05:12:05.382021+00:00",
   "tone": "mixed",
-  "age_min": 0.9780483666666666
+  "age_min": 2.9914219666666666
  },
  "stories": [
   {
@@ -389,9 +389,9 @@
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Opinion | The Battle of Hormuz Is Turning - WSJ",
-   "source": "WSJ",
-   "published": "Thu, 01 Oct 2026 21:36:00 GMT",
+   "title": "Iran Shipping Update \u2013 October 1, 2026 - United Against Nuclear Iran",
+   "source": "United Against Nuclear Iran",
+   "published": "Thu, 01 Oct 2026 20:03:04 GMT",
    "read": "unclear"
   },
   {
