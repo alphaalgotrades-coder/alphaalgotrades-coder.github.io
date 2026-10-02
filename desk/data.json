@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-02T23:10:04+00:00",
+ "generated_utc": "2026-10-02T23:15:05+00:00",
  "date_et": "2026-10-02",
  "build": "0d463cfe05",
  "tape": [
@@ -370,9 +370,9 @@
     "pct": -6.59
    }
   ],
-  "as_of": "2026-10-02T23:09:05.764087+00:00",
+  "as_of": "2026-10-02T23:12:05.747470+00:00",
   "tone": "risk-on",
-  "age_min": 0.9743729833333333
+  "age_min": 2.9904814
  },
  "stories": [
   {
@@ -397,6 +397,13 @@
    "read": "unclear"
   },
   {
+   "topic": "Russia / Ukraine",
+   "title": "Putin to escalate attacks on Ukraine as US midterm elections approach, Zelenskyy says - Anadolu Ajans\u0131",
+   "source": "Anadolu Ajans\u0131",
+   "published": "Fri, 02 Oct 2026 21:18:04 GMT",
+   "read": "escalation"
+  },
+  {
    "topic": "Iran / Hormuz",
    "title": "Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post",
    "source": "The Jerusalem Post",
@@ -409,13 +416,6 @@
    "source": "Arab News",
    "published": "Fri, 02 Oct 2026 20:22:30 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Taiwan / China",
-   "title": "Taiwan Gets First F-16V Block 70 Jets From US As China Steps Up Military Pressure Around Island - The Times of India",
-   "source": "The Times of India",
-   "published": "Fri, 02 Oct 2026 19:31:53 GMT",
-   "read": "escalation"
   }
  ],
  "ratings": [
