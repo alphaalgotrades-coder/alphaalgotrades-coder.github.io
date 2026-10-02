@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-02T22:10:04+00:00",
+ "generated_utc": "2026-10-02T22:15:04+00:00",
  "date_et": "2026-10-02",
  "build": "0d463cfe05",
  "tape": [
@@ -370,9 +370,9 @@
     "pct": -6.59
    }
   ],
-  "as_of": "2026-10-02T22:09:05.852668+00:00",
+  "as_of": "2026-10-02T22:12:05.841589+00:00",
   "tone": "risk-on",
-  "age_min": 0.9719090333333333
+  "age_min": 2.98578945
  },
  "stories": [
   {
@@ -390,13 +390,6 @@
    "read": "unclear"
   },
   {
-   "topic": "Taiwan / China",
-   "title": "As Arizona sees record investments from TSMC, Taiwan faces military pressure from China - kjzz.org",
-   "source": "kjzz.org",
-   "published": "Thu, 01 Oct 2026 11:44:00 GMT",
-   "read": "unclear"
-  },
-  {
    "topic": "Iran / Hormuz",
    "title": "Two More Tankers in Hormuz Report Strikes, Bringing Total to Six in a Week - The Maritime Executive",
    "source": "The Maritime Executive",
@@ -408,6 +401,13 @@
    "title": "Xi\u2019s Purge and the War Over Taiwan - The Jamestown Foundation",
    "source": "The Jamestown Foundation",
    "published": "Fri, 02 Oct 2026 21:35:29 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post",
+   "source": "The Jerusalem Post",
+   "published": "Fri, 02 Oct 2026 21:00:05 GMT",
    "read": "unclear"
   },
   {
