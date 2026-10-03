@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-03T17:50:03+00:00",
+ "generated_utc": "2026-10-03T17:55:03+00:00",
  "date_et": "2026-10-03",
  "build": "0d463cfe05",
  "tape": [
@@ -280,9 +280,9 @@
     "pct": -6.59
    }
   ],
-  "as_of": "2026-10-03T17:48:05.393414+00:00",
+  "as_of": "2026-10-03T17:54:05.797046+00:00",
   "tone": "risk-on",
-  "age_min": 1.9766415166666667
+  "age_min": 0.9718260666666667
  },
  "stories": [
   {
@@ -301,13 +301,6 @@
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "Putin\u2019s Claims of Russian Battlefield Gains \u201cBorder on Hallucinations,\u201d ISW Says - UNITED24 Media",
-   "source": "UNITED24 Media",
-   "published": "Sat, 03 Oct 2026 15:00:28 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
    "title": "US and Russia are negotiating multibillion-dollar deal on Lukoil assets, says NYT - \u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u043f\u0440\u0430\u0432\u0434\u0430",
    "source": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u043f\u0440\u0430\u0432\u0434\u0430",
    "published": "Sat, 03 Oct 2026 12:54:00 GMT",
@@ -315,9 +308,16 @@
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "US, Russia talks on Ukraine involve oil deal tied to Kushner, Witkoff: Report - The Hill",
-   "source": "The Hill",
-   "published": "Sat, 03 Oct 2026 12:11:00 GMT",
+   "title": "Trump, Putin, Ukraine and an Oil Deal: 5 Takeaways - nytimes.com",
+   "source": "nytimes.com",
+   "published": "Sat, 03 Oct 2026 09:03:58 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "U.S.-Russia Talks on Ukraine Now Involve an Oil Deal Tied to Trump Allies - nytimes.com",
+   "source": "nytimes.com",
+   "published": "Sat, 03 Oct 2026 09:02:24 GMT",
    "read": "unclear"
   },
   {
