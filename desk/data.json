@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-03T01:10:03+00:00",
+ "generated_utc": "2026-10-03T01:15:04+00:00",
  "date_et": "2026-10-02",
  "build": "0d463cfe05",
  "tape": [
@@ -370,9 +370,9 @@
     "pct": -6.59
    }
   ],
-  "as_of": "2026-10-03T01:09:05.629626+00:00",
+  "as_of": "2026-10-03T01:12:05.725378+00:00",
   "tone": "risk-on",
-  "age_min": 0.9731840500000001
+  "age_min": 2.9791447166666667
  },
  "stories": [
   {
@@ -381,6 +381,13 @@
    "source": "pravda.com.ua",
    "published": "Thu, 01 Oct 2026 19:24:00 GMT",
    "read": "unclear"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Putin orders military leaders to target civilians and nuclear facilities, Zelensky warns: \u2018No rules now\u2019 - New York Post",
+   "source": "New York Post",
+   "published": "Fri, 02 Oct 2026 21:58:00 GMT",
+   "read": "escalation"
   },
   {
    "topic": "Iran / Hormuz",
@@ -408,13 +415,6 @@
    "title": "Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post",
    "source": "The Jerusalem Post",
    "published": "Fri, 02 Oct 2026 21:00:05 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Putin observes military drills in the Urals involving troops from China and other nations - Arab News",
-   "source": "Arab News",
-   "published": "Fri, 02 Oct 2026 20:22:30 GMT",
    "read": "unclear"
   }
  ],
