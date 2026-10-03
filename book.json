@@ -1,12 +1,12 @@
 {
- "generated_utc": "2026-10-03T01:05:04.961936+00:00",
+ "generated_utc": "2026-10-03T02:05:04.495388+00:00",
  "paper": true,
  "strategy": "the wheel (cash-secured puts -> covered calls)",
  "since": "2026-07-13",
- "trading_days": 48,
+ "trading_days": 49,
  "green_days": 27,
  "red_days": 2,
- "total_fills": 143,
+ "total_fills": 144,
  "symbols_traded": 22,
  "cumulative_realized": 8379.87,
  "days": [
@@ -345,22 +345,16 @@
    "realized": 469.6,
    "commission": 0.0,
    "cumulative": 8379.87
+  },
+  {
+   "date": "2026-10-03",
+   "fills": 1,
+   "realized": 0.0,
+   "commission": 0.0,
+   "cumulative": 8379.87
   }
  ],
  "open_legs": [
-  {
-   "instrument": "AS 10/02 P24",
-   "raw": "AS261002P00024500",
-   "strategy": "HT_WHEEL",
-   "side": "short 6",
-   "broker": true,
-   "db": true,
-   "engine": true,
-   "agree": true,
-   "entry": 0.1,
-   "upnl": -180.0,
-   "lane": "OPTIONS"
-  },
   {
    "instrument": "AS shares",
    "raw": "AS",
@@ -466,8 +460,8 @@
    "lane": "OPTIONS"
   }
  ],
- "open_upnl": -6211.0,
- "reconciliation": "9/9 open legs reconciled against the broker statement and our own database",
+ "open_upnl": -6031.0,
+ "reconciliation": "8/8 open legs reconciled against the broker statement and our own database",
  "stats": {
   "closed_trades": 43,
   "win_rate": 86.0,
@@ -475,11 +469,11 @@
   "avg_loss": -197.83,
   "profit_factor": 8.06,
   "expectancy": 194.88,
-  "sharpe_daily_ann": 5.92,
-  "capital_at_risk": 93726.0,
-  "period_return_pct": 8.94,
-  "ann_pace_pct": 39.8,
-  "elapsed_days": 82
+  "sharpe_daily_ann": 5.85,
+  "capital_at_risk": 79026.0,
+  "period_return_pct": 10.6,
+  "ann_pace_pct": 46.6,
+  "elapsed_days": 83
  },
  "assigned": [
   {
