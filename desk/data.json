@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-03T02:30:04+00:00",
+ "generated_utc": "2026-10-03T02:35:04+00:00",
  "date_et": "2026-10-02",
  "build": "0d463cfe05",
  "tape": [
@@ -370,18 +370,11 @@
     "pct": -6.59
    }
   ],
-  "as_of": "2026-10-03T02:27:05.474059+00:00",
+  "as_of": "2026-10-03T02:33:05.403607+00:00",
   "tone": "risk-on",
-  "age_min": 2.9906126166666667
+  "age_min": 1.9888059833333334
  },
  "stories": [
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Putin says he was ready to resume talks \"as early as 21 September\", but on Russia's terms - pravda.com.ua",
-   "source": "pravda.com.ua",
-   "published": "Thu, 01 Oct 2026 19:24:00 GMT",
-   "read": "unclear"
-  },
   {
    "topic": "Russia / Ukraine",
    "title": "Putin orders military leaders to target civilians and nuclear facilities, Zelensky warns: \u2018No rules now\u2019 - New York Post",
@@ -416,6 +409,13 @@
    "source": "The Jerusalem Post",
    "published": "Fri, 02 Oct 2026 21:00:05 GMT",
    "read": "unclear"
+  },
+  {
+   "topic": "Taiwan / China",
+   "title": "Taiwan Gets First F-16V Block 70 Jets From US As China Steps Up Military Pressure Around Island - The Times of India",
+   "source": "The Times of India",
+   "published": "Fri, 02 Oct 2026 19:31:53 GMT",
+   "read": "escalation"
   }
  ],
  "ratings": [
