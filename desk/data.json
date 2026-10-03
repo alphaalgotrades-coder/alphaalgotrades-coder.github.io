@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-03T23:50:03+00:00",
+ "generated_utc": "2026-10-03T23:55:03+00:00",
  "date_et": "2026-10-03",
  "build": "0d463cfe05",
  "tape": [
@@ -280,9 +280,9 @@
     "pct": -6.59
    }
   ],
-  "as_of": "2026-10-03T23:48:05.025844+00:00",
+  "as_of": "2026-10-03T23:54:13.179763+00:00",
   "tone": "risk-on",
-  "age_min": 1.9756265999999998
+  "age_min": 0.8453678166666666
  },
  "stories": [
   {
@@ -294,15 +294,8 @@
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "Russia\u2019s \u2018new doctrine\u2019 targets civilian sites in Ukraine, Zelenskyy says - Al Jazeera",
-   "source": "Al Jazeera",
-   "published": "Sat, 03 Oct 2026 22:03:50 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Zelenskyy Says Ukraine Will Respond As Putin Vows To Escalate Air Strikes, Warns Foreigners - Radio Free Europe/Radio Liberty",
-   "source": "Radio Free Europe/Radio Liberty",
+   "title": "Zelenskyy Says Ukraine Will Respond As Putin Vows To Escalate Air Strikes, Warns Foreigners - rferl.org",
+   "source": "rferl.org",
    "published": "Sat, 03 Oct 2026 22:02:24 GMT",
    "read": "escalation"
   },
@@ -325,6 +318,13 @@
    "title": "Ex-PM says Putin cannot admit 'mistake' over Ukraine - RFI",
    "source": "RFI",
    "published": "Sat, 03 Oct 2026 16:38:55 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Is the Strait of Hormuz actually open? - The Times",
+   "source": "The Times",
+   "published": "Sat, 03 Oct 2026 15:38:00 GMT",
    "read": "unclear"
   }
  ],
