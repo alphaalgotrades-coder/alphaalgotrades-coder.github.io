@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-03T14:50:03+00:00",
+ "generated_utc": "2026-10-03T14:55:03+00:00",
  "date_et": "2026-10-03",
  "build": "0d463cfe05",
  "tape": [
@@ -280,9 +280,9 @@
     "pct": -6.59
    }
   ],
-  "as_of": "2026-10-03T14:48:05.787957+00:00",
+  "as_of": "2026-10-03T14:54:04.924414+00:00",
   "tone": "risk-on",
-  "age_min": 1.9690413
+  "age_min": 0.9861824333333333
  },
  "stories": [
   {
@@ -314,17 +314,17 @@
    "read": "escalation"
   },
   {
+   "topic": "Russia / Ukraine",
+   "title": "Ukraine\u2019s Surprise Counterattack Sets Back Putin\u2019s Donbas Goals - bloomberg.com",
+   "source": "bloomberg.com",
+   "published": "Sat, 03 Oct 2026 07:00:00 GMT",
+   "read": "de-escalation"
+  },
+  {
    "topic": "Iran / Hormuz",
    "title": "US-led initiative tightens efforts to block weapons from reaching Iran, stop nuclear proliferation - The Jerusalem Post",
    "source": "The Jerusalem Post",
    "published": "Sat, 03 Oct 2026 05:23:39 GMT",
-   "read": "de-escalation"
-  },
-  {
-   "topic": "Saudi / Gulf supply",
-   "title": "Saudi Arabia Resumes Yanbu Crude Loadings as East-West Pipeline Partially Restarts - News and Statistics - indexbox.io",
-   "source": "indexbox.io",
-   "published": "Sat, 03 Oct 2026 04:30:59 GMT",
    "read": "de-escalation"
   }
  ],
