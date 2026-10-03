@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-03T13:10:03+00:00",
+ "generated_utc": "2026-10-03T13:15:04+00:00",
  "date_et": "2026-10-03",
  "build": "0d463cfe05",
  "tape": [
@@ -280,11 +280,18 @@
     "pct": -6.59
    }
   ],
-  "as_of": "2026-10-03T13:09:05.265067+00:00",
+  "as_of": "2026-10-03T13:12:05.159024+00:00",
   "tone": "risk-on",
-  "age_min": 0.9774482
+  "age_min": 2.9838063666666668
  },
  "stories": [
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Five killed as Kyiv and Moscow trade strikes, Russia hits second bridge - aljazeera.com",
+   "source": "aljazeera.com",
+   "published": "Sat, 03 Oct 2026 12:56:20 GMT",
+   "read": "escalation"
+  },
   {
    "topic": "Russia / Ukraine",
    "title": "US-Russia talks on Ukraine involve multi-billion dollar oil deal, NYT reports - Reuters",
@@ -305,13 +312,6 @@
    "source": "Bloomberg.com",
    "published": "Sat, 03 Oct 2026 08:45:44 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Ukraine\u2019s Surprise Counterattack Sets Back Putin\u2019s Donbas Goals - Bloomberg.com",
-   "source": "Bloomberg.com",
-   "published": "Sat, 03 Oct 2026 07:00:00 GMT",
-   "read": "de-escalation"
   },
   {
    "topic": "Iran / Hormuz",
