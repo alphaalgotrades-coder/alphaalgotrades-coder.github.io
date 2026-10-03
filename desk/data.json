@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-03T03:50:03+00:00",
+ "generated_utc": "2026-10-03T03:55:04+00:00",
  "date_et": "2026-10-02",
  "build": "0d463cfe05",
  "tape": [
@@ -370,9 +370,9 @@
     "pct": -6.59
    }
   ],
-  "as_of": "2026-10-03T03:48:04.526485+00:00",
+  "as_of": "2026-10-03T03:54:04.655473+00:00",
   "tone": "risk-on",
-  "age_min": 1.9890436
+  "age_min": 0.9940146333333334
  },
  "stories": [
   {
@@ -390,6 +390,13 @@
    "read": "escalation"
   },
   {
+   "topic": "Iran / Hormuz",
+   "title": "Two More Tankers in Hormuz Report Strikes, Bringing Total to Six in a Week - maritime-executive.com",
+   "source": "maritime-executive.com",
+   "published": "Fri, 02 Oct 2026 21:40:25 GMT",
+   "read": "escalation"
+  },
+  {
    "topic": "Taiwan / China",
    "title": "Xi\u2019s Purge and the War Over Taiwan - The Jamestown Foundation",
    "source": "The Jamestown Foundation",
@@ -402,13 +409,6 @@
    "source": "aa.com.tr",
    "published": "Fri, 02 Oct 2026 21:18:04 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post",
-   "source": "The Jerusalem Post",
-   "published": "Fri, 02 Oct 2026 21:00:05 GMT",
-   "read": "unclear"
   },
   {
    "topic": "Taiwan / China",
