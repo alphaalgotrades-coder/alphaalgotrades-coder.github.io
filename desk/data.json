@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-03T04:30:04+00:00",
+ "generated_utc": "2026-10-03T04:35:03+00:00",
  "date_et": "2026-10-03",
  "build": "0d463cfe05",
  "tape": [
@@ -280,9 +280,9 @@
     "pct": -6.59
    }
   ],
-  "as_of": "2026-10-03T04:27:05.269125+00:00",
+  "as_of": "2026-10-03T04:33:04.767520+00:00",
   "tone": "risk-on",
-  "age_min": 2.9864717833333336
+  "age_min": 1.9891862333333334
  },
  "stories": [
   {
@@ -298,6 +298,13 @@
    "source": "Institute for the Study of War",
    "published": "Sat, 03 Oct 2026 01:56:43 GMT",
    "read": "unclear"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Saudis plan major offensive against the Houthis, but U.S. won't join for now - Axios",
+   "source": "Axios",
+   "published": "Sat, 03 Oct 2026 01:01:35 GMT",
+   "read": "escalation"
   },
   {
    "topic": "Russia / Ukraine",
@@ -319,13 +326,6 @@
    "source": "The Jamestown Foundation",
    "published": "Fri, 02 Oct 2026 21:35:29 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Putin to escalate attacks on Ukraine as US midterm elections approach, Zelenskyy says - aa.com.tr",
-   "source": "aa.com.tr",
-   "published": "Fri, 02 Oct 2026 21:18:04 GMT",
-   "read": "escalation"
   }
  ],
  "ratings": [
