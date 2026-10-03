@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-03T15:30:04+00:00",
+ "generated_utc": "2026-10-03T15:35:03+00:00",
  "date_et": "2026-10-03",
  "build": "0d463cfe05",
  "tape": [
@@ -280,11 +280,18 @@
     "pct": -6.59
    }
   ],
-  "as_of": "2026-10-03T15:27:04.574973+00:00",
+  "as_of": "2026-10-03T15:33:05.343978+00:00",
   "tone": "risk-on",
-  "age_min": 2.997037216666667
+  "age_min": 1.97794875
  },
  "stories": [
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Putin\u2019s Claims of Russian Battlefield Gains \u201cBorder on Hallucinations,\u201d ISW Says - UNITED24 Media",
+   "source": "UNITED24 Media",
+   "published": "Sat, 03 Oct 2026 15:00:28 GMT",
+   "read": "unclear"
+  },
   {
    "topic": "Russia / Ukraine",
    "title": "Ukraine War, Day 1,682: Russia Targets Kyiv Bridges for 3rd Straight Day - EA WorldView",
@@ -294,16 +301,9 @@
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "Five killed as Kyiv and Moscow trade strikes, Russia hits second bridge - Al Jazeera",
-   "source": "Al Jazeera",
-   "published": "Sat, 03 Oct 2026 12:56:20 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Russia hits second major bridge in Ukraine's capital Kyiv - BBC",
-   "source": "BBC",
-   "published": "Sat, 03 Oct 2026 11:48:41 GMT",
+   "title": "Russia Pledges to Continue Massive Strikes on Kyiv, Urges Foreign Diplomats to Leave City - The Moscow Times",
+   "source": "The Moscow Times",
+   "published": "Sat, 03 Oct 2026 13:39:19 GMT",
    "read": "escalation"
   },
   {
