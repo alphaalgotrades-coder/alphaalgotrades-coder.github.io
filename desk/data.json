@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-03T02:50:03+00:00",
+ "generated_utc": "2026-10-03T02:55:04+00:00",
  "date_et": "2026-10-02",
  "build": "0d463cfe05",
  "tape": [
@@ -370,9 +370,9 @@
     "pct": -6.59
    }
   ],
-  "as_of": "2026-10-03T02:48:05.811836+00:00",
+  "as_of": "2026-10-03T02:54:05.356612+00:00",
   "tone": "risk-on",
-  "age_min": 1.9721027
+  "age_min": 0.9833136499999999
  },
  "stories": [
   {
@@ -398,8 +398,8 @@
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "Putin to escalate attacks on Ukraine as US midterm elections approach, Zelenskyy says - Anadolu Ajans\u0131",
-   "source": "Anadolu Ajans\u0131",
+   "title": "Putin to escalate attacks on Ukraine as US midterm elections approach, Zelenskyy says - aa.com.tr",
+   "source": "aa.com.tr",
    "published": "Fri, 02 Oct 2026 21:18:04 GMT",
    "read": "escalation"
   },
