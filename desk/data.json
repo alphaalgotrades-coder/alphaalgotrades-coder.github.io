@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-03T10:10:03+00:00",
+ "generated_utc": "2026-10-03T10:15:04+00:00",
  "date_et": "2026-10-03",
  "build": "0d463cfe05",
  "tape": [
@@ -280,9 +280,9 @@
     "pct": -6.59
    }
   ],
-  "as_of": "2026-10-03T10:09:05.509288+00:00",
+  "as_of": "2026-10-03T10:12:05.424040+00:00",
   "tone": "risk-on",
-  "age_min": 0.9690790666666668
+  "age_min": 2.9806667166666667
  },
  "stories": [
   {
@@ -308,10 +308,10 @@
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "Ukraine braces for deep freeze in Putin\u2019s worst winter blitz yet - The Times",
-   "source": "The Times",
-   "published": "Sat, 03 Oct 2026 06:49:25 GMT",
-   "read": "escalation"
+   "title": "Ukraine\u2019s Surprise Counterattack Sets Back Putin\u2019s Donbas Goals - Bloomberg.com",
+   "source": "Bloomberg.com",
+   "published": "Sat, 03 Oct 2026 07:00:00 GMT",
+   "read": "de-escalation"
   },
   {
    "topic": "Iran / Hormuz",
