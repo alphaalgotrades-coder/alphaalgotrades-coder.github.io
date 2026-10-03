@@ -65,16 +65,18 @@
   ],
   "calls": [],
   "rolled": [
-   "Z",
-   "BLDR",
    "DLO"
   ],
   "called_away": [
    "SPY"
   ],
+  "calls_closed": [
+   "Z",
+   "BLDR"
+  ],
   "kept_pct": {
    "PATH": 71
   }
  },
- "generated": "2026-10-03 08:34"
+ "generated": "2026-10-03 08:39"
 }
