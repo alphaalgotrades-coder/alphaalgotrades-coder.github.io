@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-03T11:50:03+00:00",
+ "generated_utc": "2026-10-03T11:55:03+00:00",
  "date_et": "2026-10-03",
  "build": "0d463cfe05",
  "tape": [
@@ -280,9 +280,9 @@
     "pct": -6.59
    }
   ],
-  "as_of": "2026-10-03T11:48:05.326581+00:00",
+  "as_of": "2026-10-03T11:54:05.337469+00:00",
   "tone": "risk-on",
-  "age_min": 1.9723592666666667
+  "age_min": 0.9735546666666667
  },
  "stories": [
   {
@@ -290,13 +290,6 @@
    "title": "US-Russia talks on Ukraine involve multi-billion dollar oil deal, NYT reports - Reuters",
    "source": "Reuters",
    "published": "Sat, 03 Oct 2026 10:30:09 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "U.S.-Russia Talks on Ukraine Now Involve an Oil Deal Tied to Trump Allies - The New York Times",
-   "source": "The New York Times",
-   "published": "Sat, 03 Oct 2026 09:02:23 GMT",
    "read": "unclear"
   },
   {
@@ -325,6 +318,13 @@
    "title": "US-led initiative tightens efforts to block weapons from reaching Iran, stop nuclear proliferation - The Jerusalem Post",
    "source": "The Jerusalem Post",
    "published": "Sat, 03 Oct 2026 05:23:39 GMT",
+   "read": "de-escalation"
+  },
+  {
+   "topic": "Saudi / Gulf supply",
+   "title": "Saudi Arabia Resumes Yanbu Crude Loadings as East-West Pipeline Partially Restarts - News and Statistics - indexbox.io",
+   "source": "indexbox.io",
+   "published": "Sat, 03 Oct 2026 04:30:59 GMT",
    "read": "de-escalation"
   }
  ],
