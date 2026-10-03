@@ -1,103 +1,13 @@
 {
- "generated_utc": "2026-10-03T03:55:04+00:00",
- "date_et": "2026-10-02",
+ "generated_utc": "2026-10-03T04:00:04+00:00",
+ "date_et": "2026-10-03",
  "build": "0d463cfe05",
  "tape": [
   {
-   "time": "03:00",
-   "ccy": "EUR",
-   "impact": "Low",
-   "title": "Spanish Unemployment Change",
-   "cons": "17.6K",
-   "prev": "44.4K",
-   "actual": "23.6K"
-  },
-  {
-   "time": "04:00",
-   "ccy": "EUR",
-   "impact": "Low",
-   "title": "Italian Retail Sales m/m",
-   "cons": "-0.1%",
-   "prev": "-0.4%",
-   "actual": "0.3%"
-  },
-  {
-   "time": "05:00",
-   "ccy": "EUR",
-   "impact": "Medi",
-   "title": "Core CPI Flash Estimate y/y",
-   "cons": "2.5%",
-   "prev": "2.4%",
-   "actual": "2.5%"
-  },
-  {
-   "time": "05:00",
-   "ccy": "EUR",
-   "impact": "Medi",
-   "title": "CPI Flash Estimate y/y",
-   "cons": "3.7%",
-   "prev": "3.3%",
-   "actual": "3.8%"
-  },
-  {
-   "time": "08:30",
-   "ccy": "USD",
-   "impact": "High",
-   "title": "Average Hourly Earnings m/m",
-   "cons": "0.3%",
-   "prev": "0.3%",
-   "actual": "0.1%"
-  },
-  {
-   "time": "08:30",
-   "ccy": "USD",
-   "impact": "High",
-   "title": "Non-Farm Employment Change",
-   "cons": "89K",
-   "prev": "162K",
-   "actual": "29K"
-  },
-  {
-   "time": "08:30",
-   "ccy": "USD",
-   "impact": "High",
-   "title": "Unemployment Rate",
-   "cons": "4.1%",
-   "prev": "4.1%",
-   "actual": "4.2%"
-  },
-  {
-   "time": "10:00",
-   "ccy": "USD",
-   "impact": "Low",
-   "title": "Factory Orders m/m",
-   "cons": "0.1%",
-   "prev": "0.9%",
-   "actual": "0.1%"
-  },
-  {
-   "time": "10:00",
-   "ccy": "USD",
-   "impact": "Low",
-   "title": "FOMC Member Logan Speaks",
-   "cons": "",
-   "prev": "",
-   "actual": ""
-  },
-  {
-   "time": "13:00",
-   "ccy": "USD",
-   "impact": "Low",
-   "title": "FOMC Member Goolsbee Speaks",
-   "cons": "",
-   "prev": "",
-   "actual": ""
-  },
-  {
-   "time": "15:35",
-   "ccy": "EUR",
-   "impact": "Low",
-   "title": "German Buba President Nagel Speaks",
+   "time": "12:00",
+   "ccy": "AUD",
+   "impact": "Holi",
+   "title": "Daylight Saving Time Shift",
    "cons": "",
    "prev": "",
    "actual": ""
@@ -370,9 +280,9 @@
     "pct": -6.59
    }
   ],
-  "as_of": "2026-10-03T03:54:04.655473+00:00",
+  "as_of": "2026-10-03T04:00:04.991964+00:00",
   "tone": "risk-on",
-  "age_min": 0.9940146333333334
+  "age_min": 0.00020881666666666668
  },
  "stories": [
   {
