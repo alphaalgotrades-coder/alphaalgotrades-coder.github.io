@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-03T06:30:04+00:00",
+ "generated_utc": "2026-10-03T06:35:03+00:00",
  "date_et": "2026-10-03",
  "build": "0d463cfe05",
  "tape": [
@@ -280,9 +280,9 @@
     "pct": -6.59
    }
   ],
-  "as_of": "2026-10-03T06:27:05.485239+00:00",
+  "as_of": "2026-10-03T06:33:13.890719+00:00",
   "tone": "risk-on",
-  "age_min": 2.9807374666666666
+  "age_min": 1.8285680166666665
  },
  "stories": [
   {
@@ -321,10 +321,10 @@
    "read": "unclear"
   },
   {
-   "topic": "Iran / Hormuz",
-   "title": "Saudis plan major offensive against the Houthis, but U.S. won't join for now - Axios",
-   "source": "Axios",
-   "published": "Sat, 03 Oct 2026 01:01:35 GMT",
+   "topic": "Russia / Ukraine",
+   "title": "Russia\u2019s spending plans show Putin preparing for years of war - The Japan Times",
+   "source": "The Japan Times",
+   "published": "Sat, 03 Oct 2026 01:24:00 GMT",
    "read": "escalation"
   }
  ],
