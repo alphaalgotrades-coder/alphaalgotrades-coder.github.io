@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-03T09:30:04+00:00",
+ "generated_utc": "2026-10-03T09:35:03+00:00",
  "date_et": "2026-10-03",
  "build": "0d463cfe05",
  "tape": [
@@ -280,11 +280,18 @@
     "pct": -6.59
    }
   ],
-  "as_of": "2026-10-03T09:27:05.189792+00:00",
+  "as_of": "2026-10-03T09:33:05.058569+00:00",
   "tone": "risk-on",
-  "age_min": 2.9863854833333336
+  "age_min": 1.9791619500000002
  },
  "stories": [
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Trump, Putin, Ukraine and an Oil Deal: 5 Takeaways - The New York Times",
+   "source": "The New York Times",
+   "published": "Sat, 03 Oct 2026 09:03:58 GMT",
+   "read": "unclear"
+  },
   {
    "topic": "Saudi / Gulf supply",
    "title": "Saudi Aramco reportedly halts European crude deliveries: what it means for Saudi Aramco stock - AD HOC NEWS",
@@ -319,13 +326,6 @@
    "source": "Asia Times",
    "published": "Sat, 03 Oct 2026 04:07:52 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Trump says Iran war could end after U.S. elections as Hormuz tensions persist - Investing.com",
-   "source": "Investing.com",
-   "published": "Sat, 03 Oct 2026 03:21:21 GMT",
-   "read": "unclear"
   }
  ],
  "ratings": [
