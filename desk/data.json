@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-03T13:30:04+00:00",
+ "generated_utc": "2026-10-03T13:35:04+00:00",
  "date_et": "2026-10-03",
  "build": "0d463cfe05",
  "tape": [
@@ -240,7 +240,7 @@
    {
     "sym": "MOVE",
     "name": "Bond-market volatility",
-    "price": 107.287,
+    "price": 107.2868,
     "pct": -0.78
    },
    {
@@ -280,15 +280,15 @@
     "pct": -6.59
    }
   ],
-  "as_of": "2026-10-03T13:27:05.038475+00:00",
+  "as_of": "2026-10-03T13:33:05.191946+00:00",
   "tone": "risk-on",
-  "age_min": 2.9936496
+  "age_min": 1.9854349833333333
  },
  "stories": [
   {
    "topic": "Russia / Ukraine",
-   "title": "Five killed as Kyiv and Moscow trade strikes, Russia hits second bridge - aljazeera.com",
-   "source": "aljazeera.com",
+   "title": "Five killed as Kyiv and Moscow trade strikes, Russia hits second bridge - Al Jazeera",
+   "source": "Al Jazeera",
    "published": "Sat, 03 Oct 2026 12:56:20 GMT",
    "read": "escalation"
   },
