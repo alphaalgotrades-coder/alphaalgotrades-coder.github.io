@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-03T13:50:03+00:00",
+ "generated_utc": "2026-10-03T13:55:03+00:00",
  "date_et": "2026-10-03",
  "build": "0d463cfe05",
  "tape": [
@@ -280,9 +280,9 @@
     "pct": -6.59
    }
   ],
-  "as_of": "2026-10-03T13:48:05.450814+00:00",
+  "as_of": "2026-10-03T13:54:05.445799+00:00",
   "tone": "risk-on",
-  "age_min": 1.9722694333333335
+  "age_min": 0.9741295666666667
  },
  "stories": [
   {
@@ -294,10 +294,10 @@
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "US-Russia talks on Ukraine involve multi-billion dollar oil deal, NYT reports - Reuters",
-   "source": "Reuters",
-   "published": "Sat, 03 Oct 2026 10:30:09 GMT",
-   "read": "unclear"
+   "title": "Russia hits second major bridge in Ukraine's capital Kyiv - BBC",
+   "source": "BBC",
+   "published": "Sat, 03 Oct 2026 11:48:41 GMT",
+   "read": "escalation"
   },
   {
    "topic": "Saudi / Gulf supply",
