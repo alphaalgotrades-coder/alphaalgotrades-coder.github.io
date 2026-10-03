@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-03T22:10:03+00:00",
+ "generated_utc": "2026-10-03T22:15:03+00:00",
  "date_et": "2026-10-03",
  "build": "0d463cfe05",
  "tape": [
@@ -280,9 +280,9 @@
     "pct": -6.59
    }
   ],
-  "as_of": "2026-10-03T22:09:05.279546+00:00",
+  "as_of": "2026-10-03T22:12:04.772618+00:00",
   "tone": "risk-on",
-  "age_min": 0.9691925
+  "age_min": 2.9876370666666667
  },
  "stories": [
   {
@@ -300,13 +300,6 @@
    "read": "escalation"
   },
   {
-   "topic": "Iran / Hormuz",
-   "title": "Live - Iran says two more tankers hit in Hormuz as rial sinks further - Iran International",
-   "source": "Iran International",
-   "published": "Sat, 03 Oct 2026 19:21:34 GMT",
-   "read": "escalation"
-  },
-  {
    "topic": "Russia / Ukraine",
    "title": "Ukraine Will Hit Russian Refineries in Response to Moscow's \u2018New Doctrine\u2019 of Airstrikes - The Moscow Times",
    "source": "The Moscow Times",
@@ -319,6 +312,13 @@
    "source": "The Spokesman-Review",
    "published": "Sat, 03 Oct 2026 17:36:00 GMT",
    "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Is the Strait of Hormuz actually open? - The Times",
+   "source": "The Times",
+   "published": "Sat, 03 Oct 2026 15:38:00 GMT",
+   "read": "unclear"
   },
   {
    "topic": "Iran / Hormuz",
