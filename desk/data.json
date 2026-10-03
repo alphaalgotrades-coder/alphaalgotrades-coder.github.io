@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-03T23:30:04+00:00",
+ "generated_utc": "2026-10-03T23:35:03+00:00",
  "date_et": "2026-10-03",
  "build": "0d463cfe05",
  "tape": [
@@ -280,11 +280,18 @@
     "pct": -6.59
    }
   ],
-  "as_of": "2026-10-03T23:27:05.216808+00:00",
+  "as_of": "2026-10-03T23:33:05.313035+00:00",
   "tone": "risk-on",
-  "age_min": 2.9844077833333333
+  "age_min": 1.97974725
  },
  "stories": [
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Live - Trump says he has a decision to make about Iran - Iran International",
+   "source": "Iran International",
+   "published": "Sat, 03 Oct 2026 22:34:10 GMT",
+   "read": "unclear"
+  },
   {
    "topic": "Russia / Ukraine",
    "title": "Russia\u2019s \u2018new doctrine\u2019 targets civilian sites in Ukraine, Zelenskyy says - Al Jazeera",
@@ -308,7 +315,7 @@
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Pete Hegseth warns Iran will 'never' get nuclear bomb, touts Hormuz blockade - The Jerusalem Post",
+   "title": "'The hard way': US remains 'hell-bent' to prevent Iran from acquiring nuclear weapons, says Hegseth - The Jerusalem Post",
    "source": "The Jerusalem Post",
    "published": "Sat, 03 Oct 2026 21:39:32 GMT",
    "read": "unclear"
@@ -318,13 +325,6 @@
    "title": "Ex-PM says Putin cannot admit 'mistake' over Ukraine - RFI",
    "source": "RFI",
    "published": "Sat, 03 Oct 2026 16:38:55 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Is the Strait of Hormuz actually open? - The Times",
-   "source": "The Times",
-   "published": "Sat, 03 Oct 2026 15:38:00 GMT",
    "read": "unclear"
   }
  ],
