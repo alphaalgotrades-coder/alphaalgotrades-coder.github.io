@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-03T21:30:04+00:00",
+ "generated_utc": "2026-10-03T21:35:03+00:00",
  "date_et": "2026-10-03",
  "build": "0d463cfe05",
  "tape": [
@@ -280,9 +280,9 @@
     "pct": -6.59
    }
   ],
-  "as_of": "2026-10-03T21:27:06.303604+00:00",
+  "as_of": "2026-10-03T21:33:06.050868+00:00",
   "tone": "risk-on",
-  "age_min": 2.973735916666667
+  "age_min": 1.96194055
  },
  "stories": [
   {
@@ -308,24 +308,24 @@
   },
   {
    "topic": "Iran / Hormuz",
+   "title": "Pressure builds on Iran as Trump boosts U.S. military presence - The Spokesman-Review",
+   "source": "The Spokesman-Review",
+   "published": "Sat, 03 Oct 2026 17:36:00 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
    "title": "Pressure Builds on Iran as Trump Boosts US Military Presence - Bloomberg.com",
    "source": "Bloomberg.com",
    "published": "Sat, 03 Oct 2026 15:27:37 GMT",
    "read": "escalation"
   },
   {
-   "topic": "Russia / Ukraine",
-   "title": "Trump, Putin, Ukraine and an Oil Deal: 5 Takeaways - nytimes.com",
-   "source": "nytimes.com",
-   "published": "Sat, 03 Oct 2026 09:03:58 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "U.S.-Russia Talks on Ukraine Now Involve an Oil Deal Tied to Trump Allies - nytimes.com",
-   "source": "nytimes.com",
-   "published": "Sat, 03 Oct 2026 09:02:24 GMT",
-   "read": "unclear"
+   "topic": "Taiwan / China",
+   "title": "US to deploy NMESIS anti-ship system on Japanese island closest to Taiwan - South China Morning Post",
+   "source": "South China Morning Post",
+   "published": "Sat, 03 Oct 2026 13:45:24 GMT",
+   "read": "escalation"
   }
  ],
  "ratings": [
