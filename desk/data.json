@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-03T15:50:03+00:00",
+ "generated_utc": "2026-10-03T15:55:03+00:00",
  "date_et": "2026-10-03",
  "build": "0d463cfe05",
  "tape": [
@@ -280,9 +280,9 @@
     "pct": -6.59
    }
   ],
-  "as_of": "2026-10-03T15:48:12.277317+00:00",
+  "as_of": "2026-10-03T15:54:05.542501+00:00",
   "tone": "risk-on",
-  "age_min": 1.8601025833333333
+  "age_min": 0.9763305166666666
  },
  "stories": [
   {
@@ -307,6 +307,13 @@
    "read": "escalation"
   },
   {
+   "topic": "Russia / Ukraine",
+   "title": "US, Russia talks on Ukraine involve oil deal tied to Kushner, Witkoff: Report - The Hill",
+   "source": "The Hill",
+   "published": "Sat, 03 Oct 2026 12:11:00 GMT",
+   "read": "unclear"
+  },
+  {
    "topic": "Saudi / Gulf supply",
    "title": "Saudi Aramco reportedly halts European crude deliveries: what it means for Saudi Aramco stock - AD HOC NEWS",
    "source": "AD HOC NEWS",
@@ -319,13 +326,6 @@
    "source": "Bloomberg.com",
    "published": "Sat, 03 Oct 2026 08:45:44 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Ukraine\u2019s Surprise Counterattack Sets Back Putin\u2019s Donbas Goals - bloomberg.com",
-   "source": "bloomberg.com",
-   "published": "Sat, 03 Oct 2026 07:00:00 GMT",
-   "read": "de-escalation"
   }
  ],
  "ratings": [
