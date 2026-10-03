@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-03T03:30:04+00:00",
+ "generated_utc": "2026-10-03T03:35:04+00:00",
  "date_et": "2026-10-02",
  "build": "0d463cfe05",
  "tape": [
@@ -370,23 +370,23 @@
     "pct": -6.59
    }
   ],
-  "as_of": "2026-10-03T03:27:04.508237+00:00",
+  "as_of": "2026-10-03T03:33:04.606399+00:00",
   "tone": "risk-on",
-  "age_min": 2.9998661333333336
+  "age_min": 1.9946013666666667
  },
  "stories": [
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Trump must close this Turkish loophole that allows Iran to skirt sanctions - New York Post",
+   "source": "New York Post",
+   "published": "Sat, 03 Oct 2026 02:28:00 GMT",
+   "read": "unclear"
+  },
   {
    "topic": "Russia / Ukraine",
    "title": "Putin orders military leaders to target civilians and nuclear facilities, Zelensky warns: \u2018No rules now\u2019 - New York Post",
    "source": "New York Post",
    "published": "Fri, 02 Oct 2026 21:58:00 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Two More Tankers in Hormuz Report Strikes, Bringing Total to Six in a Week - The Maritime Executive",
-   "source": "The Maritime Executive",
-   "published": "Fri, 02 Oct 2026 21:40:25 GMT",
    "read": "escalation"
   },
   {
