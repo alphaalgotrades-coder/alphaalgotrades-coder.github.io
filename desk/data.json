@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-03T21:10:03+00:00",
+ "generated_utc": "2026-10-03T21:15:03+00:00",
  "date_et": "2026-10-03",
  "build": "0d463cfe05",
  "tape": [
@@ -280,9 +280,9 @@
     "pct": -6.59
    }
   ],
-  "as_of": "2026-10-03T21:09:06.095391+00:00",
+  "as_of": "2026-10-03T21:12:05.860625+00:00",
   "tone": "risk-on",
-  "age_min": 0.9533700166666667
+  "age_min": 2.9630729833333334
  },
  "stories": [
   {
@@ -300,18 +300,18 @@
    "read": "escalation"
   },
   {
+   "topic": "Russia / Ukraine",
+   "title": "Ukraine Will Hit Russian Refineries in Response to Moscow's \u2018New Doctrine\u2019 of Airstrikes - The Moscow Times",
+   "source": "The Moscow Times",
+   "published": "Sat, 03 Oct 2026 18:01:54 GMT",
+   "read": "escalation"
+  },
+  {
    "topic": "Iran / Hormuz",
    "title": "Pressure Builds on Iran as Trump Boosts US Military Presence - Bloomberg.com",
    "source": "Bloomberg.com",
    "published": "Sat, 03 Oct 2026 15:27:37 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "US and Russia are negotiating multibillion-dollar deal on Lukoil assets, says NYT - \u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u043f\u0440\u0430\u0432\u0434\u0430",
-   "source": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u043f\u0440\u0430\u0432\u0434\u0430",
-   "published": "Sat, 03 Oct 2026 12:54:00 GMT",
-   "read": "unclear"
   },
   {
    "topic": "Russia / Ukraine",
