@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-03T20:30:04+00:00",
+ "generated_utc": "2026-10-03T20:35:03+00:00",
  "date_et": "2026-10-03",
  "build": "0d463cfe05",
  "tape": [
@@ -280,16 +280,23 @@
     "pct": -6.59
    }
   ],
-  "as_of": "2026-10-03T20:27:05.583747+00:00",
+  "as_of": "2026-10-03T20:33:05.455617+00:00",
   "tone": "risk-on",
-  "age_min": 2.981148383333333
+  "age_min": 1.9779669666666666
  },
  "stories": [
   {
    "topic": "Russia / Ukraine",
-   "title": "Ukraine War, Day 1,682: Russia Targets Kyiv Bridges for 3rd Straight Day - eaworldview.com",
-   "source": "eaworldview.com",
-   "published": "Sat, 03 Oct 2026 16:18:45 GMT",
+   "title": "EXCLUSIVE: Ukraine will hit Russian refineries in response to Moscow's 'new doctrine' of airstrikes, Zelenskiy says - Reuters",
+   "source": "Reuters",
+   "published": "Sat, 03 Oct 2026 20:25:53 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Live - Iran says two more tankers hit in Hormuz as rial sinks further - Iran International",
+   "source": "Iran International",
+   "published": "Sat, 03 Oct 2026 19:21:34 GMT",
    "read": "escalation"
   },
   {
@@ -318,13 +325,6 @@
    "title": "U.S.-Russia Talks on Ukraine Now Involve an Oil Deal Tied to Trump Allies - nytimes.com",
    "source": "nytimes.com",
    "published": "Sat, 03 Oct 2026 09:02:24 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Saudi / Gulf supply",
-   "title": "Saudi Aramco reportedly halts European crude deliveries: what it means for Saudi Aramco stock - AD HOC NEWS",
-   "source": "AD HOC NEWS",
-   "published": "Sat, 03 Oct 2026 08:48:01 GMT",
    "read": "unclear"
   }
  ],
