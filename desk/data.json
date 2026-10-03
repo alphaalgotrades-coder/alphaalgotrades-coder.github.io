@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-03T04:50:03+00:00",
+ "generated_utc": "2026-10-03T04:55:03+00:00",
  "date_et": "2026-10-03",
  "build": "0d463cfe05",
  "tape": [
@@ -280,11 +280,18 @@
     "pct": -6.59
    }
   ],
-  "as_of": "2026-10-03T04:48:04.674243+00:00",
+  "as_of": "2026-10-03T04:54:04.914970+00:00",
   "tone": "risk-on",
-  "age_min": 1.9902955
+  "age_min": 0.9859661000000001
  },
  "stories": [
+  {
+   "topic": "Saudi / Gulf supply",
+   "title": "Saudi Arabia Resumes Yanbu Crude Loadings as East-West Pipeline Partially Restarts - News and Statistics - IndexBox",
+   "source": "IndexBox",
+   "published": "Sat, 03 Oct 2026 04:30:59 GMT",
+   "read": "de-escalation"
+  },
   {
    "topic": "Iran / Hormuz",
    "title": "Trump must close this Turkish loophole that allows Iran to skirt sanctions - New York Post",
@@ -319,13 +326,6 @@
    "source": "maritime-executive.com",
    "published": "Fri, 02 Oct 2026 21:40:25 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Taiwan / China",
-   "title": "Xi\u2019s Purge and the War Over Taiwan - The Jamestown Foundation",
-   "source": "The Jamestown Foundation",
-   "published": "Fri, 02 Oct 2026 21:35:29 GMT",
-   "read": "unclear"
   }
  ],
  "ratings": [
