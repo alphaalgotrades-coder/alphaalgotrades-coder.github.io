@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-03T07:10:03+00:00",
+ "generated_utc": "2026-10-03T07:15:03+00:00",
  "date_et": "2026-10-03",
  "build": "0d463cfe05",
  "tape": [
@@ -240,7 +240,7 @@
    {
     "sym": "MOVE",
     "name": "Bond-market volatility",
-    "price": 107.287,
+    "price": 107.29,
     "pct": -0.78
    },
    {
@@ -280,11 +280,18 @@
     "pct": -6.59
    }
   ],
-  "as_of": "2026-10-03T07:09:05.312913+00:00",
+  "as_of": "2026-10-03T07:12:04.935724+00:00",
   "tone": "risk-on",
-  "age_min": 0.9706800166666666
+  "age_min": 2.9781731333333337
  },
  "stories": [
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Ukraine braces for deep freeze in Putin\u2019s worst winter blitz yet - The Times",
+   "source": "The Times",
+   "published": "Sat, 03 Oct 2026 06:49:25 GMT",
+   "read": "escalation"
+  },
   {
    "topic": "Iran / Hormuz",
    "title": "US-led initiative tightens efforts to block weapons from reaching Iran, stop nuclear proliferation - The Jerusalem Post",
@@ -294,8 +301,8 @@
   },
   {
    "topic": "Saudi / Gulf supply",
-   "title": "Saudi Arabia Resumes Yanbu Crude Loadings as East-West Pipeline Partially Restarts - News and Statistics - IndexBox",
-   "source": "IndexBox",
+   "title": "Saudi Arabia Resumes Yanbu Crude Loadings as East-West Pipeline Partially Restarts - News and Statistics - indexbox.io",
+   "source": "indexbox.io",
    "published": "Sat, 03 Oct 2026 04:30:59 GMT",
    "read": "de-escalation"
   },
@@ -319,13 +326,6 @@
    "source": "understandingwar.org",
    "published": "Sat, 03 Oct 2026 01:56:43 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Russia\u2019s spending plans show Putin preparing for years of war - The Japan Times",
-   "source": "The Japan Times",
-   "published": "Sat, 03 Oct 2026 01:24:00 GMT",
-   "read": "escalation"
   }
  ],
  "ratings": [
