@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-03T09:10:03+00:00",
+ "generated_utc": "2026-10-03T09:15:03+00:00",
  "date_et": "2026-10-03",
  "build": "0d463cfe05",
  "tape": [
@@ -280,11 +280,18 @@
     "pct": -6.59
    }
   ],
-  "as_of": "2026-10-03T09:09:04.625332+00:00",
+  "as_of": "2026-10-03T09:12:04.445426+00:00",
   "tone": "risk-on",
-  "age_min": 0.9824444499999999
+  "age_min": 2.9939429833333335
  },
  "stories": [
+  {
+   "topic": "Saudi / Gulf supply",
+   "title": "Saudi Aramco reportedly halts European crude deliveries: what it means for Saudi Aramco stock - AD HOC NEWS",
+   "source": "AD HOC NEWS",
+   "published": "Sat, 03 Oct 2026 08:48:01 GMT",
+   "read": "unclear"
+  },
   {
    "topic": "Russia / Ukraine",
    "title": "Ukraine braces for deep freeze in Putin\u2019s worst winter blitz yet - The Times",
@@ -318,13 +325,6 @@
    "title": "Trump says Iran war could end after U.S. elections as Hormuz tensions persist - Investing.com",
    "source": "Investing.com",
    "published": "Sat, 03 Oct 2026 03:21:21 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Russian Offensive Campaign Assessment, October 2, 2026 - understandingwar.org",
-   "source": "understandingwar.org",
-   "published": "Sat, 03 Oct 2026 01:56:43 GMT",
    "read": "unclear"
   }
  ],
