@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-03T22:50:03+00:00",
+ "generated_utc": "2026-10-03T22:55:03+00:00",
  "date_et": "2026-10-03",
  "build": "0d463cfe05",
  "tape": [
@@ -280,9 +280,9 @@
     "pct": -6.59
    }
   ],
-  "as_of": "2026-10-03T22:48:05.014932+00:00",
+  "as_of": "2026-10-03T22:54:04.940941+00:00",
   "tone": "risk-on",
-  "age_min": 1.9755421499999999
+  "age_min": 0.9839923666666667
  },
  "stories": [
   {
@@ -293,25 +293,25 @@
    "read": "escalation"
   },
   {
+   "topic": "Russia / Ukraine",
+   "title": "Zelenskyy Says Ukraine Will Respond As Putin Vows To Escalate Air Strikes, Warns Foreigners - Radio Free Europe/Radio Liberty",
+   "source": "Radio Free Europe/Radio Liberty",
+   "published": "Sat, 03 Oct 2026 22:02:24 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iran's currency crashes as the regime runs out of oil to sell and can\u2019t get its money from customers - Fortune",
+   "source": "Fortune",
+   "published": "Sat, 03 Oct 2026 21:40:00 GMT",
+   "read": "unclear"
+  },
+  {
    "topic": "Iran / Hormuz",
    "title": "Pete Hegseth warns Iran will 'never' get nuclear bomb, touts Hormuz blockade - The Jerusalem Post",
    "source": "The Jerusalem Post",
    "published": "Sat, 03 Oct 2026 21:39:32 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Ukraine Will Hit Russian Refineries in Response to Moscow's \u2018New Doctrine\u2019 of Airstrikes - The Moscow Times",
-   "source": "The Moscow Times",
-   "published": "Sat, 03 Oct 2026 18:01:54 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Pressure builds on Iran as Trump boosts U.S. military presence - The Spokesman-Review",
-   "source": "The Spokesman-Review",
-   "published": "Sat, 03 Oct 2026 17:36:00 GMT",
-   "read": "escalation"
   },
   {
    "topic": "Russia / Ukraine",
