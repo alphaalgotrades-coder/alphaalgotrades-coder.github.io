@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-03T16:50:04+00:00",
+ "generated_utc": "2026-10-03T16:55:03+00:00",
  "date_et": "2026-10-03",
  "build": "0d463cfe05",
  "tape": [
@@ -280,11 +280,18 @@
     "pct": -6.59
    }
   ],
-  "as_of": "2026-10-03T16:48:05.211356+00:00",
+  "as_of": "2026-10-03T16:54:05.370487+00:00",
   "tone": "risk-on",
-  "age_min": 1.9831699666666667
+  "age_min": 0.9779312
  },
  "stories": [
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Ukraine War, Day 1,682: Russia Targets Kyiv Bridges for 3rd Straight Day - eaworldview.com",
+   "source": "eaworldview.com",
+   "published": "Sat, 03 Oct 2026 16:18:45 GMT",
+   "read": "escalation"
+  },
   {
    "topic": "Iran / Hormuz",
    "title": "Pressure Builds on Iran as Trump Boosts US Military Presence - Bloomberg.com",
@@ -301,17 +308,10 @@
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "Ukraine War, Day 1,682: Russia Targets Kyiv Bridges for 3rd Straight Day - EA WorldView",
-   "source": "EA WorldView",
-   "published": "Sat, 03 Oct 2026 13:42:48 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Russia Pledges to Continue Massive Strikes on Kyiv, Urges Foreign Diplomats to Leave City - The Moscow Times",
-   "source": "The Moscow Times",
-   "published": "Sat, 03 Oct 2026 13:39:19 GMT",
-   "read": "escalation"
+   "title": "US and Russia are negotiating multibillion-dollar deal on Lukoil assets, says NYT - \u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u043f\u0440\u0430\u0432\u0434\u0430",
+   "source": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u043f\u0440\u0430\u0432\u0434\u0430",
+   "published": "Sat, 03 Oct 2026 12:54:00 GMT",
+   "read": "unclear"
   },
   {
    "topic": "Russia / Ukraine",
