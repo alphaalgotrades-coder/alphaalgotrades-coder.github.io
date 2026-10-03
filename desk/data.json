@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-03T09:50:03+00:00",
+ "generated_utc": "2026-10-03T09:55:03+00:00",
  "date_et": "2026-10-03",
  "build": "0d463cfe05",
  "tape": [
@@ -280,9 +280,9 @@
     "pct": -6.59
    }
   ],
-  "as_of": "2026-10-03T09:48:13.827224+00:00",
+  "as_of": "2026-10-03T09:54:05.377682+00:00",
   "tone": "risk-on",
-  "age_min": 1.83251125
+  "age_min": 0.9738350166666667
  },
  "stories": [
   {
@@ -290,6 +290,13 @@
    "title": "Trump, Putin, Ukraine and an Oil Deal: 5 Takeaways - The New York Times",
    "source": "The New York Times",
    "published": "Sat, 03 Oct 2026 09:03:58 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "U.S.-Russia Talks on Ukraine Now Involve an Oil Deal Tied to Trump Allies - The New York Times",
+   "source": "The New York Times",
+   "published": "Sat, 03 Oct 2026 09:02:23 GMT",
    "read": "unclear"
   },
   {
@@ -319,13 +326,6 @@
    "source": "indexbox.io",
    "published": "Sat, 03 Oct 2026 04:30:59 GMT",
    "read": "de-escalation"
-  },
-  {
-   "topic": "Taiwan / China",
-   "title": "New F-16s buy Taiwan time and space against China\u2019s air coercion - Asia Times",
-   "source": "Asia Times",
-   "published": "Sat, 03 Oct 2026 04:07:52 GMT",
-   "read": "escalation"
   }
  ],
  "ratings": [
