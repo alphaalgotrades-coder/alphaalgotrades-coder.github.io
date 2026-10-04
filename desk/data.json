@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-04T01:50:03+00:00",
+ "generated_utc": "2026-10-04T01:55:03+00:00",
  "date_et": "2026-10-03",
  "build": "0d463cfe05",
  "tape": [
@@ -280,11 +280,18 @@
     "pct": -6.59
    }
   ],
-  "as_of": "2026-10-04T01:48:06.508303+00:00",
+  "as_of": "2026-10-04T01:54:06.118915+00:00",
   "tone": "risk-on",
-  "age_min": 1.9571364333333332
+  "age_min": 0.96322075
  },
  "stories": [
+  {
+   "topic": "Saudi / Gulf supply",
+   "title": "Houthis Claim Attack on Riyadh Oil Facilities, Adding Fresh Uncertainty to Middle East Crude Supply Outlook - finance.biggo.com",
+   "source": "finance.biggo.com",
+   "published": "Sun, 04 Oct 2026 01:35:00 GMT",
+   "read": "escalation"
+  },
   {
    "topic": "Iran / Hormuz",
    "title": "Iran's IRGC hits 7 'violating' tankers in Strait of Hormuz in 5 days - news.cgtn.com",
@@ -318,13 +325,6 @@
    "title": "EXCLUSIVE: Ukraine will hit Russian refineries in response to Moscow's 'new doctrine' of airstrikes, Zelenskiy says - reuters.com",
    "source": "reuters.com",
    "published": "Sat, 03 Oct 2026 20:25:53 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Taiwan / China",
-   "title": "US to deploy NMESIS anti-ship system on Japanese island closest to Taiwan - South China Morning Post",
-   "source": "South China Morning Post",
-   "published": "Sat, 03 Oct 2026 13:45:24 GMT",
    "read": "escalation"
   }
  ],
