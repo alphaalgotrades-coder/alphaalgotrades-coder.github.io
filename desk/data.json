@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-04T23:50:03+00:00",
+ "generated_utc": "2026-10-04T23:55:04+00:00",
  "date_et": "2026-10-04",
  "build": "0d463cfe05",
  "tape": [
@@ -282,20 +282,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 91.14,
-    "pct": 0.03
+    "price": 90.99,
+    "pct": -0.13
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4172.7,
+    "price": 4172.8,
     "pct": 0.25
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.899,
-    "pct": -0.03
+    "price": 101.918,
+    "pct": -0.01
    },
    {
     "sym": "SPY",
@@ -316,9 +316,9 @@
     "pct": -6.59
    }
   ],
-  "as_of": "2026-10-04T23:48:05.482476+00:00",
+  "as_of": "2026-10-04T23:54:05.121190+00:00",
   "tone": "risk-on",
-  "age_min": 1.9763492333333335
+  "age_min": 0.9838606833333333
  },
  "stories": [
   {
@@ -327,6 +327,27 @@
    "source": "KJZZ",
    "published": "Thu, 01 Oct 2026 11:44:00 GMT",
    "read": "unclear"
+  },
+  {
+   "topic": "Saudi / Gulf supply",
+   "title": "Oil Rises After Houthis Claim Attack on Saudi Aramco Facilities; Brent at $103, WTI Near $92 - bloomingbit",
+   "source": "bloomingbit",
+   "published": "Sun, 04 Oct 2026 23:35:53 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "More Tankers Hit as Iran Restates Hormuz Terms - Yahoo",
+   "source": "Yahoo",
+   "published": "Sun, 04 Oct 2026 22:28:41 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Russian drone slams into key Kyiv bridge during German chancellor's visit as Putin prepares mass military mobilization: report - New York Post",
+   "source": "New York Post",
+   "published": "Sun, 04 Oct 2026 22:07:00 GMT",
+   "read": "escalation"
   },
   {
    "topic": "Saudi / Gulf supply",
@@ -341,27 +362,6 @@
    "source": "The New York Times",
    "published": "Sun, 04 Oct 2026 20:58:41 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Germany\u2019s Merz in Kyiv announces $1.5B in aid, urges Putin to end war - aljazeera.com",
-   "source": "aljazeera.com",
-   "published": "Sun, 04 Oct 2026 20:00:46 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran Keeps Up Pace of Strikes With Attack on Brand New LR2 Tanker - The Maritime Executive",
-   "source": "The Maritime Executive",
-   "published": "Sun, 04 Oct 2026 19:14:49 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Saudi / Gulf supply",
-   "title": "Crude Oil Price in Focus as Saudi Arabia-Houthi, US-Iran, Ukraine-Russia Tensions Escalate - Benzinga",
-   "source": "Benzinga",
-   "published": "Sun, 04 Oct 2026 18:20:06 GMT",
-   "read": "escalation"
   }
  ],
  "ratings": [
