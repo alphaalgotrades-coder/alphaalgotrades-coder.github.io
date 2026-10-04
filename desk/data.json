@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-04T09:50:04+00:00",
+ "generated_utc": "2026-10-04T09:55:03+00:00",
  "date_et": "2026-10-04",
  "build": "0d463cfe05",
  "tape": [
@@ -316,23 +316,23 @@
     "pct": -6.59
    }
   ],
-  "as_of": "2026-10-04T09:48:04.550834+00:00",
+  "as_of": "2026-10-04T09:54:04.383365+00:00",
   "tone": "risk-on",
-  "age_min": 1.9942106666666668
+  "age_min": 0.99536875
  },
  "stories": [
   {
    "topic": "Iran / Hormuz",
-   "title": "Iran says Trump\u2019s threats a sign of \u2018strategic desperation,\u2019 floats conditions for Hormuz reopening - CNBC",
-   "source": "CNBC",
-   "published": "Wed, 23 Sep 2026 07:00:00 GMT",
+   "title": "Iraq transports its oil past Hormuz for first time in decades as war with Iran chokes exports - thenationalnews.com",
+   "source": "thenationalnews.com",
+   "published": "Sun, 04 Oct 2026 08:50:57 GMT",
    "read": "escalation"
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Trolling Trump: meet the Iranian team behind billboard war on US - South China Morning Post",
-   "source": "South China Morning Post",
-   "published": "Sun, 04 Oct 2026 05:35:04 GMT",
+   "title": "Live Updates: Latest from Israel, Iran, and the Middle East - jpost.com",
+   "source": "jpost.com",
+   "published": "Sun, 04 Oct 2026 08:00:05 GMT",
    "read": "unclear"
   },
   {
@@ -343,24 +343,24 @@
    "read": "escalation"
   },
   {
-   "topic": "Iran / Hormuz",
-   "title": "Trump weighs Iran decision with \u2018all options\u2019 on the table - iranintl.com",
-   "source": "iranintl.com",
-   "published": "Sun, 04 Oct 2026 02:59:00 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran\u2019s Strategy After the War: Hormuz, Gulf Tensions and the Risk of Another Conflict - moderndiplomacy.eu",
-   "source": "moderndiplomacy.eu",
-   "published": "Sun, 04 Oct 2026 02:00:08 GMT",
-   "read": "unclear"
-  },
-  {
    "topic": "Saudi / Gulf supply",
    "title": "Houthis Claim Attack on Riyadh Oil Facilities, Adding Fresh Uncertainty to Middle East Crude Supply Outlook - finance.biggo.com",
    "source": "finance.biggo.com",
    "published": "Sun, 04 Oct 2026 01:35:00 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Pete Hegseth warns Iran will 'never' get nuclear bomb, touts Hormuz blockade - jpost.com",
+   "source": "jpost.com",
+   "published": "Sun, 04 Oct 2026 00:00:20 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Taiwan / China",
+   "title": "Taiwan tracks 13 Chinese ships, 5 military aircraft - taiwannews.com.tw",
+   "source": "taiwannews.com.tw",
+   "published": "Sat, 03 Oct 2026 21:36:33 GMT",
    "read": "escalation"
   }
  ],
