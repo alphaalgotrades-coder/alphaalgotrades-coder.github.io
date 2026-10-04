@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-04T05:30:04+00:00",
+ "generated_utc": "2026-10-04T05:35:03+00:00",
  "date_et": "2026-10-04",
  "build": "0d463cfe05",
  "tape": [],
@@ -270,23 +270,23 @@
     "pct": -6.59
    }
   ],
-  "as_of": "2026-10-04T05:27:04.955018+00:00",
+  "as_of": "2026-10-04T05:33:05.171154+00:00",
   "tone": "risk-on",
-  "age_min": 2.9927668
+  "age_min": 1.9780934333333335
  },
  "stories": [
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Ukraine\u2019s surprise robot offensive exposes a vulnerability in Putin\u2019s war machine - CNBC",
+   "source": "CNBC",
+   "published": "Sun, 04 Oct 2026 05:00:01 GMT",
+   "read": "escalation"
+  },
   {
    "topic": "Iran / Hormuz",
    "title": "Report: Iran's IRGC hit 7 \u2018violating\u2019 oilers in Hormuz Strait in 5 days - chinadailyasia.com",
    "source": "chinadailyasia.com",
    "published": "Sun, 04 Oct 2026 04:07:32 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Trump weighs Iran decision with \u2018all options\u2019 on the table - Iran International",
-   "source": "Iran International",
-   "published": "Sun, 04 Oct 2026 02:59:00 GMT",
    "read": "escalation"
   },
   {
