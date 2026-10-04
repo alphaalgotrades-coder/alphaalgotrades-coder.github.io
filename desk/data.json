@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-04T03:10:03+00:00",
+ "generated_utc": "2026-10-04T03:15:04+00:00",
  "date_et": "2026-10-03",
  "build": "0d463cfe05",
  "tape": [
@@ -280,11 +280,18 @@
     "pct": -6.59
    }
   ],
-  "as_of": "2026-10-04T03:09:05.430100+00:00",
+  "as_of": "2026-10-04T03:12:05.276052+00:00",
   "tone": "risk-on",
-  "age_min": 0.9728235666666667
+  "age_min": 2.9825941666666664
  },
  "stories": [
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Trump weighs Iran decision with \u2018all options\u2019 on the table - Iran International",
+   "source": "Iran International",
+   "published": "Sun, 04 Oct 2026 02:59:00 GMT",
+   "read": "escalation"
+  },
   {
    "topic": "Iran / Hormuz",
    "title": "Iran\u2019s Strategy After the War: Hormuz, Gulf Tensions and the Risk of Another Conflict - Modern Diplomacy",
@@ -304,13 +311,6 @@
    "title": "Iran's IRGC hits 7 'violating' tankers in Strait of Hormuz in 5 days - news.cgtn.com",
    "source": "news.cgtn.com",
    "published": "Sun, 04 Oct 2026 00:41:03 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Hegseth: US blockade of Hormuz ironclad, Iran should make right choice - Middle East Eye",
-   "source": "Middle East Eye",
-   "published": "Sun, 04 Oct 2026 00:07:00 GMT",
    "read": "escalation"
   },
   {
