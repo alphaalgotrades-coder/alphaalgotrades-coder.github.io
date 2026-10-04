@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-04T13:50:03+00:00",
+ "generated_utc": "2026-10-04T13:55:03+00:00",
  "date_et": "2026-10-04",
  "build": "0d463cfe05",
  "tape": [
@@ -316,9 +316,9 @@
     "pct": -6.59
    }
   ],
-  "as_of": "2026-10-04T13:48:05.065470+00:00",
+  "as_of": "2026-10-04T13:54:05.100945+00:00",
   "tone": "risk-on",
-  "age_min": 1.9708007666666667
+  "age_min": 0.97433165
  },
  "stories": [
   {
@@ -358,10 +358,10 @@
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "Merz urges Putin to end Ukraine war, says Germany ready for talks - \u0648\u0643\u0627\u0644\u0629 \u0627\u0644\u0623\u0646\u0628\u0627\u0621 \u0627\u0644\u0633\u0648\u0631\u064a\u0629 \u2013 \u0633\u0627\u0646\u0627",
-   "source": "\u0648\u0643\u0627\u0644\u0629 \u0627\u0644\u0623\u0646\u0628\u0627\u0621 \u0627\u0644\u0633\u0648\u0631\u064a\u0629 \u2013 \u0633\u0627\u0646\u0627",
-   "published": "Sun, 04 Oct 2026 11:56:36 GMT",
-   "read": "unclear"
+   "title": "Russia hits Kyiv bridge as Germany\u2019s Merz visits Ukraine\u2019s capital - Al Jazeera",
+   "source": "Al Jazeera",
+   "published": "Sun, 04 Oct 2026 12:00:00 GMT",
+   "read": "escalation"
   }
  ],
  "ratings": [
