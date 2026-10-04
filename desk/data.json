@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-04T01:30:04+00:00",
+ "generated_utc": "2026-10-04T01:35:03+00:00",
  "date_et": "2026-10-03",
  "build": "0d463cfe05",
  "tape": [
@@ -280,24 +280,24 @@
     "pct": -6.59
    }
   ],
-  "as_of": "2026-10-04T01:27:05.191423+00:00",
+  "as_of": "2026-10-04T01:33:05.310052+00:00",
   "tone": "risk-on",
-  "age_min": 2.990750916666667
+  "age_min": 1.9736339
  },
  "stories": [
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iran's IRGC hits 7 'violating' tankers in Strait of Hormuz in 5 days - news.cgtn.com",
+   "source": "news.cgtn.com",
+   "published": "Sun, 04 Oct 2026 00:41:03 GMT",
+   "read": "escalation"
+  },
   {
    "topic": "Iran / Hormuz",
    "title": "Hegseth: US blockade of Hormuz ironclad, Iran should make right choice - Middle East Eye",
    "source": "Middle East Eye",
    "published": "Sun, 04 Oct 2026 00:07:00 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Live - Trump says he has a decision to make about Iran - Iran International",
-   "source": "Iran International",
-   "published": "Sat, 03 Oct 2026 22:34:10 GMT",
-   "read": "unclear"
   },
   {
    "topic": "Russia / Ukraine",
@@ -315,17 +315,17 @@
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "Ex-PM says Putin cannot admit 'mistake' over Ukraine - RFI",
-   "source": "RFI",
-   "published": "Sat, 03 Oct 2026 16:38:55 GMT",
-   "read": "unclear"
+   "title": "EXCLUSIVE: Ukraine will hit Russian refineries in response to Moscow's 'new doctrine' of airstrikes, Zelenskiy says - reuters.com",
+   "source": "reuters.com",
+   "published": "Sat, 03 Oct 2026 20:25:53 GMT",
+   "read": "escalation"
   },
   {
-   "topic": "Russia / Ukraine",
-   "title": "Putin\u2019s Claims of Russian Battlefield Gains \u201cBorder on Hallucinations,\u201d ISW Says - united24media.com",
-   "source": "united24media.com",
-   "published": "Sat, 03 Oct 2026 15:00:28 GMT",
-   "read": "unclear"
+   "topic": "Taiwan / China",
+   "title": "US to deploy NMESIS anti-ship system on Japanese island closest to Taiwan - South China Morning Post",
+   "source": "South China Morning Post",
+   "published": "Sat, 03 Oct 2026 13:45:24 GMT",
+   "read": "escalation"
   }
  ],
  "ratings": [
