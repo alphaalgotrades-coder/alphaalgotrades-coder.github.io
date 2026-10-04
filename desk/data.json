@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-04T15:10:03+00:00",
+ "generated_utc": "2026-10-04T15:15:04+00:00",
  "date_et": "2026-10-04",
  "build": "0d463cfe05",
  "tape": [
@@ -316,16 +316,16 @@
     "pct": -6.59
    }
   ],
-  "as_of": "2026-10-04T15:09:05.430918+00:00",
+  "as_of": "2026-10-04T15:12:05.194857+00:00",
   "tone": "risk-on",
-  "age_min": 0.9763081666666668
+  "age_min": 2.989313066666667
  },
  "stories": [
   {
    "topic": "Taiwan / China",
-   "title": "Xi Tightens Control Over Military and Rebuilds Forces as Prospects of a 2027 Taiwan Invasion Recede - economy.ac",
-   "source": "economy.ac",
-   "published": "Thu, 01 Oct 2026 03:18:59 GMT",
+   "title": "As Arizona sees record investments from TSMC, Taiwan faces military pressure from China - KJZZ",
+   "source": "KJZZ",
+   "published": "Thu, 01 Oct 2026 11:44:00 GMT",
    "read": "unclear"
   },
   {
@@ -358,8 +358,8 @@
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "Russia hits Kyiv bridge as Germany\u2019s Merz visits Ukraine\u2019s capital - Al Jazeera",
-   "source": "Al Jazeera",
+   "title": "Russia hits Kyiv bridge as Germany\u2019s Merz visits Ukraine\u2019s capital - aljazeera.com",
+   "source": "aljazeera.com",
    "published": "Sun, 04 Oct 2026 12:00:00 GMT",
    "read": "escalation"
   }
