@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-04T06:30:05+00:00",
+ "generated_utc": "2026-10-04T06:35:04+00:00",
  "date_et": "2026-10-04",
  "build": "0d463cfe05",
  "tape": [
@@ -316,15 +316,15 @@
     "pct": -6.59
    }
   ],
-  "as_of": "2026-10-04T06:27:06.216603+00:00",
+  "as_of": "2026-10-04T06:33:05.859297+00:00",
   "tone": "risk-on",
-  "age_min": 2.9853605
+  "age_min": 1.97814555
  },
  "stories": [
   {
    "topic": "Iran / Hormuz",
-   "title": "Trump, burger, Hormuz: meet the Iranian team behind billboard war on US - scmp.com",
-   "source": "scmp.com",
+   "title": "Trump, burger, Hormuz: meet the Iranian team behind billboard war on US - South China Morning Post",
+   "source": "South China Morning Post",
    "published": "Sun, 04 Oct 2026 05:35:04 GMT",
    "read": "unclear"
   },
