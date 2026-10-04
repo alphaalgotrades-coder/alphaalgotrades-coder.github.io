@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-04T22:50:04+00:00",
+ "generated_utc": "2026-10-04T22:55:03+00:00",
  "date_et": "2026-10-04",
  "build": "0d463cfe05",
  "tape": [
@@ -282,20 +282,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 91.19,
-    "pct": 0.09
+    "price": 90.98,
+    "pct": -0.14
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4171.0,
-    "pct": 0.21
+    "price": 4170.6,
+    "pct": 0.2
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.875,
-    "pct": -0.06
+    "price": 101.881,
+    "pct": -0.05
    },
    {
     "sym": "SPY",
@@ -316,9 +316,9 @@
     "pct": -6.59
    }
   ],
-  "as_of": "2026-10-04T22:48:04.975671+00:00",
+  "as_of": "2026-10-04T22:54:05.083708+00:00",
   "tone": "risk-on",
-  "age_min": 1.9872000166666666
+  "age_min": 0.9828181666666667
  },
  "stories": [
   {
@@ -337,10 +337,10 @@
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Persian Gulf oil flows return to prewar levels, but Iran could resort to a 'scorched earth campaign' - Fortune",
-   "source": "Fortune",
-   "published": "Sun, 04 Oct 2026 20:03:00 GMT",
-   "read": "escalation"
+   "title": "The Return of Middle East Oil - The New York Times",
+   "source": "The New York Times",
+   "published": "Sun, 04 Oct 2026 20:58:41 GMT",
+   "read": "unclear"
   },
   {
    "topic": "Russia / Ukraine",
@@ -351,9 +351,9 @@
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Live - Explosion heard near Iran\u2019s Qeshm, Sirik Islands - Iran International",
-   "source": "Iran International",
-   "published": "Sun, 04 Oct 2026 19:43:53 GMT",
+   "title": "Iran Keeps Up Pace of Strikes With Attack on Brand New LR2 Tanker - The Maritime Executive",
+   "source": "The Maritime Executive",
+   "published": "Sun, 04 Oct 2026 19:14:49 GMT",
    "read": "escalation"
   },
   {
