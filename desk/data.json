@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-04T09:30:04+00:00",
+ "generated_utc": "2026-10-04T09:35:03+00:00",
  "date_et": "2026-10-04",
  "build": "0d463cfe05",
  "tape": [
@@ -316,9 +316,9 @@
     "pct": -6.59
    }
   ],
-  "as_of": "2026-10-04T09:27:05.301567+00:00",
+  "as_of": "2026-10-04T09:33:04.958091+00:00",
   "tone": "risk-on",
-  "age_min": 2.9908027166666664
+  "age_min": 1.9852242833333333
  },
  "stories": [
   {
@@ -330,10 +330,10 @@
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Iran says Strait of Hormuz will not reopen until conditions are met - Arab News",
-   "source": "Arab News",
-   "published": "Sun, 04 Oct 2026 07:41:15 GMT",
-   "read": "escalation"
+   "title": "Trolling Trump: meet the Iranian team behind billboard war on US - South China Morning Post",
+   "source": "South China Morning Post",
+   "published": "Sun, 04 Oct 2026 05:35:04 GMT",
+   "read": "unclear"
   },
   {
    "topic": "Russia / Ukraine",
@@ -341,6 +341,13 @@
    "source": "CNBC",
    "published": "Sun, 04 Oct 2026 05:00:01 GMT",
    "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Trump weighs Iran decision with \u2018all options\u2019 on the table - iranintl.com",
+   "source": "iranintl.com",
+   "published": "Sun, 04 Oct 2026 02:59:00 GMT",
+   "read": "unclear"
   },
   {
    "topic": "Iran / Hormuz",
@@ -354,13 +361,6 @@
    "title": "Houthis Claim Attack on Riyadh Oil Facilities, Adding Fresh Uncertainty to Middle East Crude Supply Outlook - finance.biggo.com",
    "source": "finance.biggo.com",
    "published": "Sun, 04 Oct 2026 01:35:00 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Taiwan / China",
-   "title": "Taiwan tracks 13 Chinese ships, 5 military aircraft - taiwannews.com.tw",
-   "source": "taiwannews.com.tw",
-   "published": "Sat, 03 Oct 2026 21:36:33 GMT",
    "read": "escalation"
   }
  ],
