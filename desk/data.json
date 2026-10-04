@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-04T17:30:04+00:00",
+ "generated_utc": "2026-10-04T17:35:03+00:00",
  "date_et": "2026-10-04",
  "build": "0d463cfe05",
  "tape": [
@@ -316,9 +316,9 @@
     "pct": -6.59
    }
   ],
-  "as_of": "2026-10-04T17:27:05.049873+00:00",
+  "as_of": "2026-10-04T17:33:13.535357+00:00",
   "tone": "risk-on",
-  "age_min": 2.985281366666667
+  "age_min": 1.8388933666666667
  },
  "stories": [
   {
@@ -336,6 +336,13 @@
    "read": "unclear"
   },
   {
+   "topic": "Russia / Ukraine",
+   "title": "OPINION: Russia Pretends to Negotiate: Washington Must Change Moscow\u2019s Calculation - Kyiv Post",
+   "source": "Kyiv Post",
+   "published": "Sun, 04 Oct 2026 17:22:35 GMT",
+   "read": "unclear"
+  },
+  {
    "topic": "Iran / Hormuz",
    "title": "\u2018Hormuz Will Not Be Opened\u2019: Iran Sets Seven Conditions, Warns of \u2018New Surprises\u2019 - Palestine Chronicle",
    "source": "Palestine Chronicle",
@@ -347,13 +354,6 @@
    "title": "Live - Iran says reviewing US response to seven-day proposal - Iran International",
    "source": "Iran International",
    "published": "Sun, 04 Oct 2026 13:41:34 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Putin\u2019s Russia Needs a Carrot as Big as the Stick - newsweek.com",
-   "source": "newsweek.com",
-   "published": "Sun, 04 Oct 2026 13:00:00 GMT",
    "read": "unclear"
   },
   {
