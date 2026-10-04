@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-04T08:50:04+00:00",
+ "generated_utc": "2026-10-04T08:55:04+00:00",
  "date_et": "2026-10-04",
  "build": "0d463cfe05",
  "tape": [
@@ -316,16 +316,16 @@
     "pct": -6.59
    }
   ],
-  "as_of": "2026-10-04T08:48:05.840288+00:00",
+  "as_of": "2026-10-04T08:54:04.780628+00:00",
   "tone": "risk-on",
-  "age_min": 1.9769096833333333
+  "age_min": 0.9897349833333333
  },
  "stories": [
   {
    "topic": "Iran / Hormuz",
-   "title": "Iran\u2019s parliament speaker says Strait of Hormuz won\u2019t reopen until Tehran\u2019s 7 conditions met - The Times of Israel",
-   "source": "The Times of Israel",
-   "published": "Sun, 04 Oct 2026 07:47:46 GMT",
+   "title": "Iran says Trump\u2019s threats a sign of \u2018strategic desperation,\u2019 floats conditions for Hormuz reopening - CNBC",
+   "source": "CNBC",
+   "published": "Wed, 23 Sep 2026 07:00:00 GMT",
    "read": "escalation"
   },
   {
