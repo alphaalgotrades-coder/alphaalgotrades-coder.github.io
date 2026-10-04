@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-04T10:30:05+00:00",
+ "generated_utc": "2026-10-04T10:35:03+00:00",
  "date_et": "2026-10-04",
  "build": "0d463cfe05",
  "tape": [
@@ -316,11 +316,18 @@
     "pct": -6.59
    }
   ],
-  "as_of": "2026-10-04T10:27:05.110109+00:00",
+  "as_of": "2026-10-04T10:33:05.087614+00:00",
   "tone": "risk-on",
-  "age_min": 3.0013120666666664
+  "age_min": 1.9703953166666668
  },
  "stories": [
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iran Says Strait of Hormuz Will Stay Closed Until U.S. Meets Their Conditions - Haaretz",
+   "source": "Haaretz",
+   "published": "Sun, 04 Oct 2026 10:20:00 GMT",
+   "read": "escalation"
+  },
   {
    "topic": "Iran / Hormuz",
    "title": "Iran says Hormuz Strait to remain closed until US meets seven conditions - Middle East Eye",
@@ -343,24 +350,17 @@
    "read": "escalation"
   },
   {
+   "topic": "Russia / Ukraine",
+   "title": "Russia\u2019s \u2018new doctrine\u2019 targets civilian sites in Ukraine, Zelenskyy says - aljazeera.com",
+   "source": "aljazeera.com",
+   "published": "Sun, 04 Oct 2026 04:11:58 GMT",
+   "read": "escalation"
+  },
+  {
    "topic": "Saudi / Gulf supply",
    "title": "Houthis Claim Attack on Riyadh Oil Facilities, Adding Fresh Uncertainty to Middle East Crude Supply Outlook - finance.biggo.com",
    "source": "finance.biggo.com",
    "published": "Sun, 04 Oct 2026 01:35:00 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Pete Hegseth warns Iran will 'never' get nuclear bomb, touts Hormuz blockade - jpost.com",
-   "source": "jpost.com",
-   "published": "Sun, 04 Oct 2026 00:00:20 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Taiwan / China",
-   "title": "Taiwan tracks 13 Chinese ships, 5 military aircraft - taiwannews.com.tw",
-   "source": "taiwannews.com.tw",
-   "published": "Sat, 03 Oct 2026 21:36:33 GMT",
    "read": "escalation"
   }
  ],
