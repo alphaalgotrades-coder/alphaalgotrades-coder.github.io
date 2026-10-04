@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-04T07:50:04+00:00",
+ "generated_utc": "2026-10-04T07:55:04+00:00",
  "date_et": "2026-10-04",
  "build": "0d463cfe05",
  "tape": [
@@ -316,11 +316,18 @@
     "pct": -6.59
    }
   ],
-  "as_of": "2026-10-04T07:48:05.518994+00:00",
+  "as_of": "2026-10-04T07:54:05.800263+00:00",
   "tone": "risk-on",
-  "age_min": 1.9806673166666668
+  "age_min": 0.9775231333333333
  },
  "stories": [
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iran\u2019s parliament speaker says Strait of Hormuz won\u2019t reopen until Tehran\u2019s 7 conditions met - The Times of Israel",
+   "source": "The Times of Israel",
+   "published": "Sun, 04 Oct 2026 07:47:46 GMT",
+   "read": "escalation"
+  },
   {
    "topic": "Iran / Hormuz",
    "title": "Iran says Strait of Hormuz will not reopen until conditions are met, Nournews reports - Arab News",
@@ -355,13 +362,6 @@
    "source": "taiwannews.com.tw",
    "published": "Sat, 03 Oct 2026 21:36:33 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iraq says it transported 2 million barrels of crude through Strait of Hormuz - Reuters",
-   "source": "Reuters",
-   "published": "Sat, 03 Oct 2026 20:25:43 GMT",
-   "read": "unclear"
   }
  ],
  "ratings": [
