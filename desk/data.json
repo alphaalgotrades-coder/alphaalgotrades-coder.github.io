@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-04T02:10:03+00:00",
+ "generated_utc": "2026-10-04T02:15:04+00:00",
  "date_et": "2026-10-03",
  "build": "0d463cfe05",
  "tape": [
@@ -280,9 +280,9 @@
     "pct": -6.59
    }
   ],
-  "as_of": "2026-10-04T02:09:05.667372+00:00",
+  "as_of": "2026-10-04T02:12:05.198914+00:00",
   "tone": "risk-on",
-  "age_min": 0.9732730166666667
+  "age_min": 2.98817835
  },
  "stories": [
   {
@@ -307,18 +307,18 @@
    "read": "escalation"
   },
   {
+   "topic": "Iran / Hormuz",
+   "title": "Live - Trump says he has a decision to make about Iran - iranintl.com",
+   "source": "iranintl.com",
+   "published": "Sat, 03 Oct 2026 22:39:21 GMT",
+   "read": "unclear"
+  },
+  {
    "topic": "Russia / Ukraine",
    "title": "Zelenskyy Says Ukraine Will Respond As Putin Vows To Escalate Air Strikes, Warns Foreigners - rferl.org",
    "source": "rferl.org",
    "published": "Sat, 03 Oct 2026 22:02:24 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "'The hard way': US remains 'hell-bent' to prevent Iran from acquiring nuclear weapons, says Hegseth - The Jerusalem Post",
-   "source": "The Jerusalem Post",
-   "published": "Sat, 03 Oct 2026 21:39:32 GMT",
-   "read": "unclear"
   },
   {
    "topic": "Russia / Ukraine",
