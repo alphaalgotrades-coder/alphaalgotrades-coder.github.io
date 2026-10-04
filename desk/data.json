@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-04T21:50:03+00:00",
+ "generated_utc": "2026-10-04T21:55:04+00:00",
  "date_et": "2026-10-04",
  "build": "0d463cfe05",
  "tape": [
@@ -316,9 +316,9 @@
     "pct": -6.59
    }
   ],
-  "as_of": "2026-10-04T21:48:05.615086+00:00",
+  "as_of": "2026-10-04T21:54:05.469017+00:00",
   "tone": "risk-on",
-  "age_min": 1.9728532166666668
+  "age_min": 0.9783455833333333
  },
  "stories": [
   {
@@ -329,10 +329,10 @@
    "read": "unclear"
   },
   {
-   "topic": "Russia / Ukraine",
-   "title": "Russian Offensive Campaign Assessment, September 30, 2026 - Institute for the Study of War",
-   "source": "Institute for the Study of War",
-   "published": "Thu, 01 Oct 2026 06:47:44 GMT",
+   "topic": "Saudi / Gulf supply",
+   "title": "Saudi Arabia cuts Arab light crude oil OSP for Asia for November - marketscreener.com",
+   "source": "marketscreener.com",
+   "published": "Sun, 04 Oct 2026 21:36:27 GMT",
    "read": "unclear"
   },
   {
@@ -350,18 +350,18 @@
    "read": "unclear"
   },
   {
+   "topic": "Iran / Hormuz",
+   "title": "Live - Explosion heard near Iran\u2019s Qeshm, Sirik Islands - Iran International",
+   "source": "Iran International",
+   "published": "Sun, 04 Oct 2026 19:43:53 GMT",
+   "read": "escalation"
+  },
+  {
    "topic": "Saudi / Gulf supply",
    "title": "Crude Oil Price in Focus as Saudi Arabia-Houthi, US-Iran, Ukraine-Russia Tensions Escalate - Benzinga",
    "source": "Benzinga",
    "published": "Sun, 04 Oct 2026 18:20:06 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "OPINION: Russia Pretends to Negotiate: Washington Must Change Moscow\u2019s Calculation - Kyiv Post",
-   "source": "Kyiv Post",
-   "published": "Sun, 04 Oct 2026 17:22:35 GMT",
-   "read": "unclear"
   }
  ],
  "ratings": [
