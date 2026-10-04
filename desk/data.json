@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-04T11:10:03+00:00",
+ "generated_utc": "2026-10-04T11:15:03+00:00",
  "date_et": "2026-10-04",
  "build": "0d463cfe05",
  "tape": [
@@ -316,9 +316,9 @@
     "pct": -6.59
    }
   ],
-  "as_of": "2026-10-04T11:09:06.863367+00:00",
+  "as_of": "2026-10-04T11:12:05.069601+00:00",
   "tone": "risk-on",
-  "age_min": 0.96224035
+  "age_min": 2.9912556166666664
  },
  "stories": [
   {
@@ -358,9 +358,9 @@
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "Ukraine\u2019s surprise robot offensive exposes a vulnerability in Putin\u2019s war machine - CNBC",
-   "source": "CNBC",
-   "published": "Sun, 04 Oct 2026 05:00:01 GMT",
+   "title": "Russia\u2019s \u2018new doctrine\u2019 targets civilian sites in Ukraine, Zelenskyy says - aljazeera.com",
+   "source": "aljazeera.com",
+   "published": "Sun, 04 Oct 2026 04:11:58 GMT",
    "read": "escalation"
   }
  ],
