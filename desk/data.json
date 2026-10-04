@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-04T05:10:04+00:00",
+ "generated_utc": "2026-10-04T05:15:04+00:00",
  "date_et": "2026-10-04",
  "build": "0d463cfe05",
  "tape": [],
@@ -270,9 +270,9 @@
     "pct": -6.59
    }
   ],
-  "as_of": "2026-10-04T05:09:04.877397+00:00",
+  "as_of": "2026-10-04T05:12:04.808733+00:00",
   "tone": "risk-on",
-  "age_min": 0.9916339333333333
+  "age_min": 2.990308016666667
  },
  "stories": [
   {
@@ -290,17 +290,17 @@
    "read": "escalation"
   },
   {
-   "topic": "Iran / Hormuz",
-   "title": "Iran\u2019s Strategy After the War: Hormuz, Gulf Tensions and the Risk of Another Conflict - Modern Diplomacy",
-   "source": "Modern Diplomacy",
-   "published": "Sun, 04 Oct 2026 02:00:08 GMT",
-   "read": "unclear"
-  },
-  {
    "topic": "Saudi / Gulf supply",
    "title": "Houthis Claim Attack on Riyadh Oil Facilities, Adding Fresh Uncertainty to Middle East Crude Supply Outlook - finance.biggo.com",
    "source": "finance.biggo.com",
    "published": "Sun, 04 Oct 2026 01:35:00 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Pressure builds on Iran as Trump boosts U.S. military presence - The Japan Times",
+   "source": "The Japan Times",
+   "published": "Sat, 03 Oct 2026 22:44:00 GMT",
    "read": "escalation"
   },
   {
