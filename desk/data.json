@@ -1,8 +1,54 @@
 {
- "generated_utc": "2026-10-04T05:55:03+00:00",
+ "generated_utc": "2026-10-04T06:00:04+00:00",
  "date_et": "2026-10-04",
  "build": "0d463cfe05",
- "tape": [],
+ "tape": [
+  {
+   "time": "05:15",
+   "ccy": "All",
+   "impact": "Medi",
+   "title": "OPEC-JMMC Meetings",
+   "cons": "",
+   "prev": "",
+   "actual": ""
+  },
+  {
+   "time": "16:00",
+   "ccy": "AUD",
+   "impact": "Holi",
+   "title": "Bank Holiday",
+   "cons": "",
+   "prev": "",
+   "actual": ""
+  },
+  {
+   "time": "19:01",
+   "ccy": "CNY",
+   "impact": "Holi",
+   "title": "Bank Holiday",
+   "cons": "",
+   "prev": "",
+   "actual": ""
+  },
+  {
+   "time": "20:00",
+   "ccy": "AUD",
+   "impact": "Low",
+   "title": "MI Inflation Gauge m/m",
+   "cons": "",
+   "prev": "0.5%",
+   "actual": ""
+  },
+  {
+   "time": "20:00",
+   "ccy": "NZD",
+   "impact": "Low",
+   "title": "ANZ Commodity Prices m/m",
+   "cons": "",
+   "prev": "-0.4%",
+   "actual": ""
+  }
+ ],
  "rates": {
   "rows": [
    {
@@ -270,9 +316,9 @@
     "pct": -6.59
    }
   ],
-  "as_of": "2026-10-04T05:54:05.230431+00:00",
+  "as_of": "2026-10-04T05:57:05.221587+00:00",
   "tone": "risk-on",
-  "age_min": 0.97754645
+  "age_min": 2.9905721
  },
  "stories": [
   {
