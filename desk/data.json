@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-04T15:50:03+00:00",
+ "generated_utc": "2026-10-04T15:55:03+00:00",
  "date_et": "2026-10-04",
  "build": "0d463cfe05",
  "tape": [
@@ -316,9 +316,9 @@
     "pct": -6.59
    }
   ],
-  "as_of": "2026-10-04T15:48:05.516555+00:00",
+  "as_of": "2026-10-04T15:54:05.737249+00:00",
   "tone": "risk-on",
-  "age_min": 1.9714338666666669
+  "age_min": 0.9694487166666667
  },
  "stories": [
   {
@@ -330,9 +330,23 @@
   },
   {
    "topic": "Iran / Hormuz",
+   "title": "\u2018Hormuz Will Not Be Opened\u2019: Iran Sets Seven Conditions, Warns of \u2018New Surprises\u2019 - Palestine Chronicle",
+   "source": "Palestine Chronicle",
+   "published": "Sun, 04 Oct 2026 15:33:45 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
    "title": "Live - Iran says reviewing US response to seven-day proposal - Iran International",
    "source": "Iran International",
    "published": "Sun, 04 Oct 2026 13:41:34 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Putin\u2019s Russia Needs a Carrot as Big as the Stick - newsweek.com",
+   "source": "newsweek.com",
+   "published": "Sun, 04 Oct 2026 13:00:00 GMT",
    "read": "unclear"
   },
   {
@@ -340,20 +354,6 @@
    "title": "Iran: Hormuz Strait won't reopen until demands are met - livenowfox.com",
    "source": "livenowfox.com",
    "published": "Sun, 04 Oct 2026 12:56:07 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Ex-PM says Putin cannot admit \u2018mistake\u2019 over Ukraine as he bets on war of attrition - Malay Mail",
-   "source": "Malay Mail",
-   "published": "Sun, 04 Oct 2026 12:22:30 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Russia strikes Kyiv bridges with drones as Putin escalates attacks on Ukraine - Ynetnews",
-   "source": "Ynetnews",
-   "published": "Sun, 04 Oct 2026 12:12:30 GMT",
    "read": "escalation"
   },
   {
