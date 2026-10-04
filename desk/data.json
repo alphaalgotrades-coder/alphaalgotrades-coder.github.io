@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-04T11:30:03+00:00",
+ "generated_utc": "2026-10-04T11:35:03+00:00",
  "date_et": "2026-10-04",
  "build": "0d463cfe05",
  "tape": [
@@ -316,9 +316,9 @@
     "pct": -6.59
    }
   ],
-  "as_of": "2026-10-04T11:27:05.001170+00:00",
+  "as_of": "2026-10-04T11:33:05.297592+00:00",
   "tone": "risk-on",
-  "age_min": 2.9721876
+  "age_min": 1.9706004166666666
  },
  "stories": [
   {
@@ -327,6 +327,13 @@
    "source": "economy.ac",
    "published": "Thu, 01 Oct 2026 03:18:59 GMT",
    "read": "unclear"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iran says Hormuz to remain closed until US meets conditions - Al Jazeera",
+   "source": "Al Jazeera",
+   "published": "Sun, 04 Oct 2026 11:15:00 GMT",
+   "read": "escalation"
   },
   {
    "topic": "Iran / Hormuz",
@@ -344,9 +351,9 @@
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Iran Says Strait of Hormuz Will Stay Closed Until U.S. Meets Their Conditions - Haaretz",
-   "source": "Haaretz",
-   "published": "Sun, 04 Oct 2026 10:20:00 GMT",
+   "title": "Iran sets seven conditions for reopening Strait of Hormuz to US - Yahoo",
+   "source": "Yahoo",
+   "published": "Sun, 04 Oct 2026 10:18:24 GMT",
    "read": "escalation"
   },
   {
@@ -355,13 +362,6 @@
    "source": "malaymail.com",
    "published": "Sun, 04 Oct 2026 09:22:30 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Russia\u2019s \u2018new doctrine\u2019 targets civilian sites in Ukraine, Zelenskyy says - aljazeera.com",
-   "source": "aljazeera.com",
-   "published": "Sun, 04 Oct 2026 04:11:58 GMT",
-   "read": "escalation"
   }
  ],
  "ratings": [
