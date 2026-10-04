@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-04T19:50:03+00:00",
+ "generated_utc": "2026-10-04T19:55:03+00:00",
  "date_et": "2026-10-04",
  "build": "0d463cfe05",
  "tape": [
@@ -316,9 +316,9 @@
     "pct": -6.59
    }
   ],
-  "as_of": "2026-10-04T19:48:04.628977+00:00",
+  "as_of": "2026-10-04T19:54:05.126671+00:00",
   "tone": "risk-on",
-  "age_min": 1.98983335
+  "age_min": 0.9806791833333333
  },
  "stories": [
   {
@@ -350,18 +350,18 @@
    "read": "unclear"
   },
   {
+   "topic": "Iran / Hormuz",
+   "title": "Live - Iran says reviewing US response to seven-day proposal - iranintl.com",
+   "source": "iranintl.com",
+   "published": "Sun, 04 Oct 2026 16:24:30 GMT",
+   "read": "unclear"
+  },
+  {
    "topic": "Russia / Ukraine",
    "title": "Ukraine believes Russia shared jet-drone technology with North Korea, says Zelenskiy - Reuters",
    "source": "Reuters",
    "published": "Sun, 04 Oct 2026 16:05:11 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "\u2018Hormuz Will Not Be Opened\u2019: Iran Sets Seven Conditions, Warns of \u2018New Surprises\u2019 - Palestine Chronicle",
-   "source": "Palestine Chronicle",
-   "published": "Sun, 04 Oct 2026 15:33:45 GMT",
-   "read": "escalation"
   }
  ],
  "ratings": [
