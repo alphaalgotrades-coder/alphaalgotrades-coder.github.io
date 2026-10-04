@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-04T12:25:03+00:00",
+ "generated_utc": "2026-10-04T12:35:03+00:00",
  "date_et": "2026-10-04",
  "build": "0d463cfe05",
  "tape": [
@@ -316,9 +316,9 @@
     "pct": -6.59
    }
   ],
-  "as_of": "2026-10-04T12:24:05.415835+00:00",
+  "as_of": "2026-10-04T12:33:05.508088+00:00",
   "tone": "risk-on",
-  "age_min": 0.9706293666666667
+  "age_min": 1.9710761666666667
  },
  "stories": [
   {
@@ -330,8 +330,15 @@
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "More tankers struck in the Middle East as Iran reiterates conditions for reopening the Strait of Hormuz - CNBC",
-   "source": "CNBC",
+   "title": "Iraq ships its oil through Strait of Hormuz as US-Iran war chokes exports - thenationalnews.com",
+   "source": "thenationalnews.com",
+   "published": "Sun, 04 Oct 2026 12:11:15 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "More tankers struck in the Middle East as Iran reiterates conditions for reopening the Strait of Hormuz - cnbc.com",
+   "source": "cnbc.com",
    "published": "Sun, 04 Oct 2026 12:02:51 GMT",
    "read": "escalation"
   },
@@ -344,24 +351,17 @@
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Iran says Hormuz to remain closed until US meets conditions - Al Jazeera",
-   "source": "Al Jazeera",
+   "title": "Iran says Hormuz to remain closed until US meets conditions - aljazeera.com",
+   "source": "aljazeera.com",
    "published": "Sun, 04 Oct 2026 11:15:00 GMT",
    "read": "escalation"
   },
   {
-   "topic": "Iran / Hormuz",
-   "title": "Iran says Strait of Hormuz will not reopen until conditions are met - reuters.com",
-   "source": "reuters.com",
-   "published": "Sun, 04 Oct 2026 10:34:05 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran sets seven conditions for reopening Strait of Hormuz to US - Yahoo",
-   "source": "Yahoo",
-   "published": "Sun, 04 Oct 2026 10:18:24 GMT",
-   "read": "escalation"
+   "topic": "Russia / Ukraine",
+   "title": "Ex-PM says Putin cannot admit \u2018mistake\u2019 over Ukraine as he bets on war of attrition - malaymail.com",
+   "source": "malaymail.com",
+   "published": "Sun, 04 Oct 2026 09:22:30 GMT",
+   "read": "unclear"
   }
  ],
  "ratings": [
@@ -543,7 +543,7 @@
   "note": "TreasuryDirect, announced offerings"
  },
  "book": {
-  "as_of_et": "08:05",
+  "as_of_et": "08:30",
   "since": "2026-07-13",
   "trading_days": 49,
   "green_days": 27,
