@@ -1,18 +1,8 @@
 {
- "generated_utc": "2026-10-04T03:55:03+00:00",
- "date_et": "2026-10-03",
+ "generated_utc": "2026-10-04T04:00:04+00:00",
+ "date_et": "2026-10-04",
  "build": "0d463cfe05",
- "tape": [
-  {
-   "time": "12:00",
-   "ccy": "AUD",
-   "impact": "Holi",
-   "title": "Daylight Saving Time Shift",
-   "cons": "",
-   "prev": "",
-   "actual": ""
-  }
- ],
+ "tape": [],
  "rates": {
   "rows": [
    {
@@ -280,9 +270,9 @@
     "pct": -6.59
    }
   ],
-  "as_of": "2026-10-04T03:54:05.172008+00:00",
+  "as_of": "2026-10-04T03:57:05.332174+00:00",
   "tone": "risk-on",
-  "age_min": 0.9782028166666666
+  "age_min": 2.9911876333333334
  },
  "stories": [
   {
