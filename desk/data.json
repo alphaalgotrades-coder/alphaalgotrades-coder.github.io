@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-04T01:10:03+00:00",
+ "generated_utc": "2026-10-04T01:15:04+00:00",
  "date_et": "2026-10-03",
  "build": "0d463cfe05",
  "tape": [
@@ -280,15 +280,15 @@
     "pct": -6.59
    }
   ],
-  "as_of": "2026-10-04T01:09:05.442902+00:00",
+  "as_of": "2026-10-04T01:12:05.448526+00:00",
   "tone": "risk-on",
-  "age_min": 0.9706831
+  "age_min": 2.98313295
  },
  "stories": [
   {
    "topic": "Iran / Hormuz",
-   "title": "Hegseth: US blockade of Hormuz ironclad, Iran should make right choice - middleeasteye.net",
-   "source": "middleeasteye.net",
+   "title": "Hegseth: US blockade of Hormuz ironclad, Iran should make right choice - Middle East Eye",
+   "source": "Middle East Eye",
    "published": "Sun, 04 Oct 2026 00:07:00 GMT",
    "read": "escalation"
   },
@@ -308,13 +308,6 @@
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Iran's currency crashes as the regime runs out of oil to sell and can\u2019t get its money from customers - Fortune",
-   "source": "Fortune",
-   "published": "Sat, 03 Oct 2026 21:40:00 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
    "title": "'The hard way': US remains 'hell-bent' to prevent Iran from acquiring nuclear weapons, says Hegseth - The Jerusalem Post",
    "source": "The Jerusalem Post",
    "published": "Sat, 03 Oct 2026 21:39:32 GMT",
@@ -325,6 +318,13 @@
    "title": "Ex-PM says Putin cannot admit 'mistake' over Ukraine - RFI",
    "source": "RFI",
    "published": "Sat, 03 Oct 2026 16:38:55 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Putin\u2019s Claims of Russian Battlefield Gains \u201cBorder on Hallucinations,\u201d ISW Says - united24media.com",
+   "source": "united24media.com",
+   "published": "Sat, 03 Oct 2026 15:00:28 GMT",
    "read": "unclear"
   }
  ],
