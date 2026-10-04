@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-04T13:10:03+00:00",
+ "generated_utc": "2026-10-04T13:15:03+00:00",
  "date_et": "2026-10-04",
  "build": "0d463cfe05",
  "tape": [
@@ -316,9 +316,9 @@
     "pct": -6.59
    }
   ],
-  "as_of": "2026-10-04T13:09:05.464749+00:00",
+  "as_of": "2026-10-04T13:12:08.713842+00:00",
   "tone": "risk-on",
-  "age_min": 0.96756515
+  "age_min": 2.9224805833333334
  },
  "stories": [
   {
@@ -329,24 +329,31 @@
    "read": "unclear"
   },
   {
+   "topic": "Russia / Ukraine",
+   "title": "Putin\u2019s Russia Needs a Carrot as Big as the Stick - Newsweek",
+   "source": "Newsweek",
+   "published": "Sun, 04 Oct 2026 13:00:00 GMT",
+   "read": "unclear"
+  },
+  {
    "topic": "Iran / Hormuz",
-   "title": "Iran says Strait of Hormuz main focus of talks to end war with US - Anadolu Ajans\u0131",
-   "source": "Anadolu Ajans\u0131",
+   "title": "Iran: Hormuz Strait won't reopen until demands are met - LiveNOW from FOX",
+   "source": "LiveNOW from FOX",
+   "published": "Sun, 04 Oct 2026 12:56:07 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iran says Strait of Hormuz main focus of talks to end war with US - aa.com.tr",
+   "source": "aa.com.tr",
    "published": "Sun, 04 Oct 2026 12:42:55 GMT",
    "read": "unclear"
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Iraq ships its oil through Strait of Hormuz as US-Iran war chokes exports - thenationalnews.com",
-   "source": "thenationalnews.com",
-   "published": "Sun, 04 Oct 2026 12:11:15 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "More tankers struck in the Middle East as Iran reiterates conditions for reopening the Strait of Hormuz - cnbc.com",
-   "source": "cnbc.com",
-   "published": "Sun, 04 Oct 2026 12:02:51 GMT",
+   "title": "Iran rejects US proposals as \u2018unilateral demands\u2019: Ghalibaf - The New Region",
+   "source": "The New Region",
+   "published": "Sun, 04 Oct 2026 12:37:51 GMT",
    "read": "escalation"
   },
   {
@@ -355,13 +362,6 @@
    "source": "\u0648\u0643\u0627\u0644\u0629 \u0627\u0644\u0623\u0646\u0628\u0627\u0621 \u0627\u0644\u0633\u0648\u0631\u064a\u0629 \u2013 \u0633\u0627\u0646\u0627",
    "published": "Sun, 04 Oct 2026 11:56:36 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran says Hormuz to remain closed until US meets conditions - aljazeera.com",
-   "source": "aljazeera.com",
-   "published": "Sun, 04 Oct 2026 11:15:00 GMT",
-   "read": "escalation"
   }
  ],
  "ratings": [
