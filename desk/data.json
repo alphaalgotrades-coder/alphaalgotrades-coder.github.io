@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-04T12:50:03+00:00",
+ "generated_utc": "2026-10-04T12:55:03+00:00",
  "date_et": "2026-10-04",
  "build": "0d463cfe05",
  "tape": [
@@ -316,9 +316,9 @@
     "pct": -6.59
    }
   ],
-  "as_of": "2026-10-04T12:48:05.645314+00:00",
+  "as_of": "2026-10-04T12:54:05.418286+00:00",
   "tone": "risk-on",
-  "age_min": 1.9625558333333333
+  "age_min": 0.9655861166666667
  },
  "stories": [
   {
@@ -326,6 +326,13 @@
    "title": "Xi Tightens Control Over Military and Rebuilds Forces as Prospects of a 2027 Taiwan Invasion Recede - economy.ac",
    "source": "economy.ac",
    "published": "Thu, 01 Oct 2026 03:18:59 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iran says Strait of Hormuz main focus of talks to end war with US - Anadolu Ajans\u0131",
+   "source": "Anadolu Ajans\u0131",
+   "published": "Sun, 04 Oct 2026 12:42:55 GMT",
    "read": "unclear"
   },
   {
@@ -355,13 +362,6 @@
    "source": "aljazeera.com",
    "published": "Sun, 04 Oct 2026 11:15:00 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Ex-PM says Putin cannot admit \u2018mistake\u2019 over Ukraine as he bets on war of attrition - malaymail.com",
-   "source": "malaymail.com",
-   "published": "Sun, 04 Oct 2026 09:22:30 GMT",
-   "read": "unclear"
   }
  ],
  "ratings": [
