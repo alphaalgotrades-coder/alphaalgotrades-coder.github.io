@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-04T18:30:04+00:00",
+ "generated_utc": "2026-10-04T18:35:04+00:00",
  "date_et": "2026-10-04",
  "build": "0d463cfe05",
  "tape": [
@@ -316,9 +316,9 @@
     "pct": -6.59
    }
   ],
-  "as_of": "2026-10-04T18:27:05.174495+00:00",
+  "as_of": "2026-10-04T18:33:05.253909+00:00",
   "tone": "risk-on",
-  "age_min": 2.985284233333333
+  "age_min": 1.98494835
  },
  "stories": [
   {
@@ -334,6 +334,13 @@
    "source": "Institute for the Study of War",
    "published": "Thu, 01 Oct 2026 06:47:44 GMT",
    "read": "unclear"
+  },
+  {
+   "topic": "Saudi / Gulf supply",
+   "title": "Crude Oil Price in Focus as Saudi Arabia-Houthi, US-Iran, Ukraine-Russia Tensions Escalate - Benzinga",
+   "source": "Benzinga",
+   "published": "Sun, 04 Oct 2026 18:20:06 GMT",
+   "read": "escalation"
   },
   {
    "topic": "Russia / Ukraine",
@@ -355,13 +362,6 @@
    "source": "Palestine Chronicle",
    "published": "Sun, 04 Oct 2026 15:33:45 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Live - Iran says reviewing US response to seven-day proposal - Iran International",
-   "source": "Iran International",
-   "published": "Sun, 04 Oct 2026 13:41:34 GMT",
-   "read": "unclear"
   }
  ],
  "ratings": [
