@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-04T22:10:03+00:00",
+ "generated_utc": "2026-10-04T22:15:03+00:00",
  "date_et": "2026-10-04",
  "build": "0d463cfe05",
  "tape": [
@@ -294,8 +294,8 @@
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.924,
-    "pct": -0.01
+    "price": 101.915,
+    "pct": -0.02
    },
    {
     "sym": "SPY",
@@ -316,9 +316,9 @@
     "pct": -6.59
    }
   ],
-  "as_of": "2026-10-04T22:09:05.931047+00:00",
+  "as_of": "2026-10-04T22:12:05.789959+00:00",
   "tone": "risk-on",
-  "age_min": 0.9682619166666666
+  "age_min": 2.9712860666666665
  },
  "stories": [
   {
@@ -344,8 +344,8 @@
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "Germany\u2019s Merz in Kyiv announces $1.5B in aid, urges Putin to end war - Al Jazeera",
-   "source": "Al Jazeera",
+   "title": "Germany\u2019s Merz in Kyiv announces $1.5B in aid, urges Putin to end war - aljazeera.com",
+   "source": "aljazeera.com",
    "published": "Sun, 04 Oct 2026 20:00:46 GMT",
    "read": "unclear"
   },
