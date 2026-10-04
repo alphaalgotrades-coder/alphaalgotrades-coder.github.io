@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-04T09:10:04+00:00",
+ "generated_utc": "2026-10-04T09:15:04+00:00",
  "date_et": "2026-10-04",
  "build": "0d463cfe05",
  "tape": [
@@ -316,9 +316,9 @@
     "pct": -6.59
    }
   ],
-  "as_of": "2026-10-04T09:09:13.233033+00:00",
+  "as_of": "2026-10-04T09:12:05.012378+00:00",
   "tone": "risk-on",
-  "age_min": 0.8533266666666666
+  "age_min": 2.9879125833333333
  },
  "stories": [
   {
@@ -343,6 +343,13 @@
    "read": "escalation"
   },
   {
+   "topic": "Iran / Hormuz",
+   "title": "Iran\u2019s Strategy After the War: Hormuz, Gulf Tensions and the Risk of Another Conflict - moderndiplomacy.eu",
+   "source": "moderndiplomacy.eu",
+   "published": "Sun, 04 Oct 2026 02:00:08 GMT",
+   "read": "unclear"
+  },
+  {
    "topic": "Saudi / Gulf supply",
    "title": "Houthis Claim Attack on Riyadh Oil Facilities, Adding Fresh Uncertainty to Middle East Crude Supply Outlook - finance.biggo.com",
    "source": "finance.biggo.com",
@@ -355,13 +362,6 @@
    "source": "taiwannews.com.tw",
    "published": "Sat, 03 Oct 2026 21:36:33 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Russia limits young men\u2019s freedom, fuelling mobilisation fear - The Times",
-   "source": "The Times",
-   "published": "Sat, 03 Oct 2026 20:20:00 GMT",
-   "read": "unclear"
   }
  ],
  "ratings": [
