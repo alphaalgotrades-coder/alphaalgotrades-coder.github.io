@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-04T16:50:03+00:00",
+ "generated_utc": "2026-10-04T16:55:03+00:00",
  "date_et": "2026-10-04",
  "build": "0d463cfe05",
  "tape": [
@@ -316,9 +316,9 @@
     "pct": -6.59
    }
   ],
-  "as_of": "2026-10-04T16:48:05.397149+00:00",
+  "as_of": "2026-10-04T16:54:05.623320+00:00",
   "tone": "risk-on",
-  "age_min": 1.9737802666666666
+  "age_min": 0.9713127
  },
  "stories": [
   {
@@ -326,6 +326,13 @@
    "title": "As Arizona sees record investments from TSMC, Taiwan faces military pressure from China - KJZZ",
    "source": "KJZZ",
    "published": "Thu, 01 Oct 2026 11:44:00 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Russian Offensive Campaign Assessment, September 30, 2026 - Institute for the Study of War",
+   "source": "Institute for the Study of War",
+   "published": "Thu, 01 Oct 2026 06:47:44 GMT",
    "read": "unclear"
   },
   {
@@ -354,13 +361,6 @@
    "title": "Iran: Hormuz Strait won't reopen until demands are met - livenowfox.com",
    "source": "livenowfox.com",
    "published": "Sun, 04 Oct 2026 12:56:07 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit - BBC",
-   "source": "BBC",
-   "published": "Sun, 04 Oct 2026 12:09:04 GMT",
    "read": "escalation"
   }
  ],
