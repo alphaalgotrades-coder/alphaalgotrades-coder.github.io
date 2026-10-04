@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-04T10:50:03+00:00",
+ "generated_utc": "2026-10-04T10:55:03+00:00",
  "date_et": "2026-10-04",
  "build": "0d463cfe05",
  "tape": [
@@ -316,11 +316,32 @@
     "pct": -6.59
    }
   ],
-  "as_of": "2026-10-04T10:48:05.014627+00:00",
+  "as_of": "2026-10-04T10:54:04.952897+00:00",
   "tone": "risk-on",
-  "age_min": 1.986134
+  "age_min": 0.9856000500000001
  },
  "stories": [
+  {
+   "topic": "Taiwan / China",
+   "title": "Xi Tightens Control Over Military and Rebuilds Forces as Prospects of a 2027 Taiwan Invasion Recede - economy.ac",
+   "source": "economy.ac",
+   "published": "Thu, 01 Oct 2026 03:18:59 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iran says Strait of Hormuz will not reopen until conditions are met - The New Arab",
+   "source": "The New Arab",
+   "published": "Sun, 04 Oct 2026 10:50:33 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iran: Strait of Hormuz Will Not Reopen Until Conditions Are Met - ASHARQ AL-AWSAT English",
+   "source": "ASHARQ AL-AWSAT English",
+   "published": "Sun, 04 Oct 2026 10:44:00 GMT",
+   "read": "escalation"
+  },
   {
    "topic": "Iran / Hormuz",
    "title": "Iran Says Strait of Hormuz Will Stay Closed Until U.S. Meets Their Conditions - Haaretz",
@@ -329,17 +350,10 @@
    "read": "escalation"
   },
   {
-   "topic": "Iran / Hormuz",
-   "title": "Iran says Hormuz Strait to remain closed until US meets seven conditions - Middle East Eye",
-   "source": "Middle East Eye",
-   "published": "Sun, 04 Oct 2026 08:55:00 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Live Updates: Latest from Israel, Iran, and the Middle East - jpost.com",
-   "source": "jpost.com",
-   "published": "Sun, 04 Oct 2026 08:00:05 GMT",
+   "topic": "Russia / Ukraine",
+   "title": "Ex-PM says Putin cannot admit \u2018mistake\u2019 over Ukraine as he bets on war of attrition - malaymail.com",
+   "source": "malaymail.com",
+   "published": "Sun, 04 Oct 2026 09:22:30 GMT",
    "read": "unclear"
   },
   {
@@ -347,20 +361,6 @@
    "title": "Ukraine\u2019s surprise robot offensive exposes a vulnerability in Putin\u2019s war machine - CNBC",
    "source": "CNBC",
    "published": "Sun, 04 Oct 2026 05:00:01 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Russia\u2019s \u2018new doctrine\u2019 targets civilian sites in Ukraine, Zelenskyy says - aljazeera.com",
-   "source": "aljazeera.com",
-   "published": "Sun, 04 Oct 2026 04:11:58 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Saudi / Gulf supply",
-   "title": "Houthis Claim Attack on Riyadh Oil Facilities, Adding Fresh Uncertainty to Middle East Crude Supply Outlook - finance.biggo.com",
-   "source": "finance.biggo.com",
-   "published": "Sun, 04 Oct 2026 01:35:00 GMT",
    "read": "escalation"
   }
  ],
