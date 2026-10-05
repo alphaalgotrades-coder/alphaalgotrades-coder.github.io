@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-05T09:50:04+00:00",
+ "generated_utc": "2026-10-05T09:55:04+00:00",
  "date_et": "2026-10-05",
  "build": "0d463cfe05",
  "tape": [
@@ -390,20 +390,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 90.5,
-    "pct": -0.67
+    "price": 90.56,
+    "pct": -0.6
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4190.4,
-    "pct": 0.68
+    "price": 4189.4,
+    "pct": 0.65
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.129,
-    "pct": 0.19
+    "price": 102.165,
+    "pct": 0.23
    },
    {
     "sym": "SPY",
@@ -420,13 +420,13 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 16.27,
-    "pct": 6.27
+    "price": 16.29,
+    "pct": 6.4
    }
   ],
-  "as_of": "2026-10-05T09:48:14.277367+00:00",
+  "as_of": "2026-10-05T09:54:05.714232+00:00",
   "tone": "mixed",
-  "age_min": 1.8333370333333332
+  "age_min": 0.9795951666666666
  },
  "stories": [
   {
@@ -437,13 +437,6 @@
    "read": "unclear"
   },
   {
-   "topic": "Iran / Hormuz",
-   "title": "Live - Iran warns of stronger military response as maritime tensions rise - iranintl.com",
-   "source": "iranintl.com",
-   "published": "Sun, 04 Oct 2026 23:10:15 GMT",
-   "read": "escalation"
-  },
-  {
    "topic": "Russia / Ukraine",
    "title": "Russian drone slams into key Kyiv bridge during German chancellor's visit as Putin prepares mass military mobilization: report - nypost.com",
    "source": "nypost.com",
@@ -452,16 +445,23 @@
   },
   {
    "topic": "Saudi / Gulf supply",
-   "title": "Crude Oil Price in Focus as Saudi Arabia-Houthi, US-Iran, Ukraine-Russia Tensions Escalate - benzinga.com",
-   "source": "benzinga.com",
-   "published": "Sun, 04 Oct 2026 18:20:06 GMT",
-   "read": "escalation"
+   "title": "Saudi Aramco chief says replenishing global oil stockpiles could take two years - CNBC",
+   "source": "CNBC",
+   "published": "Mon, 05 Oct 2026 09:46:10 GMT",
+   "read": "unclear"
   },
   {
    "topic": "Taiwan / China",
-   "title": "Taiwan reckons with the prospect of fending for itself as Trump pivots on China - NBC News",
-   "source": "NBC News",
-   "published": "Sun, 04 Oct 2026 09:00:40 GMT",
+   "title": "California Woman Arrested for Spying for China, Allegedly Spied on Taiwan President\u2019s Son - dominotheory.com",
+   "source": "dominotheory.com",
+   "published": "Mon, 05 Oct 2026 09:43:59 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "More Oil, Same War: Why Increased Exports Aren\u2019t a Sign of Iran\u2019s Collapse - cfr.org",
+   "source": "cfr.org",
+   "published": "Mon, 05 Oct 2026 09:30:00 GMT",
    "read": "unclear"
   },
   {
