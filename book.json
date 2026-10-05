@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-05T16:05:03.481236+00:00",
+ "generated_utc": "2026-10-05T17:05:04.783688+00:00",
  "paper": true,
  "strategy": "the wheel (cash-secured puts -> covered calls)",
  "since": "2026-07-13",
@@ -376,6 +376,19 @@
    "lane": "OPTIONS"
   },
   {
+   "instrument": "AS 10/30 C30",
+   "raw": "AS261030C00030000",
+   "strategy": "HT_WHEEL",
+   "side": "short 6",
+   "broker": true,
+   "db": true,
+   "engine": true,
+   "agree": true,
+   "entry": 0.35,
+   "upnl": -60.0,
+   "lane": "OPTIONS"
+  },
+  {
    "instrument": "AS shares",
    "raw": "AS",
    "strategy": "HT_WHEEL",
@@ -385,7 +398,7 @@
    "engine": true,
    "agree": true,
    "entry": 32.5,
-   "upnl": -1716.0,
+   "upnl": -1719.0,
    "lane": "OPTIONS"
   },
   {
@@ -411,7 +424,7 @@
    "engine": true,
    "agree": true,
    "entry": 70.0,
-   "upnl": -1677.0,
+   "upnl": -1629.0,
    "lane": "OPTIONS"
   },
   {
@@ -450,7 +463,7 @@
    "engine": true,
    "agree": true,
    "entry": 13.68,
-   "upnl": 714.0,
+   "upnl": 759.5,
    "lane": "OPTIONS"
   },
   {
@@ -463,7 +476,7 @@
    "engine": true,
    "agree": true,
    "entry": 0.45,
-   "upnl": -240.0,
+   "upnl": -260.0,
    "lane": "OPTIONS"
   },
   {
@@ -476,12 +489,12 @@
    "engine": true,
    "agree": true,
    "entry": 35.0,
-   "upnl": -1942.0,
+   "upnl": -1954.0,
    "lane": "OPTIONS"
   }
  ],
- "open_upnl": -5991.0,
- "reconciliation": "9/9 open legs reconciled against the broker statement and our own database",
+ "open_upnl": -5992.5,
+ "reconciliation": "10/10 open legs reconciled against the broker statement and our own database",
  "stats": {
   "closed_trades": 43,
   "win_rate": 86.0,
