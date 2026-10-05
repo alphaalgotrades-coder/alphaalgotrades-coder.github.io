@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-05T22:03:03+00:00",
+ "generated_utc": "2026-10-05T22:05:07+00:00",
  "date_et": "2026-10-05",
  "build": "0d463cfe05",
  "tape": [
@@ -402,8 +402,8 @@
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.121,
-    "pct": 0.19
+    "price": 102.12,
+    "pct": 0.18
    },
    {
     "sym": "SPY",
@@ -424,9 +424,9 @@
     "pct": 1.37
    }
   ],
-  "as_of": "2026-10-05T22:00:07.462068+00:00",
+  "as_of": "2026-10-05T22:03:06.100057+00:00",
   "tone": "risk-on",
-  "age_min": 2.934682416666667
+  "age_min": 2.0367267
  },
  "stories": [
   {
@@ -651,14 +651,14 @@
   "note": "TreasuryDirect, announced offerings"
  },
  "book": {
-  "as_of_et": "17:05",
+  "as_of_et": "18:05",
   "since": "2026-07-13",
   "trading_days": 50,
   "green_days": 27,
   "red_days": 2,
   "total_fills": 146,
   "realized": 8379.87,
-  "open_upnl": -6384.0,
+  "open_upnl": -6302.0,
   "legs": [
    {
     "id": "AS261016P00024500",
