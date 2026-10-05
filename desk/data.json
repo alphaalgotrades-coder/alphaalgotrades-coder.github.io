@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-05T05:50:03+00:00",
+ "generated_utc": "2026-10-05T05:55:03+00:00",
  "date_et": "2026-10-05",
  "build": "0d463cfe05",
  "tape": [
@@ -390,19 +390,19 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 90.2,
-    "pct": -1.0
+    "price": 90.08,
+    "pct": -1.13
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4165.0,
-    "pct": 0.06
+    "price": 4164.5,
+    "pct": 0.05
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.349,
+    "price": 102.35,
     "pct": 0.41
    },
    {
@@ -424,9 +424,9 @@
     "pct": -6.59
    }
   ],
-  "as_of": "2026-10-05T05:48:05.338119+00:00",
+  "as_of": "2026-10-05T05:54:06.041069+00:00",
   "tone": "risk-on",
-  "age_min": 1.9781381166666667
+  "age_min": 0.96791675
  },
  "stories": [
   {
@@ -442,13 +442,6 @@
    "source": "Iran International",
    "published": "Sun, 04 Oct 2026 23:10:15 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Saudi / Gulf supply",
-   "title": "Oil slips as Middle East crude exports rise, G7 to release stocks - Sacramento Bee",
-   "source": "Sacramento Bee",
-   "published": "Sun, 04 Oct 2026 22:19:00 GMT",
-   "read": "unclear"
   },
   {
    "topic": "Russia / Ukraine",
@@ -470,6 +463,13 @@
    "source": "nytimes.com",
    "published": "Sun, 04 Oct 2026 20:58:41 GMT",
    "read": "unclear"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iran rejects US proposals as \u2018unilateral demands\u2019: Ghalibaf - thenewregion.com",
+   "source": "thenewregion.com",
+   "published": "Sun, 04 Oct 2026 18:54:07 GMT",
+   "read": "escalation"
   }
  ],
  "ratings": [
