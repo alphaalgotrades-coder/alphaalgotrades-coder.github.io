@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-05T01:10:03+00:00",
+ "generated_utc": "2026-10-05T01:15:03+00:00",
  "date_et": "2026-10-04",
  "build": "0d463cfe05",
  "tape": [
@@ -282,19 +282,19 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 90.32,
-    "pct": -0.87
+    "price": 90.52,
+    "pct": -0.65
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4184.9,
-    "pct": 0.54
+    "price": 4186.3,
+    "pct": 0.58
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.969,
+    "price": 101.976,
     "pct": 0.04
    },
    {
@@ -316,9 +316,9 @@
     "pct": -6.59
    }
   ],
-  "as_of": "2026-10-05T01:09:05.851698+00:00",
+  "as_of": "2026-10-05T01:12:06.107520+00:00",
   "tone": "risk-on",
-  "age_min": 0.9638362333333333
+  "age_min": 2.964216716666667
  },
  "stories": [
   {
@@ -336,20 +336,6 @@
    "read": "unclear"
   },
   {
-   "topic": "Saudi / Gulf supply",
-   "title": "Oil Rises After Houthis Claim Attack on Saudi Aramco Facilities; Brent at $103, WTI Near $92 - bloomingbit",
-   "source": "bloomingbit",
-   "published": "Sun, 04 Oct 2026 23:35:53 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "More Tankers Hit as Iran Restates Hormuz Terms - Yahoo",
-   "source": "Yahoo",
-   "published": "Sun, 04 Oct 2026 22:28:41 GMT",
-   "read": "escalation"
-  },
-  {
    "topic": "Russia / Ukraine",
    "title": "Russian drone slams into key Kyiv bridge during German chancellor's visit as Putin prepares mass military mobilization: report - New York Post",
    "source": "New York Post",
@@ -361,6 +347,20 @@
    "title": "Germany\u2019s Merz in Kyiv announces $1.5B in aid, urges Putin to end war - aljazeera.com",
    "source": "aljazeera.com",
    "published": "Sun, 04 Oct 2026 20:00:46 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Russia aims to plunge Ukraine into winter darkness with mass power grid attacks - The Jerusalem Post",
+   "source": "The Jerusalem Post",
+   "published": "Sun, 04 Oct 2026 18:19:43 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Ukraine believes Russia shared jet-drone technology with North Korea, says Zelenskiy - reuters.com",
+   "source": "reuters.com",
+   "published": "Sun, 04 Oct 2026 16:05:11 GMT",
    "read": "unclear"
   }
  ],
