@@ -1,24 +1,123 @@
 {
- "generated_utc": "2026-10-05T03:55:03+00:00",
- "date_et": "2026-10-04",
+ "generated_utc": "2026-10-05T04:00:04+00:00",
+ "date_et": "2026-10-05",
  "build": "0d463cfe05",
  "tape": [
   {
-   "time": "05:15",
-   "ccy": "All",
-   "impact": "Medi",
-   "title": "OPEC-JMMC Meetings",
+   "time": "01:00",
+   "ccy": "JPY",
+   "impact": "Low",
+   "title": "Consumer Confidence",
+   "cons": "35.3",
+   "prev": "35.5",
+   "actual": ""
+  },
+  {
+   "time": "03:15",
+   "ccy": "EUR",
+   "impact": "Low",
+   "title": "Spanish Services PMI",
+   "cons": "57.1",
+   "prev": "57.8",
+   "actual": ""
+  },
+  {
+   "time": "03:45",
+   "ccy": "EUR",
+   "impact": "Low",
+   "title": "German Buba President Nagel Speaks",
    "cons": "",
    "prev": "",
    "actual": ""
   },
   {
-   "time": "16:00",
-   "ccy": "AUD",
-   "impact": "Holi",
-   "title": "Bank Holiday",
+   "time": "03:45",
+   "ccy": "EUR",
+   "impact": "Low",
+   "title": "Italian Services PMI",
+   "cons": "54.6",
+   "prev": "55.2",
+   "actual": ""
+  },
+  {
+   "time": "03:50",
+   "ccy": "EUR",
+   "impact": "Low",
+   "title": "French Final Services PMI",
+   "cons": "51.4",
+   "prev": "51.4",
+   "actual": ""
+  },
+  {
+   "time": "03:55",
+   "ccy": "EUR",
+   "impact": "Low",
+   "title": "German Final Services PMI",
+   "cons": "52.9",
+   "prev": "52.9",
+   "actual": ""
+  },
+  {
+   "time": "04:00",
+   "ccy": "EUR",
+   "impact": "Low",
+   "title": "Final Services PMI",
+   "cons": "53.0",
+   "prev": "53.0",
+   "actual": ""
+  },
+  {
+   "time": "04:30",
+   "ccy": "EUR",
+   "impact": "Low",
+   "title": "Sentix Investor Confidence",
+   "cons": "4.5",
+   "prev": "5.1",
+   "actual": ""
+  },
+  {
+   "time": "04:30",
+   "ccy": "GBP",
+   "impact": "Low",
+   "title": "Final Services PMI",
+   "cons": "51.7",
+   "prev": "51.7",
+   "actual": ""
+  },
+  {
+   "time": "05:00",
+   "ccy": "EUR",
+   "impact": "Low",
+   "title": "PPI m/m",
+   "cons": "1.9%",
+   "prev": "1.6%",
+   "actual": ""
+  },
+  {
+   "time": "09:45",
+   "ccy": "USD",
+   "impact": "Low",
+   "title": "Final Services PMI",
+   "cons": "58.7",
+   "prev": "58.7",
+   "actual": ""
+  },
+  {
+   "time": "10:00",
+   "ccy": "USD",
+   "impact": "Medi",
+   "title": "ISM Services PMI",
+   "cons": "55.1",
+   "prev": "55.4",
+   "actual": ""
+  },
+  {
+   "time": "17:00",
+   "ccy": "NZD",
+   "impact": "Low",
+   "title": "NZIER Business Confidence",
    "cons": "",
-   "prev": "",
+   "prev": "8",
    "actual": ""
   },
   {
@@ -31,22 +130,31 @@
    "actual": ""
   },
   {
-   "time": "20:00",
+   "time": "19:30",
    "ccy": "AUD",
    "impact": "Low",
-   "title": "MI Inflation Gauge m/m",
+   "title": "Westpac Consumer Sentiment",
    "cons": "",
-   "prev": "0.5%",
-   "actual": "0.3%"
+   "prev": "-5.2%",
+   "actual": ""
   },
   {
-   "time": "20:00",
-   "ccy": "NZD",
+   "time": "20:30",
+   "ccy": "AUD",
    "impact": "Low",
-   "title": "ANZ Commodity Prices m/m",
+   "title": "ANZ Job Advertisements m/m",
    "cons": "",
-   "prev": "-0.4%",
-   "actual": "0.6%"
+   "prev": "2.5%",
+   "actual": ""
+  },
+  {
+   "time": "23:35",
+   "ccy": "JPY",
+   "impact": "Low",
+   "title": "10-y Bond Auction",
+   "cons": "",
+   "prev": "3.00|3.3",
+   "actual": ""
   }
  ],
  "rates": {
@@ -282,19 +390,19 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 90.0,
-    "pct": -1.22
+    "price": 90.01,
+    "pct": -1.21
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4169.7,
-    "pct": 0.18
+    "price": 4174.3,
+    "pct": 0.29
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.454,
+    "price": 102.447,
     "pct": 0.51
    },
    {
@@ -316,9 +424,9 @@
     "pct": -6.59
    }
   ],
-  "as_of": "2026-10-05T03:54:05.394591+00:00",
+  "as_of": "2026-10-05T03:57:05.134133+00:00",
   "tone": "risk-on",
-  "age_min": 0.9732859666666667
+  "age_min": 2.9934108499999996
  },
  "stories": [
   {
