@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-05T03:30:04+00:00",
+ "generated_utc": "2026-10-05T03:35:03+00:00",
  "date_et": "2026-10-04",
  "build": "0d463cfe05",
  "tape": [
@@ -282,20 +282,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 90.08,
-    "pct": -1.13
+    "price": 90.02,
+    "pct": -1.2
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4166.6,
-    "pct": 0.1
+    "price": 4169.1,
+    "pct": 0.16
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.411,
-    "pct": 0.47
+    "price": 102.379,
+    "pct": 0.44
    },
    {
     "sym": "SPY",
@@ -316,9 +316,9 @@
     "pct": -6.59
    }
   ],
-  "as_of": "2026-10-05T03:27:05.423218+00:00",
+  "as_of": "2026-10-05T03:33:05.525800+00:00",
   "tone": "risk-on",
-  "age_min": 2.98429085
+  "age_min": 1.9678691833333335
  },
  "stories": [
   {
@@ -326,6 +326,13 @@
    "title": "As Arizona sees record investments from TSMC, Taiwan faces military pressure from China - KJZZ",
    "source": "KJZZ",
    "published": "Thu, 01 Oct 2026 11:44:00 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Saudi / Gulf supply",
+   "title": "Saudi Arabia unexpectedly cuts November oil prices to Asia to 6-year lows - Reuters",
+   "source": "Reuters",
+   "published": "Sun, 04 Oct 2026 23:50:00 GMT",
    "read": "unclear"
   },
   {
@@ -355,13 +362,6 @@
    "source": "CNBC",
    "published": "Sun, 04 Oct 2026 12:02:51 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran: Strait of Hormuz Will Not Reopen Until Conditions Are Met - english.aawsat.com",
-   "source": "english.aawsat.com",
-   "published": "Sun, 04 Oct 2026 10:44:00 GMT",
-   "read": "escalation"
   }
  ],
  "ratings": [
