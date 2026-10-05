@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-05T00:15:03+00:00",
+ "generated_utc": "2026-10-05T00:20:03+00:00",
  "date_et": "2026-10-04",
  "build": "0d463cfe05",
  "tape": [
@@ -37,7 +37,7 @@
    "title": "MI Inflation Gauge m/m",
    "cons": "",
    "prev": "0.5%",
-   "actual": ""
+   "actual": "0.3%"
   },
   {
    "time": "20:00",
@@ -46,7 +46,7 @@
    "title": "ANZ Commodity Prices m/m",
    "cons": "",
    "prev": "-0.4%",
-   "actual": ""
+   "actual": "0.6%"
   }
  ],
  "rates": {
@@ -282,19 +282,19 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 90.78,
-    "pct": -0.36
+    "price": 90.65,
+    "pct": -0.5
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4174.1,
-    "pct": 0.28
+    "price": 4176.9,
+    "pct": 0.35
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.902,
+    "price": 101.9,
     "pct": -0.03
    },
    {
@@ -316,9 +316,9 @@
     "pct": -6.59
    }
   ],
-  "as_of": "2026-10-05T00:12:05.403426+00:00",
+  "as_of": "2026-10-05T00:18:05.406720+00:00",
   "tone": "risk-on",
-  "age_min": 2.9716422166666665
+  "age_min": 1.9739013833333334
  },
  "stories": [
   {
