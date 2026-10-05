@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-05T21:30:05+00:00",
+ "generated_utc": "2026-10-05T21:35:04+00:00",
  "date_et": "2026-10-05",
  "build": "0d463cfe05",
  "tape": [
@@ -402,8 +402,8 @@
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.12,
-    "pct": 0.18
+    "price": 102.124,
+    "pct": 0.19
    },
    {
     "sym": "SPY",
@@ -424,9 +424,9 @@
     "pct": 1.37
    }
   ],
-  "as_of": "2026-10-05T21:27:05.450716+00:00",
+  "as_of": "2026-10-05T21:33:05.410008+00:00",
   "tone": "risk-on",
-  "age_min": 3.0089576833333336
+  "age_min": 1.9866322166666668
  },
  "stories": [
   {
@@ -444,6 +444,20 @@
    "read": "escalation"
   },
   {
+   "topic": "Taiwan / China",
+   "title": "Japan's prime minister calls China \u2018an important neighbor\u2019 amid tensions over Taiwan - Anadolu Ajans\u0131",
+   "source": "Anadolu Ajans\u0131",
+   "published": "Mon, 05 Oct 2026 21:22:16 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Taiwan / China",
+   "title": "Mainland Chinese favour diplomacy to achieve Taiwan reunification with caveats: survey - South China Morning Post",
+   "source": "South China Morning Post",
+   "published": "Mon, 05 Oct 2026 21:14:15 GMT",
+   "read": "unclear"
+  },
+  {
    "topic": "Russia / Ukraine",
    "title": "Fire and Fury Aside: Russia\u2019s Latest Attacks Signal Putin\u2019s Desperation Not Strength - American Legislative Exchange Council",
    "source": "American Legislative Exchange Council",
@@ -451,25 +465,11 @@
    "read": "de-escalation"
   },
   {
-   "topic": "Iran / Hormuz",
-   "title": "Is Iran charging a toll to allow oil traffic through Hormuz? - aljazeera.com",
-   "source": "aljazeera.com",
-   "published": "Mon, 05 Oct 2026 19:18:45 GMT",
-   "read": "unclear"
-  },
-  {
    "topic": "Russia / Ukraine",
-   "title": "The Russian journalists trying to reach audiences back home from abroad - The World from PRX",
-   "source": "The World from PRX",
-   "published": "Mon, 05 Oct 2026 19:12:06 GMT",
+   "title": "The Russian journalists trying to reach audiences back home from abroad - theworld.org",
+   "source": "theworld.org",
+   "published": "Mon, 05 Oct 2026 19:30:00 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran ramps up Strait of Hormuz attacks with 11 ships hit in a week - TradeWinds News",
-   "source": "TradeWinds News",
-   "published": "Mon, 05 Oct 2026 18:33:46 GMT",
-   "read": "escalation"
   }
  ],
  "ratings": [
