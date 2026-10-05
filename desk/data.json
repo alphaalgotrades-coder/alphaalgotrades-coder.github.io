@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-05T08:10:04+00:00",
+ "generated_utc": "2026-10-05T08:15:04+00:00",
  "date_et": "2026-10-05",
  "build": "0d463cfe05",
  "tape": [
@@ -64,7 +64,7 @@
    "title": "Final Services PMI",
    "cons": "53.0",
    "prev": "53.0",
-   "actual": ""
+   "actual": "53.0"
   },
   {
    "time": "04:30",
@@ -390,19 +390,19 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 89.63,
-    "pct": -1.62
+    "price": 89.59,
+    "pct": -1.67
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4190.2,
-    "pct": 0.67
+    "price": 4191.6,
+    "pct": 0.7
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.19,
+    "price": 102.191,
     "pct": 0.25
    },
    {
@@ -420,13 +420,13 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 16.25,
-    "pct": 6.14
+    "price": 16.28,
+    "pct": 6.34
    }
   ],
-  "as_of": "2026-10-05T08:09:05.694817+00:00",
+  "as_of": "2026-10-05T08:12:05.183557+00:00",
   "tone": "mixed",
-  "age_min": 0.9771029999999999
+  "age_min": 2.9921388833333333
  },
  "stories": [
   {
