@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-05T01:50:03+00:00",
+ "generated_utc": "2026-10-05T01:55:03+00:00",
  "date_et": "2026-10-04",
  "build": "0d463cfe05",
  "tape": [
@@ -282,20 +282,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 90.28,
-    "pct": -0.91
+    "price": 90.25,
+    "pct": -0.94
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4181.8,
-    "pct": 0.47
+    "price": 4181.4,
+    "pct": 0.46
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.001,
-    "pct": 0.07
+    "price": 102.014,
+    "pct": 0.08
    },
    {
     "sym": "SPY",
@@ -316,9 +316,9 @@
     "pct": -6.59
    }
   ],
-  "as_of": "2026-10-05T01:48:05.463442+00:00",
+  "as_of": "2026-10-05T01:54:05.534613+00:00",
   "tone": "risk-on",
-  "age_min": 1.9612702000000002
+  "age_min": 0.9646691666666667
  },
  "stories": [
   {
@@ -326,6 +326,13 @@
    "title": "As Arizona sees record investments from TSMC, Taiwan faces military pressure from China - KJZZ",
    "source": "KJZZ",
    "published": "Thu, 01 Oct 2026 11:44:00 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Saudi / Gulf supply",
+   "title": "Oil slips as Middle East crude exports rise, G7 to release stocks - Reuters",
+   "source": "Reuters",
+   "published": "Sun, 04 Oct 2026 22:17:00 GMT",
    "read": "unclear"
   },
   {
@@ -354,13 +361,6 @@
    "title": "Ukraine believes Russia shared jet-drone technology with North Korea, says Zelenskiy - reuters.com",
    "source": "reuters.com",
    "published": "Sun, 04 Oct 2026 16:05:11 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "All U.S. bombers leave UK air base on concerns of suspected terror plots; more tankers struck near Iran in the Middle East - CNBC",
-   "source": "CNBC",
-   "published": "Sun, 04 Oct 2026 12:02:51 GMT",
    "read": "unclear"
   }
  ],
