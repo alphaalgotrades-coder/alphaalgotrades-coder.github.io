@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-05T02:10:03+00:00",
+ "generated_utc": "2026-10-05T02:15:03+00:00",
  "date_et": "2026-10-04",
  "build": "0d463cfe05",
  "tape": [
@@ -282,19 +282,19 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 90.2,
-    "pct": -1.0
+    "price": 90.13,
+    "pct": -1.08
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4188.9,
-    "pct": 0.64
+    "price": 4188.5,
+    "pct": 0.63
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.034,
+    "price": 102.036,
     "pct": 0.1
    },
    {
@@ -316,9 +316,9 @@
     "pct": -6.59
    }
   ],
-  "as_of": "2026-10-05T02:09:05.493581+00:00",
+  "as_of": "2026-10-05T02:12:05.493064+00:00",
   "tone": "risk-on",
-  "age_min": 0.96281845
+  "age_min": 2.97255715
  },
  "stories": [
   {
@@ -337,17 +337,10 @@
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "Russian drone slams into key Kyiv bridge during German chancellor's visit as Putin prepares mass military mobilization: report - New York Post",
-   "source": "New York Post",
+   "title": "Russian drone slams into key Kyiv bridge during German chancellor's visit as Putin prepares mass military mobilization: report - nypost.com",
+   "source": "nypost.com",
    "published": "Sun, 04 Oct 2026 22:07:00 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Germany\u2019s Merz in Kyiv announces $1.5B in aid, urges Putin to end war - aljazeera.com",
-   "source": "aljazeera.com",
-   "published": "Sun, 04 Oct 2026 20:00:46 GMT",
-   "read": "unclear"
   },
   {
    "topic": "Russia / Ukraine",
@@ -361,6 +354,13 @@
    "title": "Ukraine believes Russia shared jet-drone technology with North Korea, says Zelenskiy - reuters.com",
    "source": "reuters.com",
    "published": "Sun, 04 Oct 2026 16:05:11 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "All U.S. bombers leave UK air base on concerns of suspected terror plots; more tankers struck near Iran in the Middle East - CNBC",
+   "source": "CNBC",
+   "published": "Sun, 04 Oct 2026 12:02:51 GMT",
    "read": "unclear"
   }
  ],
