@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-05T07:30:05+00:00",
+ "generated_utc": "2026-10-05T07:35:04+00:00",
  "date_et": "2026-10-05",
  "build": "0d463cfe05",
  "tape": [
@@ -390,20 +390,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 89.96,
-    "pct": -1.26
+    "price": 89.93,
+    "pct": -1.3
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4182.8,
-    "pct": 0.49
+    "price": 4181.7,
+    "pct": 0.47
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.302,
-    "pct": 0.36
+    "price": 102.288,
+    "pct": 0.35
    },
    {
     "sym": "SPY",
@@ -420,15 +420,22 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 15.31,
-    "pct": null
+    "price": 16.25,
+    "pct": 6.14
    }
   ],
-  "as_of": "2026-10-05T07:27:05.512411+00:00",
-  "tone": "risk-on",
-  "age_min": 2.9953576333333336
+  "as_of": "2026-10-05T07:33:05.549760+00:00",
+  "tone": "mixed",
+  "age_min": 1.9848824
  },
  "stories": [
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Bewitched sleep: Russians\u2019 views on Ukraine and the world - European Council on Foreign Relations",
+   "source": "European Council on Foreign Relations",
+   "published": "Thu, 01 Oct 2026 13:02:47 GMT",
+   "read": "unclear"
+  },
   {
    "topic": "Taiwan / China",
    "title": "As Arizona sees record investments from TSMC, Taiwan faces military pressure from China - KJZZ",
@@ -444,6 +451,13 @@
    "read": "escalation"
   },
   {
+   "topic": "Saudi / Gulf supply",
+   "title": "Oil falls as Middle East crude exports rise, G7 to release stocks - Reuters",
+   "source": "Reuters",
+   "published": "Sun, 04 Oct 2026 22:17:00 GMT",
+   "read": "unclear"
+  },
+  {
    "topic": "Russia / Ukraine",
    "title": "Russian drone slams into key Kyiv bridge during German chancellor's visit as Putin prepares mass military mobilization: report - nypost.com",
    "source": "nypost.com",
@@ -451,25 +465,11 @@
    "read": "escalation"
   },
   {
-   "topic": "Iran / Hormuz",
-   "title": "Iran says no military solution to war as peace talks with US stall - france24.com",
-   "source": "france24.com",
-   "published": "Sun, 04 Oct 2026 21:41:47 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Ukraine believes Russia shared jet-drone technology with North Korea, says Zelenskiy - reuters.com",
-   "source": "reuters.com",
-   "published": "Sun, 04 Oct 2026 16:05:11 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Taiwan / China",
-   "title": "Taiwan reckons with the prospect of fending for itself as Trump pivots on China - NBC News",
-   "source": "NBC News",
-   "published": "Sun, 04 Oct 2026 09:00:40 GMT",
-   "read": "unclear"
+   "topic": "Saudi / Gulf supply",
+   "title": "Crude Oil Price in Focus as Saudi Arabia-Houthi, US-Iran, Ukraine-Russia Tensions Escalate - benzinga.com",
+   "source": "benzinga.com",
+   "published": "Sun, 04 Oct 2026 18:20:06 GMT",
+   "read": "escalation"
   }
  ],
  "ratings": [
