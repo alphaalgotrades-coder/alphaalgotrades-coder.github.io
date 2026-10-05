@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-05T23:40:04+00:00",
+ "generated_utc": "2026-10-05T23:45:04+00:00",
  "date_et": "2026-10-05",
  "build": "0d463cfe05",
  "tape": [
@@ -136,7 +136,7 @@
    "title": "Westpac Consumer Sentiment",
    "cons": "",
    "prev": "-5.2%",
-   "actual": ""
+   "actual": "-4.7%"
   },
   {
    "time": "20:30",
@@ -396,8 +396,8 @@
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4167.3,
-    "pct": 0.25
+    "price": 4166.5,
+    "pct": 0.23
    },
    {
     "sym": "DXY",
@@ -424,9 +424,9 @@
     "pct": 1.37
    }
   ],
-  "as_of": "2026-10-05T23:39:05.780032+00:00",
+  "as_of": "2026-10-05T23:42:05.296869+00:00",
   "tone": "risk-on",
-  "age_min": 0.98097245
+  "age_min": 2.9931256
  },
  "stories": [
   {
