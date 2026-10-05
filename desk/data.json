@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-05T07:55:04+00:00",
+ "generated_utc": "2026-10-05T08:00:05+00:00",
  "date_et": "2026-10-05",
  "build": "0d463cfe05",
  "tape": [
@@ -37,7 +37,7 @@
    "title": "Italian Services PMI",
    "cons": "54.6",
    "prev": "55.2",
-   "actual": ""
+   "actual": "51.7"
   },
   {
    "time": "03:50",
@@ -46,7 +46,7 @@
    "title": "French Final Services PMI",
    "cons": "51.4",
    "prev": "51.4",
-   "actual": ""
+   "actual": "51.2"
   },
   {
    "time": "03:55",
@@ -55,7 +55,7 @@
    "title": "German Final Services PMI",
    "cons": "52.9",
    "prev": "52.9",
-   "actual": ""
+   "actual": "52.9"
   },
   {
    "time": "04:00",
@@ -390,14 +390,14 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 89.76,
-    "pct": -1.48
+    "price": 89.74,
+    "pct": -1.5
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4186.8,
-    "pct": 0.59
+    "price": 4188.5,
+    "pct": 0.63
    },
    {
     "sym": "DXY",
@@ -420,13 +420,13 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 16.33,
-    "pct": 6.66
+    "price": 16.3,
+    "pct": 6.47
    }
   ],
-  "as_of": "2026-10-05T07:54:04.942430+00:00",
+  "as_of": "2026-10-05T07:57:04.943584+00:00",
   "tone": "mixed",
-  "age_min": 0.9872426166666667
+  "age_min": 3.007247433333333
  },
  "stories": [
   {
