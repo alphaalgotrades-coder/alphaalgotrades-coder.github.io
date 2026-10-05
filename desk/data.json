@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-05T00:50:03+00:00",
+ "generated_utc": "2026-10-05T00:55:03+00:00",
  "date_et": "2026-10-04",
  "build": "0d463cfe05",
  "tape": [
@@ -282,19 +282,19 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 90.69,
-    "pct": -0.46
+    "price": 90.76,
+    "pct": -0.38
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4181.0,
-    "pct": 0.45
+    "price": 4180.6,
+    "pct": 0.44
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.949,
+    "price": 101.954,
     "pct": 0.02
    },
    {
@@ -316,9 +316,9 @@
     "pct": -6.59
    }
   ],
-  "as_of": "2026-10-05T00:48:05.033515+00:00",
+  "as_of": "2026-10-05T00:54:05.182602+00:00",
   "tone": "risk-on",
-  "age_min": 1.9719673166666667
+  "age_min": 0.9664380333333333
  },
  "stories": [
   {
@@ -326,6 +326,13 @@
    "title": "As Arizona sees record investments from TSMC, Taiwan faces military pressure from China - KJZZ",
    "source": "KJZZ",
    "published": "Thu, 01 Oct 2026 11:44:00 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Saudi / Gulf supply",
+   "title": "Saudi Arabia unexpectedly cuts oil prices to Asia - Reuters",
+   "source": "Reuters",
+   "published": "Sun, 04 Oct 2026 23:50:16 GMT",
    "read": "unclear"
   },
   {
@@ -355,13 +362,6 @@
    "source": "aljazeera.com",
    "published": "Sun, 04 Oct 2026 20:00:46 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran Keeps Up Pace of Strikes With Attack on Brand New LR2 Tanker - The Maritime Executive",
-   "source": "The Maritime Executive",
-   "published": "Sun, 04 Oct 2026 19:14:49 GMT",
-   "read": "escalation"
   }
  ],
  "ratings": [
