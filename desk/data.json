@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-05T22:30:05+00:00",
+ "generated_utc": "2026-10-05T22:35:04+00:00",
  "date_et": "2026-10-05",
  "build": "0d463cfe05",
  "tape": [
@@ -390,13 +390,13 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 89.28,
-    "pct": -0.17
+    "price": 89.24,
+    "pct": -0.21
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4169.5,
+    "price": 4169.6,
     "pct": 0.31
    },
    {
@@ -424,9 +424,9 @@
     "pct": 1.37
    }
   ],
-  "as_of": "2026-10-05T22:27:05.970274+00:00",
+  "as_of": "2026-10-05T22:33:06.299651+00:00",
   "tone": "risk-on",
-  "age_min": 2.9870606666666664
+  "age_min": 1.9790015666666667
  },
  "stories": [
   {
@@ -452,8 +452,8 @@
   },
   {
    "topic": "Taiwan / China",
-   "title": "Mainland Chinese favour diplomacy to achieve Taiwan reunification with caveats: survey - South China Morning Post",
-   "source": "South China Morning Post",
+   "title": "Mainland Chinese favour diplomacy to achieve Taiwan reunification with caveats: survey - scmp.com",
+   "source": "scmp.com",
    "published": "Mon, 05 Oct 2026 21:14:15 GMT",
    "read": "unclear"
   },
