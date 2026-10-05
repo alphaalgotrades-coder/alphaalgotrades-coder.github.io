@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-05T05:10:04+00:00",
+ "generated_utc": "2026-10-05T05:15:04+00:00",
  "date_et": "2026-10-05",
  "build": "0d463cfe05",
  "tape": [
@@ -10,7 +10,7 @@
    "title": "Consumer Confidence",
    "cons": "35.3",
    "prev": "35.5",
-   "actual": ""
+   "actual": "35.4"
   },
   {
    "time": "03:15",
@@ -390,20 +390,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 90.38,
-    "pct": -0.8
+    "price": 90.26,
+    "pct": -0.93
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4159.3,
-    "pct": -0.07
+    "price": 4159.6,
+    "pct": -0.06
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.399,
-    "pct": 0.46
+    "price": 102.385,
+    "pct": 0.44
    },
    {
     "sym": "SPY",
@@ -424,9 +424,9 @@
     "pct": -6.59
    }
   ],
-  "as_of": "2026-10-05T05:09:04.815897+00:00",
+  "as_of": "2026-10-05T05:12:05.073059+00:00",
   "tone": "risk-on",
-  "age_min": 0.9911281166666667
+  "age_min": 2.99388345
  },
  "stories": [
   {
