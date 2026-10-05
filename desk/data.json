@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-05T23:10:04+00:00",
+ "generated_utc": "2026-10-05T23:15:04+00:00",
  "date_et": "2026-10-05",
  "build": "0d463cfe05",
  "tape": [
@@ -390,8 +390,8 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 89.23,
-    "pct": -0.22
+    "price": 89.24,
+    "pct": -0.21
    },
    {
     "sym": "GC",
@@ -424,18 +424,11 @@
     "pct": 1.37
    }
   ],
-  "as_of": "2026-10-05T23:09:06.403990+00:00",
+  "as_of": "2026-10-05T23:12:06.063991+00:00",
   "tone": "risk-on",
-  "age_min": 0.9653116833333333
+  "age_min": 2.9744447166666665
  },
  "stories": [
-  {
-   "topic": "Saudi / Gulf supply",
-   "title": "Oil slips on rising Mideast crude exports, G7 stocks release - Reuters",
-   "source": "Reuters",
-   "published": "Sun, 04 Oct 2026 22:17:00 GMT",
-   "read": "unclear"
-  },
   {
    "topic": "Taiwan / China",
    "title": "New F-16s buy Taiwan time and space against China\u2019s air coercion - asiatimes.com",
@@ -469,6 +462,13 @@
    "title": "The Russian journalists trying to reach audiences back home from abroad - theworld.org",
    "source": "theworld.org",
    "published": "Mon, 05 Oct 2026 19:30:00 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Saudi / Gulf supply",
+   "title": "Crude Oil Prices Fall on Dollar Strength and Saudi Price Cuts - Barchart.com",
+   "source": "Barchart.com",
+   "published": "Mon, 05 Oct 2026 19:21:45 GMT",
    "read": "unclear"
   }
  ],
