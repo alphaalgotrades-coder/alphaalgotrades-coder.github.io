@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-06T09:10:03+00:00",
+ "generated_utc": "2026-10-06T09:15:03+00:00",
  "date_et": "2026-10-06",
  "build": "0d463cfe05",
  "tape": [
@@ -426,20 +426,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 87.95,
-    "pct": -1.65
+    "price": 88.02,
+    "pct": -1.58
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4181.9,
-    "pct": 0.6
+    "price": 4182.5,
+    "pct": 0.62
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.027,
-    "pct": -0.14
+    "price": 102.004,
+    "pct": -0.16
    },
    {
     "sym": "SPY",
@@ -456,13 +456,13 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 15.44,
-    "pct": -0.52
+    "price": 15.45,
+    "pct": -0.45
    }
   ],
-  "as_of": "2026-10-06T09:09:05.456757+00:00",
+  "as_of": "2026-10-06T09:12:05.539291+00:00",
   "tone": "risk-on",
-  "age_min": 0.9676119
+  "age_min": 2.9739066666666667
  },
  "stories": [
   {
@@ -471,13 +471,6 @@
    "source": "dw.com",
    "published": "Tue, 06 Oct 2026 07:07:30 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Taiwan / China",
-   "title": "Chinese back force on Taiwan, but not all-out war - The Australian",
-   "source": "The Australian",
-   "published": "Tue, 06 Oct 2026 04:48:08 GMT",
-   "read": "escalation"
   },
   {
    "topic": "Iran / Hormuz",
@@ -505,6 +498,13 @@
    "title": "Russia\u2019s Putin rules out ceasefire with Ukraine during speech in Moscow - Al Jazeera",
    "source": "Al Jazeera",
    "published": "Thu, 01 Oct 2026 21:39:10 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Taiwan / China",
+   "title": "Taiwan\u2019s first two F-16V fighter jets arrive to bolster defenses against China - The Japan Times",
+   "source": "The Japan Times",
+   "published": "Sat, 03 Oct 2026 00:36:00 GMT",
    "read": "escalation"
   }
  ],
