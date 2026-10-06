@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-06T09:55:03+00:00",
+ "generated_utc": "2026-10-06T10:00:04+00:00",
  "date_et": "2026-10-06",
  "build": "0d463cfe05",
  "tape": [
@@ -61,19 +61,19 @@
    "time": "04:30",
    "ccy": "GBP",
    "impact": "Low",
-   "title": "MPC Member Mann Speaks",
-   "cons": "",
-   "prev": "",
-   "actual": ""
+   "title": "Housing Equity Withdrawal q/q",
+   "cons": "-11.9B",
+   "prev": "-12.6B",
+   "actual": "-6.8B"
   },
   {
    "time": "04:30",
    "ccy": "GBP",
    "impact": "Low",
-   "title": "Housing Equity Withdrawal q/q",
-   "cons": "-11.9B",
-   "prev": "-12.6B",
-   "actual": "-6.8B"
+   "title": "MPC Member Mann Speaks",
+   "cons": "",
+   "prev": "",
+   "actual": ""
   },
   {
    "time": "05:00",
@@ -426,19 +426,19 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 87.29,
-    "pct": -2.39
+    "price": 87.56,
+    "pct": -2.09
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4181.4,
-    "pct": 0.59
+    "price": 4180.8,
+    "pct": 0.58
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.036,
+    "price": 102.037,
     "pct": -0.13
    },
    {
@@ -456,13 +456,13 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 15.41,
-    "pct": -0.71
+    "price": 15.42,
+    "pct": -0.64
    }
   ],
-  "as_of": "2026-10-06T09:54:04.897051+00:00",
+  "as_of": "2026-10-06T09:57:04.995114+00:00",
   "tone": "risk-on",
-  "age_min": 0.9795204833333333
+  "age_min": 3.0018964
  },
  "stories": [
   {
