@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-06T08:55:03+00:00",
+ "generated_utc": "2026-10-06T09:00:04+00:00",
  "date_et": "2026-10-06",
  "build": "0d463cfe05",
  "tape": [
@@ -82,7 +82,7 @@
    "title": "Retail Sales m/m",
    "cons": "0.2%",
    "prev": "-0.6%",
-   "actual": ""
+   "actual": "0.1%"
   },
   {
    "time": "08:15",
@@ -426,14 +426,14 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 88.04,
-    "pct": -1.55
+    "price": 88.1,
+    "pct": -1.49
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4180.0,
-    "pct": 0.56
+    "price": 4179.6,
+    "pct": 0.55
    },
    {
     "sym": "DXY",
@@ -460,9 +460,9 @@
     "pct": -0.45
    }
   ],
-  "as_of": "2026-10-06T08:54:05.169415+00:00",
+  "as_of": "2026-10-06T08:57:05.506027+00:00",
   "tone": "risk-on",
-  "age_min": 0.9678028833333333
+  "age_min": 2.9822753
  },
  "stories": [
   {
