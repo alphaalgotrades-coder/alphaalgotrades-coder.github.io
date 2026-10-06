@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-06T07:30:04+00:00",
+ "generated_utc": "2026-10-06T07:35:04+00:00",
  "date_et": "2026-10-06",
  "build": "0d463cfe05",
  "tape": [
@@ -426,20 +426,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 88.34,
-    "pct": -1.22
+    "price": 88.35,
+    "pct": -1.21
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4169.4,
-    "pct": 0.3
+    "price": 4164.9,
+    "pct": 0.19
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.145,
-    "pct": -0.02
+    "price": 102.173,
+    "pct": 0.01
    },
    {
     "sym": "SPY",
@@ -456,15 +456,22 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 15.52,
-    "pct": null
+    "price": 15.5,
+    "pct": -0.13
    }
   ],
-  "as_of": "2026-10-06T07:27:05.369802+00:00",
+  "as_of": "2026-10-06T07:33:05.492617+00:00",
   "tone": "risk-on",
-  "age_min": 2.9939134166666665
+  "age_min": 1.9811389499999998
  },
  "stories": [
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Putin's foreign fighters - dw.com",
+   "source": "dw.com",
+   "published": "Tue, 06 Oct 2026 07:07:30 GMT",
+   "read": "unclear"
+  },
   {
    "topic": "Taiwan / China",
    "title": "Chinese back force on Taiwan, but not all-out war - The Australian",
@@ -480,13 +487,6 @@
    "read": "unclear"
   },
   {
-   "topic": "Russia / Ukraine",
-   "title": "Russia\u2019s Latest Attacks Signal Putin\u2019s Desperation, Not Strength - American Legislative Exchange Council",
-   "source": "American Legislative Exchange Council",
-   "published": "Tue, 06 Oct 2026 02:29:38 GMT",
-   "read": "unclear"
-  },
-  {
    "topic": "Taiwan / China",
    "title": "What China's new military foothold in Laos means for Southeast Asia - Taiwan News",
    "source": "Taiwan News",
@@ -494,10 +494,10 @@
    "read": "unclear"
   },
   {
-   "topic": "Saudi / Gulf supply",
-   "title": "Saudi Aramco: Replenishing Crude, Fuel Stocks Could Take Two Years - Marine Link",
-   "source": "Marine Link",
-   "published": "Tue, 06 Oct 2026 01:00:48 GMT",
+   "topic": "Russia / Ukraine",
+   "title": "Russian bio-leak secrecy follows Chernobyl playbook, ex-CIA officer warns - Fox News",
+   "source": "Fox News",
+   "published": "Tue, 06 Oct 2026 00:32:16 GMT",
    "read": "unclear"
   },
   {
