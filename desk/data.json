@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-06T06:05:04+00:00",
+ "generated_utc": "2026-10-06T06:10:03+00:00",
  "date_et": "2026-10-06",
  "build": "0d463cfe05",
  "tape": [
@@ -10,7 +10,7 @@
    "title": "German Factory Orders m/m",
    "cons": "-0.9%",
    "prev": "2.5%",
-   "actual": ""
+   "actual": "-10.6%"
   },
   {
    "time": "02:35",
@@ -426,20 +426,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 89.71,
-    "pct": 0.31
+    "price": 89.47,
+    "pct": 0.04
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4148.0,
-    "pct": -0.21
+    "price": 4145.9,
+    "pct": -0.26
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.204,
-    "pct": 0.04
+    "price": 102.2,
+    "pct": 0.03
    },
    {
     "sym": "SPY",
@@ -460,9 +460,9 @@
     "pct": 1.37
    }
   ],
-  "as_of": "2026-10-06T06:03:05.901423+00:00",
+  "as_of": "2026-10-06T06:09:06.140573+00:00",
   "tone": "risk-on",
-  "age_min": 1.9722150833333332
+  "age_min": 0.9667756666666667
  },
  "stories": [
   {
