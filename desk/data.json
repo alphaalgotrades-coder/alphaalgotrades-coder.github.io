@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-06T04:10:03+00:00",
+ "generated_utc": "2026-10-06T04:15:03+00:00",
  "date_et": "2026-10-06",
  "build": "0d463cfe05",
  "tape": [
@@ -426,19 +426,19 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 89.75,
-    "pct": 0.36
+    "price": 89.73,
+    "pct": 0.34
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4154.5,
-    "pct": -0.06
+    "price": 4155.1,
+    "pct": -0.04
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.132,
+    "price": 102.139,
     "pct": -0.03
    },
    {
@@ -460,9 +460,9 @@
     "pct": 1.37
    }
   ],
-  "as_of": "2026-10-06T04:09:08.696622+00:00",
+  "as_of": "2026-10-06T04:12:05.617879+00:00",
   "tone": "risk-on",
-  "age_min": 0.9166945333333333
+  "age_min": 2.9711584833333333
  },
  "stories": [
   {
@@ -477,6 +477,13 @@
    "title": "What China's new military foothold in Laos means for Southeast Asia - Taiwan News",
    "source": "Taiwan News",
    "published": "Tue, 06 Oct 2026 01:45:00 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "War Is Forcing the World to Reckon With Geography\u2019s Power - The New York Times",
+   "source": "The New York Times",
+   "published": "Tue, 06 Oct 2026 01:41:22 GMT",
    "read": "unclear"
   },
   {
@@ -499,13 +506,6 @@
    "source": "FXEmpire",
    "published": "Mon, 05 Oct 2026 22:35:26 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Russia\u2019s Air War Aims to Bleed Ukraine Dry - foreignpolicy.com",
-   "source": "foreignpolicy.com",
-   "published": "Mon, 05 Oct 2026 22:17:57 GMT",
-   "read": "escalation"
   }
  ],
  "ratings": [
