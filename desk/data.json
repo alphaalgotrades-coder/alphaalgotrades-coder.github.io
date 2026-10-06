@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-06T09:30:03+00:00",
+ "generated_utc": "2026-10-06T09:35:03+00:00",
  "date_et": "2026-10-06",
  "build": "0d463cfe05",
  "tape": [
@@ -426,20 +426,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 87.69,
-    "pct": -1.95
+    "price": 87.77,
+    "pct": -1.86
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4180.4,
-    "pct": 0.57
+    "price": 4182.6,
+    "pct": 0.62
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.058,
-    "pct": -0.11
+    "price": 102.049,
+    "pct": -0.12
    },
    {
     "sym": "SPY",
@@ -456,21 +456,28 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 15.39,
-    "pct": -0.84
+    "price": 15.42,
+    "pct": -0.64
    }
   ],
-  "as_of": "2026-10-06T09:27:05.319490+00:00",
+  "as_of": "2026-10-06T09:33:05.796998+00:00",
   "tone": "risk-on",
-  "age_min": 2.9798962833333333
+  "age_min": 1.9699639666666668
  },
  "stories": [
   {
    "topic": "Russia / Ukraine",
-   "title": "Putin's foreign fighters - dw.com",
-   "source": "dw.com",
-   "published": "Tue, 06 Oct 2026 07:07:30 GMT",
-   "read": "unclear"
+   "title": "With hybrid attacks and nuclear bluster, Putin aims to end Europe\u2019s support for Ukraine - The Washington Post",
+   "source": "The Washington Post",
+   "published": "Tue, 06 Oct 2026 09:22:20 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Putin\u2019s Choice: How The Global War in Ukraine Explains Sikorski\u2019s Kaliningrad Gambit - Defense.info",
+   "source": "Defense.info",
+   "published": "Tue, 06 Oct 2026 08:35:09 GMT",
+   "read": "escalation"
   },
   {
    "topic": "Iran / Hormuz",
@@ -484,13 +491,6 @@
    "title": "War Is Forcing the World to Reckon With Geography\u2019s Power - nytimes.com",
    "source": "nytimes.com",
    "published": "Tue, 06 Oct 2026 01:41:22 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Russian bio-leak secrecy follows Chernobyl playbook, ex-CIA officer warns - Fox News",
-   "source": "Fox News",
-   "published": "Tue, 06 Oct 2026 00:32:16 GMT",
    "read": "unclear"
   },
   {
