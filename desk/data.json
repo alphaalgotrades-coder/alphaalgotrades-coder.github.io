@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-06T02:50:04+00:00",
+ "generated_utc": "2026-10-06T02:55:04+00:00",
  "date_et": "2026-10-05",
  "build": "0d463cfe05",
  "tape": [
@@ -390,8 +390,8 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 89.79,
-    "pct": 0.4
+    "price": 89.7,
+    "pct": 0.3
    },
    {
     "sym": "GC",
@@ -402,8 +402,8 @@
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.179,
-    "pct": 0.01
+    "price": 102.193,
+    "pct": 0.03
    },
    {
     "sym": "SPY",
@@ -424,9 +424,9 @@
     "pct": 1.37
    }
   ],
-  "as_of": "2026-10-06T02:48:05.518867+00:00",
+  "as_of": "2026-10-06T02:54:05.679786+00:00",
   "tone": "risk-on",
-  "age_min": 1.9776477833333332
+  "age_min": 0.9755721833333334
  },
  "stories": [
   {
@@ -444,11 +444,11 @@
    "read": "unclear"
   },
   {
-   "topic": "Taiwan / China",
-   "title": "New F-16s buy Taiwan time and space against China\u2019s air coercion - asiatimes.com",
-   "source": "asiatimes.com",
-   "published": "Sat, 03 Oct 2026 04:07:52 GMT",
-   "read": "escalation"
+   "topic": "Saudi / Gulf supply",
+   "title": "Natural Gas, WTI Oil, Brent Oil Forecasts \u2013 Oil Dives As Saudi Aramco Cuts Prices For Asian Buyers - FXEmpire",
+   "source": "FXEmpire",
+   "published": "Mon, 05 Oct 2026 22:35:26 GMT",
+   "read": "unclear"
   },
   {
    "topic": "Russia / Ukraine",
