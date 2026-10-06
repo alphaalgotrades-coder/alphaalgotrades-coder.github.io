@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-06T03:45:03+00:00",
+ "generated_utc": "2026-10-06T03:50:03+00:00",
  "date_et": "2026-10-05",
  "build": "0d463cfe05",
  "tape": [
@@ -154,7 +154,7 @@
    "title": "10-y Bond Auction",
    "cons": "",
    "prev": "3.00|3.3",
-   "actual": ""
+   "actual": "3.10|3.8"
   }
  ],
  "rates": {
@@ -396,14 +396,14 @@
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4153.5,
-    "pct": -0.08
+    "price": 4154.1,
+    "pct": -0.06
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.139,
-    "pct": -0.03
+    "price": 102.148,
+    "pct": -0.02
    },
    {
     "sym": "SPY",
@@ -424,9 +424,9 @@
     "pct": 1.37
    }
   ],
-  "as_of": "2026-10-06T03:42:05.246318+00:00",
+  "as_of": "2026-10-06T03:48:04.920812+00:00",
   "tone": "risk-on",
-  "age_min": 2.9799798999999996
+  "age_min": 1.9821834333333332
  },
  "stories": [
   {
