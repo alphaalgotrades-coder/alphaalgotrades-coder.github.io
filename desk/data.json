@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-06T07:50:03+00:00",
+ "generated_utc": "2026-10-06T07:55:03+00:00",
  "date_et": "2026-10-06",
  "build": "0d463cfe05",
  "tape": [
@@ -426,20 +426,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 88.7,
-    "pct": -0.82
+    "price": 88.58,
+    "pct": -0.95
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4164.0,
-    "pct": 0.17
+    "price": 4165.0,
+    "pct": 0.2
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.15,
-    "pct": -0.02
+    "price": 102.107,
+    "pct": -0.06
    },
    {
     "sym": "SPY",
@@ -456,13 +456,13 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 15.52,
-    "pct": null
+    "price": 15.49,
+    "pct": -0.19
    }
   ],
-  "as_of": "2026-10-06T07:48:04.388698+00:00",
+  "as_of": "2026-10-06T07:54:04.695496+00:00",
   "tone": "risk-on",
-  "age_min": 1.9951368166666665
+  "age_min": 0.9837114333333333
  },
  "stories": [
   {
@@ -494,17 +494,17 @@
    "read": "unclear"
   },
   {
-   "topic": "Russia / Ukraine",
-   "title": "Russian bio-leak secrecy follows Chernobyl playbook, ex-CIA officer warns - Fox News",
-   "source": "Fox News",
-   "published": "Tue, 06 Oct 2026 00:32:16 GMT",
+   "topic": "Iran / Hormuz",
+   "title": "War Is Forcing the World to Reckon With Geography\u2019s Power - nytimes.com",
+   "source": "nytimes.com",
+   "published": "Tue, 06 Oct 2026 01:41:22 GMT",
    "read": "unclear"
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "Russian Offensive Campaign Assessment, October 2, 2026 - understandingwar.org",
-   "source": "understandingwar.org",
-   "published": "Sat, 03 Oct 2026 01:56:43 GMT",
+   "title": "Russian bio-leak secrecy follows Chernobyl playbook, ex-CIA officer warns - Fox News",
+   "source": "Fox News",
+   "published": "Tue, 06 Oct 2026 00:32:16 GMT",
    "read": "unclear"
   }
  ],
