@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-06T06:55:04+00:00",
+ "generated_utc": "2026-10-06T07:00:04+00:00",
  "date_et": "2026-10-06",
  "build": "0d463cfe05",
  "tape": [
@@ -28,7 +28,7 @@
    "title": "French Gov Budget Balance",
    "cons": "",
    "prev": "-145.9B",
-   "actual": ""
+   "actual": "-159.6B"
   },
   {
    "time": "02:45",
@@ -426,19 +426,19 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 88.61,
-    "pct": -0.92
+    "price": 88.42,
+    "pct": -1.13
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4157.9,
-    "pct": 0.03
+    "price": 4160.1,
+    "pct": 0.08
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.262,
+    "price": 102.256,
     "pct": 0.09
    },
    {
@@ -460,9 +460,9 @@
     "pct": 1.37
    }
   ],
-  "as_of": "2026-10-06T06:54:06.401425+00:00",
+  "as_of": "2026-10-06T06:57:06.120012+00:00",
   "tone": "risk-on",
-  "age_min": 0.9702515333333334
+  "age_min": 2.9799920833333333
  },
  "stories": [
   {
