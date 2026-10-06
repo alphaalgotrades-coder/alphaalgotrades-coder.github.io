@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-06T08:40:03+00:00",
+ "generated_utc": "2026-10-06T08:45:03+00:00",
  "date_et": "2026-10-06",
  "build": "0d463cfe05",
  "tape": [
@@ -55,7 +55,7 @@
    "title": "Construction PMI",
    "cons": "45.0",
    "prev": "44.3",
-   "actual": ""
+   "actual": "46.1"
   },
   {
    "time": "04:30",
@@ -73,7 +73,7 @@
    "title": "Housing Equity Withdrawal q/q",
    "cons": "-11.9B",
    "prev": "-12.6B",
-   "actual": ""
+   "actual": "-6.8B"
   },
   {
    "time": "05:00",
@@ -426,20 +426,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 88.6,
-    "pct": -0.93
+    "price": 88.4,
+    "pct": -1.15
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4174.1,
-    "pct": 0.42
+    "price": 4177.3,
+    "pct": 0.49
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.108,
-    "pct": -0.06
+    "price": 102.076,
+    "pct": -0.09
    },
    {
     "sym": "SPY",
@@ -456,13 +456,13 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 15.45,
-    "pct": -0.45
+    "price": 15.46,
+    "pct": -0.39
    }
   ],
-  "as_of": "2026-10-06T08:39:15.384635+00:00",
+  "as_of": "2026-10-06T08:42:05.090656+00:00",
   "tone": "risk-on",
-  "age_min": 0.8059914833333334
+  "age_min": 2.97888195
  },
  "stories": [
   {
