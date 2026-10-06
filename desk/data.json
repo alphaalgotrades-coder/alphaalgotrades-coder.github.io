@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-06T03:30:04+00:00",
+ "generated_utc": "2026-10-06T03:35:03+00:00",
  "date_et": "2026-10-05",
  "build": "0d463cfe05",
  "tape": [
@@ -390,19 +390,19 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 89.75,
-    "pct": 0.36
+    "price": 89.73,
+    "pct": 0.34
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4156.4,
-    "pct": -0.01
+    "price": 4157.2,
+    "pct": 0.01
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.154,
+    "price": 102.161,
     "pct": -0.01
    },
    {
@@ -424,11 +424,25 @@
     "pct": 1.37
    }
   ],
-  "as_of": "2026-10-06T03:27:04.788427+00:00",
+  "as_of": "2026-10-06T03:33:04.988112+00:00",
   "tone": "risk-on",
-  "age_min": 2.9945891500000004
+  "age_min": 1.98172065
  },
  "stories": [
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Russia\u2019s Latest Attacks Signal Putin\u2019s Desperation, Not Strength - American Legislative Exchange Council",
+   "source": "American Legislative Exchange Council",
+   "published": "Tue, 06 Oct 2026 02:29:38 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Taiwan / China",
+   "title": "What China's new military foothold in Laos means for Southeast Asia - Taiwan News",
+   "source": "Taiwan News",
+   "published": "Tue, 06 Oct 2026 01:45:00 GMT",
+   "read": "unclear"
+  },
   {
    "topic": "Saudi / Gulf supply",
    "title": "Saudi Aramco: Replenishing Crude, Fuel Stocks Could Take Two Years - Marine Link",
@@ -445,13 +459,6 @@
   },
   {
    "topic": "Saudi / Gulf supply",
-   "title": "Oil slips on rising Mideast crude exports, G7 stocks release - reuters.com",
-   "source": "reuters.com",
-   "published": "Sun, 04 Oct 2026 22:17:00 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Saudi / Gulf supply",
    "title": "Natural Gas, WTI Oil, Brent Oil Forecasts \u2013 Oil Dives As Saudi Aramco Cuts Prices For Asian Buyers - FXEmpire",
    "source": "FXEmpire",
    "published": "Mon, 05 Oct 2026 22:35:26 GMT",
@@ -463,13 +470,6 @@
    "source": "foreignpolicy.com",
    "published": "Mon, 05 Oct 2026 22:17:57 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran Shipping Update \u2013 October 5, 2026 - United Against Nuclear Iran",
-   "source": "United Against Nuclear Iran",
-   "published": "Mon, 05 Oct 2026 21:35:46 GMT",
-   "read": "unclear"
   }
  ],
  "ratings": [
