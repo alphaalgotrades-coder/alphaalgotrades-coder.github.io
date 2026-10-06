@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-06T00:50:03+00:00",
+ "generated_utc": "2026-10-06T00:55:04+00:00",
  "date_et": "2026-10-05",
  "build": "0d463cfe05",
  "tape": [
@@ -390,20 +390,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 89.47,
-    "pct": 0.04
+    "price": 89.41,
+    "pct": -0.02
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4163.0,
-    "pct": 0.15
+    "price": 4165.3,
+    "pct": 0.2
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.168,
-    "pct": 0.0
+    "price": 102.154,
+    "pct": -0.01
    },
    {
     "sym": "SPY",
@@ -424,11 +424,18 @@
     "pct": 1.37
    }
   ],
-  "as_of": "2026-10-06T00:48:06.318972+00:00",
+  "as_of": "2026-10-06T00:54:06.554711+00:00",
   "tone": "risk-on",
-  "age_min": 1.9620993333333334
+  "age_min": 0.9630423333333333
  },
  "stories": [
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Putin warns Russia is prepared to use \u2018all weapons,\u2019 including nuclear, to protect Kaliningrad - cnn.com",
+   "source": "cnn.com",
+   "published": "Thu, 01 Oct 2026 22:32:55 GMT",
+   "read": "escalation"
+  },
   {
    "topic": "Saudi / Gulf supply",
    "title": "Oil slips on rising Mideast crude exports, G7 stocks release - reuters.com",
@@ -456,13 +463,6 @@
    "source": "scmp.com",
    "published": "Mon, 05 Oct 2026 21:14:15 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Fire and Fury Aside: Russia\u2019s Latest Attacks Signal Putin\u2019s Desperation Not Strength - American Legislative Exchange Council",
-   "source": "American Legislative Exchange Council",
-   "published": "Mon, 05 Oct 2026 21:09:59 GMT",
-   "read": "de-escalation"
   },
   {
    "topic": "Russia / Ukraine",
