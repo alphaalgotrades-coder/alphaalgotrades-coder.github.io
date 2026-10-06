@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-06T23:40:03+00:00",
+ "generated_utc": "2026-10-06T23:45:03+00:00",
  "date_et": "2026-10-06",
  "build": "0d463cfe05",
  "tape": [
@@ -190,7 +190,7 @@
    "title": "Average Cash Earnings y/y",
    "cons": "3.7%",
    "prev": "4.7%",
-   "actual": ""
+   "actual": "3.8%"
   }
  ],
  "rates": {
@@ -426,14 +426,14 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 89.92,
-    "pct": 0.54
+    "price": 89.99,
+    "pct": 0.61
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4196.1,
-    "pct": 0.21
+    "price": 4196.5,
+    "pct": 0.22
    },
    {
     "sym": "DXY",
@@ -460,9 +460,9 @@
     "pct": -3.29
    }
   ],
-  "as_of": "2026-10-06T23:39:05.437582+00:00",
+  "as_of": "2026-10-06T23:42:05.760726+00:00",
   "tone": "risk-on",
-  "age_min": 0.9759670166666666
+  "age_min": 2.968306816666667
  },
  "stories": [
   {
