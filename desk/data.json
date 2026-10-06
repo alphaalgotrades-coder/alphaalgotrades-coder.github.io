@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-06T10:30:04+00:00",
+ "generated_utc": "2026-10-06T10:35:03+00:00",
  "date_et": "2026-10-06",
  "build": "0d463cfe05",
  "tape": [
@@ -202,7 +202,7 @@
     "lean": "dovish",
     "source": "YAHOO_TSY_FUT_ZT",
     "latency": "after-hours-futures-proxy",
-    "snapshot_ts": "2026-10-06T10:18:00+00:00",
+    "snapshot_ts": "2026-10-06T10:21:00+00:00",
     "snapshot_date": "2026-10-06",
     "prior_day": "2026-10-02",
     "prior_day_close": 4.83,
@@ -227,23 +227,23 @@
      4.818,
      4.808,
      4.81,
-     4.812,
-     4.814,
-     4.814,
-     4.814,
-     4.814,
      4.814,
      4.812,
+     4.816,
+     4.812,
+     4.812,
+     4.812,
      4.81,
-     4.81,
-     4.808,
+     4.812,
+     4.812,
      4.808,
      4.806,
-     4.802,
-     4.806,
+     4.808,
+     4.804,
+     4.808,
      4.808,
      4.81,
-     4.81,
+     4.808,
      4.808,
      4.81,
      4.81
@@ -251,12 +251,12 @@
    },
    {
     "series": "5Y",
-    "level": 5.029,
-    "d_day_bps": -2.6,
+    "level": 5.025,
+    "d_day_bps": -3.0,
     "lean": "dovish",
     "source": "YAHOO_TSY_FUT_ZF",
     "latency": "after-hours-futures-proxy",
-    "snapshot_ts": "2026-10-06T10:18:00+00:00",
+    "snapshot_ts": "2026-10-06T10:22:00+00:00",
     "snapshot_date": "2026-10-06",
     "prior_day": "2026-10-02",
     "prior_day_close": 5.055,
@@ -278,17 +278,16 @@
      5.044,
      5.041,
      5.039,
-     5.039,
-     5.041,
-     5.029,
+     5.044,
      5.03,
-     5.032,
-     5.032,
+     5.03,
      5.034,
+     5.034,
+     5.034,
+     5.034,
+     5.032,
      5.03,
      5.03,
-     5.029,
-     5.025,
      5.025,
      5.025,
      5.023,
@@ -300,17 +299,18 @@
      5.025,
      5.025,
      5.025,
-     5.025
+     5.025,
+     5.029
     ]
    },
    {
     "series": "10Y",
-    "level": 5.245,
-    "d_day_bps": -3.2,
+    "level": 5.242,
+    "d_day_bps": -3.5,
     "lean": "dovish",
     "source": "YAHOO_TSY_FUT_ZN",
     "latency": "after-hours-futures-proxy",
-    "snapshot_ts": "2026-10-06T10:17:00+00:00",
+    "snapshot_ts": "2026-10-06T10:21:00+00:00",
     "snapshot_date": "2026-10-06",
     "prior_day": "2026-10-02",
     "prior_day_close": 5.277,
@@ -326,26 +326,25 @@
      5.279,
      5.277,
      5.277,
-     5.275,
      5.272,
+     5.272,
+     5.265,
      5.268,
      5.268,
      5.265,
-     5.263,
      5.265,
-     5.261,
+     5.252,
      5.249,
      5.252,
      5.252,
      5.252,
      5.252,
-     5.252,
      5.247,
      5.247,
-     5.24,
+     5.242,
      5.24,
      5.242,
-     5.238,
+     5.24,
      5.24,
      5.233,
      5.238,
@@ -354,7 +353,8 @@
      5.245,
      5.242,
      5.242,
-     5.242
+     5.242,
+     5.245
     ]
    },
    {
@@ -364,7 +364,7 @@
     "lean": "dovish",
     "source": "YAHOO_TSY_FUT_ZB",
     "latency": "after-hours-futures-proxy",
-    "snapshot_ts": "2026-10-06T10:17:00+00:00",
+    "snapshot_ts": "2026-10-06T10:21:00+00:00",
     "snapshot_date": "2026-10-06",
     "prior_day": "2026-10-02",
     "prior_day_close": 5.63,
@@ -380,17 +380,16 @@
      5.638,
      5.636,
      5.636,
-     5.634,
-     5.634,
+     5.632,
+     5.632,
      5.628,
      5.628,
+     5.63,
      5.628,
-     5.628,
-     5.628,
-     5.622,
+     5.624,
+     5.615,
      5.613,
      5.611,
-     5.609,
      5.609,
      5.609,
      5.611,
@@ -399,7 +398,7 @@
      5.601,
      5.601,
      5.603,
-     5.601,
+     5.603,
      5.601,
      5.598,
      5.599,
@@ -408,11 +407,12 @@
      5.601,
      5.603,
      5.603,
-     5.603
+     5.603,
+     5.605
     ]
    }
   ],
-  "as_of": "2026-10-06T10:18:00+00:00",
+  "as_of": "2026-10-06T10:21:00+00:00",
   "note": "after-hours-futures-proxy"
  },
  "strip": {
@@ -432,13 +432,13 @@
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4178.7,
-    "pct": 0.53
+    "price": 4180.5,
+    "pct": 0.57
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.007,
+    "price": 102.001,
     "pct": -0.16
    },
    {
@@ -456,13 +456,13 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 15.41,
-    "pct": -0.71
+    "price": 15.4,
+    "pct": -0.77
    }
   ],
-  "as_of": "2026-10-06T10:27:05.394477+00:00",
+  "as_of": "2026-10-06T10:33:05.598965+00:00",
   "tone": "risk-on",
-  "age_min": 2.9917404666666667
+  "age_min": 1.9672583000000001
  },
  "stories": [
   {
@@ -488,6 +488,13 @@
   },
   {
    "topic": "Iran / Hormuz",
+   "title": "Maran Gas LNG carrier hit near Strait of Hormuz as Iran piles up attacks - tradewindsnews.com",
+   "source": "tradewindsnews.com",
+   "published": "Tue, 06 Oct 2026 07:44:27 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
    "title": "Iran Update, October 5, 2026 - Institute for the Study of War",
    "source": "Institute for the Study of War",
    "published": "Tue, 06 Oct 2026 04:27:15 GMT",
@@ -499,13 +506,6 @@
    "source": "tradewindsnews.com",
    "published": "Tue, 06 Oct 2026 02:18:58 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "War Is Forcing the World to Reckon With Geography\u2019s Power - nytimes.com",
-   "source": "nytimes.com",
-   "published": "Tue, 06 Oct 2026 01:41:22 GMT",
-   "read": "unclear"
   }
  ],
  "ratings": [
@@ -619,10 +619,10 @@
    {
     "code": "FR",
     "name": "France",
-    "level": 4.7657,
+    "level": 4.7537,
     "as_of": "2026-10-06",
-    "spread_bp": 131.0,
-    "d_day_bps": -9.9
+    "spread_bp": 129.8,
+    "d_day_bps": -11.1
    },
    {
     "code": "DE",
@@ -635,10 +635,10 @@
    {
     "code": "IT",
     "name": "Italy",
-    "level": 4.5458,
+    "level": 4.5414,
     "as_of": "2026-10-06",
-    "spread_bp": 109.0,
-    "d_day_bps": -9.8
+    "spread_bp": 108.5,
+    "d_day_bps": -10.2
    }
   ],
   "bund": 3.4561,
