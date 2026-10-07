@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-07T09:30:02+00:00",
+ "generated_utc": "2026-10-07T09:35:02+00:00",
  "date_et": "2026-10-07",
  "build": "0d463cfe05",
  "tape": [
@@ -363,20 +363,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 90.0,
-    "pct": 0.63
+    "price": 89.78,
+    "pct": 0.38
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4148.2,
-    "pct": -0.93
+    "price": 4147.9,
+    "pct": -0.94
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.269,
-    "pct": 0.43
+    "price": 102.277,
+    "pct": 0.44
    },
    {
     "sym": "SPY",
@@ -393,15 +393,22 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 15.28,
-    "pct": 1.8
+    "price": 15.31,
+    "pct": 2.0
    }
   ],
-  "as_of": "2026-10-07T09:27:05.605858+00:00",
+  "as_of": "2026-10-07T09:33:05.394166+00:00",
   "tone": "risk-on",
-  "age_min": 2.9574761666666665
+  "age_min": 1.9542575166666665
  },
  "stories": [
+  {
+   "topic": "Taiwan / China",
+   "title": "Taiwan indicts 10 for alleged resale of US chips to China - The Straits Times",
+   "source": "The Straits Times",
+   "published": "Wed, 07 Oct 2026 09:20:00 GMT",
+   "read": "unclear"
+  },
   {
    "topic": "Iran / Hormuz",
    "title": "Iran has \u2018lost complete control\u2019 of Hormuz Strait: Rubio - Arab News",
@@ -435,13 +442,6 @@
    "title": "Defense officials concerned Iran may strike Israel amid Hormuz tensions - The Jerusalem Post",
    "source": "The Jerusalem Post",
    "published": "Wed, 07 Oct 2026 06:30:06 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Oil Gains as Iran Ramps Up Pace of Attacks on Tankers in Strait - Bloomberg.com",
-   "source": "Bloomberg.com",
-   "published": "Wed, 07 Oct 2026 06:24:00 GMT",
    "read": "escalation"
   }
  ],
