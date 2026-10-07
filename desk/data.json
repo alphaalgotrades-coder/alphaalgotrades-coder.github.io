@@ -1,196 +1,124 @@
 {
- "generated_utc": "2026-10-07T03:25:03+00:00",
- "date_et": "2026-10-06",
+ "generated_utc": "2026-10-07T06:10:04+00:00",
+ "date_et": "2026-10-07",
  "build": "0d463cfe05",
  "tape": [
+  {
+   "time": "01:00",
+   "ccy": "JPY",
+   "impact": "Low",
+   "title": "Leading Indicators",
+   "cons": "118.1%",
+   "prev": "117.9%",
+   "actual": "118.0%"
+  },
   {
    "time": "02:00",
    "ccy": "EUR",
    "impact": "Low",
-   "title": "German Factory Orders m/m",
-   "cons": "-0.9%",
-   "prev": "2.5%",
-   "actual": "-10.6%"
+   "title": "German Industrial Production m/m",
+   "cons": "0.5%",
+   "prev": "-1.1%",
+   "actual": "2.0%"
   },
   {
-   "time": "02:35",
-   "ccy": "JPY",
-   "impact": "High",
-   "title": "BOJ Gov Ueda Speaks",
-   "cons": "",
-   "prev": "",
+   "time": "02:00",
+   "ccy": "GBP",
+   "impact": "Low",
+   "title": "Lloyds HPI m/m",
+   "cons": "0.0%",
+   "prev": "-0.2%",
+   "actual": "0.0%"
+  },
+  {
+   "time": "02:45",
+   "ccy": "EUR",
+   "impact": "Low",
+   "title": "French Trade Balance",
+   "cons": "-6.5B",
+   "prev": "-6.7B",
    "actual": ""
-  },
-  {
-   "time": "02:45",
-   "ccy": "EUR",
-   "impact": "Low",
-   "title": "French Gov Budget Balance",
-   "cons": "",
-   "prev": "-145.9B",
-   "actual": "-159.6B"
-  },
-  {
-   "time": "02:45",
-   "ccy": "EUR",
-   "impact": "Low",
-   "title": "French Industrial Production m/m",
-   "cons": "0.2%",
-   "prev": "-0.4%",
-   "actual": "-0.3%"
   },
   {
    "time": "03:00",
    "ccy": "CHF",
    "impact": "Low",
-   "title": "Unemployment Rate",
-   "cons": "3.1%",
-   "prev": "3.1%",
-   "actual": "3.1%"
+   "title": "Foreign Currency Reserves",
+   "cons": "",
+   "prev": "770B",
+   "actual": ""
   },
   {
-   "time": "04:30",
-   "ccy": "GBP",
+   "time": "10:30",
+   "ccy": "USD",
    "impact": "Low",
-   "title": "Construction PMI",
-   "cons": "45.0",
-   "prev": "44.3",
-   "actual": "46.1"
+   "title": "Crude Oil Inventories",
+   "cons": "1.9M",
+   "prev": "0.9M",
+   "actual": ""
   },
   {
-   "time": "04:30",
-   "ccy": "GBP",
+   "time": "13:01",
+   "ccy": "USD",
    "impact": "Low",
-   "title": "Housing Equity Withdrawal q/q",
-   "cons": "-11.9B",
-   "prev": "-12.6B",
-   "actual": "-6.8B"
+   "title": "10-y Bond Auction",
+   "cons": "",
+   "prev": "4.83|2.7",
+   "actual": ""
   },
   {
-   "time": "04:30",
-   "ccy": "GBP",
-   "impact": "Low",
-   "title": "MPC Member Mann Speaks",
+   "time": "14:00",
+   "ccy": "USD",
+   "impact": "High",
+   "title": "FOMC Meeting Minutes",
    "cons": "",
    "prev": "",
    "actual": ""
   },
   {
-   "time": "05:00",
-   "ccy": "EUR",
-   "impact": "Low",
-   "title": "Retail Sales m/m",
-   "cons": "0.2%",
-   "prev": "-0.6%",
-   "actual": "0.1%"
-  },
-  {
-   "time": "08:14",
+   "time": "15:00",
    "ccy": "USD",
    "impact": "Low",
-   "title": "ADP Weekly Employment Change",
-   "cons": "",
-   "prev": "20.0K",
-   "actual": "22.5K"
-  },
-  {
-   "time": "08:15",
-   "ccy": "USD",
-   "impact": "Low",
-   "title": "ADP Weekly Employment Change",
-   "cons": "",
-   "prev": "22.5K",
-   "actual": "23.8K"
-  },
-  {
-   "time": "08:30",
-   "ccy": "CAD",
-   "impact": "Low",
-   "title": "Trade Balance",
-   "cons": "1.5B",
-   "prev": "0.8B",
-   "actual": "4.2B"
-  },
-  {
-   "time": "08:30",
-   "ccy": "USD",
-   "impact": "Low",
-   "title": "Trade Balance",
-   "cons": "-100.8B",
-   "prev": "-88.6B",
-   "actual": "4.2B"
-  },
-  {
-   "time": "10:00",
-   "ccy": "CAD",
-   "impact": "Medi",
-   "title": "Ivey PMI",
-   "cons": "65.2",
-   "prev": "64.3",
-   "actual": "58.2"
-  },
-  {
-   "time": "10:01",
-   "ccy": "USD",
-   "impact": "Low",
-   "title": "RCM/TIPP Economic Optimism",
-   "cons": "44.5",
-   "prev": "45.6",
-   "actual": "46.8"
-  },
-  {
-   "time": "10:45",
-   "ccy": "USD",
-   "impact": "Low",
-   "title": "FOMC Member Bowman Speaks",
-   "cons": "",
-   "prev": "",
-   "actual": ""
-  },
-  {
-   "time": "11:46",
-   "ccy": "NZD",
-   "impact": "Low",
-   "title": "GDT Price Index",
-   "cons": "",
-   "prev": "-1.1%",
-   "actual": "1.2%"
-  },
-  {
-   "time": "13:15",
-   "ccy": "USD",
-   "impact": "Low",
-   "title": "FOMC Member Schmid Speaks",
-   "cons": "",
-   "prev": "",
-   "actual": ""
-  },
-  {
-   "time": "16:30",
-   "ccy": "USD",
-   "impact": "Low",
-   "title": "API Weekly Statistical Bulletin",
-   "cons": "",
-   "prev": "",
+   "title": "Consumer Credit m/m",
+   "cons": "14.5B",
+   "prev": "18.1B",
    "actual": ""
   },
   {
    "time": "19:01",
-   "ccy": "CNY",
-   "impact": "Holi",
-   "title": "Bank Holiday",
-   "cons": "",
-   "prev": "",
+   "ccy": "GBP",
+   "impact": "Low",
+   "title": "RICS House Price Balance",
+   "cons": "-30%",
+   "prev": "-28%",
    "actual": ""
   },
   {
-   "time": "19:30",
+   "time": "19:50",
    "ccy": "JPY",
    "impact": "Low",
-   "title": "Average Cash Earnings y/y",
-   "cons": "3.7%",
-   "prev": "4.7%",
-   "actual": "3.8%"
+   "title": "Current Account",
+   "cons": "2.14T",
+   "prev": "2.52T",
+   "actual": ""
+  },
+  {
+   "time": "20:00",
+   "ccy": "AUD",
+   "impact": "Low",
+   "title": "MI Inflation Expectations",
+   "cons": "",
+   "prev": "4.9%",
+   "actual": ""
+  },
+  {
+   "time": "23:35",
+   "ccy": "JPY",
+   "impact": "Low",
+   "title": "30-y Bond Auction",
+   "cons": "",
+   "prev": "4.08|3.8",
+   "actual": ""
   }
  ],
  "rates": {
@@ -426,20 +354,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 90.23,
-    "pct": 0.88
+    "price": 89.98,
+    "pct": 0.6
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4165.9,
-    "pct": -0.51
+    "price": 4158.0,
+    "pct": -0.69
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.031,
-    "pct": 0.19
+    "price": 102.067,
+    "pct": 0.23
    },
    {
     "sym": "SPY",
@@ -460,9 +388,9 @@
     "pct": -3.29
    }
   ],
-  "as_of": "2026-10-07T03:24:06.071356+00:00",
+  "as_of": "2026-10-07T06:09:06.011363+00:00",
   "tone": "risk-on",
-  "age_min": 0.9651340333333334
+  "age_min": 1.1054890666666668
  },
  "stories": [
   {
