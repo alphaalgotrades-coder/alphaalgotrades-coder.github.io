@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-07T21:30:04+00:00",
+ "generated_utc": "2026-10-07T21:35:03+00:00",
  "date_et": "2026-10-07",
  "build": "0d463cfe05",
  "tape": [
@@ -375,7 +375,7 @@
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.284,
+    "price": 102.285,
     "pct": 0.44
    },
    {
@@ -397,9 +397,9 @@
     "pct": 0.47
    }
   ],
-  "as_of": "2026-10-07T21:27:04.988924+00:00",
+  "as_of": "2026-10-07T21:33:04.737730+00:00",
   "tone": "mixed",
-  "age_min": 2.99761325
+  "age_min": 1.9750092166666666
  },
  "stories": [
   {
@@ -438,11 +438,11 @@
    "read": "unclear"
   },
   {
-   "topic": "Iran / Hormuz",
-   "title": "Iran has \u2018lost complete control\u2019 of Strait of Hormuz, Rubio claims - The Times of Israel",
-   "source": "The Times of Israel",
-   "published": "Wed, 07 Oct 2026 15:56:48 GMT",
-   "read": "escalation"
+   "topic": "Russia / Ukraine",
+   "title": "Putin Humiliated as \u2018Inevitable\u2019 Victory Crumbles - The Daily Beast",
+   "source": "The Daily Beast",
+   "published": "Wed, 07 Oct 2026 15:34:48 GMT",
+   "read": "unclear"
   }
  ],
  "ratings": [
