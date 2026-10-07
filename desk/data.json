@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-07T09:10:02+00:00",
+ "generated_utc": "2026-10-07T09:15:02+00:00",
  "date_et": "2026-10-07",
  "build": "0d463cfe05",
  "tape": [
@@ -363,20 +363,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 89.56,
-    "pct": 0.13
+    "price": 89.64,
+    "pct": 0.22
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4149.3,
-    "pct": -0.9
+    "price": 4151.1,
+    "pct": -0.86
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.241,
-    "pct": 0.4
+    "price": 102.219,
+    "pct": 0.38
    },
    {
     "sym": "SPY",
@@ -397,11 +397,18 @@
     "pct": 1.53
    }
   ],
-  "as_of": "2026-10-07T09:09:12.397992+00:00",
+  "as_of": "2026-10-07T09:12:05.469579+00:00",
   "tone": "risk-on",
-  "age_min": 0.8352145666666666
+  "age_min": 2.95647605
  },
  "stories": [
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iran has \u2018lost complete control\u2019 of Hormuz Strait: Rubio - Arab News",
+   "source": "Arab News",
+   "published": "Wed, 07 Oct 2026 08:58:22 GMT",
+   "read": "escalation"
+  },
   {
    "topic": "Taiwan / China",
    "title": "North Korea Warns US Over Taiwan Military Support, Pledges To Back Russia - Arise News",
@@ -436,13 +443,6 @@
    "source": "Bloomberg.com",
    "published": "Wed, 07 Oct 2026 06:24:00 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Opinion | Putin\u2019s Desperate, Dangerous Game in Europe - The New York Times",
-   "source": "The New York Times",
-   "published": "Wed, 07 Oct 2026 05:00:05 GMT",
-   "read": "unclear"
   }
  ],
  "ratings": [
