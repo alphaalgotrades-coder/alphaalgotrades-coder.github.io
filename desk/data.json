@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-07T01:30:04+00:00",
+ "generated_utc": "2026-10-07T01:35:03+00:00",
  "date_et": "2026-10-06",
  "build": "0d463cfe05",
  "tape": [
@@ -426,20 +426,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 90.58,
-    "pct": 1.27
+    "price": 90.43,
+    "pct": 1.11
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4179.8,
-    "pct": -0.17
+    "price": 4177.8,
+    "pct": -0.22
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.968,
-    "pct": 0.13
+    "price": 101.98,
+    "pct": 0.14
    },
    {
     "sym": "SPY",
@@ -460,11 +460,18 @@
     "pct": -3.29
    }
   ],
-  "as_of": "2026-10-07T01:27:06.754568+00:00",
+  "as_of": "2026-10-07T01:33:09.082153+00:00",
   "tone": "risk-on",
-  "age_min": 2.9586577833333334
+  "age_min": 1.9160741166666668
  },
  "stories": [
+  {
+   "topic": "Iran / Hormuz",
+   "title": "CNBC Daily Open: Fragile rebound in oil exports threatened by Iran attacks in Hormuz - CNBC",
+   "source": "CNBC",
+   "published": "Wed, 07 Oct 2026 01:11:00 GMT",
+   "read": "escalation"
+  },
   {
    "topic": "Russia / Ukraine",
    "title": "Vladimir Putin and the pariah problem - The Economist",
@@ -498,13 +505,6 @@
    "title": "Russia planning massive attack on Ukraine, Volodymyr Zelensky warns, seeking weapons - The Jerusalem Post",
    "source": "The Jerusalem Post",
    "published": "Tue, 06 Oct 2026 18:36:18 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Taiwan / China",
-   "title": "The US makes a Taiwan NMESIS missile mess for China - Washington Examiner",
-   "source": "Washington Examiner",
-   "published": "Tue, 06 Oct 2026 17:34:00 GMT",
    "read": "escalation"
   }
  ],
