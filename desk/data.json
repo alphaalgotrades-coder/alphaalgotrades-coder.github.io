@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-07T07:05:04+00:00",
+ "generated_utc": "2026-10-07T07:10:03+00:00",
  "date_et": "2026-10-07",
  "build": "0d463cfe05",
  "tape": [
@@ -46,7 +46,7 @@
    "title": "Foreign Currency Reserves",
    "cons": "",
    "prev": "770B",
-   "actual": ""
+   "actual": "770B"
   },
   {
    "time": "10:30",
@@ -363,20 +363,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 90.09,
-    "pct": 0.73
+    "price": 90.18,
+    "pct": 0.83
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4159.2,
-    "pct": -0.67
+    "price": 4158.0,
+    "pct": -0.69
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.087,
-    "pct": 0.25
+    "price": 102.068,
+    "pct": 0.23
    },
    {
     "sym": "SPY",
@@ -397,9 +397,9 @@
     "pct": null
    }
   ],
-  "as_of": "2026-10-07T07:03:06.189743+00:00",
+  "as_of": "2026-10-07T07:09:06.591599+00:00",
   "tone": "risk-on",
-  "age_min": 1.9770507833333333
+  "age_min": 0.9509696333333333
  },
  "stories": [
   {
