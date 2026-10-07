@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-07T21:50:02+00:00",
+ "generated_utc": "2026-10-07T21:55:02+00:00",
  "date_et": "2026-10-07",
  "build": "0d463cfe05",
  "tape": [
@@ -364,19 +364,19 @@
     "sym": "CL",
     "name": "WTI crude futures",
     "price": 88.94,
-    "pct": -0.56
+    "pct": 0.75
    },
    {
     "sym": "GC",
     "name": "Gold futures",
     "price": 4136.7,
-    "pct": -1.2
+    "pct": -0.1
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.278,
-    "pct": 0.44
+    "price": 102.293,
+    "pct": 0.45
    },
    {
     "sym": "SPY",
@@ -397,11 +397,18 @@
     "pct": 0.47
    }
   ],
-  "as_of": "2026-10-07T21:48:04.813132+00:00",
+  "as_of": "2026-10-07T21:54:05.073941+00:00",
   "tone": "mixed",
-  "age_min": 1.9684920833333335
+  "age_min": 0.9638657333333334
  },
  "stories": [
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iran says response to US proposals aimed at ending war will be delivered through mediators - Anadolu Ajans\u0131",
+   "source": "Anadolu Ajans\u0131",
+   "published": "Wed, 07 Oct 2026 21:13:15 GMT",
+   "read": "unclear"
+  },
   {
    "topic": "Russia / Ukraine",
    "title": "Bookshelf: The closing of the Russian mind (doesn\u2019t bode well for the future) - The Strategist | ASPI's analysis and commentary site",
@@ -414,13 +421,6 @@
    "title": "America\u2019s commitment to Taiwan is a liability - Defense Priorities",
    "source": "Defense Priorities",
    "published": "Wed, 07 Oct 2026 19:27:06 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Rubio says Iran \u2018lost\u2019 Hormuz. Has it? - Al-Monitor",
-   "source": "Al-Monitor",
-   "published": "Wed, 07 Oct 2026 18:33:36 GMT",
    "read": "unclear"
   },
   {
