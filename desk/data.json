@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-07T03:10:03+00:00",
+ "generated_utc": "2026-10-07T03:15:04+00:00",
  "date_et": "2026-10-06",
  "build": "0d463cfe05",
  "tape": [
@@ -420,25 +420,25 @@
    {
     "sym": "MOVE",
     "name": "Bond-market volatility",
-    "price": 105.2002,
+    "price": 105.2,
     "pct": -7.39
    },
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 90.19,
-    "pct": 0.84
+    "price": 90.22,
+    "pct": 0.87
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4168.7,
-    "pct": -0.44
+    "price": 4167.9,
+    "pct": -0.46
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.049,
+    "price": 102.047,
     "pct": 0.21
    },
    {
@@ -460,11 +460,18 @@
     "pct": -3.29
    }
   ],
-  "as_of": "2026-10-07T03:09:05.730558+00:00",
+  "as_of": "2026-10-07T03:12:05.890185+00:00",
   "tone": "risk-on",
-  "age_min": 0.9659289
+  "age_min": 2.973760833333333
  },
  "stories": [
+  {
+   "topic": "Saudi / Gulf supply",
+   "title": "Oil rises as concerns over Houthi attacks on Saudi Arabia eclipse supply recovery - CNBC",
+   "source": "CNBC",
+   "published": "Wed, 07 Oct 2026 02:09:00 GMT",
+   "read": "escalation"
+  },
   {
    "topic": "Iran / Hormuz",
    "title": "Trump isn't \u2018completely wrong\u2019: Hormuz disruption is Asia\u2019s problem, says Singapore's foreign minister - CNBC",
@@ -498,13 +505,6 @@
    "title": "We are staying: European diplomats reject Russian calls to leave Ukraine - Atlantic Council",
    "source": "Atlantic Council",
    "published": "Tue, 06 Oct 2026 20:55:00 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Jet drones are Putin\u2019s secret weapon as he seeks to break Ukraine - Atlantic Council",
-   "source": "Atlantic Council",
-   "published": "Tue, 06 Oct 2026 20:38:00 GMT",
    "read": "escalation"
   }
  ],
