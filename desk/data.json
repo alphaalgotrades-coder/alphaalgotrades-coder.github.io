@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-07T06:50:03+00:00",
+ "generated_utc": "2026-10-07T06:55:03+00:00",
  "date_et": "2026-10-07",
  "build": "0d463cfe05",
  "tape": [
@@ -369,14 +369,14 @@
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4158.1,
-    "pct": -0.69
+    "price": 4159.9,
+    "pct": -0.65
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.073,
-    "pct": 0.24
+    "price": 102.094,
+    "pct": 0.26
    },
    {
     "sym": "SPY",
@@ -397,17 +397,31 @@
     "pct": -3.29
    }
   ],
-  "as_of": "2026-10-07T06:48:06.097059+00:00",
+  "as_of": "2026-10-07T06:54:06.159994+00:00",
   "tone": "risk-on",
-  "age_min": 1.9670922166666667
+  "age_min": 0.9632818666666666
  },
  "stories": [
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Defense officials concerned Iran may strike Israel amid Hormuz tensions - The Jerusalem Post",
+   "source": "The Jerusalem Post",
+   "published": "Wed, 07 Oct 2026 06:30:06 GMT",
+   "read": "escalation"
+  },
   {
    "topic": "Iran / Hormuz",
    "title": "Oil Gains as Iran Ramps Up Pace of Attacks on Tankers in Strait - Bloomberg.com",
    "source": "Bloomberg.com",
    "published": "Wed, 07 Oct 2026 06:24:00 GMT",
    "read": "escalation"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Opinion | Putin\u2019s Desperate, Dangerous Game in Europe - The New York Times",
+   "source": "The New York Times",
+   "published": "Wed, 07 Oct 2026 05:00:05 GMT",
+   "read": "unclear"
   },
   {
    "topic": "Russia / Ukraine",
@@ -428,20 +442,6 @@
    "title": "Oil gains as US storm and Houthi air strikes threaten supply - Reuters",
    "source": "Reuters",
    "published": "Wed, 07 Oct 2026 04:36:30 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Kim Jong Un Calls Russia\u2019s War in Ukraine \u2018Sacred\u2019 in Putin Birthday Message - Kyiv Post",
-   "source": "Kyiv Post",
-   "published": "Wed, 07 Oct 2026 03:47:29 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Saudi / Gulf supply",
-   "title": "Oil rises as concerns over Houthi attacks on Saudi Arabia eclipse supply recovery - CNBC",
-   "source": "CNBC",
-   "published": "Wed, 07 Oct 2026 02:09:00 GMT",
    "read": "escalation"
   }
  ],
