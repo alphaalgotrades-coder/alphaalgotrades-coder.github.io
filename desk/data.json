@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-07T08:50:03+00:00",
+ "generated_utc": "2026-10-07T08:55:03+00:00",
  "date_et": "2026-10-07",
  "build": "0d463cfe05",
  "tape": [
@@ -363,19 +363,19 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 89.43,
-    "pct": -0.01
+    "price": 89.44,
+    "pct": null
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4153.6,
-    "pct": -0.8
+    "price": 4152.7,
+    "pct": -0.82
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.247,
+    "price": 102.249,
     "pct": 0.41
    },
    {
@@ -393,20 +393,34 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 15.26,
-    "pct": 1.67
+    "price": 15.25,
+    "pct": 1.6
    }
   ],
-  "as_of": "2026-10-07T08:48:05.461528+00:00",
+  "as_of": "2026-10-07T08:54:05.553171+00:00",
   "tone": "risk-on",
-  "age_min": 1.9720938666666668
+  "age_min": 0.9705863499999999
  },
  "stories": [
+  {
+   "topic": "Taiwan / China",
+   "title": "North Korea Warns US Over Taiwan Military Support, Pledges To Back Russia - Arise News",
+   "source": "Arise News",
+   "published": "Wed, 07 Oct 2026 08:23:13 GMT",
+   "read": "escalation"
+  },
   {
    "topic": "Russia / Ukraine",
    "title": "Putin Turns 74 as Ukraine Says Russia\u2019s Army Losses Near 1.55 Million, 1,690 in 1 Day - Kyiv Post",
    "source": "Kyiv Post",
    "published": "Wed, 07 Oct 2026 08:00:20 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Putin Turns 74 as Russia\u2019s Post-Soviet Club Keeps Shrinking - Kyiv Post",
+   "source": "Kyiv Post",
+   "published": "Wed, 07 Oct 2026 06:38:40 GMT",
    "read": "unclear"
   },
   {
@@ -429,20 +443,6 @@
    "source": "The New York Times",
    "published": "Wed, 07 Oct 2026 05:00:05 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Taiwan / China",
-   "title": "Taiwan tracks 14 Chinese military aircraft, 8 ships - Taiwan News",
-   "source": "Taiwan News",
-   "published": "Wed, 07 Oct 2026 04:58:11 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Saudi / Gulf supply",
-   "title": "Oil gains as US storm and Houthi air strikes threaten supply - Reuters",
-   "source": "Reuters",
-   "published": "Wed, 07 Oct 2026 04:36:30 GMT",
-   "read": "escalation"
   }
  ],
  "ratings": [
