@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-07T10:30:03+00:00",
+ "generated_utc": "2026-10-07T10:35:02+00:00",
  "date_et": "2026-10-07",
  "build": "0d463cfe05",
  "tape": [
@@ -139,7 +139,7 @@
     "lean": "hawkish",
     "source": "YAHOO_TSY_FUT_ZT",
     "latency": "after-hours-futures-proxy",
-    "snapshot_ts": "2026-10-07T10:17:00+00:00",
+    "snapshot_ts": "2026-10-07T10:20:00+00:00",
     "snapshot_date": "2026-10-07",
     "prior_day": "2026-10-05",
     "prior_day_close": 4.84,
@@ -188,12 +188,12 @@
    },
    {
     "series": "5Y",
-    "level": 5.094,
-    "d_day_bps": 2.8,
+    "level": 5.096,
+    "d_day_bps": 3.0,
     "lean": "hawkish",
     "source": "YAHOO_TSY_FUT_ZF",
     "latency": "after-hours-futures-proxy",
-    "snapshot_ts": "2026-10-07T10:17:00+00:00",
+    "snapshot_ts": "2026-10-07T10:21:00+00:00",
     "snapshot_date": "2026-10-07",
     "prior_day": "2026-10-05",
     "prior_day_close": 5.066,
@@ -208,27 +208,26 @@
      5.094,
      5.096,
      5.096,
-     5.094,
-     5.094,
-     5.098,
+     5.092,
      5.096,
+     5.094,
      5.094,
      5.091,
      5.092,
      5.087,
-     5.092,
-     5.092,
      5.087,
-     5.085,
-     5.087,
+     5.092,
+     5.091,
      5.082,
-     5.078,
+     5.085,
+     5.085,
      5.077,
+     5.078,
+     5.08,
      5.082,
-     5.084,
      5.085,
-     5.087,
-     5.091,
+     5.085,
+     5.089,
      5.094,
      5.092,
      5.092,
@@ -237,7 +236,8 @@
      5.094,
      5.092,
      5.092,
-     5.092
+     5.092,
+     5.094
     ]
    },
    {
@@ -247,7 +247,7 @@
     "lean": "hawkish",
     "source": "YAHOO_TSY_FUT_ZN",
     "latency": "after-hours-futures-proxy",
-    "snapshot_ts": "2026-10-07T10:17:00+00:00",
+    "snapshot_ts": "2026-10-07T10:22:00+00:00",
     "snapshot_date": "2026-10-07",
     "prior_day": "2026-10-05",
     "prior_day_close": 5.311,
@@ -261,47 +261,47 @@
      5.346,
      5.346,
      5.346,
+     5.346,
+     5.343,
+     5.346,
      5.348,
      5.346,
-     5.346,
-     5.35,
-     5.35,
      5.343,
      5.343,
-     5.339,
-     5.339,
+     5.341,
+     5.341,
      5.343,
-     5.343,
-     5.339,
-     5.339,
      5.341,
      5.334,
+     5.339,
+     5.341,
      5.332,
      5.332,
      5.336,
+     5.336,
      5.339,
      5.339,
-     5.343,
+     5.346,
      5.348,
+     5.35,
+     5.35,
+     5.35,
+     5.35,
+     5.35,
+     5.35,
      5.348,
-     5.352,
      5.35,
-     5.35,
-     5.35,
-     5.35,
-     5.35,
-     5.348,
-     5.35
+     5.352
     ]
    },
    {
     "series": "30Y",
-    "level": 5.715,
-    "d_day_bps": 5.0,
+    "level": 5.716,
+    "d_day_bps": 5.1,
     "lean": "hawkish",
     "source": "YAHOO_TSY_FUT_ZB",
     "latency": "after-hours-futures-proxy",
-    "snapshot_ts": "2026-10-07T10:18:00+00:00",
+    "snapshot_ts": "2026-10-07T10:21:00+00:00",
     "snapshot_date": "2026-10-07",
     "prior_day": "2026-10-05",
     "prior_day_close": 5.665,
@@ -321,19 +321,18 @@
      5.705,
      5.703,
      5.701,
-     5.703,
+     5.701,
      5.699,
+     5.699,
+     5.701,
+     5.701,
      5.697,
      5.701,
-     5.701,
-     5.699,
-     5.699,
-     5.701,
-     5.699,
+     5.705,
      5.697,
-     5.695,
+     5.697,
+     5.697,
      5.701,
-     5.699,
      5.701,
      5.703,
      5.709,
@@ -345,11 +344,12 @@
      5.715,
      5.713,
      5.713,
-     5.713
+     5.713,
+     5.715
     ]
    }
   ],
-  "as_of": "2026-10-07T10:17:00+00:00",
+  "as_of": "2026-10-07T10:20:00+00:00",
   "note": "after-hours-futures-proxy"
  },
  "strip": {
@@ -363,20 +363,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 90.01,
-    "pct": 0.64
+    "price": 89.99,
+    "pct": 0.61
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4141.1,
+    "price": 4140.9,
     "pct": -1.1
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.295,
-    "pct": 0.45
+    "price": 102.311,
+    "pct": 0.47
    },
    {
     "sym": "SPY",
@@ -393,15 +393,29 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 15.53,
-    "pct": 3.46
+    "price": 15.55,
+    "pct": 3.6
    }
   ],
-  "as_of": "2026-10-07T10:27:05.431415+00:00",
+  "as_of": "2026-10-07T10:33:05.456711+00:00",
   "tone": "risk-on",
-  "age_min": 2.973991116666667
+  "age_min": 1.9594742833333332
  },
  "stories": [
+  {
+   "topic": "Taiwan / China",
+   "title": "Japan flaunts first hypersonic missile: scared of becoming China's target after Taiwan?| Type 25 | Hindustan Times - Hindustan Times",
+   "source": "Hindustan Times",
+   "published": "Wed, 07 Oct 2026 10:21:58 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Rubio says Iran has \u2018lost complete control\u2019 of Strait of Hormuz - T\u00fcrkiye Today",
+   "source": "T\u00fcrkiye Today",
+   "published": "Wed, 07 Oct 2026 10:18:09 GMT",
+   "read": "escalation"
+  },
   {
    "topic": "Russia / Ukraine",
    "title": "Russia hits Ukraine with wave of attacks on Putin\u2019s birthday - POLITICO.eu",
@@ -429,20 +443,6 @@
    "source": "The New York Times",
    "published": "Wed, 07 Oct 2026 09:02:01 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran has \u2018lost complete control\u2019 of Hormuz Strait: Rubio - Arab News",
-   "source": "Arab News",
-   "published": "Wed, 07 Oct 2026 08:58:22 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Taiwan / China",
-   "title": "North Korea Warns US Over Taiwan Military Support, Pledges To Back Russia - Arise News",
-   "source": "Arise News",
-   "published": "Wed, 07 Oct 2026 08:23:13 GMT",
-   "read": "escalation"
   }
  ],
  "ratings": [
@@ -556,29 +556,29 @@
    {
     "code": "FR",
     "name": "France",
-    "level": 4.8944,
+    "level": 4.8986,
     "as_of": "2026-10-07",
-    "spread_bp": 139.2,
-    "d_day_bps": 10.9
+    "spread_bp": 139.1,
+    "d_day_bps": 11.3
    },
    {
     "code": "DE",
     "name": "Germany",
-    "level": 3.5023,
+    "level": 3.5074,
     "as_of": "2026-10-07",
     "spread_bp": null,
-    "d_day_bps": 1.7
+    "d_day_bps": 2.2
    },
    {
     "code": "IT",
     "name": "Italy",
-    "level": 4.6797,
+    "level": 4.686,
     "as_of": "2026-10-07",
-    "spread_bp": 117.7,
-    "d_day_bps": 11.4
+    "spread_bp": 117.9,
+    "d_day_bps": 12.0
    }
   ],
-  "bund": 3.5023,
+  "bund": 3.5074,
   "note": "10-year government bonds; spread measured over Germany"
  },
  "auctions": {
