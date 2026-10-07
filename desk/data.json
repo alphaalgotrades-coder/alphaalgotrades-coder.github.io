@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-07T02:50:03+00:00",
+ "generated_utc": "2026-10-07T02:55:03+00:00",
  "date_et": "2026-10-06",
  "build": "0d463cfe05",
  "tape": [
@@ -426,19 +426,19 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 90.22,
-    "pct": 0.87
+    "price": 90.19,
+    "pct": 0.84
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4172.5,
-    "pct": -0.35
+    "price": 4174.0,
+    "pct": -0.31
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.046,
+    "price": 102.049,
     "pct": 0.21
    },
    {
@@ -460,9 +460,9 @@
     "pct": -3.29
    }
   ],
-  "as_of": "2026-10-07T02:48:05.644748+00:00",
+  "as_of": "2026-10-07T02:54:05.550626+00:00",
   "tone": "risk-on",
-  "age_min": 1.9664328666666668
+  "age_min": 0.9722981666666667
  },
  "stories": [
   {
@@ -478,6 +478,13 @@
    "source": "CNBC",
    "published": "Wed, 07 Oct 2026 01:11:00 GMT",
    "read": "escalation"
+  },
+  {
+   "topic": "Saudi / Gulf supply",
+   "title": "Oil prices rise as storms and air strikes threaten supply - Reuters",
+   "source": "Reuters",
+   "published": "Wed, 07 Oct 2026 00:48:00 GMT",
+   "read": "unclear"
   },
   {
    "topic": "Russia / Ukraine",
@@ -499,13 +506,6 @@
    "source": "Atlantic Council",
    "published": "Tue, 06 Oct 2026 20:38:00 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Ships\u2019 captains paid $100,000 a month to transit Strait of Hormuz - Financial Times",
-   "source": "Financial Times",
-   "published": "Tue, 06 Oct 2026 20:00:08 GMT",
-   "read": "unclear"
   }
  ],
  "ratings": [
