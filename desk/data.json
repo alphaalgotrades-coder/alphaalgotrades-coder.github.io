@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-07T02:30:03+00:00",
+ "generated_utc": "2026-10-07T02:35:04+00:00",
  "date_et": "2026-10-06",
  "build": "0d463cfe05",
  "tape": [
@@ -426,20 +426,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 90.29,
-    "pct": 0.95
+    "price": 90.23,
+    "pct": 0.88
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4170.5,
-    "pct": -0.4
+    "price": 4169.3,
+    "pct": -0.43
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.043,
-    "pct": 0.21
+    "price": 102.059,
+    "pct": 0.22
    },
    {
     "sym": "SPY",
@@ -460,11 +460,18 @@
     "pct": -3.29
    }
   ],
-  "as_of": "2026-10-07T02:27:11.757982+00:00",
+  "as_of": "2026-10-07T02:33:05.528701+00:00",
   "tone": "risk-on",
-  "age_min": 2.8578221333333333
+  "age_min": 1.9780115666666667
  },
  "stories": [
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Trump isn't \u2018completely wrong\u2019: Hormuz disruption is Asia\u2019s problem, says Singapore's foreign minister - CNBC",
+   "source": "CNBC",
+   "published": "Wed, 07 Oct 2026 02:01:00 GMT",
+   "read": "unclear"
+  },
   {
    "topic": "Iran / Hormuz",
    "title": "CNBC Daily Open: Fragile rebound in oil exports threatened by Iran attacks in Hormuz - CNBC",
@@ -499,13 +506,6 @@
    "source": "Financial Times",
    "published": "Tue, 06 Oct 2026 20:00:08 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Russia planning massive attack on Ukraine, Volodymyr Zelensky warns, seeking weapons - The Jerusalem Post",
-   "source": "The Jerusalem Post",
-   "published": "Tue, 06 Oct 2026 18:36:18 GMT",
-   "read": "escalation"
   }
  ],
  "ratings": [
