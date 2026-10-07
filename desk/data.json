@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-07T06:55:03+00:00",
+ "generated_utc": "2026-10-07T07:00:04+00:00",
  "date_et": "2026-10-07",
  "build": "0d463cfe05",
  "tape": [
@@ -37,7 +37,7 @@
    "title": "French Trade Balance",
    "cons": "-6.5B",
    "prev": "-6.7B",
-   "actual": ""
+   "actual": "-6.1B"
   },
   {
    "time": "03:00",
@@ -363,20 +363,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 90.07,
-    "pct": 0.7
+    "price": 90.09,
+    "pct": 0.73
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4159.9,
-    "pct": -0.65
+    "price": 4160.4,
+    "pct": -0.64
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.094,
-    "pct": 0.26
+    "price": 102.091,
+    "pct": 0.25
    },
    {
     "sym": "SPY",
@@ -397,9 +397,9 @@
     "pct": -3.29
    }
   ],
-  "as_of": "2026-10-07T06:54:06.159994+00:00",
+  "as_of": "2026-10-07T06:57:05.581604+00:00",
   "tone": "risk-on",
-  "age_min": 0.9632818666666666
+  "age_min": 2.9833151166666667
  },
  "stories": [
   {
