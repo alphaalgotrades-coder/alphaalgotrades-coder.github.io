@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-07T09:50:03+00:00",
+ "generated_utc": "2026-10-07T09:55:03+00:00",
  "date_et": "2026-10-07",
  "build": "0d463cfe05",
  "tape": [
@@ -363,20 +363,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 89.71,
-    "pct": 0.3
+    "price": 89.78,
+    "pct": 0.38
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4146.7,
-    "pct": -0.96
+    "price": 4145.3,
+    "pct": -1.0
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.301,
-    "pct": 0.46
+    "price": 102.313,
+    "pct": 0.47
    },
    {
     "sym": "SPY",
@@ -393,15 +393,29 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 15.34,
-    "pct": 2.2
+    "price": 15.35,
+    "pct": 2.27
    }
   ],
-  "as_of": "2026-10-07T09:48:05.205768+00:00",
+  "as_of": "2026-10-07T09:54:04.898303+00:00",
   "tone": "risk-on",
-  "age_min": 1.9663998166666665
+  "age_min": 0.9764180333333333
  },
  "stories": [
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Russia hits Ukraine with wave of attacks on Putin\u2019s birthday - POLITICO.eu",
+   "source": "POLITICO.eu",
+   "published": "Wed, 07 Oct 2026 09:37:38 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Zelensky says Russia missile attack that killed 12 is birthday 'gift' to Putin - Euronews.com",
+   "source": "Euronews.com",
+   "published": "Wed, 07 Oct 2026 09:33:49 GMT",
+   "read": "escalation"
+  },
   {
    "topic": "Taiwan / China",
    "title": "Taiwan indicts 10 for alleged resale of US chips to China - The Straits Times",
@@ -429,20 +443,6 @@
    "source": "Kyiv Post",
    "published": "Wed, 07 Oct 2026 08:00:20 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Putin Turns 74 as Russia\u2019s Post-Soviet Club Keeps Shrinking - Kyiv Post",
-   "source": "Kyiv Post",
-   "published": "Wed, 07 Oct 2026 06:38:40 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Defense officials concerned Iran may strike Israel amid Hormuz tensions - The Jerusalem Post",
-   "source": "The Jerusalem Post",
-   "published": "Wed, 07 Oct 2026 06:30:06 GMT",
-   "read": "escalation"
   }
  ],
  "ratings": [
