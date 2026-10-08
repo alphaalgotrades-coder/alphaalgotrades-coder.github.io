@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-08T21:30:06+00:00",
+ "generated_utc": "2026-10-08T21:35:04+00:00",
  "date_et": "2026-10-08",
  "build": "0d463cfe05",
  "tape": [
@@ -402,7 +402,7 @@
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.113,
+    "price": 102.106,
     "pct": -0.13
    },
    {
@@ -424,9 +424,9 @@
     "pct": 2.19
    }
   ],
-  "as_of": "2026-10-08T21:27:05.060928+00:00",
+  "as_of": "2026-10-08T21:33:05.189676+00:00",
   "tone": "risk-off",
-  "age_min": 3.0215943
+  "age_min": 1.99226825
  },
  "stories": [
   {
@@ -451,6 +451,13 @@
    "read": "unclear"
   },
   {
+   "topic": "Russia / Ukraine",
+   "title": "Kremlin: Russia agrees with Rubio that Ukraine conflict is in a stalemate - Yahoo News Singapore",
+   "source": "Yahoo News Singapore",
+   "published": "Thu, 08 Oct 2026 21:00:58 GMT",
+   "read": "unclear"
+  },
+  {
    "topic": "Iran / Hormuz",
    "title": "Oil Surges as Iran Tanker Attacks Escalate - Rigzone",
    "source": "Rigzone",
@@ -463,13 +470,6 @@
    "source": "Yahoo Finance",
    "published": "Thu, 08 Oct 2026 19:58:52 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Putin offers help to Iran to end Middle East war ahead of CIS summit - France 24",
-   "source": "France 24",
-   "published": "Thu, 08 Oct 2026 19:40:59 GMT",
-   "read": "de-escalation"
   }
  ],
  "ratings": [
