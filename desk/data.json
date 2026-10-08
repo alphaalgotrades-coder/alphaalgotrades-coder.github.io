@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-08T22:30:04+00:00",
+ "generated_utc": "2026-10-08T22:35:04+00:00",
  "date_et": "2026-10-08",
  "build": "0d463cfe05",
  "tape": [
@@ -390,13 +390,13 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 90.99,
-    "pct": -0.55
+    "price": 91.06,
+    "pct": -0.47
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4160.8,
+    "price": 4160.9,
     "pct": 0.09
    },
    {
@@ -424,9 +424,9 @@
     "pct": 2.19
    }
   ],
-  "as_of": "2026-10-08T22:27:05.170426+00:00",
+  "as_of": "2026-10-08T22:33:04.993200+00:00",
   "tone": "risk-off",
-  "age_min": 2.997166833333333
+  "age_min": 1.9899218166666666
  },
  "stories": [
   {
@@ -445,9 +445,9 @@
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "Kremlin: Russia agrees with Rubio that Ukraine conflict is in a stalemate - Yahoo News Singapore",
-   "source": "Yahoo News Singapore",
-   "published": "Thu, 08 Oct 2026 21:00:58 GMT",
+   "title": "Kremlin: Russia agrees with Rubio that Ukraine conflict is in a stalemate - Reuters",
+   "source": "Reuters",
+   "published": "Thu, 08 Oct 2026 21:01:44 GMT",
    "read": "unclear"
   },
   {
@@ -465,11 +465,11 @@
    "read": "escalation"
   },
   {
-   "topic": "Russia / Ukraine",
-   "title": "Putin offers help to Iran to end Middle East war ahead of CIS summit - France 24",
-   "source": "France 24",
-   "published": "Thu, 08 Oct 2026 19:40:59 GMT",
-   "read": "de-escalation"
+   "topic": "Iran / Hormuz",
+   "title": "War in the Middle East Is Widening: What You Need to Know | National News | U.S. News - U.S. News &amp; World Report",
+   "source": "U.S. News &amp; World Report",
+   "published": "Thu, 08 Oct 2026 18:08:00 GMT",
+   "read": "escalation"
   }
  ],
  "ratings": [
