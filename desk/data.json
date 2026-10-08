@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-08T03:45:04+00:00",
+ "generated_utc": "2026-10-08T03:50:03+00:00",
  "date_et": "2026-10-07",
  "build": "0d463cfe05",
  "tape": [
@@ -127,7 +127,7 @@
    "title": "30-y Bond Auction",
    "cons": "",
    "prev": "4.08|3.8",
-   "actual": ""
+   "actual": "4.11|3.9"
   }
  ],
  "rates": {
@@ -363,20 +363,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 89.68,
-    "pct": 1.59
+    "price": 89.69,
+    "pct": 1.6
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4159.7,
-    "pct": 0.46
+    "price": 4160.7,
+    "pct": 0.48
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.268,
-    "pct": 0.03
+    "price": 102.25,
+    "pct": 0.01
    },
    {
     "sym": "SPY",
@@ -397,9 +397,9 @@
     "pct": 0.47
    }
   ],
-  "as_of": "2026-10-08T03:42:04.926977+00:00",
+  "as_of": "2026-10-08T03:48:05.282352+00:00",
   "tone": "mixed",
-  "age_min": 2.9908438499999996
+  "age_min": 1.9724530999999998
  },
  "stories": [
   {
