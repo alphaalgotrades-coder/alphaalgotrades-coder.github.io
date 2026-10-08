@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-08T22:50:03+00:00",
+ "generated_utc": "2026-10-08T22:55:03+00:00",
  "date_et": "2026-10-08",
  "build": "0d463cfe05",
  "tape": [
@@ -390,14 +390,14 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 91.03,
-    "pct": -0.5
+    "price": 91.04,
+    "pct": -0.49
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4163.5,
-    "pct": 0.16
+    "price": 4164.9,
+    "pct": 0.19
    },
    {
     "sym": "DXY",
@@ -424,9 +424,9 @@
     "pct": 2.19
    }
   ],
-  "as_of": "2026-10-08T22:48:05.543864+00:00",
+  "as_of": "2026-10-08T22:54:05.048175+00:00",
   "tone": "risk-off",
-  "age_min": 1.9758736666666665
+  "age_min": 0.98348315
  },
  "stories": [
   {
@@ -441,6 +441,13 @@
    "title": "Crude Prices Supported by Middle East Supply Concerns - TradingView",
    "source": "TradingView",
    "published": "Wed, 07 Oct 2026 15:40:45 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Putin pledges Russia\u2019s support to end US-led war on Iran - Al Jazeera",
+   "source": "Al Jazeera",
+   "published": "Thu, 08 Oct 2026 22:35:46 GMT",
    "read": "unclear"
   },
   {
@@ -462,13 +469,6 @@
    "title": "Oil Gains as Iran Reportedly Vows to Keep Hormuz Control - Yahoo Finance",
    "source": "Yahoo Finance",
    "published": "Thu, 08 Oct 2026 19:58:52 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "War in the Middle East Is Widening: What You Need to Know | National News | U.S. News - U.S. News &amp; World Report",
-   "source": "U.S. News &amp; World Report",
-   "published": "Thu, 08 Oct 2026 18:08:00 GMT",
    "read": "escalation"
   }
  ],
