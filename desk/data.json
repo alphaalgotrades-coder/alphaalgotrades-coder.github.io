@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-08T02:50:03+00:00",
+ "generated_utc": "2026-10-08T02:55:03+00:00",
  "date_et": "2026-10-07",
  "build": "0d463cfe05",
  "tape": [
@@ -363,20 +363,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 89.69,
-    "pct": 1.6
+    "price": 89.7,
+    "pct": 1.61
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4165.7,
-    "pct": 0.6
+    "price": 4165.3,
+    "pct": 0.59
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.203,
-    "pct": -0.04
+    "price": 102.207,
+    "pct": -0.03
    },
    {
     "sym": "SPY",
@@ -397,18 +397,11 @@
     "pct": 0.47
    }
   ],
-  "as_of": "2026-10-08T02:48:05.276062+00:00",
+  "as_of": "2026-10-08T02:54:05.475597+00:00",
   "tone": "mixed",
-  "age_min": 1.9656945499999998
+  "age_min": 0.9653429666666666
  },
  "stories": [
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran says response to US proposals aimed at ending war will be delivered through mediators - Anadolu Ajans\u0131",
-   "source": "Anadolu Ajans\u0131",
-   "published": "Wed, 07 Oct 2026 21:13:15 GMT",
-   "read": "unclear"
-  },
   {
    "topic": "Russia / Ukraine",
    "title": "Bookshelf: The closing of the Russian mind (doesn\u2019t bode well for the future) - The Strategist | ASPI's analysis and commentary site",
@@ -443,6 +436,13 @@
    "source": "TVP World",
    "published": "Wed, 07 Oct 2026 14:03:00 GMT",
    "read": "escalation"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Kremlin says France's test nuclear launch is part of 'dead end' anti-Russia strategy - Reuters",
+   "source": "Reuters",
+   "published": "Wed, 07 Oct 2026 11:33:44 GMT",
+   "read": "unclear"
   }
  ],
  "ratings": [
