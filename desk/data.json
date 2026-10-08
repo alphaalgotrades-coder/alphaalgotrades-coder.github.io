@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-08T09:50:04+00:00",
+ "generated_utc": "2026-10-08T09:55:04+00:00",
  "date_et": "2026-10-08",
  "build": "0d463cfe05",
  "tape": [
@@ -390,20 +390,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 91.62,
-    "pct": 3.78
+    "price": 91.83,
+    "pct": 4.02
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4147.5,
-    "pct": 0.16
+    "price": 4144.2,
+    "pct": 0.08
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.354,
-    "pct": 0.11
+    "price": 102.38,
+    "pct": 0.13
    },
    {
     "sym": "SPY",
@@ -420,22 +420,15 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 15.69,
-    "pct": 4.05
+    "price": 15.67,
+    "pct": 3.91
    }
   ],
-  "as_of": "2026-10-08T09:48:05.875612+00:00",
-  "tone": "risk-off",
-  "age_min": 1.97174405
+  "as_of": "2026-10-08T09:54:06.111419+00:00",
+  "tone": "mixed",
+  "age_min": 0.9721391333333333
  },
  "stories": [
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Russia slams Ukraine with missiles, drones on Putin's 74th birthday, at least 30 dead including 5 children - The Kyiv Independent",
-   "source": "The Kyiv Independent",
-   "published": "Wed, 07 Oct 2026 21:21:49 GMT",
-   "read": "escalation"
-  },
   {
    "topic": "Saudi / Gulf supply",
    "title": "Crude Prices Supported by Middle East Supply Concerns - TradingView",
@@ -469,6 +462,13 @@
    "title": "Rescuers pull bodies from rubble as Ukraine's death toll rises to 22 from a Russian missile strike - Audacy",
    "source": "Audacy",
    "published": "Thu, 08 Oct 2026 07:49:00 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Taiwan / China",
+   "title": "EXCLUSIVE: China militia boat spotted for first time off Taiwan's east coast, patrol finds - Reuters",
+   "source": "Reuters",
+   "published": "Thu, 08 Oct 2026 07:37:25 GMT",
    "read": "escalation"
   }
  ],
