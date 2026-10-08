@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-08T01:30:04+00:00",
+ "generated_utc": "2026-10-08T01:35:03+00:00",
  "date_et": "2026-10-07",
  "build": "0d463cfe05",
  "tape": [
@@ -363,13 +363,13 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 89.35,
-    "pct": 1.21
+    "price": 89.52,
+    "pct": 1.4
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4144.2,
+    "price": 4144.1,
     "pct": 0.08
    },
    {
@@ -397,9 +397,9 @@
     "pct": 0.47
    }
   ],
-  "as_of": "2026-10-08T01:27:05.210497+00:00",
+  "as_of": "2026-10-08T01:33:05.238120+00:00",
   "tone": "mixed",
-  "age_min": 2.98445245
+  "age_min": 1.9705943333333333
  },
  "stories": [
   {
@@ -414,6 +414,13 @@
    "title": "Bookshelf: The closing of the Russian mind (doesn\u2019t bode well for the future) - The Strategist | ASPI's analysis and commentary site",
    "source": "The Strategist | ASPI's analysis and commentary site",
    "published": "Wed, 07 Oct 2026 20:34:30 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "\u2018$100k-a-month captains\u2019: What it costs to move oil through Hormuz - Iran International",
+   "source": "Iran International",
+   "published": "Wed, 07 Oct 2026 19:23:10 GMT",
    "read": "unclear"
   },
   {
@@ -435,13 +442,6 @@
    "title": "Taiwan receives first US F-16V fighter jets amid rising tensions with China - Indonesia Business Post",
    "source": "Indonesia Business Post",
    "published": "Wed, 07 Oct 2026 14:33:27 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Putin upgrades his war on Ukraine\u2019s cities [ANALYSIS] - TVP World",
-   "source": "TVP World",
-   "published": "Wed, 07 Oct 2026 14:03:00 GMT",
    "read": "escalation"
   }
  ],
