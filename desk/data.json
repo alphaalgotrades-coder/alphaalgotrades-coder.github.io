@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-08T05:30:04+00:00",
+ "generated_utc": "2026-10-08T05:35:04+00:00",
  "date_et": "2026-10-08",
  "build": "0d463cfe05",
  "tape": [
@@ -390,20 +390,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 90.04,
-    "pct": 1.99
+    "price": 90.12,
+    "pct": 2.08
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4156.8,
-    "pct": 0.39
+    "price": 4154.5,
+    "pct": 0.33
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.224,
-    "pct": -0.02
+    "price": 102.238,
+    "pct": -0.0
    },
    {
     "sym": "SPY",
@@ -424,9 +424,9 @@
     "pct": 0.47
    }
   ],
-  "as_of": "2026-10-08T05:27:06.220884+00:00",
+  "as_of": "2026-10-08T05:33:06.183579+00:00",
   "tone": "mixed",
-  "age_min": 2.975336316666667
+  "age_min": 1.9711871
  },
  "stories": [
   {
@@ -441,13 +441,6 @@
    "title": "Crude Prices Supported by Middle East Supply Concerns - TradingView",
    "source": "TradingView",
    "published": "Wed, 07 Oct 2026 15:40:45 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Putin Humiliated as \u2018Inevitable\u2019 Victory Crumbles - The Daily Beast",
-   "source": "The Daily Beast",
-   "published": "Wed, 07 Oct 2026 15:34:48 GMT",
    "read": "unclear"
   },
   {
@@ -469,6 +462,13 @@
    "title": "Oil prices fall as IEA members agree to prioritize release of diesel stocks - CNBC",
    "source": "CNBC",
    "published": "Wed, 07 Oct 2026 02:09:00 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Saudi / Gulf supply",
+   "title": "Saudi East-West Pipeline Moves 5.8 Million Barrels as Red Sea Route Recovers - Crude Oil Prices Today | OilPrice.com",
+   "source": "Crude Oil Prices Today | OilPrice.com",
+   "published": "Tue, 06 Oct 2026 16:30:00 GMT",
    "read": "unclear"
   }
  ],
