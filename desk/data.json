@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-08T11:15:04+00:00",
+ "generated_utc": "2026-10-08T11:20:04+00:00",
  "date_et": "2026-10-08",
  "build": "0d463cfe05",
  "tape": [
@@ -161,66 +161,66 @@
   "rows": [
    {
     "series": "2Y",
-    "level": 4.836,
-    "d_day_bps": 4.6,
+    "level": 4.842,
+    "d_day_bps": 5.2,
     "lean": "hawkish",
     "source": "YAHOO_TSY_FUT_ZT",
     "latency": "after-hours-futures-proxy",
-    "snapshot_ts": "2026-10-08T11:02:00+00:00",
+    "snapshot_ts": "2026-10-08T11:06:00+00:00",
     "snapshot_date": "2026-10-08",
     "prior_day": "2026-10-06",
     "prior_day_close": 4.79,
     "spark": [
      4.8,
      4.802,
-     4.802,
+     4.804,
      4.804,
      4.802,
      4.802,
-     4.8,
+     4.804,
      4.806,
      4.806,
      4.81,
-     4.81,
+     4.812,
      4.812,
      4.812,
      4.812,
      4.814,
      4.816,
+     4.816,
      4.818,
-     4.818,
-     4.82,
+     4.822,
      4.822,
      4.816,
-     4.816,
-     4.822,
+     4.814,
      4.828,
      4.83,
      4.828,
-     4.832,
      4.828,
-     4.836,
-     4.836,
+     4.826,
      4.834,
      4.836,
-     4.838,
-     4.838,
-     4.838,
+     4.834,
+     4.834,
+     4.836,
+     4.836,
      4.838,
      4.84,
-     4.836,
+     4.84,
+     4.84,
+     4.838,
      4.838,
      4.836
     ]
    },
    {
     "series": "5Y",
-    "level": 5.088,
-    "d_day_bps": 6.0,
+    "level": 5.091,
+    "d_day_bps": 6.3,
     "lean": "hawkish",
     "source": "YAHOO_TSY_FUT_ZF",
     "latency": "after-hours-futures-proxy",
-    "snapshot_ts": "2026-10-08T11:02:00+00:00",
+    "snapshot_ts": "2026-10-08T11:05:00+00:00",
     "snapshot_date": "2026-10-08",
     "prior_day": "2026-10-06",
     "prior_day_close": 5.028,
@@ -246,35 +246,35 @@
      5.072,
      5.065,
      5.061,
-     5.06,
+     5.067,
      5.074,
-     5.074,
+     5.075,
      5.072,
-     5.072,
+     5.077,
      5.074,
      5.082,
      5.082,
      5.081,
      5.082,
+     5.082,
      5.084,
-     5.084,
-     5.086,
+     5.088,
      5.088,
      5.089,
      5.091,
      5.089,
      5.089,
-     5.088
+     5.091
     ]
    },
    {
     "series": "10Y",
-    "level": 5.333,
-    "d_day_bps": 6.4,
+    "level": 5.338,
+    "d_day_bps": 6.9,
     "lean": "hawkish",
     "source": "YAHOO_TSY_FUT_ZN",
     "latency": "after-hours-futures-proxy",
-    "snapshot_ts": "2026-10-08T11:02:00+00:00",
+    "snapshot_ts": "2026-10-08T11:05:00+00:00",
     "snapshot_date": "2026-10-08",
     "prior_day": "2026-10-06",
     "prior_day_close": 5.269,
@@ -300,25 +300,25 @@
      5.317,
      5.317,
      5.31,
-     5.308,
+     5.306,
      5.315,
      5.317,
      5.317,
      5.317,
      5.315,
-     5.32,
+     5.324,
      5.329,
-     5.329,
+     5.327,
      5.324,
      5.327,
      5.329,
-     5.331,
+     5.333,
      5.333,
      5.336,
      5.336,
      5.336,
      5.338,
-     5.336
+     5.338
     ]
    },
    {
@@ -328,7 +328,7 @@
     "lean": "hawkish",
     "source": "YAHOO_TSY_FUT_ZB",
     "latency": "after-hours-futures-proxy",
-    "snapshot_ts": "2026-10-08T11:01:00+00:00",
+    "snapshot_ts": "2026-10-08T11:05:00+00:00",
     "snapshot_date": "2026-10-08",
     "prior_day": "2026-10-06",
     "prior_day_close": 5.641,
@@ -354,17 +354,17 @@
      5.689,
      5.685,
      5.681,
-     5.677,
+     5.683,
      5.683,
      5.685,
      5.683,
-     5.685,
      5.687,
-     5.693,
+     5.687,
+     5.695,
      5.695,
      5.693,
      5.695,
-     5.693,
+     5.695,
      5.698,
      5.698,
      5.7,
@@ -376,7 +376,7 @@
     ]
    }
   ],
-  "as_of": "2026-10-08T11:02:00+00:00",
+  "as_of": "2026-10-08T11:06:00+00:00",
   "note": "after-hours-futures-proxy"
  },
  "strip": {
@@ -390,20 +390,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 92.71,
-    "pct": 5.02
+    "price": 92.74,
+    "pct": 5.05
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4144.2,
-    "pct": 0.08
+    "price": 4139.4,
+    "pct": -0.03
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.391,
-    "pct": 0.15
+    "price": 102.446,
+    "pct": 0.2
    },
    {
     "sym": "SPY",
@@ -420,13 +420,13 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 15.94,
-    "pct": 5.7
+    "price": 15.97,
+    "pct": 5.9
    }
   ],
-  "as_of": "2026-10-08T11:12:05.352788+00:00",
+  "as_of": "2026-10-08T11:18:05.965918+00:00",
   "tone": "risk-off",
-  "age_min": 2.9882386666666667
+  "age_min": 1.9759849166666668
  },
  "stories": [
   {
@@ -583,29 +583,29 @@
    {
     "code": "FR",
     "name": "France",
-    "level": 4.9603,
+    "level": 4.9525,
     "as_of": "2026-10-08",
-    "spread_bp": 142.6,
-    "d_day_bps": 10.6
+    "spread_bp": 142.1,
+    "d_day_bps": 9.8
    },
    {
     "code": "DE",
     "name": "Germany",
-    "level": 3.5345,
+    "level": 3.531,
     "as_of": "2026-10-08",
     "spread_bp": null,
-    "d_day_bps": 6.0
+    "d_day_bps": 5.7
    },
    {
     "code": "IT",
     "name": "Italy",
-    "level": 4.7219,
+    "level": 4.7146,
     "as_of": "2026-10-08",
-    "spread_bp": 118.7,
-    "d_day_bps": 8.2
+    "spread_bp": 118.4,
+    "d_day_bps": 7.5
    }
   ],
-  "bund": 3.5345,
+  "bund": 3.531,
   "note": "10-year government bonds; spread measured over Germany"
  },
  "auctions": {
