@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-08T07:50:04+00:00",
+ "generated_utc": "2026-10-08T07:55:03+00:00",
  "date_et": "2026-10-08",
  "build": "0d463cfe05",
  "tape": [
@@ -396,14 +396,14 @@
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4146.7,
-    "pct": 0.14
+    "price": 4143.0,
+    "pct": 0.06
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.31,
-    "pct": 0.07
+    "price": 102.307,
+    "pct": 0.06
    },
    {
     "sym": "SPY",
@@ -420,15 +420,22 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 15.63,
-    "pct": 3.65
+    "price": 15.61,
+    "pct": 3.51
    }
   ],
-  "as_of": "2026-10-08T07:48:04.782319+00:00",
+  "as_of": "2026-10-08T07:54:05.257923+00:00",
   "tone": "mixed",
-  "age_min": 1.9932231
+  "age_min": 0.9805956166666667
  },
  "stories": [
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Russia slams Ukraine with missiles, drones on Putin's 74th birthday, at least 30 dead including 5 children - The Kyiv Independent",
+   "source": "The Kyiv Independent",
+   "published": "Wed, 07 Oct 2026 21:21:49 GMT",
+   "read": "escalation"
+  },
   {
    "topic": "Russia / Ukraine",
    "title": "Bookshelf: The closing of the Russian mind (doesn\u2019t bode well for the future) - The Strategist | ASPI's analysis and commentary site",
@@ -449,13 +456,6 @@
    "source": "TVP World",
    "published": "Wed, 07 Oct 2026 14:03:00 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Kremlin says France's test nuclear launch is part of 'dead end' anti-Russia strategy - Reuters",
-   "source": "Reuters",
-   "published": "Wed, 07 Oct 2026 11:33:44 GMT",
-   "read": "unclear"
   },
   {
    "topic": "Saudi / Gulf supply",
