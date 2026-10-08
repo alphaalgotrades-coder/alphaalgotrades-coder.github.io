@@ -1,133 +1,160 @@
 {
- "generated_utc": "2026-10-08T03:55:03+00:00",
- "date_et": "2026-10-07",
+ "generated_utc": "2026-10-08T04:00:04+00:00",
+ "date_et": "2026-10-08",
  "build": "0d463cfe05",
  "tape": [
   {
    "time": "01:00",
    "ccy": "JPY",
    "impact": "Low",
-   "title": "Leading Indicators",
-   "cons": "118.1%",
-   "prev": "117.9%",
-   "actual": "118.0%"
+   "title": "Economy Watchers Sentiment",
+   "cons": "46.7",
+   "prev": "46.4",
+   "actual": ""
   },
   {
    "time": "02:00",
    "ccy": "EUR",
    "impact": "Low",
-   "title": "German Industrial Production m/m",
-   "cons": "0.5%",
-   "prev": "-1.1%",
-   "actual": "2.0%"
+   "title": "German Trade Balance",
+   "cons": "19.0B",
+   "prev": "21.3B",
+   "actual": ""
   },
   {
-   "time": "02:00",
-   "ccy": "GBP",
-   "impact": "Low",
-   "title": "Lloyds HPI m/m",
-   "cons": "0.0%",
-   "prev": "-0.2%",
-   "actual": "0.0%"
-  },
-  {
-   "time": "02:45",
-   "ccy": "EUR",
-   "impact": "Low",
-   "title": "French Trade Balance",
-   "cons": "-6.5B",
-   "prev": "-6.7B",
-   "actual": "-6.1B"
-  },
-  {
-   "time": "03:00",
+   "time": "04:05",
    "ccy": "CHF",
    "impact": "Low",
-   "title": "Foreign Currency Reserves",
+   "title": "Gov Board Member Martin Speaks",
    "cons": "",
-   "prev": "770B",
-   "actual": "770B"
+   "prev": "",
+   "actual": ""
+  },
+  {
+   "time": "04:30",
+   "ccy": "GBP",
+   "impact": "Low",
+   "title": "BOE Credit Conditions Survey",
+   "cons": "",
+   "prev": "",
+   "actual": ""
+  },
+  {
+   "time": "04:30",
+   "ccy": "USD",
+   "impact": "Medi",
+   "title": "FOMC Member Waller Speaks",
+   "cons": "",
+   "prev": "",
+   "actual": ""
+  },
+  {
+   "time": "05:00",
+   "ccy": "GBP",
+   "impact": "Low",
+   "title": "MPC Member Pill Speaks",
+   "cons": "",
+   "prev": "",
+   "actual": ""
+  },
+  {
+   "time": "05:15",
+   "ccy": "GBP",
+   "impact": "Low",
+   "title": "MPC Member Greene Speaks",
+   "cons": "",
+   "prev": "",
+   "actual": ""
+  },
+  {
+   "time": "05:15",
+   "ccy": "EUR",
+   "impact": "Low",
+   "title": "Eurogroup Meetings",
+   "cons": "",
+   "prev": "",
+   "actual": ""
+  },
+  {
+   "time": "07:30",
+   "ccy": "EUR",
+   "impact": "Low",
+   "title": "ECB Monetary Policy Meeting Accounts",
+   "cons": "",
+   "prev": "",
+   "actual": ""
+  },
+  {
+   "time": "08:15",
+   "ccy": "GBP",
+   "impact": "High",
+   "title": "BOE Gov Bailey Speaks",
+   "cons": "",
+   "prev": "",
+   "actual": ""
+  },
+  {
+   "time": "08:30",
+   "ccy": "USD",
+   "impact": "High",
+   "title": "Unemployment Claims",
+   "cons": "200K",
+   "prev": "197K",
+   "actual": ""
+  },
+  {
+   "time": "09:00",
+   "ccy": "GBP",
+   "impact": "Low",
+   "title": "MPC Member Lombardelli Speaks",
+   "cons": "",
+   "prev": "",
+   "actual": ""
+  },
+  {
+   "time": "10:00",
+   "ccy": "USD",
+   "impact": "Low",
+   "title": "Final Wholesale Inventories m/m",
+   "cons": "0.7%",
+   "prev": "0.7%",
+   "actual": ""
   },
   {
    "time": "10:30",
    "ccy": "USD",
    "impact": "Low",
-   "title": "Crude Oil Inventories",
-   "cons": "1.9M",
-   "prev": "0.9M",
-   "actual": "-3.2M"
-  },
-  {
-   "time": "13:00",
-   "ccy": "USD",
-   "impact": "Medi",
-   "title": "President Trump Speaks",
-   "cons": "",
-   "prev": "",
+   "title": "Natural Gas Storage",
+   "cons": "79B",
+   "prev": "64B",
    "actual": ""
   },
   {
    "time": "13:01",
    "ccy": "USD",
    "impact": "Low",
-   "title": "10-y Bond Auction",
+   "title": "30-y Bond Auction",
    "cons": "",
-   "prev": "4.83|2.7",
-   "actual": "5.30|2.8"
+   "prev": "5.31|2.6",
+   "actual": ""
   },
   {
-   "time": "14:00",
+   "time": "13:40",
    "ccy": "USD",
-   "impact": "High",
-   "title": "FOMC Meeting Minutes",
+   "impact": "Low",
+   "title": "FOMC Member Musalem Speaks",
    "cons": "",
    "prev": "",
    "actual": ""
   },
   {
-   "time": "15:00",
-   "ccy": "USD",
-   "impact": "Low",
-   "title": "Consumer Credit m/m",
-   "cons": "14.5B",
-   "prev": "18.1B",
-   "actual": "8.3B"
-  },
-  {
-   "time": "19:01",
-   "ccy": "GBP",
-   "impact": "Low",
-   "title": "RICS House Price Balance",
-   "cons": "-30%",
-   "prev": "-28%",
-   "actual": "-32%"
-  },
-  {
-   "time": "19:50",
+   "time": "19:30",
    "ccy": "JPY",
    "impact": "Low",
-   "title": "Current Account",
-   "cons": "2.14T",
-   "prev": "2.52T",
-   "actual": "2.98T"
-  },
-  {
-   "time": "20:00",
-   "ccy": "AUD",
-   "impact": "Low",
-   "title": "MI Inflation Expectations",
-   "cons": "",
-   "prev": "4.9%",
-   "actual": "5.3%"
-  },
-  {
-   "time": "23:35",
-   "ccy": "JPY",
-   "impact": "Low",
-   "title": "30-y Bond Auction",
-   "cons": "",
-   "prev": "4.08|3.8",
-   "actual": "4.11|3.9"
+   "title": "Household Spending y/y",
+   "cons": "-3.5%",
+   "prev": "-3.6%",
+   "actual": ""
   }
  ],
  "rates": {
@@ -363,19 +390,19 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 89.73,
-    "pct": 1.64
+    "price": 89.68,
+    "pct": 1.59
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4160.2,
-    "pct": 0.47
+    "price": 4162.1,
+    "pct": 0.52
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.237,
+    "price": 102.238,
     "pct": -0.0
    },
    {
@@ -397,9 +424,9 @@
     "pct": 0.47
    }
   ],
-  "as_of": "2026-10-08T03:54:05.258680+00:00",
+  "as_of": "2026-10-08T03:57:05.673003+00:00",
   "tone": "mixed",
-  "age_min": 0.9703360666666666
+  "age_min": 2.981082616666667
  },
  "stories": [
   {
