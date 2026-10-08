@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-08T00:00:05+00:00",
+ "generated_utc": "2026-10-08T00:03:01+00:00",
  "date_et": "2026-10-07",
  "build": "0d463cfe05",
  "tape": [
@@ -109,7 +109,7 @@
    "title": "Current Account",
    "cons": "2.14T",
    "prev": "2.52T",
-   "actual": ""
+   "actual": "2.98T"
   },
   {
    "time": "20:00",
@@ -118,7 +118,7 @@
    "title": "MI Inflation Expectations",
    "cons": "",
    "prev": "4.9%",
-   "actual": ""
+   "actual": "5.3%"
   },
   {
    "time": "23:35",
@@ -363,20 +363,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 88.91,
-    "pct": 0.71
+    "price": 88.92,
+    "pct": 0.72
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4136.3,
-    "pct": -0.11
+    "price": 4134.9,
+    "pct": -0.14
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.219,
-    "pct": -0.02
+    "price": 102.229,
+    "pct": -0.01
    },
    {
     "sym": "SPY",
@@ -397,9 +397,9 @@
     "pct": 0.47
    }
   ],
-  "as_of": "2026-10-07T23:57:05.347749+00:00",
+  "as_of": "2026-10-08T00:00:07.652243+00:00",
   "tone": "mixed",
-  "age_min": 2.996731883333333
+  "age_min": 2.9062379666666667
  },
  "stories": [
   {
