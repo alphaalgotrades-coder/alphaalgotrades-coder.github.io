@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-08T08:10:04+00:00",
+ "generated_utc": "2026-10-08T08:15:04+00:00",
  "date_et": "2026-10-08",
  "build": "0d463cfe05",
  "tape": [
@@ -390,20 +390,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 91.76,
-    "pct": 3.94
+    "price": 91.59,
+    "pct": 3.75
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4142.9,
-    "pct": 0.05
+    "price": 4145.0,
+    "pct": 0.1
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.303,
-    "pct": 0.06
+    "price": 102.29,
+    "pct": 0.05
    },
    {
     "sym": "SPY",
@@ -420,13 +420,13 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 15.61,
-    "pct": 3.51
+    "price": 15.64,
+    "pct": 3.71
    }
   ],
-  "as_of": "2026-10-08T08:09:05.544199+00:00",
+  "as_of": "2026-10-08T08:12:04.744495+00:00",
   "tone": "mixed",
-  "age_min": 1.0360851333333332
+  "age_min": 3.00486
  },
  "stories": [
   {
@@ -451,13 +451,6 @@
    "read": "unclear"
   },
   {
-   "topic": "Russia / Ukraine",
-   "title": "Putin upgrades his war on Ukraine\u2019s cities [ANALYSIS] - TVP World",
-   "source": "TVP World",
-   "published": "Wed, 07 Oct 2026 14:03:00 GMT",
-   "read": "escalation"
-  },
-  {
    "topic": "Saudi / Gulf supply",
    "title": "Oil prices fall as IEA members agree to prioritize release of diesel stocks - CNBC",
    "source": "CNBC",
@@ -470,6 +463,13 @@
    "source": "Crude Oil Prices Today | OilPrice.com",
    "published": "Tue, 06 Oct 2026 16:30:00 GMT",
    "read": "unclear"
+  },
+  {
+   "topic": "Taiwan / China",
+   "title": "EXCLUSIVE: China militia boat spotted for first time off Taiwan's east coast, patrol finds - Reuters",
+   "source": "Reuters",
+   "published": "Thu, 08 Oct 2026 07:37:25 GMT",
+   "read": "escalation"
   }
  ],
  "ratings": [
