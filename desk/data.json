@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-08T21:50:03+00:00",
+ "generated_utc": "2026-10-08T21:55:04+00:00",
  "date_et": "2026-10-08",
  "build": "0d463cfe05",
  "tape": [
@@ -391,13 +391,13 @@
     "sym": "CL",
     "name": "WTI crude futures",
     "price": 91.18,
-    "pct": 3.29
+    "pct": -0.34
    },
    {
     "sym": "GC",
     "name": "Gold futures",
     "price": 4158.3,
-    "pct": 0.43
+    "pct": 0.03
    },
    {
     "sym": "DXY",
@@ -424,9 +424,9 @@
     "pct": 2.19
    }
   ],
-  "as_of": "2026-10-08T21:48:05.041532+00:00",
+  "as_of": "2026-10-08T21:54:05.171004+00:00",
   "tone": "risk-off",
-  "age_min": 1.98335145
+  "age_min": 0.9849332000000001
  },
  "stories": [
   {
@@ -459,9 +459,9 @@
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Oil Surges as Iran Tanker Attacks Escalate - Rigzone",
-   "source": "Rigzone",
-   "published": "Thu, 08 Oct 2026 20:14:17 GMT",
+   "title": "Heavy explosions in Strait of Hormuz as tankers may have hit mines: Iran\u2019s state broadcaster - Anadolu Ajans\u0131",
+   "source": "Anadolu Ajans\u0131",
+   "published": "Thu, 08 Oct 2026 20:39:36 GMT",
    "read": "escalation"
   },
   {
