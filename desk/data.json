@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-08T10:30:05+00:00",
+ "generated_utc": "2026-10-08T10:35:04+00:00",
  "date_et": "2026-10-08",
  "build": "0d463cfe05",
  "tape": [
@@ -166,7 +166,7 @@
     "lean": "hawkish",
     "source": "YAHOO_TSY_FUT_ZT",
     "latency": "after-hours-futures-proxy",
-    "snapshot_ts": "2026-10-08T10:18:00+00:00",
+    "snapshot_ts": "2026-10-08T10:20:00+00:00",
     "snapshot_date": "2026-10-08",
     "prior_day": "2026-10-06",
     "prior_day_close": 4.79,
@@ -181,9 +181,9 @@
      4.8,
      4.806,
      4.806,
-     4.806,
      4.81,
      4.81,
+     4.812,
      4.812,
      4.812,
      4.812,
@@ -192,35 +192,35 @@
      4.816,
      4.818,
      4.818,
-     4.822,
-     4.822,
-     4.822,
+     4.82,
+     4.824,
+     4.818,
      4.816,
-     4.816,
-     4.814,
+     4.818,
+     4.822,
      4.828,
      4.83,
      4.828,
      4.828,
-     4.832,
-     4.828,
-     4.834,
+     4.826,
+     4.83,
      4.836,
      4.836,
      4.834,
+     4.834,
      4.836,
-     4.836,
-     4.836
+     4.838,
+     4.838
     ]
    },
    {
     "series": "5Y",
-    "level": 5.084,
-    "d_day_bps": 5.6,
+    "level": 5.086,
+    "d_day_bps": 5.8,
     "lean": "hawkish",
     "source": "YAHOO_TSY_FUT_ZF",
     "latency": "after-hours-futures-proxy",
-    "snapshot_ts": "2026-10-08T10:18:00+00:00",
+    "snapshot_ts": "2026-10-08T10:21:00+00:00",
     "snapshot_date": "2026-10-08",
     "prior_day": "2026-10-06",
     "prior_day_close": 5.028,
@@ -240,19 +240,18 @@
      5.058,
      5.058,
      5.058,
-     5.058,
-     5.061,
-     5.063,
-     5.063,
-     5.063,
-     5.061,
-     5.067,
-     5.07,
-     5.068,
+     5.06,
      5.061,
      5.061,
      5.06,
+     5.061,
+     5.063,
+     5.068,
      5.072,
+     5.065,
+     5.061,
+     5.061,
+     5.067,
      5.077,
      5.075,
      5.072,
@@ -264,7 +263,8 @@
      5.081,
      5.081,
      5.082,
-     5.082
+     5.082,
+     5.084
     ]
    },
    {
@@ -274,7 +274,7 @@
     "lean": "hawkish",
     "source": "YAHOO_TSY_FUT_ZN",
     "latency": "after-hours-futures-proxy",
-    "snapshot_ts": "2026-10-08T10:18:00+00:00",
+    "snapshot_ts": "2026-10-08T10:22:00+00:00",
     "snapshot_date": "2026-10-08",
     "prior_day": "2026-10-06",
     "prior_day_close": 5.269,
@@ -287,48 +287,48 @@
      5.292,
      5.29,
      5.29,
-     5.294,
      5.297,
      5.297,
+     5.301,
      5.304,
      5.304,
      5.304,
      5.306,
      5.308,
-     5.31,
+     5.313,
      5.313,
      5.308,
+     5.308,
      5.31,
-     5.308,
+     5.315,
+     5.317,
      5.313,
-     5.317,
-     5.317,
-     5.308,
      5.308,
      5.306,
+     5.315,
      5.317,
-     5.317,
-     5.317,
-     5.317,
-     5.322,
      5.32,
+     5.315,
+     5.317,
+     5.315,
      5.324,
      5.329,
      5.329,
      5.327,
      5.329,
      5.327,
-     5.329
+     5.329,
+     5.331
     ]
    },
    {
     "series": "30Y",
-    "level": 5.696,
-    "d_day_bps": 5.5,
+    "level": 5.698,
+    "d_day_bps": 5.7,
     "lean": "hawkish",
     "source": "YAHOO_TSY_FUT_ZB",
     "latency": "after-hours-futures-proxy",
-    "snapshot_ts": "2026-10-08T10:18:00+00:00",
+    "snapshot_ts": "2026-10-08T10:22:00+00:00",
     "snapshot_date": "2026-10-08",
     "prior_day": "2026-10-06",
     "prior_day_close": 5.641,
@@ -343,27 +343,26 @@
      5.672,
      5.673,
      5.675,
-     5.675,
      5.679,
      5.679,
+     5.681,
      5.683,
      5.683,
      5.687,
      5.687,
-     5.689,
-     5.685,
+     5.691,
      5.685,
      5.683,
      5.685,
-     5.689,
-     5.685,
+     5.687,
+     5.687,
      5.681,
      5.681,
+     5.677,
      5.683,
+     5.687,
+     5.685,
      5.683,
-     5.685,
-     5.685,
-     5.685,
      5.687,
      5.687,
      5.693,
@@ -372,11 +371,12 @@
      5.693,
      5.695,
      5.693,
-     5.695
+     5.695,
+     5.696
     ]
    }
   ],
-  "as_of": "2026-10-08T10:18:00+00:00",
+  "as_of": "2026-10-08T10:20:00+00:00",
   "note": "after-hours-futures-proxy"
  },
  "strip": {
@@ -390,20 +390,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 91.95,
-    "pct": 4.16
+    "price": 92.02,
+    "pct": 4.24
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4146.9,
-    "pct": 0.15
+    "price": 4145.7,
+    "pct": 0.12
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.411,
-    "pct": 0.17
+    "price": 102.4,
+    "pct": 0.15
    },
    {
     "sym": "SPY",
@@ -420,13 +420,13 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 15.72,
-    "pct": 4.24
+    "price": 15.74,
+    "pct": 4.38
    }
   ],
-  "as_of": "2026-10-08T10:27:05.190642+00:00",
+  "as_of": "2026-10-08T10:33:05.311956+00:00",
   "tone": "risk-off",
-  "age_min": 3.0050246166666668
+  "age_min": 1.9848897
  },
  "stories": [
   {
@@ -452,23 +452,23 @@
   },
   {
    "topic": "Taiwan / China",
-   "title": "China militia boat spotted off Taiwan\u2019s east coast for first time: Report - inkl",
-   "source": "inkl",
+   "title": "First Chinese Militia Boat Spotted Off Taiwan\u2019s East Coast - Arise News",
+   "source": "Arise News",
+   "published": "Thu, 08 Oct 2026 10:26:51 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Taiwan / China",
+   "title": "From fishing nets to grey-zone tactics: Chinese militia boat enter Taiwan\u2019s sensitive east coast - report - The Times of India",
+   "source": "The Times of India",
    "published": "Thu, 08 Oct 2026 09:41:00 GMT",
    "read": "escalation"
   },
   {
-   "topic": "Russia / Ukraine",
-   "title": "35 killed in Russian attacks on Ukraine - The Arkansas Democrat-Gazette",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": "Thu, 08 Oct 2026 08:25:00 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Rescuers pull bodies from rubble as Ukraine's death toll rises to 22 from a Russian missile strike - Audacy",
-   "source": "Audacy",
-   "published": "Thu, 08 Oct 2026 07:49:00 GMT",
+   "topic": "Taiwan / China",
+   "title": "China militia boat spotted off Taiwan\u2019s east coast for first time: Report - inkl",
+   "source": "inkl",
+   "published": "Thu, 08 Oct 2026 09:41:00 GMT",
    "read": "escalation"
   }
  ],
@@ -583,29 +583,29 @@
    {
     "code": "FR",
     "name": "France",
-    "level": 4.9515,
+    "level": 4.9597,
     "as_of": "2026-10-08",
-    "spread_bp": 142.8,
-    "d_day_bps": 9.7
+    "spread_bp": 143.3,
+    "d_day_bps": 10.6
    },
    {
     "code": "DE",
     "name": "Germany",
-    "level": 3.5236,
+    "level": 3.5268,
     "as_of": "2026-10-08",
     "spread_bp": null,
-    "d_day_bps": 4.9
+    "d_day_bps": 5.3
    },
    {
     "code": "IT",
     "name": "Italy",
-    "level": 4.7305,
+    "level": 4.7407,
     "as_of": "2026-10-08",
-    "spread_bp": 120.7,
-    "d_day_bps": 9.1
+    "spread_bp": 121.4,
+    "d_day_bps": 10.1
    }
   ],
-  "bund": 3.5236,
+  "bund": 3.5268,
   "note": "10-year government bonds; spread measured over Germany"
  },
  "auctions": {
