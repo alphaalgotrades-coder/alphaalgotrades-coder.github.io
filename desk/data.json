@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-08T22:10:03+00:00",
+ "generated_utc": "2026-10-08T22:15:04+00:00",
  "date_et": "2026-10-08",
  "build": "0d463cfe05",
  "tape": [
@@ -390,20 +390,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 91.18,
-    "pct": -0.34
+    "price": 91.12,
+    "pct": -0.4
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4158.3,
-    "pct": 0.03
+    "price": 4159.3,
+    "pct": 0.06
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.102,
-    "pct": -0.14
+    "price": 102.121,
+    "pct": -0.12
    },
    {
     "sym": "SPY",
@@ -424,9 +424,9 @@
     "pct": 2.19
    }
   ],
-  "as_of": "2026-10-08T22:09:05.476697+00:00",
+  "as_of": "2026-10-08T22:12:05.188606+00:00",
   "tone": "risk-off",
-  "age_min": 0.9764735166666667
+  "age_min": 2.9928116166666663
  },
  "stories": [
   {
@@ -441,13 +441,6 @@
    "title": "Crude Prices Supported by Middle East Supply Concerns - TradingView",
    "source": "TradingView",
    "published": "Wed, 07 Oct 2026 15:40:45 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Saudi / Gulf supply",
-   "title": "Oil prices fall as IEA members agree to prioritize release of diesel stocks - CNBC",
-   "source": "CNBC",
-   "published": "Wed, 07 Oct 2026 02:09:00 GMT",
    "read": "unclear"
   },
   {
@@ -470,6 +463,13 @@
    "source": "Yahoo Finance",
    "published": "Thu, 08 Oct 2026 19:58:52 GMT",
    "read": "escalation"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Putin offers help to Iran to end Middle East war ahead of CIS summit - France 24",
+   "source": "France 24",
+   "published": "Thu, 08 Oct 2026 19:40:59 GMT",
+   "read": "de-escalation"
   }
  ],
  "ratings": [
