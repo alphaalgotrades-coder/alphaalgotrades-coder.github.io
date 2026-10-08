@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-08T00:50:03+00:00",
+ "generated_utc": "2026-10-08T00:55:03+00:00",
  "date_et": "2026-10-07",
  "build": "0d463cfe05",
  "tape": [
@@ -363,20 +363,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 89.06,
-    "pct": 0.88
+    "price": 89.25,
+    "pct": 1.1
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4133.4,
-    "pct": -0.18
+    "price": 4130.0,
+    "pct": -0.26
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.245,
-    "pct": 0.0
+    "price": 102.241,
+    "pct": -0.0
    },
    {
     "sym": "SPY",
@@ -397,9 +397,9 @@
     "pct": 0.47
    }
   ],
-  "as_of": "2026-10-08T00:48:05.298012+00:00",
+  "as_of": "2026-10-08T00:54:05.123693+00:00",
   "tone": "mixed",
-  "age_min": 1.9698429833333333
+  "age_min": 0.9739479000000001
  },
  "stories": [
   {
@@ -424,13 +424,6 @@
    "read": "unclear"
   },
   {
-   "topic": "Iran / Hormuz",
-   "title": "The Geopolitical Earthquake of the Iran War - Foreign Policy in Focus",
-   "source": "Foreign Policy in Focus",
-   "published": "Wed, 07 Oct 2026 17:47:57 GMT",
-   "read": "unclear"
-  },
-  {
    "topic": "Taiwan / China",
    "title": "Taiwan versus China - Philstar.com",
    "source": "Philstar.com",
@@ -442,6 +435,13 @@
    "title": "Crude Prices Supported by Middle East Supply Concerns - TradingView",
    "source": "TradingView",
    "published": "Wed, 07 Oct 2026 15:40:45 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Putin Humiliated as \u2018Inevitable\u2019 Victory Crumbles - The Daily Beast",
+   "source": "The Daily Beast",
+   "published": "Wed, 07 Oct 2026 15:34:48 GMT",
    "read": "unclear"
   }
  ],
