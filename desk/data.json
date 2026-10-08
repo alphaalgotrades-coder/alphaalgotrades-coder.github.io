@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-08T23:30:04+00:00",
+ "generated_utc": "2026-10-08T23:35:04+00:00",
  "date_et": "2026-10-08",
  "build": "0d463cfe05",
  "tape": [
@@ -390,14 +390,14 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 91.14,
-    "pct": -0.38
+    "price": 91.18,
+    "pct": -0.34
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4165.5,
-    "pct": 0.2
+    "price": 4168.1,
+    "pct": 0.27
    },
    {
     "sym": "DXY",
@@ -424,9 +424,9 @@
     "pct": 2.19
    }
   ],
-  "as_of": "2026-10-08T23:27:05.373395+00:00",
+  "as_of": "2026-10-08T23:33:05.079304+00:00",
   "tone": "risk-off",
-  "age_min": 2.98726145
+  "age_min": 1.9863402333333333
  },
  "stories": [
   {
@@ -452,24 +452,24 @@
   },
   {
    "topic": "Russia / Ukraine",
+   "title": "Kremlin: Russia Agrees with Rubio that Ukraine Conflict is at a Stalemate - Nacionale News",
+   "source": "Nacionale News",
+   "published": "Thu, 08 Oct 2026 22:00:20 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Kremlin's Peskov agrees with Marco Rubio about Ukraine stalemate - The Jerusalem Post",
+   "source": "The Jerusalem Post",
+   "published": "Thu, 08 Oct 2026 21:22:54 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Russia / Ukraine",
    "title": "Kremlin: Russia agrees with Rubio that Ukraine conflict is in a stalemate - Reuters",
    "source": "Reuters",
    "published": "Thu, 08 Oct 2026 21:01:44 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Heavy explosions in Strait of Hormuz as tankers may have hit mines: Iran\u2019s state broadcaster - Anadolu Ajans\u0131",
-   "source": "Anadolu Ajans\u0131",
-   "published": "Thu, 08 Oct 2026 20:39:36 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Oil Gains as Iran Reportedly Vows to Keep Hormuz Control - Yahoo Finance",
-   "source": "Yahoo Finance",
-   "published": "Thu, 08 Oct 2026 19:58:52 GMT",
-   "read": "escalation"
   }
  ],
  "ratings": [
