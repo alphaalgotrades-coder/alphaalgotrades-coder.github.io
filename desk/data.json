@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-08T01:10:03+00:00",
+ "generated_utc": "2026-10-08T01:15:04+00:00",
  "date_et": "2026-10-07",
  "build": "0d463cfe05",
  "tape": [
@@ -363,20 +363,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 89.13,
-    "pct": 0.96
+    "price": 89.1,
+    "pct": 0.93
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4143.9,
-    "pct": 0.08
+    "price": 4153.0,
+    "pct": 0.3
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.247,
-    "pct": 0.0
+    "price": 102.249,
+    "pct": 0.01
    },
    {
     "sym": "SPY",
@@ -397,9 +397,9 @@
     "pct": 0.47
    }
   ],
-  "as_of": "2026-10-08T01:09:13.030949+00:00",
+  "as_of": "2026-10-08T01:12:05.412554+00:00",
   "tone": "mixed",
-  "age_min": 0.8425299666666667
+  "age_min": 2.97935955
  },
  "stories": [
   {
@@ -417,20 +417,6 @@
    "read": "unclear"
   },
   {
-   "topic": "Taiwan / China",
-   "title": "America\u2019s commitment to Taiwan is a liability - Defense Priorities",
-   "source": "Defense Priorities",
-   "published": "Wed, 07 Oct 2026 19:27:06 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Taiwan / China",
-   "title": "Taiwan versus China - Philstar.com",
-   "source": "Philstar.com",
-   "published": "Wed, 07 Oct 2026 16:00:00 GMT",
-   "read": "unclear"
-  },
-  {
    "topic": "Saudi / Gulf supply",
    "title": "Crude Prices Supported by Middle East Supply Concerns - TradingView",
    "source": "TradingView",
@@ -443,6 +429,20 @@
    "source": "The Daily Beast",
    "published": "Wed, 07 Oct 2026 15:34:48 GMT",
    "read": "unclear"
+  },
+  {
+   "topic": "Taiwan / China",
+   "title": "Taiwan receives first US F-16V fighter jets amid rising tensions with China - Indonesia Business Post",
+   "source": "Indonesia Business Post",
+   "published": "Wed, 07 Oct 2026 14:33:27 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Putin upgrades his war on Ukraine\u2019s cities [ANALYSIS] - TVP World",
+   "source": "TVP World",
+   "published": "Wed, 07 Oct 2026 14:03:00 GMT",
+   "read": "escalation"
   }
  ],
  "ratings": [
