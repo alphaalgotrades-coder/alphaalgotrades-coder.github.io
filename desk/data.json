@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-09T04:20:03+00:00",
+ "generated_utc": "2026-10-09T04:25:03+00:00",
  "date_et": "2026-10-09",
  "build": "0d463cfe05",
  "tape": [
@@ -318,20 +318,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 90.39,
-    "pct": -1.2
+    "price": 90.37,
+    "pct": -1.22
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4203.1,
-    "pct": 1.11
+    "price": 4203.8,
+    "pct": 1.13
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.015,
-    "pct": -0.12
+    "price": 102.029,
+    "pct": -0.11
    },
    {
     "sym": "SPY",
@@ -352,9 +352,9 @@
     "pct": 2.19
    }
   ],
-  "as_of": "2026-10-09T04:18:04.944686+00:00",
+  "as_of": "2026-10-09T04:24:05.581835+00:00",
   "tone": "risk-off",
-  "age_min": 1.9830881
+  "age_min": 0.9735647833333334
  },
  "stories": [
   {
@@ -537,28 +537,9 @@
   "note": "10-year government bonds; spread measured over Germany"
  },
  "auctions": {
-  "rows": [
-   {
-    "date": "2026-10-13",
-    "type": "Bill",
-    "term": "13-Week",
-    "amount_bn": 95.0
-   },
-   {
-    "date": "2026-10-13",
-    "type": "Bill",
-    "term": "6-Week",
-    "amount_bn": 95.0
-   },
-   {
-    "date": "2026-10-13",
-    "type": "Bill",
-    "term": "26-Week",
-    "amount_bn": 82.0
-   }
-  ],
-  "total_bn": 272.0,
-  "note": "TreasuryDirect, announced offerings"
+  "rows": [],
+  "total": null,
+  "note": "unavailable (URLError)"
  },
  "book": {
   "as_of_et": "00:05",
