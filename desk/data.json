@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-09T00:10:04+00:00",
+ "generated_utc": "2026-10-09T00:15:04+00:00",
  "date_et": "2026-10-08",
  "build": "0d463cfe05",
  "tape": [
@@ -390,19 +390,19 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 91.16,
-    "pct": -0.36
+    "price": 91.33,
+    "pct": -0.17
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4169.2,
-    "pct": 0.29
+    "price": 4173.8,
+    "pct": 0.4
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.125,
+    "price": 102.131,
     "pct": -0.01
    },
    {
@@ -424,9 +424,9 @@
     "pct": 2.19
    }
   ],
-  "as_of": "2026-10-09T00:09:05.701179+00:00",
+  "as_of": "2026-10-09T00:12:08.837272+00:00",
   "tone": "risk-off",
-  "age_min": 0.9747771833333334
+  "age_min": 2.933924816666667
  },
  "stories": [
   {
@@ -441,6 +441,13 @@
    "title": "Crude Prices Supported by Middle East Supply Concerns - TradingView",
    "source": "TradingView",
    "published": "Wed, 07 Oct 2026 15:40:45 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Ex-German Chancellor Schr\u00f6der attends Putin's birthday bash - DW.com",
+   "source": "DW.com",
+   "published": "Thu, 08 Oct 2026 22:58:14 GMT",
    "read": "unclear"
   },
   {
@@ -462,13 +469,6 @@
    "title": "Kremlin's Peskov agrees with Marco Rubio about Ukraine stalemate - The Jerusalem Post",
    "source": "The Jerusalem Post",
    "published": "Thu, 08 Oct 2026 21:22:54 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Kremlin: Russia agrees with Rubio that Ukraine conflict is in a stalemate - Reuters",
-   "source": "Reuters",
-   "published": "Thu, 08 Oct 2026 21:01:44 GMT",
    "read": "unclear"
   }
  ],
