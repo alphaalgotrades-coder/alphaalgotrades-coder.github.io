@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-09T23:30:03+00:00",
+ "generated_utc": "2026-10-09T23:35:03+00:00",
  "date_et": "2026-10-09",
  "build": "0d463cfe05",
  "tape": [
@@ -352,9 +352,9 @@
     "pct": -3.7
    }
   ],
-  "as_of": "2026-10-09T23:27:06.899992+00:00",
+  "as_of": "2026-10-09T23:33:06.719713+00:00",
   "tone": "risk-on",
-  "age_min": 2.9505972333333332
+  "age_min": 1.9535940166666668
  },
  "stories": [
   {
@@ -380,23 +380,23 @@
   },
   {
    "topic": "Russia / Ukraine",
+   "title": "Trump talks to Putin, then announces diesel deal with Russia, in sharp reversal of U.S. policy - CBC",
+   "source": "CBC",
+   "published": "Fri, 09 Oct 2026 23:17:24 GMT",
+   "read": "de-escalation"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Trump Makes Deal With Putin On Diesel Exports. Ukraine Calls It A 'Gift' - Radio Free Europe/Radio Liberty",
+   "source": "Radio Free Europe/Radio Liberty",
+   "published": "Fri, 09 Oct 2026 23:03:17 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Russia / Ukraine",
    "title": "Trump deal for Russian diesel sparks anger in Ukraine, doubts among analysts - CNN",
    "source": "CNN",
    "published": "Fri, 09 Oct 2026 22:34:15 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Zelenskyy accuses Trump of \u2018smokescreen\u2019 oil deal amid talks to end Ukraine war - Politico",
-   "source": "Politico",
-   "published": "Fri, 09 Oct 2026 22:10:00 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin' - BBC",
-   "source": "BBC",
-   "published": "Fri, 09 Oct 2026 21:54:28 GMT",
    "read": "unclear"
   }
  ],
