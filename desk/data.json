@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-09T01:30:04+00:00",
+ "generated_utc": "2026-10-09T01:35:03+00:00",
  "date_et": "2026-10-08",
  "build": "0d463cfe05",
  "tape": [
@@ -390,20 +390,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 90.93,
-    "pct": -0.61
+    "price": 90.86,
+    "pct": -0.69
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4182.7,
-    "pct": 0.62
+    "price": 4185.8,
+    "pct": 0.69
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.042,
-    "pct": -0.09
+    "price": 102.024,
+    "pct": -0.11
    },
    {
     "sym": "SPY",
@@ -424,9 +424,9 @@
     "pct": 2.19
    }
   ],
-  "as_of": "2026-10-09T01:27:05.343209+00:00",
+  "as_of": "2026-10-09T01:33:05.387996+00:00",
   "tone": "risk-off",
-  "age_min": 2.992999316666667
+  "age_min": 1.9780854333333333
  },
  "stories": [
   {
@@ -466,10 +466,10 @@
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Pentagon Draws Up New Iran Strike Plans as Trump Hesitates - The New York Times",
+   "title": "Trump Says U.S. Will Not Strike Iran Again Before Midterms as Military Draws Up New Plans - The New York Times",
    "source": "The New York Times",
-   "published": "Thu, 08 Oct 2026 20:41:23 GMT",
-   "read": "escalation"
+   "published": "Thu, 08 Oct 2026 21:05:33 GMT",
+   "read": "unclear"
   }
  ],
  "ratings": [
