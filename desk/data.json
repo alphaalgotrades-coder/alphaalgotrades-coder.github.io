@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-09T03:10:04+00:00",
+ "generated_utc": "2026-10-09T03:15:04+00:00",
  "date_et": "2026-10-08",
  "build": "0d463cfe05",
  "tape": [
@@ -384,26 +384,26 @@
    {
     "sym": "MOVE",
     "name": "Bond-market volatility",
-    "price": 100.6994,
+    "price": 100.7,
     "pct": -1.81
    },
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 90.86,
-    "pct": -0.69
+    "price": 90.72,
+    "pct": -0.84
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4204.1,
-    "pct": 1.13
+    "price": 4200.6,
+    "pct": 1.05
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.013,
-    "pct": -0.12
+    "price": 102.025,
+    "pct": -0.11
    },
    {
     "sym": "SPY",
@@ -424,9 +424,9 @@
     "pct": 2.19
    }
   ],
-  "as_of": "2026-10-09T03:09:05.200270+00:00",
+  "as_of": "2026-10-09T03:12:04.882170+00:00",
   "tone": "risk-off",
-  "age_min": 0.9864613333333333
+  "age_min": 2.9931031666666663
  },
  "stories": [
   {
@@ -441,13 +441,6 @@
    "title": "Ex-German Chancellor Schr\u00f6der attends Putin's birthday bash - DW.com",
    "source": "DW.com",
    "published": "Thu, 08 Oct 2026 22:58:14 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Putin pledges Russia\u2019s support to end US-led war on Iran - Al Jazeera",
-   "source": "Al Jazeera",
-   "published": "Thu, 08 Oct 2026 22:35:46 GMT",
    "read": "unclear"
   },
   {
@@ -470,6 +463,13 @@
    "source": "The New York Times",
    "published": "Thu, 08 Oct 2026 21:05:33 GMT",
    "read": "unclear"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Starving Ukrainians must travel \u2018road of death\u2019 to flee Russian occupation - Atlantic Council",
+   "source": "Atlantic Council",
+   "published": "Thu, 08 Oct 2026 20:47:00 GMT",
+   "read": "escalation"
   }
  ],
  "ratings": [
