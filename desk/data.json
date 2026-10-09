@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-09T22:50:03+00:00",
+ "generated_utc": "2026-10-09T22:55:03+00:00",
  "date_et": "2026-10-09",
  "build": "0d463cfe05",
  "tape": [
@@ -352,9 +352,9 @@
     "pct": -3.7
    }
   ],
-  "as_of": "2026-10-09T22:48:06.246856+00:00",
+  "as_of": "2026-10-09T22:54:06.251520+00:00",
   "tone": "risk-on",
-  "age_min": 1.95657395
+  "age_min": 0.9558950166666667
  },
  "stories": [
   {
@@ -380,9 +380,9 @@
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "Trump says U.S. to get diesel from Russia, relaxing pressure on Moscow to ease prices before midterms - NPR",
-   "source": "NPR",
-   "published": "Fri, 09 Oct 2026 21:24:13 GMT",
+   "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin' - BBC",
+   "source": "BBC",
+   "published": "Fri, 09 Oct 2026 21:54:28 GMT",
    "read": "unclear"
   },
   {
@@ -394,9 +394,9 @@
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "Trump announces diesel deal with Russia after conversation with Putin - CBC",
-   "source": "CBC",
-   "published": "Fri, 09 Oct 2026 20:44:05 GMT",
+   "title": "Trump announces major diesel deal with Putin, infuriating Ukraine - Axios",
+   "source": "Axios",
+   "published": "Fri, 09 Oct 2026 21:01:58 GMT",
    "read": "unclear"
   }
  ],
