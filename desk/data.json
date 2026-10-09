@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-09T08:50:04+00:00",
+ "generated_utc": "2026-10-09T08:55:03+00:00",
  "date_et": "2026-10-09",
  "build": "0d463cfe05",
  "tape": [
@@ -318,20 +318,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 90.41,
-    "pct": -1.18
+    "price": 90.22,
+    "pct": -1.39
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4219.3,
-    "pct": 1.5
+    "price": 4216.1,
+    "pct": 1.42
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.048,
-    "pct": -0.09
+    "price": 102.061,
+    "pct": -0.08
    },
    {
     "sym": "SPY",
@@ -348,15 +348,22 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 15.25,
-    "pct": -1.04
+    "price": 15.23,
+    "pct": -1.17
    }
   ],
-  "as_of": "2026-10-09T08:48:09.826533+00:00",
+  "as_of": "2026-10-09T08:54:06.159791+00:00",
   "tone": "risk-off",
-  "age_min": 1.9094470833333332
+  "age_min": 0.9619905166666667
  },
  "stories": [
+  {
+   "topic": "Taiwan / China",
+   "title": "China\u2019s Revised Defense Mobilization Law Touches Nearly Every Sector - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+   "source": "The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+   "published": "Tue, 06 Oct 2026 15:50:46 GMT",
+   "read": "unclear"
+  },
   {
    "topic": "Russia / Ukraine",
    "title": "Ukraine can help Europe counter Russia\u2019s escalating shadow war - Atlantic Council",
@@ -384,13 +391,6 @@
    "source": "Atlantic Council",
    "published": "Thu, 08 Oct 2026 20:47:00 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Taiwan / China",
-   "title": "The case for pulling U.S. military back from the first island chain - Defense Priorities",
-   "source": "Defense Priorities",
-   "published": "Thu, 08 Oct 2026 19:33:57 GMT",
-   "read": "unclear"
   },
   {
    "topic": "Saudi / Gulf supply",
