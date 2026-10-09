@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-09T08:30:04+00:00",
+ "generated_utc": "2026-10-09T08:35:04+00:00",
  "date_et": "2026-10-09",
  "build": "0d463cfe05",
  "tape": [
@@ -318,20 +318,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 90.27,
-    "pct": -1.33
+    "price": 90.13,
+    "pct": -1.49
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4223.5,
-    "pct": 1.6
+    "price": 4224.9,
+    "pct": 1.63
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.021,
-    "pct": -0.11
+    "price": 102.035,
+    "pct": -0.1
    },
    {
     "sym": "SPY",
@@ -348,22 +348,15 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 15.26,
-    "pct": -0.97
+    "price": 15.24,
+    "pct": -1.1
    }
   ],
-  "as_of": "2026-10-09T08:27:06.251567+00:00",
+  "as_of": "2026-10-09T08:33:06.171617+00:00",
   "tone": "risk-off",
-  "age_min": 2.9776780333333335
+  "age_min": 1.9675987166666669
  },
  "stories": [
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Ex-German Chancellor Schr\u00f6der attends Putin's birthday bash - DW.com",
-   "source": "DW.com",
-   "published": "Thu, 08 Oct 2026 22:58:14 GMT",
-   "read": "unclear"
-  },
   {
    "topic": "Russia / Ukraine",
    "title": "Ukraine can help Europe counter Russia\u2019s escalating shadow war - Atlantic Council",
@@ -397,6 +390,13 @@
    "title": "The case for pulling U.S. military back from the first island chain - Defense Priorities",
    "source": "Defense Priorities",
    "published": "Thu, 08 Oct 2026 19:33:57 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Saudi / Gulf supply",
+   "title": "Crude Prices Finish Sharply Higher on Middle East Tensions - TradingView",
+   "source": "TradingView",
+   "published": "Thu, 08 Oct 2026 19:16:34 GMT",
    "read": "unclear"
   }
  ],
