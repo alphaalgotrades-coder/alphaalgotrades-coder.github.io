@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-09T12:03:02+00:00",
+ "generated_utc": "2026-10-09T12:05:03+00:00",
  "date_et": "2026-10-09",
  "build": "0d463cfe05",
  "tape": [
@@ -89,12 +89,12 @@
   "rows": [
    {
     "series": "2Y",
-    "level": 4.794,
-    "d_day_bps": 2.4,
+    "level": 4.79,
+    "d_day_bps": 2.0,
     "lean": "hawkish",
     "source": "YAHOO_TSY_FUT_ZT",
     "latency": "after-hours-futures-proxy",
-    "snapshot_ts": "2026-10-09T11:49:00+00:00",
+    "snapshot_ts": "2026-10-09T11:53:00+00:00",
     "snapshot_date": "2026-10-09",
     "prior_day": "2026-10-07",
     "prior_day_close": 4.77,
@@ -106,49 +106,49 @@
      4.76,
      4.764,
      4.764,
-     4.766,
+     4.764,
      4.77,
      4.772,
      4.778,
      4.78,
      4.784,
      4.794,
+     4.792,
+     4.79,
+     4.79,
      4.79,
      4.79,
      4.79,
      4.788,
-     4.786,
-     4.79,
-     4.788,
-     4.786,
      4.792,
      4.792,
      4.794,
-     4.798,
-     4.798,
+     4.796,
+     4.794,
+     4.796,
+     4.8,
+     4.8,
      4.8,
      4.798,
      4.798,
      4.8,
-     4.798,
-     4.798,
-     4.798,
+     4.794,
+     4.794,
+     4.8,
      4.792,
      4.794,
-     4.794,
-     4.794,
-     4.794,
-     4.796
+     4.796,
+     4.794
     ]
    },
    {
     "series": "5Y",
-    "level": 5.037,
-    "d_day_bps": 1.6,
+    "level": 5.032,
+    "d_day_bps": 1.1,
     "lean": "hawkish",
     "source": "YAHOO_TSY_FUT_ZF",
     "latency": "after-hours-futures-proxy",
-    "snapshot_ts": "2026-10-09T11:49:00+00:00",
+    "snapshot_ts": "2026-10-09T11:53:00+00:00",
     "snapshot_date": "2026-10-09",
     "prior_day": "2026-10-07",
     "prior_day_close": 5.021,
@@ -167,32 +167,32 @@
      5.03,
      5.032,
      5.039,
-     5.035,
-     5.037,
-     5.032,
-     5.032,
-     5.03,
+     5.039,
      5.035,
      5.032,
+     5.028,
+     5.033,
      5.035,
-     5.04,
-     5.04,
+     5.032,
+     5.035,
+     5.039,
      5.042,
-     5.04,
+     5.044,
+     5.042,
      5.046,
      5.044,
-     5.044,
+     5.042,
      5.047,
-     5.047,
-     5.046,
-     5.046,
-     5.04,
-     5.04,
      5.044,
+     5.046,
+     5.042,
      5.037,
-     5.035,
+     5.042,
+     5.039,
      5.037,
-     5.039
+     5.037,
+     5.039,
+     5.037
     ]
    },
    {
@@ -202,61 +202,61 @@
     "lean": "flat",
     "source": "YAHOO_TSY_FUT_ZN",
     "latency": "after-hours-futures-proxy",
-    "snapshot_ts": "2026-10-09T11:50:00+00:00",
+    "snapshot_ts": "2026-10-09T11:54:00+00:00",
     "snapshot_date": "2026-10-09",
     "prior_day": "2026-10-07",
     "prior_day_close": 5.277,
     "spark": [
      5.268,
-     5.266,
-     5.268,
      5.268,
      5.263,
-     5.268,
+     5.266,
+     5.266,
+     5.266,
      5.266,
      5.268,
      5.272,
-     5.277,
-     5.284,
-     5.286,
-     5.288,
-     5.291,
-     5.291,
-     5.288,
-     5.286,
      5.282,
      5.286,
+     5.291,
+     5.288,
+     5.291,
      5.288,
      5.286,
+     5.284,
+     5.277,
+     5.286,
+     5.284,
+     5.288,
      5.291,
-     5.293,
-     5.298,
+     5.295,
      5.298,
      5.295,
-     5.3,
-     5.298,
-     5.298,
-     5.298,
      5.298,
      5.3,
+     5.295,
+     5.298,
      5.302,
      5.295,
-     5.291,
+     5.302,
+     5.302,
      5.295,
+     5.295,
+     5.298,
      5.291,
      5.291,
-     5.291,
-     5.293
+     5.293,
+     5.291
     ]
    },
    {
     "series": "30Y",
-    "level": 5.665,
-    "d_day_bps": 0.4,
+    "level": 5.663,
+    "d_day_bps": 0.2,
     "lean": "flat",
     "source": "YAHOO_TSY_FUT_ZB",
     "latency": "after-hours-futures-proxy",
-    "snapshot_ts": "2026-10-09T11:50:00+00:00",
+    "snapshot_ts": "2026-10-09T11:54:00+00:00",
     "snapshot_date": "2026-10-09",
     "prior_day": "2026-10-07",
     "prior_day_close": 5.661,
@@ -282,29 +282,29 @@
      5.661,
      5.667,
      5.665,
-     5.669,
-     5.674,
-     5.674,
-     5.674,
-     5.674,
+     5.67,
+     5.67,
+     5.676,
      5.674,
      5.676,
-     5.676,
-     5.676,
-     5.676,
+     5.674,
+     5.674,
+     5.674,
      5.678,
+     5.676,
      5.68,
+     5.678,
+     5.674,
+     5.674,
      5.674,
      5.67,
-     5.674,
      5.67,
      5.67,
-     5.67,
-     5.67
+     5.669
     ]
    }
   ],
-  "as_of": "2026-10-09T11:49:00+00:00",
+  "as_of": "2026-10-09T11:53:00+00:00",
   "note": "after-hours-futures-proxy"
  },
  "strip": {
@@ -318,20 +318,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 90.45,
-    "pct": -1.14
+    "price": 90.46,
+    "pct": -1.13
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4207.6,
-    "pct": 1.22
+    "price": 4207.5,
+    "pct": 1.21
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.133,
-    "pct": -0.0
+    "price": 102.141,
+    "pct": 0.0
    },
    {
     "sym": "SPY",
@@ -348,13 +348,13 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 15.18,
-    "pct": -1.49
+    "price": 15.17,
+    "pct": -1.56
    }
   ],
-  "as_of": "2026-10-09T12:00:14.318267+00:00",
+  "as_of": "2026-10-09T12:03:05.108143+00:00",
   "tone": "risk-off",
-  "age_min": 2.801078
+  "age_min": 1.9829110333333333
  },
  "stories": [
   {
@@ -511,29 +511,29 @@
    {
     "code": "FR",
     "name": "France",
-    "level": 4.8074,
+    "level": 4.8117,
     "as_of": "2026-10-09",
-    "spread_bp": 135.0,
-    "d_day_bps": -1.2
+    "spread_bp": 135.4,
+    "d_day_bps": -0.8
    },
    {
     "code": "DE",
     "name": "Germany",
-    "level": 3.4575,
+    "level": 3.4581,
     "as_of": "2026-10-09",
     "spread_bp": null,
-    "d_day_bps": -0.1
+    "d_day_bps": -0.0
    },
    {
     "code": "IT",
     "name": "Italy",
-    "level": 4.5275,
+    "level": 4.5303,
     "as_of": "2026-10-09",
-    "spread_bp": 107.0,
-    "d_day_bps": -6.2
+    "spread_bp": 107.2,
+    "d_day_bps": -5.9
    }
   ],
-  "bund": 3.4575,
+  "bund": 3.4581,
   "note": "10-year government bonds; spread measured over Germany"
  },
  "auctions": {
@@ -561,98 +561,16 @@
   "note": "TreasuryDirect, announced offerings"
  },
  "book": {
-  "as_of_et": "07:05",
+  "as_of_et": "08:05",
   "since": "2026-07-13",
   "trading_days": 50,
   "green_days": 27,
   "red_days": 2,
   "total_fills": 146,
   "realized": 8379.87,
-  "open_upnl": -5463.0,
-  "legs": [
-   {
-    "id": "AS261016P00024500",
-    "symbol": "AS",
-    "expiry": "2026-10-16",
-    "right": "put",
-    "strike": 24.5,
-    "sold": true,
-    "qty": 6,
-    "entry": 0.1
-   },
-   {
-    "id": "AS261030C00030000",
-    "symbol": "AS",
-    "expiry": "2026-10-30",
-    "right": "call",
-    "strike": 30.0,
-    "sold": true,
-    "qty": 6,
-    "entry": 0.35
-   },
-   {
-    "id": "BLDR261016P00050000",
-    "symbol": "BLDR",
-    "expiry": "2026-10-16",
-    "right": "put",
-    "strike": 50.0,
-    "sold": true,
-    "qty": 1,
-    "entry": 0.5
-   },
-   {
-    "id": "DLO261016C00013000",
-    "symbol": "DLO",
-    "expiry": "2026-10-16",
-    "right": "call",
-    "strike": 13.0,
-    "sold": true,
-    "qty": 7,
-    "entry": 0.65
-   },
-   {
-    "id": "DLO261016P00012000",
-    "symbol": "DLO",
-    "expiry": "2026-10-16",
-    "right": "put",
-    "strike": 12.0,
-    "sold": true,
-    "qty": 6,
-    "entry": 0.05
-   },
-   {
-    "id": "Z261016P00027500",
-    "symbol": "Z",
-    "expiry": "2026-10-16",
-    "right": "put",
-    "strike": 27.5,
-    "sold": true,
-    "qty": 4,
-    "entry": 0.45
-   }
-  ],
-  "held": [
-   {
-    "symbol": "AS",
-    "shares": 600,
-    "basis": 29.65
-   },
-   {
-    "symbol": "BLDR",
-    "shares": 200,
-    "basis": 63.48
-   },
-   {
-    "symbol": "DLO",
-    "shares": 700,
-    "basis": 12.45
-   },
-   {
-    "symbol": "Z",
-    "shares": 400,
-    "basis": 31.48
-   }
-  ]
+  "open_upnl": 0,
+  "legs": [],
+  "held": []
  },
  "disclaimer": "Snapshot, not a live feed. Every panel shows the age of its own data. Educational only, not financial advice."
 }
