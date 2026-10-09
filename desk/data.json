@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-09T21:30:05+00:00",
+ "generated_utc": "2026-10-09T21:35:04+00:00",
  "date_et": "2026-10-09",
  "build": "0d463cfe05",
  "tape": [
@@ -352,9 +352,9 @@
     "pct": -3.7
    }
   ],
-  "as_of": "2026-10-09T21:27:05.367536+00:00",
+  "as_of": "2026-10-09T21:33:05.813583+00:00",
   "tone": "risk-on",
-  "age_min": 3.00130615
+  "age_min": 1.9753525833333332
  },
  "stories": [
   {
@@ -362,13 +362,6 @@
    "title": "Recent Taiwan simulation highlights US cyberdefense gaps against China, experts warn - Nextgov/FCW",
    "source": "Nextgov/FCW",
    "published": "Wed, 07 Oct 2026 15:59:00 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Taiwan / China",
-   "title": "Opinion | What a look underwater reveals about China and Taiwan - The Washington Post",
-   "source": "The Washington Post",
-   "published": "Thu, 08 Oct 2026 17:00:00 GMT",
    "read": "unclear"
   },
   {
@@ -387,16 +380,23 @@
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "Ukrainian Drones Close Moscow Airports as Putin Flies Back to Russia - The New York Times",
-   "source": "The New York Times",
-   "published": "Fri, 09 Oct 2026 20:15:34 GMT",
-   "read": "escalation"
+   "title": "Trump announces diesel deal with Russia in bid to lower prices - The Washington Post",
+   "source": "The Washington Post",
+   "published": "Fri, 09 Oct 2026 21:07:37 GMT",
+   "read": "unclear"
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "Trump announces major Russian diesel supply deal after Putin call - KOMO",
-   "source": "KOMO",
-   "published": "Fri, 09 Oct 2026 20:15:22 GMT",
+   "title": "Former German chancellor Gerhard Schr\u00f6der joined Russian President Vladimir Putin for his birthday, according to the Kremlin. Their friendship continues despite Russia's war agains",
+   "source": "Facebook",
+   "published": "Fri, 09 Oct 2026 20:47:01 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Trump announces diesel deal with Russia after conversation with Putin - CBC",
+   "source": "CBC",
+   "published": "Fri, 09 Oct 2026 20:44:05 GMT",
    "read": "unclear"
   }
  ],
