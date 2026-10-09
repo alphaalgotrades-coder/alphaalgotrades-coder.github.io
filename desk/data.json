@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-09T03:50:03+00:00",
+ "generated_utc": "2026-10-09T03:55:04+00:00",
  "date_et": "2026-10-08",
  "build": "0d463cfe05",
  "tape": [
@@ -390,19 +390,19 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 90.55,
-    "pct": -1.03
+    "price": 90.58,
+    "pct": -0.99
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4200.0,
-    "pct": 1.03
+    "price": 4201.3,
+    "pct": 1.07
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.033,
+    "price": 102.038,
     "pct": -0.1
    },
    {
@@ -424,9 +424,9 @@
     "pct": 2.19
    }
   ],
-  "as_of": "2026-10-09T03:48:05.147507+00:00",
+  "as_of": "2026-10-09T03:54:05.427085+00:00",
   "tone": "risk-off",
-  "age_min": 1.9814527666666666
+  "age_min": 0.9792263499999999
  },
  "stories": [
   {
@@ -445,10 +445,10 @@
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "Kremlin's Peskov agrees with Marco Rubio about Ukraine stalemate - The Jerusalem Post",
-   "source": "The Jerusalem Post",
-   "published": "Thu, 08 Oct 2026 21:22:54 GMT",
-   "read": "unclear"
+   "title": "Ukraine can help Europe counter Russia\u2019s escalating shadow war - Atlantic Council",
+   "source": "Atlantic Council",
+   "published": "Thu, 08 Oct 2026 22:00:00 GMT",
+   "read": "escalation"
   },
   {
    "topic": "Iran / Hormuz",
