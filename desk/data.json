@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-09T22:10:03+00:00",
+ "generated_utc": "2026-10-09T22:15:04+00:00",
  "date_et": "2026-10-09",
  "build": "0d463cfe05",
  "tape": [
@@ -352,9 +352,9 @@
     "pct": -3.7
    }
   ],
-  "as_of": "2026-10-09T22:09:06.161251+00:00",
+  "as_of": "2026-10-09T22:12:05.942587+00:00",
   "tone": "risk-on",
-  "age_min": 0.9627942666666667
+  "age_min": 2.9720571333333337
  },
  "stories": [
   {
@@ -386,11 +386,11 @@
    "read": "unclear"
   },
   {
-   "topic": "Russia / Ukraine",
-   "title": "Former German chancellor Gerhard Schr\u00f6der joined Russian President Vladimir Putin for his birthday, according to the Kremlin. Their friendship continues despite Russia's war agains",
-   "source": "Facebook",
-   "published": "Fri, 09 Oct 2026 20:47:01 GMT",
-   "read": "unclear"
+   "topic": "Iran / Hormuz",
+   "title": "Iran tries to regain control of Strait of Hormuz: Report - NewsNation",
+   "source": "NewsNation",
+   "published": "Fri, 09 Oct 2026 21:08:12 GMT",
+   "read": "escalation"
   },
   {
    "topic": "Russia / Ukraine",
