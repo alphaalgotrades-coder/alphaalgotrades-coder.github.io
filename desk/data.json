@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-09T21:50:04+00:00",
+ "generated_utc": "2026-10-09T21:55:04+00:00",
  "date_et": "2026-10-09",
  "build": "0d463cfe05",
  "tape": [
@@ -352,9 +352,9 @@
     "pct": -3.7
    }
   ],
-  "as_of": "2026-10-09T21:48:06.032844+00:00",
+  "as_of": "2026-10-09T21:54:05.331292+00:00",
   "tone": "risk-on",
-  "age_min": 1.9691040333333334
+  "age_min": 0.9841340166666667
  },
  "stories": [
   {
@@ -380,9 +380,9 @@
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "Trump announces diesel deal with Russia in bid to lower prices - The Washington Post",
-   "source": "The Washington Post",
-   "published": "Fri, 09 Oct 2026 21:07:37 GMT",
+   "title": "Trump says U.S. to get diesel from Russia, relaxing pressure on Moscow to ease prices before midterms - NPR",
+   "source": "NPR",
+   "published": "Fri, 09 Oct 2026 21:24:13 GMT",
    "read": "unclear"
   },
   {
