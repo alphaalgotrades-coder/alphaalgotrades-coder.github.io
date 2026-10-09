@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-09T03:30:04+00:00",
+ "generated_utc": "2026-10-09T03:35:04+00:00",
  "date_et": "2026-10-08",
  "build": "0d463cfe05",
  "tape": [
@@ -390,19 +390,19 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 90.75,
-    "pct": -0.81
+    "price": 90.73,
+    "pct": -0.83
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4200.3,
-    "pct": 1.04
+    "price": 4199.4,
+    "pct": 1.02
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.032,
+    "price": 102.036,
     "pct": -0.1
    },
    {
@@ -424,18 +424,11 @@
     "pct": 2.19
    }
   ],
-  "as_of": "2026-10-09T03:27:05.133762+00:00",
+  "as_of": "2026-10-09T03:33:04.975016+00:00",
   "tone": "risk-off",
-  "age_min": 2.992902066666667
+  "age_min": 1.9901357333333332
  },
  "stories": [
-  {
-   "topic": "Saudi / Gulf supply",
-   "title": "Crude Prices Supported by Middle East Supply Concerns - TradingView",
-   "source": "TradingView",
-   "published": "Wed, 07 Oct 2026 15:40:45 GMT",
-   "read": "unclear"
-  },
   {
    "topic": "Russia / Ukraine",
    "title": "Ex-German Chancellor Schr\u00f6der attends Putin's birthday bash - DW.com",
@@ -469,6 +462,13 @@
    "title": "Starving Ukrainians must travel \u2018road of death\u2019 to flee Russian occupation - Atlantic Council",
    "source": "Atlantic Council",
    "published": "Thu, 08 Oct 2026 20:47:00 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Pentagon Draws Up New Iran Strike Plans as Trump Hesitates - The New York Times",
+   "source": "The New York Times",
+   "published": "Thu, 08 Oct 2026 20:41:23 GMT",
    "read": "escalation"
   }
  ],
