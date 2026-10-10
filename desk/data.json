@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-10T03:05:04+00:00",
+ "generated_utc": "2026-10-10T03:10:03+00:00",
  "date_et": "2026-10-09",
  "build": "0d463cfe05",
  "tape": [
@@ -352,9 +352,9 @@
     "pct": -3.7
    }
   ],
-  "as_of": "2026-10-10T03:03:05.588117+00:00",
+  "as_of": "2026-10-10T03:09:05.523983+00:00",
   "tone": "risk-on",
-  "age_min": 1.9771135166666667
+  "age_min": 0.9702247666666667
  },
  "stories": [
   {
@@ -537,9 +537,46 @@
   "note": "10-year government bonds; spread measured over Germany"
  },
  "auctions": {
-  "rows": [],
-  "total": null,
-  "note": "unavailable (URLError)"
+  "rows": [
+   {
+    "date": "2026-10-13",
+    "type": "Bill",
+    "term": "13-Week",
+    "amount_bn": 95.0
+   },
+   {
+    "date": "2026-10-13",
+    "type": "Bill",
+    "term": "6-Week",
+    "amount_bn": 95.0
+   },
+   {
+    "date": "2026-10-13",
+    "type": "Bill",
+    "term": "26-Week",
+    "amount_bn": 82.0
+   },
+   {
+    "date": "2026-10-14",
+    "type": "Bill",
+    "term": "17-Week",
+    "amount_bn": null
+   },
+   {
+    "date": "2026-10-15",
+    "type": "Bill",
+    "term": "4-Week",
+    "amount_bn": null
+   },
+   {
+    "date": "2026-10-15",
+    "type": "Bill",
+    "term": "8-Week",
+    "amount_bn": null
+   }
+  ],
+  "total_bn": 272.0,
+  "note": "TreasuryDirect, announced offerings"
  },
  "book": {
   "as_of_et": "23:05",
