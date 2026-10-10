@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-10T16:50:03+00:00",
+ "generated_utc": "2026-10-10T16:55:03+00:00",
  "date_et": "2026-10-10",
  "build": "0d463cfe05",
  "tape": [],
@@ -270,11 +270,18 @@
     "pct": -3.7
    }
   ],
-  "as_of": "2026-10-10T16:48:05.159129+00:00",
+  "as_of": "2026-10-10T16:54:05.134119+00:00",
   "tone": "risk-on",
-  "age_min": 1.9775454333333333
+  "age_min": 0.9821533166666666
  },
  "stories": [
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Russian attacks kill 17 in Ukraine after Trump strikes diesel deal with Putin - ABC News - Breaking News, Latest News and Videos",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "published": "Sat, 10 Oct 2026 16:14:27 GMT",
+   "read": "escalation"
+  },
   {
    "topic": "Russia / Ukraine",
    "title": "Ukraine hit by deadly Russian strikes as \u2018thanks\u2019 for Trump diesel deal, Zelenskyy says - The Guardian",
@@ -297,13 +304,6 @@
    "read": "escalation"
   },
   {
-   "topic": "Russia / Ukraine",
-   "title": "Putin relayed Iran war proposal to Trump, Kremlin says - CNBC",
-   "source": "CNBC",
-   "published": "Sat, 10 Oct 2026 13:41:46 GMT",
-   "read": "unclear"
-  },
-  {
    "topic": "Taiwan / China",
    "title": "Lai Ching-te vows stronger defense as China condemns Taiwan independence push - CHOSUNBIZ - Chosunbiz",
    "source": "Chosunbiz",
@@ -312,9 +312,9 @@
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "Democrats explode over Trump\u2019s Russia diesel deal - The Hill",
-   "source": "The Hill",
-   "published": "Sat, 10 Oct 2026 13:02:00 GMT",
+   "title": "Neither Putin nor Trump wanted to hang up first, Kremlin aide says after 'very friendly' call - Reuters",
+   "source": "Reuters",
+   "published": "Sat, 10 Oct 2026 13:15:45 GMT",
    "read": "unclear"
   }
  ],
