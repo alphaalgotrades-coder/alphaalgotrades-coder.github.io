@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-10T12:10:03+00:00",
+ "generated_utc": "2026-10-10T12:15:03+00:00",
  "date_et": "2026-10-10",
  "build": "0d463cfe05",
  "tape": [],
@@ -270,11 +270,18 @@
     "pct": -3.7
    }
   ],
-  "as_of": "2026-10-10T12:09:16.026696+00:00",
+  "as_of": "2026-10-10T12:12:06.149028+00:00",
   "tone": "risk-on",
-  "age_min": 0.7908482666666666
+  "age_min": 2.9610716999999998
  },
  "stories": [
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Russia kills 15 in Ukraine as US hosts \u2018productive\u2019 talks to end war - Al Jazeera",
+   "source": "Al Jazeera",
+   "published": "Sat, 10 Oct 2026 11:36:37 GMT",
+   "read": "escalation"
+  },
   {
    "topic": "Russia / Ukraine",
    "title": "Russian attacks kill 12 in Ukraine after Trump strikes diesel deal with Putin - The Boston Globe",
@@ -288,13 +295,6 @@
    "source": "DW.com",
    "published": "Sat, 10 Oct 2026 09:40:56 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Trump and Putin sign diesel deal, angering Ukraine and its allies - Le Monde.fr",
-   "source": "Le Monde.fr",
-   "published": "Sat, 10 Oct 2026 09:38:38 GMT",
-   "read": "unclear"
   },
   {
    "topic": "Iran / Hormuz",
