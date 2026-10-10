@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-10T01:30:04+00:00",
+ "generated_utc": "2026-10-10T01:35:03+00:00",
  "date_et": "2026-10-09",
  "build": "0d463cfe05",
  "tape": [
@@ -352,9 +352,9 @@
     "pct": -3.7
    }
   ],
-  "as_of": "2026-10-10T01:27:05.627017+00:00",
+  "as_of": "2026-10-10T01:33:05.525899+00:00",
   "tone": "risk-on",
-  "age_min": 2.979482566666667
+  "age_min": 1.9712543166666667
  },
  "stories": [
   {
@@ -380,6 +380,13 @@
   },
   {
    "topic": "Russia / Ukraine",
+   "title": "Trump announces deal for Russian diesel as Zelensky calls it a 'gift to Putin' - BBC",
+   "source": "BBC",
+   "published": "Sat, 10 Oct 2026 00:45:51 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Russia / Ukraine",
    "title": "U.S. official: Trump cut deal with Putin after Zelensky ignored his requests - Axios",
    "source": "Axios",
    "published": "Sat, 10 Oct 2026 00:39:03 GMT",
@@ -390,13 +397,6 @@
    "title": "Iran war bared a hidden flaw: Shore up US bases \u2014 or risk disaster - New York Post",
    "source": "New York Post",
    "published": "Fri, 09 Oct 2026 23:57:00 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Zelenskyy furious as Trump announces deal to buy Russian diesel - The Guardian",
-   "source": "The Guardian",
-   "published": "Fri, 09 Oct 2026 23:40:00 GMT",
    "read": "unclear"
   }
  ],
