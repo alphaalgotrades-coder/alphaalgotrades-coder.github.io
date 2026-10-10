@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-10T10:36:08+00:00",
+ "generated_utc": "2026-10-10T10:45:04+00:00",
  "date_et": "2026-10-10",
  "build": "0d463cfe05",
  "tape": [],
@@ -270,11 +270,18 @@
     "pct": -3.7
    }
   ],
-  "as_of": "2026-10-10T10:36:06.096549+00:00",
+  "as_of": "2026-10-10T10:45:07.155969+00:00",
   "tone": "risk-on",
-  "age_min": 0.04070088333333333
+  "age_min": 0.010611216666666668
  },
  "stories": [
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Russian attacks kill 12 in Ukraine after Trump strikes diesel deal with Putin - The Washington Post",
+   "source": "The Washington Post",
+   "published": "Sat, 10 Oct 2026 10:28:57 GMT",
+   "read": "escalation"
+  },
   {
    "topic": "Taiwan / China",
    "title": "Taiwan to boost military spending to 'deter war' with China - DW.com",
@@ -309,13 +316,6 @@
    "source": "Anadolu Ajans\u0131",
    "published": "Sat, 10 Oct 2026 07:29:38 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Russian attacks kill 7 in Ukraine after Trump strikes diesel deal with Putin - AP News",
-   "source": "AP News",
-   "published": "Sat, 10 Oct 2026 07:17:00 GMT",
-   "read": "escalation"
   }
  ],
  "ratings": [
