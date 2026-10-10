@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-10T07:30:04+00:00",
+ "generated_utc": "2026-10-10T07:35:03+00:00",
  "date_et": "2026-10-10",
  "build": "0d463cfe05",
  "tape": [],
@@ -270,23 +270,23 @@
     "pct": -3.7
    }
   ],
-  "as_of": "2026-10-10T07:27:05.168139+00:00",
+  "as_of": "2026-10-10T07:33:05.248790+00:00",
   "tone": "risk-on",
-  "age_min": 2.9866775333333333
+  "age_min": 1.9763291500000002
  },
  "stories": [
+  {
+   "topic": "Taiwan / China",
+   "title": "US Calls China\u2019s Maritime Activity Near Taiwan \u2018Deeply Destabilising\u2019 - Khaama Press",
+   "source": "Khaama Press",
+   "published": "Sat, 10 Oct 2026 07:03:00 GMT",
+   "read": "escalation"
+  },
   {
    "topic": "Saudi / Gulf supply",
    "title": "Saudi Aramco to supply full oil volumes to Europe customers next month - Report.az",
    "source": "Report.az",
    "published": "Sat, 10 Oct 2026 06:33:11 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Taiwan / China",
-   "title": "Taiwan's Lai calls on Indo-Pacific democracies to help maintain peace in National Day speech - The Washington Post",
-   "source": "The Washington Post",
-   "published": "Sat, 10 Oct 2026 05:26:34 GMT",
    "read": "unclear"
   },
   {
