@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-10T21:30:05+00:00",
+ "generated_utc": "2026-10-10T21:35:04+00:00",
  "date_et": "2026-10-10",
  "build": "0d463cfe05",
  "tape": [],
@@ -270,11 +270,18 @@
     "pct": -3.7
    }
   ],
-  "as_of": "2026-10-10T21:27:06.589586+00:00",
+  "as_of": "2026-10-10T21:33:05.444718+00:00",
   "tone": "risk-on",
-  "age_min": 2.9772164500000002
+  "age_min": 1.9800925666666667
  },
  "stories": [
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iran's Revolutionary Guards Say Oil Supertanker Exploded After Striking Mine in Strait of Hormuz: what 10 outlets left out - NewsCord",
+   "source": "NewsCord",
+   "published": "Sat, 10 Oct 2026 21:09:22 GMT",
+   "read": "escalation"
+  },
   {
    "topic": "Iran / Hormuz",
    "title": "Supertanker explodes after striking mine in Strait of Hormuz, Iran's Revolutionary Guards say - Anadolu Ajans\u0131",
@@ -295,13 +302,6 @@
    "source": "Iran International",
    "published": "Sat, 10 Oct 2026 18:52:36 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Analysis \u2022 First preventing a nuclear Iran. Now securing Hormuz. Where does the war end? - Haaretz",
-   "source": "Haaretz",
-   "published": "Sat, 10 Oct 2026 18:02:00 GMT",
-   "read": "unclear"
   },
   {
    "topic": "Russia / Ukraine",
