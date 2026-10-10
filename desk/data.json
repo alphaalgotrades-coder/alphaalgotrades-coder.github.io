@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-10T20:10:03+00:00",
+ "generated_utc": "2026-10-10T20:15:04+00:00",
  "date_et": "2026-10-10",
  "build": "0d463cfe05",
  "tape": [],
@@ -270,11 +270,18 @@
     "pct": -3.7
    }
   ],
-  "as_of": "2026-10-10T20:09:06.226490+00:00",
+  "as_of": "2026-10-10T20:12:05.853675+00:00",
   "tone": "risk-on",
-  "age_min": 0.95968875
+  "age_min": 2.9819197666666666
  },
  "stories": [
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Supertanker explodes after striking mine in Strait of Hormuz, Iran's Revolutionary Guards say - Anadolu Ajans\u0131",
+   "source": "Anadolu Ajans\u0131",
+   "published": "Sat, 10 Oct 2026 19:52:52 GMT",
+   "read": "escalation"
+  },
   {
    "topic": "Iran / Hormuz",
    "title": "Ship captains and crews crossing Hormuz earn so much they're 'almost being viewed as mercenaries' - Fortune",
@@ -298,24 +305,17 @@
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "Trump tells Ukraine to replace Zelensky over Russia fuel deal - Axios",
-   "source": "Axios",
-   "published": "Sat, 10 Oct 2026 17:30:25 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Oil tanker explodes after striking naval mine in Hormuz, IRGC claims - report - The Jerusalem Post",
-   "source": "The Jerusalem Post",
-   "published": "Sat, 10 Oct 2026 17:16:35 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
    "title": "Zelensky blasts Trump-Putin diesel deal as Russian strikes kill 16 - Le Monde.fr",
    "source": "Le Monde.fr",
    "published": "Sat, 10 Oct 2026 17:12:26 GMT",
    "read": "escalation"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Trump says Ukraine should get a new president as he blames Zelenskyy for US diesel prices - AP News",
+   "source": "AP News",
+   "published": "Sat, 10 Oct 2026 17:01:00 GMT",
+   "read": "unclear"
   }
  ],
  "ratings": [
