@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-10T14:10:03+00:00",
+ "generated_utc": "2026-10-10T14:15:04+00:00",
  "date_et": "2026-10-10",
  "build": "0d463cfe05",
  "tape": [],
@@ -270,11 +270,25 @@
     "pct": -3.7
    }
   ],
-  "as_of": "2026-10-10T14:09:05.793588+00:00",
+  "as_of": "2026-10-10T14:12:05.840529+00:00",
   "tone": "risk-on",
-  "age_min": 0.9612621
+  "age_min": 2.9730134833333333
  },
  "stories": [
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Tanker Attacks Push Deeper Into Gulf, Rattle Oil Markets - WSJ",
+   "source": "WSJ",
+   "published": "Sat, 10 Oct 2026 13:42:12 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Putin relayed Iran war proposal to Trump, Kremlin says - CNBC",
+   "source": "CNBC",
+   "published": "Sat, 10 Oct 2026 13:41:46 GMT",
+   "read": "unclear"
+  },
   {
    "topic": "Taiwan / China",
    "title": "Lai Ching-te vows stronger defense as China condemns Taiwan independence push - CHOSUNBIZ - Chosunbiz",
@@ -291,30 +305,16 @@
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "Ukraine Peace Talks Sputter After Trump and Putin Strike Fuel Deal - The New York Times",
-   "source": "The New York Times",
-   "published": "Sat, 10 Oct 2026 12:13:37 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
    "title": "Russian attacks kill 12 in Ukraine after Trump strikes diesel deal with Putin - ABC News - Breaking News, Latest News and Videos",
    "source": "ABC News - Breaking News, Latest News and Videos",
    "published": "Sat, 10 Oct 2026 11:54:27 GMT",
    "read": "escalation"
   },
   {
-   "topic": "Iran / Hormuz",
-   "title": "Iran shows Trump\u2019s opportunity in escalating Hormuz attacks - Washington Examiner",
-   "source": "Washington Examiner",
-   "published": "Sat, 10 Oct 2026 09:00:00 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Saudi / Gulf supply",
-   "title": "Saudi Aramco plans to fulfil European oil orders in full in November - Azernews.az",
-   "source": "Azernews.az",
-   "published": "Sat, 10 Oct 2026 08:23:00 GMT",
+   "topic": "Taiwan / China",
+   "title": "Taiwan's Lai calls on Indo-Pacific democracies to help maintain peace in National Day speech - The Edwardsville Intelligencer",
+   "source": "The Edwardsville Intelligencer",
+   "published": "Sat, 10 Oct 2026 10:19:31 GMT",
    "read": "unclear"
   }
  ],
