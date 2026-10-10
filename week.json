@@ -1,82 +1,25 @@
 {
- "week": 12,
- "from": "2026-09-28",
- "to": "2026-10-02",
- "realized": 658,
- "fills": 10,
- "green_days": 3,
+ "week": 13,
+ "from": "2026-10-05",
+ "to": "2026-10-09",
+ "realized": 0,
+ "fills": 2,
+ "green_days": 0,
  "red_days": 0,
- "closed": [
-  {
-   "symbol": "SPY",
-   "legs": [],
-   "realized": 470,
-   "assigned": false,
-   "recovered": false
-  },
-  {
-   "symbol": "PATH",
-   "legs": [
-    {
-     "leg": "P13.00",
-     "expiry": "20261002",
-     "opened": "2026-09-21",
-     "closed": "2026-10-01",
-     "sold_at": 0.28,
-     "bought_at": 0.08,
-     "contracts": 8,
-     "kept_pct": 71,
-     "days_held": 10,
-     "realized": 160,
-     "kind": "CSP_OPEN",
-     "reason": "CSP entry | aimed $0.28 -> filled $0.28 | vrp 0.86 VIX 14.7 grade GREAT"
-    },
-    {
-     "leg": "P11.00",
-     "expiry": "20261009",
-     "opened": "2026-09-28",
-     "closed": "2026-09-30",
-     "sold_at": 0.1,
-     "bought_at": 0.03,
-     "contracts": 4,
-     "kept_pct": 70,
-     "days_held": 2,
-     "realized": 28,
-     "kind": "CSP2_OPEN",
-     "reason": "loss zone -> CSP2 [comparator] (10% OTM x4 (lots=8))"
-    }
-   ],
-   "realized": 188,
-   "assigned": false,
-   "recovered": false
-  }
- ],
- "spotlight": "SPY",
+ "closed": [],
+ "spotlight": null,
  "cycle": {
   "sold_puts": [],
-  "kept": [
-   "PATH"
-  ],
-  "expired": [
+  "kept": [],
+  "expired": [],
+  "assigned": [],
+  "calls": [
    "AS"
   ],
-  "assigned": [
-   "SPY"
-  ],
-  "calls": [],
-  "rolled": [
-   "DLO"
-  ],
-  "called_away": [
-   "SPY"
-  ],
-  "calls_closed": [
-   "Z",
-   "BLDR"
-  ],
-  "kept_pct": {
-   "PATH": 71
-  }
+  "rolled": [],
+  "called_away": [],
+  "calls_closed": [],
+  "kept_pct": {}
  },
- "generated": "2026-10-03 08:44"
+ "generated": "2026-10-10 08:32"
 }
