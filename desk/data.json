@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-10T17:50:03+00:00",
+ "generated_utc": "2026-10-10T17:55:03+00:00",
  "date_et": "2026-10-10",
  "build": "0d463cfe05",
  "tape": [],
@@ -270,9 +270,9 @@
     "pct": -3.7
    }
   ],
-  "as_of": "2026-10-10T17:48:05.247456+00:00",
+  "as_of": "2026-10-10T17:54:05.224610+00:00",
   "tone": "risk-on",
-  "age_min": 1.9744697666666666
+  "age_min": 0.9771120666666667
  },
  "stories": [
   {
@@ -281,6 +281,13 @@
    "source": "The Times of Israel",
    "published": "Sat, 10 Oct 2026 17:24:38 GMT",
    "read": "escalation"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Trump says Ukraine should get a new president, blames Zelenskyy for U.S. diesel prices - CBC",
+   "source": "CBC",
+   "published": "Sat, 10 Oct 2026 17:24:22 GMT",
+   "read": "unclear"
   },
   {
    "topic": "Iran / Hormuz",
@@ -302,13 +309,6 @@
    "source": "The Guardian",
    "published": "Sat, 10 Oct 2026 16:08:00 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "\u2018Gifts to Putin\u2019: Ukraine rattled as Trump eases sanctions on Russian oil - NBC News",
-   "source": "NBC News",
-   "published": "Sat, 10 Oct 2026 14:46:31 GMT",
-   "read": "de-escalation"
   },
   {
    "topic": "Iran / Hormuz",
