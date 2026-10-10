@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-10T11:10:03+00:00",
+ "generated_utc": "2026-10-10T11:15:03+00:00",
  "date_et": "2026-10-10",
  "build": "0d463cfe05",
  "tape": [],
@@ -270,9 +270,9 @@
     "pct": -3.7
    }
   ],
-  "as_of": "2026-10-10T11:09:06.249818+00:00",
+  "as_of": "2026-10-10T11:12:05.803566+00:00",
   "tone": "risk-on",
-  "age_min": 0.9520035
+  "age_min": 2.9648821166666663
  },
  "stories": [
   {
@@ -304,18 +304,18 @@
    "read": "escalation"
   },
   {
+   "topic": "Russia / Ukraine",
+   "title": "Russian attacks kill 7 in Ukraine after Trump strikes diesel deal with Putin - ABC News - Breaking News, Latest News and Videos",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "published": "Sat, 10 Oct 2026 08:48:45 GMT",
+   "read": "escalation"
+  },
+  {
    "topic": "Saudi / Gulf supply",
    "title": "Saudi Aramco plans to fulfil European oil orders in full in November - Azernews.az",
    "source": "Azernews.az",
    "published": "Sat, 10 Oct 2026 08:23:00 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Taiwan / China",
-   "title": "Taiwan president says defence spending boost aims to \u2018deter war\u2019 - Al Jazeera",
-   "source": "Al Jazeera",
-   "published": "Sat, 10 Oct 2026 07:59:47 GMT",
-   "read": "escalation"
   }
  ],
  "ratings": [
