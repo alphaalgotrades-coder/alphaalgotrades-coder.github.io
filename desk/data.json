@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-10T01:10:03+00:00",
+ "generated_utc": "2026-10-10T01:15:03+00:00",
  "date_et": "2026-10-09",
  "build": "0d463cfe05",
  "tape": [
@@ -352,9 +352,9 @@
     "pct": -3.7
    }
   ],
-  "as_of": "2026-10-10T01:09:05.718588+00:00",
+  "as_of": "2026-10-10T01:12:05.902645+00:00",
   "tone": "risk-on",
-  "age_min": 0.9661321166666668
+  "age_min": 2.968877233333333
  },
  "stories": [
   {
@@ -379,6 +379,13 @@
    "read": "escalation"
   },
   {
+   "topic": "Russia / Ukraine",
+   "title": "U.S. official: Trump cut deal with Putin after Zelensky ignored his requests - Axios",
+   "source": "Axios",
+   "published": "Sat, 10 Oct 2026 00:39:03 GMT",
+   "read": "unclear"
+  },
+  {
    "topic": "Iran / Hormuz",
    "title": "Iran war bared a hidden flaw: Shore up US bases \u2014 or risk disaster - New York Post",
    "source": "New York Post",
@@ -391,13 +398,6 @@
    "source": "The Guardian",
    "published": "Fri, 09 Oct 2026 23:40:00 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Trump talks to Putin, then announces diesel deal with Russia, in sharp reversal of U.S. policy - CBC",
-   "source": "CBC",
-   "published": "Fri, 09 Oct 2026 23:17:24 GMT",
-   "read": "de-escalation"
   }
  ],
  "ratings": [
