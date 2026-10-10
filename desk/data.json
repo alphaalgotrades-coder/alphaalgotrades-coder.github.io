@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-10T09:50:07+00:00",
+ "generated_utc": "2026-10-10T09:55:03+00:00",
  "date_et": "2026-10-10",
  "build": "0d463cfe05",
  "tape": [],
@@ -270,11 +270,18 @@
     "pct": -3.7
    }
   ],
-  "as_of": "2026-10-10T09:48:14.338952+00:00",
+  "as_of": "2026-10-10T09:54:05.889982+00:00",
   "tone": "risk-on",
-  "age_min": 1.8803695666666667
+  "age_min": 0.9628223333333333
  },
  "stories": [
+  {
+   "topic": "Taiwan / China",
+   "title": "Taiwan to boost military spending to 'deter war' with China - DW.com",
+   "source": "DW.com",
+   "published": "Sat, 10 Oct 2026 09:40:56 GMT",
+   "read": "escalation"
+  },
   {
    "topic": "Iran / Hormuz",
    "title": "Iran shows Trump\u2019s opportunity in escalating Hormuz attacks - Washington Examiner",
@@ -290,32 +297,25 @@
    "read": "unclear"
   },
   {
+   "topic": "Taiwan / China",
+   "title": "Taiwan president says defence spending boost aims to \u2018deter war\u2019 - Al Jazeera",
+   "source": "Al Jazeera",
+   "published": "Sat, 10 Oct 2026 07:59:47 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Putin told Trump Kyiv scuttled negotiations possibility with strikes during Russian elections: Aide - Anadolu Ajans\u0131",
+   "source": "Anadolu Ajans\u0131",
+   "published": "Sat, 10 Oct 2026 07:29:38 GMT",
+   "read": "unclear"
+  },
+  {
    "topic": "Russia / Ukraine",
    "title": "Russian attacks kill 7 in Ukraine after Trump strikes diesel deal with Putin - AP News",
    "source": "AP News",
    "published": "Sat, 10 Oct 2026 07:17:00 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Ukraine War, Day 1,689: Trump \u2014 Putin Is Selling Diesel Fuel to US - EA WorldView",
-   "source": "EA WorldView",
-   "published": "Sat, 10 Oct 2026 07:07:30 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Taiwan / China",
-   "title": "US Calls China\u2019s Maritime Activity Near Taiwan \u2018Deeply Destabilising\u2019 - Khaama Press",
-   "source": "Khaama Press",
-   "published": "Sat, 10 Oct 2026 07:03:00 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Saudi / Gulf supply",
-   "title": "Saudi Aramco to supply full oil volumes to Europe customers next month - Report.az",
-   "source": "Report.az",
-   "published": "Sat, 10 Oct 2026 06:33:11 GMT",
-   "read": "unclear"
   }
  ],
  "ratings": [
