@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-10T09:30:04+00:00",
+ "generated_utc": "2026-10-10T09:35:03+00:00",
  "date_et": "2026-10-10",
  "build": "0d463cfe05",
  "tape": [],
@@ -270,11 +270,18 @@
     "pct": -3.7
    }
   ],
-  "as_of": "2026-10-10T09:27:05.789625+00:00",
+  "as_of": "2026-10-10T09:33:07.288658+00:00",
   "tone": "risk-on",
-  "age_min": 2.97627565
+  "age_min": 1.9466846833333333
  },
  "stories": [
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iran shows Trump\u2019s opportunity in escalating Hormuz attacks - Washington Examiner",
+   "source": "Washington Examiner",
+   "published": "Sat, 10 Oct 2026 09:00:00 GMT",
+   "read": "escalation"
+  },
   {
    "topic": "Saudi / Gulf supply",
    "title": "Saudi Aramco plans to fulfil European oil orders in full in November - Azernews.az",
@@ -309,13 +316,6 @@
    "source": "Report.az",
    "published": "Sat, 10 Oct 2026 06:33:11 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "US hosts \u2018productive\u2019 trilateral talks to end Russia-Ukraine war - Al Jazeera",
-   "source": "Al Jazeera",
-   "published": "Sat, 10 Oct 2026 05:52:57 GMT",
-   "read": "de-escalation"
   }
  ],
  "ratings": [
