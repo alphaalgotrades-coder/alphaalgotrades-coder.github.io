@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-10T17:30:04+00:00",
+ "generated_utc": "2026-10-10T17:35:03+00:00",
  "date_et": "2026-10-10",
  "build": "0d463cfe05",
  "tape": [],
@@ -270,11 +270,25 @@
     "pct": -3.7
    }
   ],
-  "as_of": "2026-10-10T17:27:05.526718+00:00",
+  "as_of": "2026-10-10T17:33:05.052238+00:00",
   "tone": "risk-on",
-  "age_min": 2.98985975
+  "age_min": 1.9827950833333332
  },
  "stories": [
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iran\u2019s Guards says oil tanker exploded after hitting mine in Hormuz - The Times of Israel",
+   "source": "The Times of Israel",
+   "published": "Sat, 10 Oct 2026 17:24:38 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Oil tanker explodes after hitting naval mine in Strait of Hormuz - The Jerusalem Post",
+   "source": "The Jerusalem Post",
+   "published": "Sat, 10 Oct 2026 17:16:35 GMT",
+   "read": "escalation"
+  },
   {
    "topic": "Russia / Ukraine",
    "title": "Russian attacks kill 17 in Ukraine after Trump strikes diesel deal with Putin - ABC News - Breaking News, Latest News and Videos",
@@ -302,20 +316,6 @@
    "source": "WSJ",
    "published": "Sat, 10 Oct 2026 13:42:12 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Taiwan / China",
-   "title": "Lai Ching-te vows stronger defense as China condemns Taiwan independence push - CHOSUNBIZ - Chosunbiz",
-   "source": "Chosunbiz",
-   "published": "Sat, 10 Oct 2026 13:28:00 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Neither Putin nor Trump wanted to hang up first, Kremlin aide says after 'very friendly' call - Reuters",
-   "source": "Reuters",
-   "published": "Sat, 10 Oct 2026 13:15:45 GMT",
-   "read": "unclear"
   }
  ],
  "ratings": [
