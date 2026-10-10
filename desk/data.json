@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-10T08:30:04+00:00",
+ "generated_utc": "2026-10-10T08:35:03+00:00",
  "date_et": "2026-10-10",
  "build": "0d463cfe05",
  "tape": [],
@@ -270,17 +270,31 @@
     "pct": -3.7
    }
   ],
-  "as_of": "2026-10-10T08:27:14.324382+00:00",
+  "as_of": "2026-10-10T08:33:05.676215+00:00",
   "tone": "risk-on",
-  "age_min": 2.8372307500000002
+  "age_min": 1.9740934
  },
  "stories": [
+  {
+   "topic": "Saudi / Gulf supply",
+   "title": "Saudi Aramco plans to fulfil European oil orders in full in November - Azernews.az",
+   "source": "Azernews.az",
+   "published": "Sat, 10 Oct 2026 08:23:00 GMT",
+   "read": "unclear"
+  },
   {
    "topic": "Russia / Ukraine",
    "title": "Russian attacks kill 7 in Ukraine after Trump strikes diesel deal with Putin - AP News",
    "source": "AP News",
    "published": "Sat, 10 Oct 2026 07:17:00 GMT",
    "read": "escalation"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Ukraine War, Day 1,689: Trump \u2014 Putin Is Selling Diesel Fuel to US - EA WorldView",
+   "source": "EA WorldView",
+   "published": "Sat, 10 Oct 2026 07:07:30 GMT",
+   "read": "unclear"
   },
   {
    "topic": "Taiwan / China",
@@ -302,20 +316,6 @@
    "source": "Bangkok Post",
    "published": "Sat, 10 Oct 2026 04:45:00 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Hours after Trump-Putin diesel deal, Ukraine strikes Russian fuel site - Al Jazeera",
-   "source": "Al Jazeera",
-   "published": "Sat, 10 Oct 2026 04:35:16 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Trump and Iran agree on one thing. The US election calendar isn't driving their decisions on the war - ABC News - Breaking News, Latest News and Videos",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "published": "Sat, 10 Oct 2026 04:32:57 GMT",
-   "read": "unclear"
   }
  ],
  "ratings": [
