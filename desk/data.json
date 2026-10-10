@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-10T05:30:04+00:00",
+ "generated_utc": "2026-10-10T05:35:03+00:00",
  "date_et": "2026-10-10",
  "build": "0d463cfe05",
  "tape": [],
@@ -270,23 +270,30 @@
     "pct": -3.7
    }
   ],
-  "as_of": "2026-10-10T05:27:05.376228+00:00",
+  "as_of": "2026-10-10T05:33:05.397478+00:00",
   "tone": "risk-on",
-  "age_min": 2.985305316666667
+  "age_min": 1.9782122833333333
  },
  "stories": [
-  {
-   "topic": "Taiwan / China",
-   "title": "China muddies the waters east of Taiwan - The International Institute for Strategic Studies",
-   "source": "The International Institute for Strategic Studies",
-   "published": "Thu, 08 Oct 2026 21:28:23 GMT",
-   "read": "escalation"
-  },
   {
    "topic": "Saudi / Gulf supply",
    "title": "Crude Oil Price in Focus as Saudi Arabia-Houthi, US-Iran, Ukraine-Russia Tensions Escalate - Benzinga",
    "source": "Benzinga",
    "published": "Sun, 04 Oct 2026 18:20:06 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Taiwan / China",
+   "title": "Taiwan's Lai calls on Indo-Pacific democracies to help maintain peace in National Day speech - The Washington Post",
+   "source": "The Washington Post",
+   "published": "Sat, 10 Oct 2026 05:26:34 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Hours after Trump-Putin diesel deal, Ukraine strikes Russian fuel site - Al Jazeera",
+   "source": "Al Jazeera",
+   "published": "Sat, 10 Oct 2026 04:35:16 GMT",
    "read": "escalation"
   },
   {
@@ -309,13 +316,6 @@
    "source": "Taiwan News",
    "published": "Sat, 10 Oct 2026 03:21:00 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Taiwan / China",
-   "title": "Taiwan cherishes peace but will not give up freedom, president says - Reuters",
-   "source": "Reuters",
-   "published": "Sat, 10 Oct 2026 03:13:00 GMT",
-   "read": "unclear"
   }
  ],
  "ratings": [
