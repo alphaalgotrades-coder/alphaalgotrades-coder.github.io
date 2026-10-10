@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-10T19:50:03+00:00",
+ "generated_utc": "2026-10-10T19:55:03+00:00",
  "date_et": "2026-10-10",
  "build": "0d463cfe05",
  "tape": [],
@@ -270,31 +270,31 @@
     "pct": -3.7
    }
   ],
-  "as_of": "2026-10-10T19:48:05.033777+00:00",
+  "as_of": "2026-10-10T19:54:05.724154+00:00",
   "tone": "risk-on",
-  "age_min": 1.9766777833333333
+  "age_min": 0.9687700833333334
  },
  "stories": [
   {
-   "topic": "Russia / Ukraine",
-   "title": "Trump Is an Easy Mark for Putin - The Atlantic",
-   "source": "The Atlantic",
-   "published": "Sat, 10 Oct 2026 18:14:00 GMT",
+   "topic": "Iran / Hormuz",
+   "title": "Ship captains and crews crossing Hormuz earn so much they're 'almost being viewed as mercenaries' - Fortune",
+   "source": "Fortune",
+   "published": "Sat, 10 Oct 2026 19:41:00 GMT",
    "read": "unclear"
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "First Preventing a Nuclear Iran. Now Securing Hormuz. Where Does the War End? - Haaretz",
+   "title": "Live - Trump weighs US strikes on Houthis after Riyadh airport hit - Iran International",
+   "source": "Iran International",
+   "published": "Sat, 10 Oct 2026 18:52:36 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Analysis \u2022 First preventing a nuclear Iran. Now securing Hormuz. Where does the war end? - Haaretz",
    "source": "Haaretz",
    "published": "Sat, 10 Oct 2026 18:02:00 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "UPDATES: US War on Iran, Day 226 \u2014 Houthis Hit Riyadh\u2019s International Airport - EA WorldView",
-   "source": "EA WorldView",
-   "published": "Sat, 10 Oct 2026 17:35:24 GMT",
-   "read": "escalation"
   },
   {
    "topic": "Russia / Ukraine",
@@ -305,16 +305,16 @@
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Iran\u2019s Guards says oil tanker exploded after hitting mine in Hormuz - The Times of Israel",
-   "source": "The Times of Israel",
-   "published": "Sat, 10 Oct 2026 17:24:38 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
    "title": "Oil tanker explodes after striking naval mine in Hormuz, IRGC claims - report - The Jerusalem Post",
    "source": "The Jerusalem Post",
    "published": "Sat, 10 Oct 2026 17:16:35 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Zelensky blasts Trump-Putin diesel deal as Russian strikes kill 16 - Le Monde.fr",
+   "source": "Le Monde.fr",
+   "published": "Sat, 10 Oct 2026 17:12:26 GMT",
    "read": "escalation"
   }
  ],
