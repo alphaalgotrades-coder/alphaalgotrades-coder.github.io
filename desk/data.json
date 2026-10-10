@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-10T18:50:03+00:00",
+ "generated_utc": "2026-10-10T18:55:03+00:00",
  "date_et": "2026-10-10",
  "build": "0d463cfe05",
  "tape": [],
@@ -270,11 +270,18 @@
     "pct": -3.7
    }
   ],
-  "as_of": "2026-10-10T18:48:05.070747+00:00",
+  "as_of": "2026-10-10T18:54:05.248097+00:00",
   "tone": "risk-on",
-  "age_min": 1.97706985
+  "age_min": 0.9788860666666667
  },
  "stories": [
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Trump Is an Easy Mark for Putin - The Atlantic",
+   "source": "The Atlantic",
+   "published": "Sat, 10 Oct 2026 18:14:00 GMT",
+   "read": "unclear"
+  },
   {
    "topic": "Iran / Hormuz",
    "title": "First Preventing a Nuclear Iran. Now Securing Hormuz. Where Does the War End? - Haaretz",
@@ -304,17 +311,10 @@
    "read": "escalation"
   },
   {
-   "topic": "Iran / Hormuz",
-   "title": "Iran\u2019s Guards says oil tanker exploded after hitting mine in Hormuz - The Times of Israel",
-   "source": "The Times of Israel",
-   "published": "Sat, 10 Oct 2026 17:24:38 GMT",
-   "read": "escalation"
-  },
-  {
    "topic": "Russia / Ukraine",
-   "title": "Trump says Ukraine should get a new president, blames Zelenskyy for U.S. diesel prices - CBC",
-   "source": "CBC",
-   "published": "Sat, 10 Oct 2026 17:24:22 GMT",
+   "title": "Trump tells Ukraine to replace Zelensky over Russia fuel deal - Axios",
+   "source": "Axios",
+   "published": "Sat, 10 Oct 2026 17:30:25 GMT",
    "read": "unclear"
   }
  ],
