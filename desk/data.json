@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-10T11:50:03+00:00",
+ "generated_utc": "2026-10-10T11:55:03+00:00",
  "date_et": "2026-10-10",
  "build": "0d463cfe05",
  "tape": [],
@@ -270,16 +270,16 @@
     "pct": -3.7
    }
   ],
-  "as_of": "2026-10-10T11:48:05.985754+00:00",
+  "as_of": "2026-10-10T11:54:15.441762+00:00",
   "tone": "risk-on",
-  "age_min": 1.9634853833333332
+  "age_min": 0.8010511499999999
  },
  "stories": [
   {
    "topic": "Russia / Ukraine",
-   "title": "Russian attacks kill 12 in Ukraine after Trump strikes diesel deal with Putin - The Washington Post",
-   "source": "The Washington Post",
-   "published": "Sat, 10 Oct 2026 10:28:57 GMT",
+   "title": "Russian attacks kill 12 in Ukraine after Trump strikes diesel deal with Putin - The Boston Globe",
+   "source": "The Boston Globe",
+   "published": "Sat, 10 Oct 2026 11:18:09 GMT",
    "read": "escalation"
   },
   {
