@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-10T03:30:03+00:00",
+ "generated_utc": "2026-10-10T03:35:04+00:00",
  "date_et": "2026-10-09",
  "build": "0d463cfe05",
  "tape": [
@@ -352,23 +352,16 @@
     "pct": -3.7
    }
   ],
-  "as_of": "2026-10-10T03:27:05.137312+00:00",
+  "as_of": "2026-10-10T03:33:05.428745+00:00",
   "tone": "risk-on",
-  "age_min": 2.983045683333333
+  "age_min": 1.9788702833333334
  },
  "stories": [
   {
    "topic": "Taiwan / China",
-   "title": "Recent Taiwan simulation highlights US cyberdefense gaps against China, experts warn - Nextgov/FCW",
-   "source": "Nextgov/FCW",
-   "published": "Wed, 07 Oct 2026 15:59:00 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Taiwan / China",
-   "title": "Taiwan spots first China militia boat in east - Taipei Times",
-   "source": "Taipei Times",
-   "published": "Thu, 08 Oct 2026 16:00:00 GMT",
+   "title": "China muddies the waters east of Taiwan - The International Institute for Strategic Studies",
+   "source": "The International Institute for Strategic Studies",
+   "published": "Thu, 08 Oct 2026 21:28:23 GMT",
    "read": "escalation"
   },
   {
@@ -376,6 +369,13 @@
    "title": "Crude Oil Price in Focus as Saudi Arabia-Houthi, US-Iran, Ukraine-Russia Tensions Escalate - Benzinga",
    "source": "Benzinga",
    "published": "Sun, 04 Oct 2026 18:20:06 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Taiwan / China",
+   "title": "Taiwan tracks 21 military aircraft and 9 Chinese ships - Taiwan News",
+   "source": "Taiwan News",
+   "published": "Sat, 10 Oct 2026 03:21:00 GMT",
    "read": "escalation"
   },
   {
