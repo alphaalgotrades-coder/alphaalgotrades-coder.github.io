@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-10T16:30:05+00:00",
+ "generated_utc": "2026-10-10T16:35:04+00:00",
  "date_et": "2026-10-10",
  "build": "0d463cfe05",
  "tape": [],
@@ -270,11 +270,18 @@
     "pct": -3.7
    }
   ],
-  "as_of": "2026-10-10T16:27:05.618721+00:00",
+  "as_of": "2026-10-10T16:33:06.523785+00:00",
   "tone": "risk-on",
-  "age_min": 2.995916483333333
+  "age_min": 1.9664393833333333
  },
  "stories": [
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Ukraine hit by deadly Russian strikes as \u2018thanks\u2019 for Trump diesel deal, Zelenskyy says - The Guardian",
+   "source": "The Guardian",
+   "published": "Sat, 10 Oct 2026 16:08:00 GMT",
+   "read": "escalation"
+  },
   {
    "topic": "Russia / Ukraine",
    "title": "\u2018Gifts to Putin\u2019: Ukraine rattled as Trump eases sanctions on Russian oil - NBC News",
@@ -308,13 +315,6 @@
    "title": "Democrats explode over Trump\u2019s Russia diesel deal - The Hill",
    "source": "The Hill",
    "published": "Sat, 10 Oct 2026 13:02:00 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Taiwan / China",
-   "title": "Taiwan's Lai calls on Indo-Pacific democracies to help maintain peace in National Day speech - The Edwardsville Intelligencer",
-   "source": "The Edwardsville Intelligencer",
-   "published": "Sat, 10 Oct 2026 10:19:31 GMT",
    "read": "unclear"
   }
  ],
