@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-10T18:10:03+00:00",
+ "generated_utc": "2026-10-10T18:15:04+00:00",
  "date_et": "2026-10-10",
  "build": "0d463cfe05",
  "tape": [],
@@ -270,11 +270,39 @@
     "pct": -3.7
    }
   ],
-  "as_of": "2026-10-10T18:09:05.498934+00:00",
+  "as_of": "2026-10-10T18:12:05.051678+00:00",
   "tone": "risk-on",
-  "age_min": 0.9739833833333333
+  "age_min": 2.985941166666667
  },
  "stories": [
+  {
+   "topic": "Iran / Hormuz",
+   "title": "First Preventing a Nuclear Iran. Now Securing Hormuz. Where Does the War End? - Haaretz",
+   "source": "Haaretz",
+   "published": "Sat, 10 Oct 2026 18:02:00 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Trump says Ukraine should get a new president as he blames Zelenskyy for US diesel prices - The Washington Post",
+   "source": "The Washington Post",
+   "published": "Sat, 10 Oct 2026 17:58:58 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Russia kills 20 in Ukraine as US hosts \u2018productive\u2019 talks to end war - Al Jazeera",
+   "source": "Al Jazeera",
+   "published": "Sat, 10 Oct 2026 17:55:03 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "UPDATES: US War on Iran, Day 226 \u2014 Houthis Hit Riyadh\u2019s International Airport - EA WorldView",
+   "source": "EA WorldView",
+   "published": "Sat, 10 Oct 2026 17:35:24 GMT",
+   "read": "escalation"
+  },
   {
    "topic": "Iran / Hormuz",
    "title": "Iran\u2019s Guards says oil tanker exploded after hitting mine in Hormuz - The Times of Israel",
@@ -288,34 +316,6 @@
    "source": "CBC",
    "published": "Sat, 10 Oct 2026 17:24:22 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Oil tanker explodes after hitting naval mine in Strait of Hormuz - The Jerusalem Post",
-   "source": "The Jerusalem Post",
-   "published": "Sat, 10 Oct 2026 17:16:35 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Russian attacks kill 17 in Ukraine after Trump strikes diesel deal with Putin - ABC News - Breaking News, Latest News and Videos",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "published": "Sat, 10 Oct 2026 16:14:27 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Ukraine hit by deadly Russian strikes as \u2018thanks\u2019 for Trump diesel deal, Zelenskyy says - The Guardian",
-   "source": "The Guardian",
-   "published": "Sat, 10 Oct 2026 16:08:00 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Tanker Attacks Push Deeper Into Gulf, Rattle Oil Markets - WSJ",
-   "source": "WSJ",
-   "published": "Sat, 10 Oct 2026 13:42:12 GMT",
-   "read": "escalation"
   }
  ],
  "ratings": [
