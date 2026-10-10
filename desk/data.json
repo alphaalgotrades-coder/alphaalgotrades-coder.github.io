@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-10T21:10:03+00:00",
+ "generated_utc": "2026-10-10T21:15:04+00:00",
  "date_et": "2026-10-10",
  "build": "0d463cfe05",
  "tape": [],
@@ -270,9 +270,9 @@
     "pct": -3.7
    }
   ],
-  "as_of": "2026-10-10T21:09:05.940826+00:00",
+  "as_of": "2026-10-10T21:12:05.760378+00:00",
   "tone": "risk-on",
-  "age_min": 0.9656288
+  "age_min": 2.9762810833333333
  },
  "stories": [
   {
@@ -305,9 +305,9 @@
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "Zelensky blasts Trump-Putin diesel deal as Russian strikes kill 16 - Le Monde.fr",
-   "source": "Le Monde.fr",
-   "published": "Sat, 10 Oct 2026 17:12:26 GMT",
+   "title": "EU says US deal lifting diesel sanctions 'funds' Russian war on Ukraine - RFI",
+   "source": "RFI",
+   "published": "Sat, 10 Oct 2026 15:06:41 GMT",
    "read": "escalation"
   },
   {
