@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-10T06:30:04+00:00",
+ "generated_utc": "2026-10-10T06:35:03+00:00",
  "date_et": "2026-10-10",
  "build": "0d463cfe05",
  "tape": [],
@@ -270,9 +270,9 @@
     "pct": -3.7
    }
   ],
-  "as_of": "2026-10-10T06:27:05.674374+00:00",
+  "as_of": "2026-10-10T06:33:05.602421+00:00",
   "tone": "risk-on",
-  "age_min": 2.9825896333333333
+  "age_min": 1.9715287
  },
  "stories": [
   {
@@ -290,6 +290,13 @@
    "read": "unclear"
   },
   {
+   "topic": "Taiwan / China",
+   "title": "Taiwan increasing defence spending to \u2018deter war\u2019 - Bangkok Post",
+   "source": "Bangkok Post",
+   "published": "Sat, 10 Oct 2026 04:45:00 GMT",
+   "read": "escalation"
+  },
+  {
    "topic": "Russia / Ukraine",
    "title": "Hours after Trump-Putin diesel deal, Ukraine strikes Russian fuel site - Al Jazeera",
    "source": "Al Jazeera",
@@ -302,13 +309,6 @@
    "source": "ABC News - Breaking News, Latest News and Videos",
    "published": "Sat, 10 Oct 2026 04:32:57 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Taiwan / China",
-   "title": "Taiwan's president says increasing defence spending to 'deter war' as China ramps up pressure - Firstpost",
-   "source": "Firstpost",
-   "published": "Sat, 10 Oct 2026 04:04:39 GMT",
-   "read": "escalation"
   },
   {
    "topic": "Taiwan / China",
