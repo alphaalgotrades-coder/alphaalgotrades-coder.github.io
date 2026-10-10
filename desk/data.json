@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-10T19:10:03+00:00",
+ "generated_utc": "2026-10-10T19:15:04+00:00",
  "date_et": "2026-10-10",
  "build": "0d463cfe05",
  "tape": [],
@@ -270,9 +270,9 @@
     "pct": -3.7
    }
   ],
-  "as_of": "2026-10-10T19:09:05.574567+00:00",
+  "as_of": "2026-10-10T19:12:04.878331+00:00",
   "tone": "risk-on",
-  "age_min": 0.9696042833333334
+  "age_min": 2.989360333333333
  },
  "stories": [
   {
@@ -290,20 +290,6 @@
    "read": "unclear"
   },
   {
-   "topic": "Russia / Ukraine",
-   "title": "Trump says Ukraine should get a new president as he blames Zelenskyy for US diesel prices - The Washington Post",
-   "source": "The Washington Post",
-   "published": "Sat, 10 Oct 2026 17:58:58 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Russia kills 20 in Ukraine as US hosts \u2018productive\u2019 talks to end war - Al Jazeera",
-   "source": "Al Jazeera",
-   "published": "Sat, 10 Oct 2026 17:55:03 GMT",
-   "read": "escalation"
-  },
-  {
    "topic": "Iran / Hormuz",
    "title": "UPDATES: US War on Iran, Day 226 \u2014 Houthis Hit Riyadh\u2019s International Airport - EA WorldView",
    "source": "EA WorldView",
@@ -316,6 +302,20 @@
    "source": "Axios",
    "published": "Sat, 10 Oct 2026 17:30:25 GMT",
    "read": "unclear"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iran\u2019s Guards says oil tanker exploded after hitting mine in Hormuz - The Times of Israel",
+   "source": "The Times of Israel",
+   "published": "Sat, 10 Oct 2026 17:24:38 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Oil tanker explodes after striking naval mine in Hormuz, IRGC claims - report - The Jerusalem Post",
+   "source": "The Jerusalem Post",
+   "published": "Sat, 10 Oct 2026 17:16:35 GMT",
+   "read": "escalation"
   }
  ],
  "ratings": [
