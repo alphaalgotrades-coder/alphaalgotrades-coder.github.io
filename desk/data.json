@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-11T14:10:03+00:00",
+ "generated_utc": "2026-10-11T14:15:03+00:00",
  "date_et": "2026-10-11",
  "build": "0d463cfe05",
  "tape": [
@@ -280,9 +280,9 @@
     "pct": -3.7
    }
   ],
-  "as_of": "2026-10-11T14:09:06.583930+00:00",
+  "as_of": "2026-10-11T14:12:09.081137+00:00",
   "tone": "risk-on",
-  "age_min": 0.9427356
+  "age_min": 2.9140303666666667
  },
  "stories": [
   {
@@ -291,6 +291,13 @@
    "source": "Crude Oil Prices Today | OilPrice.com",
    "published": "Tue, 15 Sep 2026 07:00:00 GMT",
    "read": "unclear"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Hormuz attacks intensify as efforts to end war on Iran stall - Al Jazeera",
+   "source": "Al Jazeera",
+   "published": "Sun, 11 Oct 2026 14:04:49 GMT",
+   "read": "escalation"
   },
   {
    "topic": "Russia / Ukraine",
@@ -314,18 +321,11 @@
    "read": "escalation"
   },
   {
-   "topic": "Russia / Ukraine",
-   "title": "Kyiv pushes back on Trump\u2019s call for a new Ukrainian president as drones hit Russian data hub - CNBC",
-   "source": "CNBC",
-   "published": "Sun, 11 Oct 2026 10:37:13 GMT",
+   "topic": "Iran / Hormuz",
+   "title": "Iran hits latest tanker as strikes near 20 vessels in under two weeks - TradeWinds News",
+   "source": "TradeWinds News",
+   "published": "Sun, 11 Oct 2026 11:18:39 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Zelensky offers energy truce to Putin after Trump row - The Times",
-   "source": "The Times",
-   "published": "Sun, 11 Oct 2026 10:25:00 GMT",
-   "read": "de-escalation"
   }
  ],
  "ratings": [
