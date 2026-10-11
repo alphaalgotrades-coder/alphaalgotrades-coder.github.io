@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-11T19:50:03+00:00",
+ "generated_utc": "2026-10-11T19:55:03+00:00",
  "date_et": "2026-10-11",
  "build": "0d463cfe05",
  "tape": [
@@ -280,9 +280,9 @@
     "pct": -3.7
    }
   ],
-  "as_of": "2026-10-11T19:48:06.439627+00:00",
+  "as_of": "2026-10-11T19:54:06.597221+00:00",
   "tone": "risk-on",
-  "age_min": 1.9554756833333333
+  "age_min": 0.9488694166666666
  },
  "stories": [
   {
@@ -298,6 +298,13 @@
    "source": "SCMP",
    "published": "Thu, 08 Oct 2026 12:00:16 GMT",
    "read": "escalation"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Pres. Donald Trump says Russia and Ukraine reach \u2018energy ceasefire\u2019 but gives no details - Chicago Tribune",
+   "source": "Chicago Tribune",
+   "published": "Sun, 11 Oct 2026 19:10:58 GMT",
+   "read": "unclear"
   },
   {
    "topic": "Iran / Hormuz",
@@ -318,13 +325,6 @@
    "title": "Saudi Arabia, UAE Increase Oil Exports as Hormuz Shipments Recover - Egypt Oil &amp; Gas",
    "source": "Egypt Oil &amp; Gas",
    "published": "Sun, 11 Oct 2026 17:33:14 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Trump\u2019s diesel deal with Putin drives a wedge through the Western alliance - CNN",
-   "source": "CNN",
-   "published": "Sun, 11 Oct 2026 17:30:09 GMT",
    "read": "unclear"
   }
  ],
