@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-11T00:50:03+00:00",
+ "generated_utc": "2026-10-11T00:55:03+00:00",
  "date_et": "2026-10-10",
  "build": "0d463cfe05",
  "tape": [],
@@ -270,11 +270,18 @@
     "pct": -3.7
    }
   ],
-  "as_of": "2026-10-11T00:48:05.824433+00:00",
+  "as_of": "2026-10-11T00:54:14.306077+00:00",
   "tone": "risk-on",
-  "age_min": 1.9661118
+  "age_min": 0.8282788833333333
  },
  "stories": [
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Trump says Iran may step up actions before midterm elections, muses about renaming Strait of Hormuz - Anadolu Ajans\u0131",
+   "source": "Anadolu Ajans\u0131",
+   "published": "Sat, 10 Oct 2026 22:01:46 GMT",
+   "read": "escalation"
+  },
   {
    "topic": "Iran / Hormuz",
    "title": "Iran's Revolutionary Guards Say Oil Supertanker Exploded After Striking Mine in Strait of Hormuz: what 10 outlets left out - NewsCord",
@@ -295,13 +302,6 @@
    "source": "Anadolu Ajans\u0131",
    "published": "Sat, 10 Oct 2026 19:52:52 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Ship captains and crews crossing Hormuz earn so much they're 'almost being viewed as mercenaries' - Fortune",
-   "source": "Fortune",
-   "published": "Sat, 10 Oct 2026 19:41:00 GMT",
-   "read": "unclear"
   },
   {
    "topic": "Russia / Ukraine",
