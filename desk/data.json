@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-11T09:10:04+00:00",
+ "generated_utc": "2026-10-11T09:15:04+00:00",
  "date_et": "2026-10-11",
  "build": "0d463cfe05",
  "tape": [
@@ -280,9 +280,9 @@
     "pct": -3.7
    }
   ],
-  "as_of": "2026-10-11T09:09:05.898829+00:00",
+  "as_of": "2026-10-11T09:12:06.244094+00:00",
   "tone": "risk-on",
-  "age_min": 0.9725603166666666
+  "age_min": 2.970505866666667
  },
  "stories": [
   {
@@ -300,6 +300,13 @@
    "read": "escalation"
   },
   {
+   "topic": "Iran / Hormuz",
+   "title": "Live - International condemnation mounts over Iran-backed Houthi attack on Riyadh airport - Iran International",
+   "source": "Iran International",
+   "published": "Sun, 11 Oct 2026 08:07:27 GMT",
+   "read": "escalation"
+  },
+  {
    "topic": "Russia / Ukraine",
    "title": "Trump calls on Ukraine to replace Zelenskyy amid tensions over Russia deal - Al Jazeera",
    "source": "Al Jazeera",
@@ -311,13 +318,6 @@
    "title": "Video: Supertanker Hits Mine, Catches Fire While Trying To Exit Strait - NDTV",
    "source": "NDTV",
    "published": "Sun, 11 Oct 2026 05:32:21 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Live - Trump says Saudis can defend themselves after deadliest attack in 11 years - Iran International",
-   "source": "Iran International",
-   "published": "Sun, 11 Oct 2026 04:39:41 GMT",
    "read": "escalation"
   },
   {
