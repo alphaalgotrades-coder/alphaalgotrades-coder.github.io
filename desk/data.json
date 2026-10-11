@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-11T21:10:03+00:00",
+ "generated_utc": "2026-10-11T21:15:04+00:00",
  "date_et": "2026-10-11",
  "build": "0d463cfe05",
  "tape": [
@@ -280,9 +280,9 @@
     "pct": -3.7
    }
   ],
-  "as_of": "2026-10-11T21:09:13.611060+00:00",
+  "as_of": "2026-10-11T21:12:05.474793+00:00",
   "tone": "risk-on",
-  "age_min": 0.8415232666666667
+  "age_min": 2.9789188
  },
  "stories": [
   {
@@ -298,6 +298,13 @@
    "source": "SCMP",
    "published": "Thu, 08 Oct 2026 12:00:16 GMT",
    "read": "escalation"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Trump announces Russia-Ukraine \"energy ceasefire\" but Zelenskyy says Russian attacks still happening - CBS News",
+   "source": "CBS News",
+   "published": "Sun, 11 Oct 2026 20:39:21 GMT",
+   "read": "unclear"
   },
   {
    "topic": "Russia / Ukraine",
@@ -318,13 +325,6 @@
    "title": "Pres. Donald Trump says Russia and Ukraine reach \u2018energy ceasefire\u2019 but gives no details - Chicago Tribune",
    "source": "Chicago Tribune",
    "published": "Sun, 11 Oct 2026 19:10:58 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "'Insufficent': Iranian regime rejects US response to conditions set to reopen Strait of Hormuz - The Jerusalem Post",
-   "source": "The Jerusalem Post",
-   "published": "Sun, 11 Oct 2026 18:55:41 GMT",
    "read": "unclear"
   }
  ],
