@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-11T14:50:03+00:00",
+ "generated_utc": "2026-10-11T14:55:03+00:00",
  "date_et": "2026-10-11",
  "build": "0d463cfe05",
  "tape": [
@@ -280,9 +280,9 @@
     "pct": -3.7
    }
   ],
-  "as_of": "2026-10-11T14:48:09.564229+00:00",
+  "as_of": "2026-10-11T14:54:05.605208+00:00",
   "tone": "risk-on",
-  "age_min": 1.9074970833333333
+  "age_min": 0.9625146666666667
  },
  "stories": [
   {
@@ -300,6 +300,20 @@
    "read": "escalation"
   },
   {
+   "topic": "Russia / Ukraine",
+   "title": "Trump claims Russia and Ukraine agree to energy ceasefire - Axios",
+   "source": "Axios",
+   "published": "Sun, 11 Oct 2026 14:43:31 GMT",
+   "read": "de-escalation"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Zelensky repeats offer to hold elections if Russia agrees to ceasefire - The Times",
+   "source": "The Times",
+   "published": "Sun, 11 Oct 2026 14:15:00 GMT",
+   "read": "de-escalation"
+  },
+  {
    "topic": "Iran / Hormuz",
    "title": "Hormuz attacks intensify as efforts to end war on Iran stall - Al Jazeera",
    "source": "Al Jazeera",
@@ -308,24 +322,10 @@
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "Ukraine\u2019s allies vow to pressure Moscow after Trump-Putin diesel deal - Financial Times",
-   "source": "Financial Times",
-   "published": "Sun, 11 Oct 2026 12:45:06 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "European Leaders Back Zelenskyy After Trump's Diesel Deal; Russia, Ukraine Continue To Trade Strikes - Radio Free Europe/Radio Liberty",
-   "source": "Radio Free Europe/Radio Liberty",
-   "published": "Sun, 11 Oct 2026 11:50:33 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran hits latest tanker as strikes near 20 vessels in under two weeks - TradeWinds News",
-   "source": "TradeWinds News",
-   "published": "Sun, 11 Oct 2026 11:18:39 GMT",
-   "read": "escalation"
+   "title": "Zelenskyy claps back after Trump calls for new Ukrainian president to replace him - CBS News",
+   "source": "CBS News",
+   "published": "Sun, 11 Oct 2026 13:26:36 GMT",
+   "read": "unclear"
   }
  ],
  "ratings": [
