@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-11T13:50:03+00:00",
+ "generated_utc": "2026-10-11T13:55:03+00:00",
  "date_et": "2026-10-11",
  "build": "0d463cfe05",
  "tape": [
@@ -280,9 +280,9 @@
     "pct": -3.7
    }
   ],
-  "as_of": "2026-10-11T13:48:06.151021+00:00",
+  "as_of": "2026-10-11T13:54:06.301163+00:00",
   "tone": "risk-on",
-  "age_min": 1.9578035
+  "age_min": 0.9487501
  },
  "stories": [
   {
@@ -315,10 +315,10 @@
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "Ukraine Will Stop Hitting Russian Oil Only if Putin Ends Energy Strikes, Zelenskyy Says - UNITED24 Media",
-   "source": "UNITED24 Media",
-   "published": "Sun, 11 Oct 2026 10:28:40 GMT",
-   "read": "unclear"
+   "title": "Kyiv pushes back on Trump\u2019s call for a new Ukrainian president as drones hit Russian data hub - CNBC",
+   "source": "CNBC",
+   "published": "Sun, 11 Oct 2026 10:37:13 GMT",
+   "read": "escalation"
   },
   {
    "topic": "Russia / Ukraine",
