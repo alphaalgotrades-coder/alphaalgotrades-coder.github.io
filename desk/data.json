@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-11T12:10:03+00:00",
+ "generated_utc": "2026-10-11T12:15:03+00:00",
  "date_et": "2026-10-11",
  "build": "0d463cfe05",
  "tape": [
@@ -280,9 +280,9 @@
     "pct": -3.7
    }
   ],
-  "as_of": "2026-10-11T12:09:14.651452+00:00",
+  "as_of": "2026-10-11T12:12:06.100072+00:00",
   "tone": "risk-on",
-  "age_min": 0.8178873833333333
+  "age_min": 2.96209675
  },
  "stories": [
   {
@@ -290,6 +290,13 @@
    "title": "Saudi Aramco Cancels European Crude Cargoes as Key Pipeline Stays Shut - Crude Oil Prices Today | OilPrice.com",
    "source": "Crude Oil Prices Today | OilPrice.com",
    "published": "Tue, 15 Sep 2026 07:00:00 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Supertanker catches fire in the Strait of Hormuz, Iran says - NBC News",
+   "source": "NBC News",
+   "published": "Sun, 11 Oct 2026 12:07:51 GMT",
    "read": "unclear"
   },
   {
@@ -319,13 +326,6 @@
    "source": "South China Morning Post",
    "published": "Sun, 11 Oct 2026 10:00:12 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran's IRGC says \"violating\" supertanker exploded after hitting mines in Hormuz Strait - \u5df4\u58eb\u7684\u5831",
-   "source": "\u5df4\u58eb\u7684\u5831",
-   "published": "Sun, 11 Oct 2026 09:15:00 GMT",
-   "read": "escalation"
   }
  ],
  "ratings": [
