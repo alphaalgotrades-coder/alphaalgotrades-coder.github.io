@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-11T14:30:04+00:00",
+ "generated_utc": "2026-10-11T14:35:03+00:00",
  "date_et": "2026-10-11",
  "build": "0d463cfe05",
  "tape": [
@@ -280,9 +280,9 @@
     "pct": -3.7
    }
   ],
-  "as_of": "2026-10-11T14:27:06.254590+00:00",
+  "as_of": "2026-10-11T14:33:06.129567+00:00",
   "tone": "risk-on",
-  "age_min": 2.970542866666667
+  "age_min": 1.9549535166666667
  },
  "stories": [
   {
@@ -291,6 +291,13 @@
    "source": "Crude Oil Prices Today | OilPrice.com",
    "published": "Tue, 15 Sep 2026 07:00:00 GMT",
    "read": "unclear"
+  },
+  {
+   "topic": "Taiwan / China",
+   "title": "How expanded Japan-US military drills could complicate PLA planning over Taiwan - SCMP",
+   "source": "SCMP",
+   "published": "Thu, 08 Oct 2026 12:00:16 GMT",
+   "read": "escalation"
   },
   {
    "topic": "Iran / Hormuz",
@@ -305,13 +312,6 @@
    "source": "Financial Times",
    "published": "Sun, 11 Oct 2026 12:45:06 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Supertanker catches fire in the Strait of Hormuz, Iran says - NBC News",
-   "source": "NBC News",
-   "published": "Sun, 11 Oct 2026 12:07:51 GMT",
-   "read": "unclear"
   },
   {
    "topic": "Russia / Ukraine",
