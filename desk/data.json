@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-11T18:50:03+00:00",
+ "generated_utc": "2026-10-11T18:55:03+00:00",
  "date_et": "2026-10-11",
  "build": "0d463cfe05",
  "tape": [
@@ -280,9 +280,9 @@
     "pct": -3.7
    }
   ],
-  "as_of": "2026-10-11T18:48:06.812463+00:00",
+  "as_of": "2026-10-11T18:54:06.672783+00:00",
   "tone": "risk-on",
-  "age_min": 1.9530755999999998
+  "age_min": 0.9510889666666666
  },
  "stories": [
   {
@@ -297,6 +297,13 @@
    "title": "How expanded Japan-US military drills could complicate PLA planning over Taiwan - SCMP",
    "source": "SCMP",
    "published": "Thu, 08 Oct 2026 12:00:16 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iran calls US response to Hormuz reopening 'insufficient' - TRT World",
+   "source": "TRT World",
+   "published": "Sun, 11 Oct 2026 18:11:55 GMT",
    "read": "escalation"
   },
   {
@@ -319,13 +326,6 @@
    "source": "Anadolu Ajans\u0131",
    "published": "Sun, 11 Oct 2026 17:27:39 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Trump strikes deal with Putin to get diesel in sharp reversal of US policy weeks before midterms - Alabama Daily News",
-   "source": "Alabama Daily News",
-   "published": "Sun, 11 Oct 2026 17:19:09 GMT",
-   "read": "unclear"
   }
  ],
  "ratings": [
