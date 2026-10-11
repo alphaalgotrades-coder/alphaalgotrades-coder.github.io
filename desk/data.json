@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-11T17:50:03+00:00",
+ "generated_utc": "2026-10-11T17:55:03+00:00",
  "date_et": "2026-10-11",
  "build": "0d463cfe05",
  "tape": [
@@ -280,9 +280,9 @@
     "pct": -3.7
    }
   ],
-  "as_of": "2026-10-11T17:48:06.278212+00:00",
+  "as_of": "2026-10-11T17:54:06.367948+00:00",
   "tone": "risk-on",
-  "age_min": 1.9571775166666667
+  "age_min": 0.9560654333333333
  },
  "stories": [
   {
@@ -300,6 +300,13 @@
    "read": "escalation"
   },
   {
+   "topic": "Saudi / Gulf supply",
+   "title": "Saudi Arabia, UAE Increase Oil Exports as Hormuz Shipments Recover - Egypt Oil &amp; Gas",
+   "source": "Egypt Oil &amp; Gas",
+   "published": "Sun, 11 Oct 2026 17:33:14 GMT",
+   "read": "unclear"
+  },
+  {
    "topic": "Iran / Hormuz",
    "title": "Iran says US response to conditions for reopening Strait of Hormuz 'insufficient' - Anadolu Ajans\u0131",
    "source": "Anadolu Ajans\u0131",
@@ -314,18 +321,11 @@
    "read": "de-escalation"
   },
   {
-   "topic": "Iran / Hormuz",
-   "title": "Iran says US response to its proposal to reopen Hormuz was 'insufficient' - Reuters",
-   "source": "Reuters",
-   "published": "Sun, 11 Oct 2026 17:11:12 GMT",
-   "read": "de-escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran-backed Houthis claim latest attacks on airport in Saudi capital, including one that killed 12 - ABC News - Breaking News, Latest News and Videos",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "published": "Sun, 11 Oct 2026 17:08:15 GMT",
-   "read": "escalation"
+   "topic": "Russia / Ukraine",
+   "title": "Trump strikes deal with Putin to get diesel in sharp reversal of US policy weeks before midterms - Alabama Daily News",
+   "source": "Alabama Daily News",
+   "published": "Sun, 11 Oct 2026 17:19:09 GMT",
+   "read": "unclear"
   }
  ],
  "ratings": [
