@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-11T19:30:04+00:00",
+ "generated_utc": "2026-10-11T19:35:03+00:00",
  "date_et": "2026-10-11",
  "build": "0d463cfe05",
  "tape": [
@@ -280,9 +280,9 @@
     "pct": -3.7
    }
   ],
-  "as_of": "2026-10-11T19:27:06.753171+00:00",
+  "as_of": "2026-10-11T19:33:06.599100+00:00",
   "tone": "risk-on",
-  "age_min": 2.9598069166666665
+  "age_min": 1.9534937666666667
  },
  "stories": [
   {
@@ -307,6 +307,13 @@
    "read": "escalation"
   },
   {
+   "topic": "Russia / Ukraine",
+   "title": "Trump says Russia, Ukraine agree to 'energy ceasefire' - DW.com",
+   "source": "DW.com",
+   "published": "Sun, 11 Oct 2026 17:54:47 GMT",
+   "read": "de-escalation"
+  },
+  {
    "topic": "Saudi / Gulf supply",
    "title": "Saudi Arabia, UAE Increase Oil Exports as Hormuz Shipments Recover - Egypt Oil &amp; Gas",
    "source": "Egypt Oil &amp; Gas",
@@ -319,13 +326,6 @@
    "source": "CNN",
    "published": "Sun, 11 Oct 2026 17:30:09 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran says US response to conditions for reopening Strait of Hormuz 'insufficient' - Anadolu Ajans\u0131",
-   "source": "Anadolu Ajans\u0131",
-   "published": "Sun, 11 Oct 2026 17:27:39 GMT",
-   "read": "escalation"
   }
  ],
  "ratings": [
