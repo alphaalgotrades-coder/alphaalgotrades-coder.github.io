@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-11T20:10:03+00:00",
+ "generated_utc": "2026-10-11T20:15:04+00:00",
  "date_et": "2026-10-11",
  "build": "0d463cfe05",
  "tape": [
@@ -280,9 +280,9 @@
     "pct": -3.7
    }
   ],
-  "as_of": "2026-10-11T20:09:06.601382+00:00",
+  "as_of": "2026-10-11T20:12:06.448101+00:00",
   "tone": "risk-on",
-  "age_min": 0.95017565
+  "age_min": 2.96745105
  },
  "stories": [
   {
@@ -298,6 +298,13 @@
    "source": "SCMP",
    "published": "Thu, 08 Oct 2026 12:00:16 GMT",
    "read": "escalation"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Backlash grows against Russia diesel deal as Trump claims Ukraine energy ceasefire - The Hill",
+   "source": "The Hill",
+   "published": "Sun, 11 Oct 2026 19:24:00 GMT",
+   "read": "unclear"
   },
   {
    "topic": "Russia / Ukraine",
@@ -319,13 +326,6 @@
    "source": "DW.com",
    "published": "Sun, 11 Oct 2026 17:54:47 GMT",
    "read": "de-escalation"
-  },
-  {
-   "topic": "Saudi / Gulf supply",
-   "title": "Saudi Arabia, UAE Increase Oil Exports as Hormuz Shipments Recover - Egypt Oil &amp; Gas",
-   "source": "Egypt Oil &amp; Gas",
-   "published": "Sun, 11 Oct 2026 17:33:14 GMT",
-   "read": "unclear"
   }
  ],
  "ratings": [
