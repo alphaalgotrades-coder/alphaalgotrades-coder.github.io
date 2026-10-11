@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-11T07:50:04+00:00",
+ "generated_utc": "2026-10-11T07:55:03+00:00",
  "date_et": "2026-10-11",
  "build": "0d463cfe05",
  "tape": [
@@ -280,9 +280,9 @@
     "pct": -3.7
    }
   ],
-  "as_of": "2026-10-11T07:48:14.308263+00:00",
+  "as_of": "2026-10-11T07:54:06.097179+00:00",
   "tone": "risk-on",
-  "age_min": 1.8309281666666666
+  "age_min": 0.967241
  },
  "stories": [
   {
@@ -290,6 +290,13 @@
    "title": "Saudi Aramco Cancels European Crude Cargoes as Key Pipeline Stays Shut - Crude Oil Prices Today | OilPrice.com",
    "source": "Crude Oil Prices Today | OilPrice.com",
    "published": "Tue, 15 Sep 2026 07:00:00 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Trump calls on Ukraine to replace Zelenskyy amid tensions over Russia deal - Al Jazeera",
+   "source": "Al Jazeera",
+   "published": "Sun, 11 Oct 2026 06:56:45 GMT",
    "read": "unclear"
   },
   {
@@ -319,13 +326,6 @@
    "source": "Global Times",
    "published": "Sun, 11 Oct 2026 04:14:00 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Taiwan / China",
-   "title": "China\u2019s Gray-Zone Options Against Taiwan - The American Conservative",
-   "source": "The American Conservative",
-   "published": "Sun, 11 Oct 2026 04:03:00 GMT",
-   "read": "unclear"
   }
  ],
  "ratings": [
