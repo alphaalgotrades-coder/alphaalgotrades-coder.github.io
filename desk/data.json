@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-11T00:10:03+00:00",
+ "generated_utc": "2026-10-11T00:15:04+00:00",
  "date_et": "2026-10-10",
  "build": "0d463cfe05",
  "tape": [],
@@ -270,9 +270,9 @@
     "pct": -3.7
    }
   ],
-  "as_of": "2026-10-11T00:09:05.983878+00:00",
+  "as_of": "2026-10-11T00:12:05.664871+00:00",
   "tone": "risk-on",
-  "age_min": 0.9636955500000001
+  "age_min": 2.9793981
  },
  "stories": [
   {
@@ -311,11 +311,11 @@
    "read": "unclear"
   },
   {
-   "topic": "Iran / Hormuz",
-   "title": "Live - Trump weighs US strikes on Houthis after Riyadh airport hit - Iran International",
-   "source": "Iran International",
-   "published": "Sat, 10 Oct 2026 18:52:36 GMT",
-   "read": "escalation"
+   "topic": "Russia / Ukraine",
+   "title": "Trump says Ukraine needs a new president who will agree to end the war - Al Jazeera",
+   "source": "Al Jazeera",
+   "published": "Sat, 10 Oct 2026 19:36:58 GMT",
+   "read": "unclear"
   }
  ],
  "ratings": [
