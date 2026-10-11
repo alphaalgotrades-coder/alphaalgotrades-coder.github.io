@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-11T15:10:03+00:00",
+ "generated_utc": "2026-10-11T15:15:03+00:00",
  "date_et": "2026-10-11",
  "build": "0d463cfe05",
  "tape": [
@@ -280,9 +280,9 @@
     "pct": -3.7
    }
   ],
-  "as_of": "2026-10-11T15:09:05.587706+00:00",
+  "as_of": "2026-10-11T15:12:05.551236+00:00",
   "tone": "risk-on",
-  "age_min": 0.97138695
+  "age_min": 2.9728700333333333
  },
  "stories": [
   {
@@ -291,6 +291,13 @@
    "source": "Crude Oil Prices Today | OilPrice.com",
    "published": "Tue, 15 Sep 2026 07:00:00 GMT",
    "read": "unclear"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Attack risks rise for tankers as Iran vows to block more Hormuz routes - Reuters",
+   "source": "Reuters",
+   "published": "Thu, 08 Oct 2026 13:17:53 GMT",
+   "read": "escalation"
   },
   {
    "topic": "Taiwan / China",
@@ -308,24 +315,17 @@
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "Zelensky repeats offer to hold elections if Russia agrees to ceasefire - The Times",
-   "source": "The Times",
-   "published": "Sun, 11 Oct 2026 14:15:00 GMT",
+   "title": "Trump announces Russia-Ukraine \"energy ceasefire\" after calling for Zelenskyy's replacement - CBS News",
+   "source": "CBS News",
+   "published": "Sun, 11 Oct 2026 14:33:12 GMT",
    "read": "de-escalation"
   },
   {
-   "topic": "Iran / Hormuz",
-   "title": "Hormuz attacks intensify as efforts to end war on Iran stall - Al Jazeera",
-   "source": "Al Jazeera",
-   "published": "Sun, 11 Oct 2026 14:04:49 GMT",
-   "read": "escalation"
-  },
-  {
    "topic": "Russia / Ukraine",
-   "title": "Zelenskyy claps back after Trump calls for new Ukrainian president to replace him - CBS News",
-   "source": "CBS News",
-   "published": "Sun, 11 Oct 2026 13:26:36 GMT",
-   "read": "unclear"
+   "title": "Ukraine's Zelenskiy tells ABC he will organize elections if Russia agrees to 60-day ceasefire - Reuters",
+   "source": "Reuters",
+   "published": "Sun, 11 Oct 2026 14:10:05 GMT",
+   "read": "de-escalation"
   }
  ],
  "ratings": [
