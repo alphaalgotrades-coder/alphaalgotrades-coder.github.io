@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-11T11:30:04+00:00",
+ "generated_utc": "2026-10-11T11:35:03+00:00",
  "date_et": "2026-10-11",
  "build": "0d463cfe05",
  "tape": [
@@ -280,9 +280,9 @@
     "pct": -3.7
    }
   ],
-  "as_of": "2026-10-11T11:27:06.173564+00:00",
+  "as_of": "2026-10-11T11:33:15.554078+00:00",
   "tone": "risk-on",
-  "age_min": 2.9690141666666667
+  "age_min": 1.7948598999999998
  },
  "stories": [
   {
@@ -290,6 +290,13 @@
    "title": "Saudi Aramco Cancels European Crude Cargoes as Key Pipeline Stays Shut - Crude Oil Prices Today | OilPrice.com",
    "source": "Crude Oil Prices Today | OilPrice.com",
    "published": "Tue, 15 Sep 2026 07:00:00 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Ukraine Will Stop Hitting Russian Oil Only if Putin Ends Energy Strikes, Zelenskyy Says - UNITED24 Media",
+   "source": "UNITED24 Media",
+   "published": "Sun, 11 Oct 2026 10:28:40 GMT",
    "read": "unclear"
   },
   {
@@ -318,13 +325,6 @@
    "title": "Iran's IRGC says \"violating\" supertanker exploded after hitting mines in Hormuz Strait - \u5df4\u58eb\u7684\u5831",
    "source": "\u5df4\u58eb\u7684\u5831",
    "published": "Sun, 11 Oct 2026 09:15:00 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Ukraine steps up strikes on Russia\u2019s tech infrastructure, damaging third data center in 4 days - WKMG",
-   "source": "WKMG",
-   "published": "Sun, 11 Oct 2026 08:33:12 GMT",
    "read": "escalation"
   }
  ],
