@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-11T17:30:04+00:00",
+ "generated_utc": "2026-10-11T17:35:03+00:00",
  "date_et": "2026-10-11",
  "build": "0d463cfe05",
  "tape": [
@@ -280,9 +280,9 @@
     "pct": -3.7
    }
   ],
-  "as_of": "2026-10-11T17:27:06.354189+00:00",
+  "as_of": "2026-10-11T17:33:15.346597+00:00",
   "tone": "risk-on",
-  "age_min": 2.9662314833333334
+  "age_min": 1.81265905
  },
  "stories": [
   {
@@ -301,30 +301,30 @@
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Iran-backed Houthis claim latest attacks on airport in Saudi capital, including one that killed 12 - ABC News - Breaking News, Latest News and Videos",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "published": "Sun, 11 Oct 2026 17:08:15 GMT",
+   "title": "Iran says US response to conditions for reopening Strait of Hormuz 'insufficient' - Anadolu Ajans\u0131",
+   "source": "Anadolu Ajans\u0131",
+   "published": "Sun, 11 Oct 2026 17:27:39 GMT",
    "read": "escalation"
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "Trump says Russia and Ukraine reach \u2018energy ceasefire\u2019 but gives no details - Orange County Register",
-   "source": "Orange County Register",
-   "published": "Sun, 11 Oct 2026 16:56:57 GMT",
-   "read": "unclear"
+   "title": "Trump announces Ukraine energy ceasefire with Russia, surprising Zelenskiy - Reuters",
+   "source": "Reuters",
+   "published": "Sun, 11 Oct 2026 17:21:10 GMT",
+   "read": "de-escalation"
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "After oil increasingly left the Gulf, Iran is trying to regain its stranglehold on shipping - CNN",
-   "source": "CNN",
-   "published": "Sun, 11 Oct 2026 16:28:49 GMT",
-   "read": "escalation"
+   "title": "Iran says US response to its proposal to reopen Hormuz was 'insufficient' - Reuters",
+   "source": "Reuters",
+   "published": "Sun, 11 Oct 2026 17:11:12 GMT",
+   "read": "de-escalation"
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Iran sets supertanker ablaze after US takes out ship breaking blockade - New York Post",
-   "source": "New York Post",
-   "published": "Sun, 11 Oct 2026 16:27:00 GMT",
+   "title": "Iran-backed Houthis claim latest attacks on airport in Saudi capital, including one that killed 12 - ABC News - Breaking News, Latest News and Videos",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "published": "Sun, 11 Oct 2026 17:08:15 GMT",
    "read": "escalation"
   }
  ],
