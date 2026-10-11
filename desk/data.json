@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-11T03:10:03+00:00",
+ "generated_utc": "2026-10-11T03:15:03+00:00",
  "date_et": "2026-10-10",
  "build": "0d463cfe05",
  "tape": [],
@@ -270,9 +270,9 @@
     "pct": -3.7
    }
   ],
-  "as_of": "2026-10-11T03:09:05.843203+00:00",
+  "as_of": "2026-10-11T03:12:06.017296+00:00",
   "tone": "risk-on",
-  "age_min": 0.9694987166666666
+  "age_min": 2.96471125
  },
  "stories": [
   {
@@ -280,6 +280,13 @@
    "title": "Trump says Ukraine needs a new president, blames Zelenskyy's strikes on Russian refineries for high diesel prices - CBS News",
    "source": "CBS News",
    "published": "Sun, 11 Oct 2026 01:59:52 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Ukraine war briefing: Trump and Zelenskyy\u2019s public tussle over Russian fuel deal worsens - The Guardian",
+   "source": "The Guardian",
+   "published": "Sun, 11 Oct 2026 01:47:00 GMT",
    "read": "unclear"
   },
   {
@@ -305,17 +312,10 @@
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Iran's Revolutionary Guards Say Oil Supertanker Exploded After Striking Mine in Strait of Hormuz: what 10 outlets left out - NewsCord",
-   "source": "NewsCord",
-   "published": "Sat, 10 Oct 2026 21:09:22 GMT",
+   "title": "US strikes merchant vessel in Gulf of Oman while enforcing Iran blockade - The Jerusalem Post",
+   "source": "The Jerusalem Post",
+   "published": "Sat, 10 Oct 2026 17:16:35 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Trump says Ukraine needs a new president who will agree to end the war - Al Jazeera",
-   "source": "Al Jazeera",
-   "published": "Sat, 10 Oct 2026 19:36:58 GMT",
-   "read": "unclear"
   }
  ],
  "ratings": [
