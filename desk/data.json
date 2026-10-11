@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-11T20:30:04+00:00",
+ "generated_utc": "2026-10-11T20:35:04+00:00",
  "date_et": "2026-10-11",
  "build": "0d463cfe05",
  "tape": [
@@ -280,9 +280,9 @@
     "pct": -3.7
    }
   ],
-  "as_of": "2026-10-11T20:27:05.248155+00:00",
+  "as_of": "2026-10-11T20:33:05.571483+00:00",
   "tone": "risk-on",
-  "age_min": 2.9944211333333333
+  "age_min": 1.9799559166666667
  },
  "stories": [
   {
@@ -315,17 +315,17 @@
   },
   {
    "topic": "Iran / Hormuz",
+   "title": "'Insufficent': Iranian regime rejects US response to conditions set to reopen Strait of Hormuz - The Jerusalem Post",
+   "source": "The Jerusalem Post",
+   "published": "Sun, 11 Oct 2026 18:55:41 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Iran / Hormuz",
    "title": "Iran calls US response to Hormuz reopening 'insufficient' - TRT World",
    "source": "TRT World",
    "published": "Sun, 11 Oct 2026 18:11:55 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Trump says Russia, Ukraine agree to 'energy ceasefire' - DW.com",
-   "source": "DW.com",
-   "published": "Sun, 11 Oct 2026 17:54:47 GMT",
-   "read": "de-escalation"
   }
  ],
  "ratings": [
