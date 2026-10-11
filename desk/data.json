@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-11T06:50:04+00:00",
+ "generated_utc": "2026-10-11T06:55:03+00:00",
  "date_et": "2026-10-11",
  "build": "0d463cfe05",
  "tape": [
@@ -280,9 +280,9 @@
     "pct": -3.7
    }
   ],
-  "as_of": "2026-10-11T06:48:05.164427+00:00",
+  "as_of": "2026-10-11T06:54:08.789149+00:00",
   "tone": "risk-on",
-  "age_min": 1.9841857999999999
+  "age_min": 0.9210124833333333
  },
  "stories": [
   {
@@ -322,9 +322,9 @@
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "US forces disable ship \u2018attempting to run\u2019 Iran blockade in Gulf of Oman - Al Jazeera",
-   "source": "Al Jazeera",
-   "published": "Sun, 11 Oct 2026 03:14:01 GMT",
+   "title": "US hits commercial tanker in Gulf of Oman as tensions flare - Financial Times",
+   "source": "Financial Times",
+   "published": "Sun, 11 Oct 2026 02:46:35 GMT",
    "read": "escalation"
   }
  ],
