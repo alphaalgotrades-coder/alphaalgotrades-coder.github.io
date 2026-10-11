@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-11T08:50:04+00:00",
+ "generated_utc": "2026-10-11T08:55:04+00:00",
  "date_et": "2026-10-11",
  "build": "0d463cfe05",
  "tape": [
@@ -280,9 +280,9 @@
     "pct": -3.7
    }
   ],
-  "as_of": "2026-10-11T08:48:14.456375+00:00",
+  "as_of": "2026-10-11T08:54:05.762134+00:00",
   "tone": "risk-on",
-  "age_min": 1.8289211333333335
+  "age_min": 0.9764172833333333
  },
  "stories": [
   {
@@ -291,6 +291,13 @@
    "source": "Crude Oil Prices Today | OilPrice.com",
    "published": "Tue, 15 Sep 2026 07:00:00 GMT",
    "read": "unclear"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Ukraine steps up strikes on Russia\u2019s tech infrastructure, damaging third data center in 4 days - WSLS",
+   "source": "WSLS",
+   "published": "Sun, 11 Oct 2026 08:33:12 GMT",
+   "read": "escalation"
   },
   {
    "topic": "Russia / Ukraine",
@@ -318,13 +325,6 @@
    "title": "US says fighter jet struck cargo ship trying to break Iran blockade in Gulf of Oman - Ynetnews",
    "source": "Ynetnews",
    "published": "Sun, 11 Oct 2026 04:20:57 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Taiwan / China",
-   "title": "China's Ministry of National Defense slams Lai's 'Double Ten' speech for hyping up 'mainland military threat,' pursuing 'Taiwan independence' - Global Times",
-   "source": "Global Times",
-   "published": "Sun, 11 Oct 2026 04:14:00 GMT",
    "read": "escalation"
   }
  ],
