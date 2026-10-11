@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-11T20:50:03+00:00",
+ "generated_utc": "2026-10-11T20:55:03+00:00",
  "date_et": "2026-10-11",
  "build": "0d463cfe05",
  "tape": [
@@ -280,9 +280,9 @@
     "pct": -3.7
    }
   ],
-  "as_of": "2026-10-11T20:48:05.459732+00:00",
+  "as_of": "2026-10-11T20:54:05.405814+00:00",
   "tone": "risk-on",
-  "age_min": 1.9757789666666667
+  "age_min": 0.97568585
  },
  "stories": [
   {
@@ -298,6 +298,13 @@
    "source": "SCMP",
    "published": "Thu, 08 Oct 2026 12:00:16 GMT",
    "read": "escalation"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Trump declares Russia and Ukraine agreed to energy ceasefire after Putin call, diesel deal - WSBT",
+   "source": "WSBT",
+   "published": "Sun, 11 Oct 2026 20:15:00 GMT",
+   "read": "de-escalation"
   },
   {
    "topic": "Russia / Ukraine",
@@ -319,13 +326,6 @@
    "source": "The Jerusalem Post",
    "published": "Sun, 11 Oct 2026 18:55:41 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran calls US response to Hormuz reopening 'insufficient' - TRT World",
-   "source": "TRT World",
-   "published": "Sun, 11 Oct 2026 18:11:55 GMT",
-   "read": "escalation"
   }
  ],
  "ratings": [
