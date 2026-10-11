@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-11T22:50:03+00:00",
+ "generated_utc": "2026-10-11T22:55:03+00:00",
  "date_et": "2026-10-11",
  "build": "0d463cfe05",
  "tape": [
@@ -252,8 +252,8 @@
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4213.0,
-    "pct": -0.08
+    "price": 4212.4,
+    "pct": -0.09
    },
    {
     "sym": "DXY",
@@ -280,9 +280,9 @@
     "pct": -3.7
    }
   ],
-  "as_of": "2026-10-11T22:48:04.674920+00:00",
+  "as_of": "2026-10-11T22:54:05.310738+00:00",
   "tone": "risk-on",
-  "age_min": 1.9863737166666666
+  "age_min": 0.9753796166666666
  },
  "stories": [
   {
@@ -315,17 +315,17 @@
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "Zelenskyy says Russia violated energy truce announced by Trump - Al Jazeera",
-   "source": "Al Jazeera",
-   "published": "Sun, 11 Oct 2026 21:22:30 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
    "title": "Senators tell Trump to scrap diesel deal: US 'should not provide Putin with a financial lifeline' - Fortune",
    "source": "Fortune",
    "published": "Sun, 11 Oct 2026 20:41:00 GMT",
    "read": "unclear"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Senior Iranian official vows to hit cables, data centers, and AI facilities if war escalates again - Fortune",
+   "source": "Fortune",
+   "published": "Sun, 11 Oct 2026 20:22:00 GMT",
+   "read": "escalation"
   }
  ],
  "ratings": [
