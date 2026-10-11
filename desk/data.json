@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-11T03:50:04+00:00",
+ "generated_utc": "2026-10-11T03:55:04+00:00",
  "date_et": "2026-10-10",
  "build": "0d463cfe05",
  "tape": [],
@@ -270,9 +270,9 @@
     "pct": -3.7
    }
   ],
-  "as_of": "2026-10-11T03:48:06.213652+00:00",
+  "as_of": "2026-10-11T03:54:05.778483+00:00",
   "tone": "risk-on",
-  "age_min": 1.9661808166666668
+  "age_min": 0.9740784333333333
  },
  "stories": [
   {
@@ -280,6 +280,13 @@
    "title": "US forces disable ship \u2018attempting to run\u2019 Iran blockade in Gulf of Oman - Al Jazeera",
    "source": "Al Jazeera",
    "published": "Sun, 11 Oct 2026 03:14:01 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "US hits commercial tanker in Gulf of Oman as tensions flare - Financial Times",
+   "source": "Financial Times",
+   "published": "Sun, 11 Oct 2026 02:46:35 GMT",
    "read": "escalation"
   },
   {
@@ -302,13 +309,6 @@
    "source": "Arab News",
    "published": "Sun, 11 Oct 2026 01:44:43 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "US military says it disabled cargo vessel trying to run Iran blockade - Arab News",
-   "source": "Arab News",
-   "published": "Sun, 11 Oct 2026 00:45:59 GMT",
-   "read": "escalation"
   },
   {
    "topic": "Iran / Hormuz",
