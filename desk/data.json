@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-11T02:30:04+00:00",
+ "generated_utc": "2026-10-11T02:35:03+00:00",
  "date_et": "2026-10-10",
  "build": "0d463cfe05",
  "tape": [],
@@ -270,9 +270,9 @@
     "pct": -3.7
    }
   ],
-  "as_of": "2026-10-11T02:27:05.315222+00:00",
+  "as_of": "2026-10-11T02:33:05.505063+00:00",
   "tone": "risk-on",
-  "age_min": 2.9874356166666667
+  "age_min": 1.9757297666666667
  },
  "stories": [
   {
@@ -304,18 +304,18 @@
    "read": "escalation"
   },
   {
-   "topic": "Iran / Hormuz",
-   "title": "Supertanker explodes after striking mine in Strait of Hormuz, Iran's Revolutionary Guards say - Anadolu Ajans\u0131",
-   "source": "Anadolu Ajans\u0131",
-   "published": "Sat, 10 Oct 2026 19:52:52 GMT",
-   "read": "escalation"
-  },
-  {
    "topic": "Russia / Ukraine",
    "title": "Trump says Ukraine needs a new president who will agree to end the war - Al Jazeera",
    "source": "Al Jazeera",
    "published": "Sat, 10 Oct 2026 19:36:58 GMT",
    "read": "unclear"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "US strikes merchant vessel in Gulf of Oman while enforcing Iran blockade - The Jerusalem Post",
+   "source": "The Jerusalem Post",
+   "published": "Sat, 10 Oct 2026 17:16:35 GMT",
+   "read": "escalation"
   }
  ],
  "ratings": [
