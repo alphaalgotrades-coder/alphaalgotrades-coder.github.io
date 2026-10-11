@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-11T12:30:04+00:00",
+ "generated_utc": "2026-10-11T12:35:03+00:00",
  "date_et": "2026-10-11",
  "build": "0d463cfe05",
  "tape": [
@@ -280,9 +280,9 @@
     "pct": -3.7
    }
   ],
-  "as_of": "2026-10-11T12:27:06.274304+00:00",
+  "as_of": "2026-10-11T12:33:06.372428+00:00",
   "tone": "risk-on",
-  "age_min": 2.9708218166666667
+  "age_min": 1.9509248
  },
  "stories": [
   {
@@ -301,30 +301,30 @@
   },
   {
    "topic": "Russia / Ukraine",
+   "title": "European Leaders Back Zelenskyy After Trump's Diesel Deal; Russia, Ukraine Continue To Trade Strikes - Radio Free Europe/Radio Liberty",
+   "source": "Radio Free Europe/Radio Liberty",
+   "published": "Sun, 11 Oct 2026 11:50:33 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Russia / Ukraine",
    "title": "Ukraine Will Stop Hitting Russian Oil Only if Putin Ends Energy Strikes, Zelenskyy Says - UNITED24 Media",
    "source": "UNITED24 Media",
    "published": "Sun, 11 Oct 2026 10:28:40 GMT",
    "read": "unclear"
   },
   {
+   "topic": "Russia / Ukraine",
+   "title": "Zelensky offers energy truce to Putin after Trump row - The Times",
+   "source": "The Times",
+   "published": "Sun, 11 Oct 2026 10:25:00 GMT",
+   "read": "de-escalation"
+  },
+  {
    "topic": "Taiwan / China",
    "title": "Taiwan\u2019s military volunteer staffing fell to 76.62% \u2014 South China Morning Post - UA.NEWS",
    "source": "UA.NEWS",
    "published": "Sun, 11 Oct 2026 10:09:24 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Trump's betrayal in buying Putin's diesel exports allows Russia to bankroll deadly attacks on Ukraine - Milwaukee Independent",
-   "source": "Milwaukee Independent",
-   "published": "Sun, 11 Oct 2026 10:00:19 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Taiwan / China",
-   "title": "How Taiwan\u2019s military manpower shortage is undermining its ability to fight - South China Morning Post",
-   "source": "South China Morning Post",
-   "published": "Sun, 11 Oct 2026 10:00:12 GMT",
    "read": "unclear"
   }
  ],
