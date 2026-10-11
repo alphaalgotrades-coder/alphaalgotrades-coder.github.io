@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-11T18:30:04+00:00",
+ "generated_utc": "2026-10-11T18:35:03+00:00",
  "date_et": "2026-10-11",
  "build": "0d463cfe05",
  "tape": [
@@ -280,9 +280,9 @@
     "pct": -3.7
    }
   ],
-  "as_of": "2026-10-11T18:27:06.765365+00:00",
+  "as_of": "2026-10-11T18:33:06.502692+00:00",
   "tone": "risk-on",
-  "age_min": 2.9602541833333333
+  "age_min": 1.9598554166666666
  },
  "stories": [
   {
@@ -307,18 +307,18 @@
    "read": "unclear"
   },
   {
+   "topic": "Russia / Ukraine",
+   "title": "Trump\u2019s diesel deal with Putin drives a wedge through the Western alliance - CNN",
+   "source": "CNN",
+   "published": "Sun, 11 Oct 2026 17:30:09 GMT",
+   "read": "unclear"
+  },
+  {
    "topic": "Iran / Hormuz",
    "title": "Iran says US response to conditions for reopening Strait of Hormuz 'insufficient' - Anadolu Ajans\u0131",
    "source": "Anadolu Ajans\u0131",
    "published": "Sun, 11 Oct 2026 17:27:39 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Trump announces Ukraine energy ceasefire with Russia, surprising Zelenskiy - Reuters",
-   "source": "Reuters",
-   "published": "Sun, 11 Oct 2026 17:21:10 GMT",
-   "read": "de-escalation"
   },
   {
    "topic": "Russia / Ukraine",
