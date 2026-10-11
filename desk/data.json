@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-11T10:10:03+00:00",
+ "generated_utc": "2026-10-11T10:15:03+00:00",
  "date_et": "2026-10-11",
  "build": "0d463cfe05",
  "tape": [
@@ -280,9 +280,9 @@
     "pct": -3.7
    }
   ],
-  "as_of": "2026-10-11T10:09:05.966317+00:00",
+  "as_of": "2026-10-11T10:12:05.660865+00:00",
   "tone": "risk-on",
-  "age_min": 0.9622357666666667
+  "age_min": 2.9728714999999997
  },
  "stories": [
   {
@@ -290,6 +290,27 @@
    "title": "Saudi Aramco Cancels European Crude Cargoes as Key Pipeline Stays Shut - Crude Oil Prices Today | OilPrice.com",
    "source": "Crude Oil Prices Today | OilPrice.com",
    "published": "Tue, 15 Sep 2026 07:00:00 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Taiwan / China",
+   "title": "Taiwan\u2019s military volunteer staffing fell to 76.62% \u2014 South China Morning Post - UA.NEWS",
+   "source": "UA.NEWS",
+   "published": "Sun, 11 Oct 2026 10:09:24 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Trump's betrayal in buying Putin's diesel exports allows Russia to bankroll deadly attacks on Ukraine - Milwaukee Independent",
+   "source": "Milwaukee Independent",
+   "published": "Sun, 11 Oct 2026 10:00:19 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Taiwan / China",
+   "title": "How Taiwan\u2019s military manpower shortage is undermining its ability to fight - South China Morning Post",
+   "source": "South China Morning Post",
+   "published": "Sun, 11 Oct 2026 10:00:12 GMT",
    "read": "unclear"
   },
   {
@@ -304,27 +325,6 @@
    "title": "Live - International condemnation mounts over Iran-backed Houthi attack on Riyadh airport - Iran International",
    "source": "Iran International",
    "published": "Sun, 11 Oct 2026 08:07:27 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Trump calls on Ukraine to replace Zelenskyy amid tensions over Russia deal - Al Jazeera",
-   "source": "Al Jazeera",
-   "published": "Sun, 11 Oct 2026 06:56:45 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Video: Supertanker Hits Mine, Catches Fire While Trying To Exit Strait - NDTV",
-   "source": "NDTV",
-   "published": "Sun, 11 Oct 2026 05:32:21 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "US says fighter jet struck cargo ship trying to break Iran blockade in Gulf of Oman - Ynetnews",
-   "source": "Ynetnews",
-   "published": "Sun, 11 Oct 2026 04:20:57 GMT",
    "read": "escalation"
   }
  ],
