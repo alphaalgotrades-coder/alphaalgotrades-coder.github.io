@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-12T02:50:04+00:00",
+ "generated_utc": "2026-10-12T02:55:03+00:00",
  "date_et": "2026-10-11",
  "build": "0d463cfe05",
  "tape": [
@@ -246,20 +246,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 90.1,
-    "pct": -1.91
+    "price": 90.13,
+    "pct": -1.87
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4230.5,
-    "pct": 0.34
+    "price": 4233.7,
+    "pct": 0.41
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.142,
-    "pct": -0.07
+    "price": 102.157,
+    "pct": -0.05
    },
    {
     "sym": "SPY",
@@ -280,9 +280,9 @@
     "pct": -3.7
    }
   ],
-  "as_of": "2026-10-12T02:48:14.030164+00:00",
+  "as_of": "2026-10-12T02:54:05.517412+00:00",
   "tone": "risk-on",
-  "age_min": 1.8400719666666667
+  "age_min": 0.972557
  },
  "stories": [
   {
@@ -314,18 +314,18 @@
    "read": "unclear"
   },
   {
-   "topic": "Iran / Hormuz",
-   "title": "Iran calls latest U.S. proposal to end war 'insufficient' as Netanyahu's corruption trial resumes - PBS",
-   "source": "PBS",
-   "published": "Sun, 11 Oct 2026 21:43:11 GMT",
-   "read": "escalation"
-  },
-  {
    "topic": "Russia / Ukraine",
    "title": "Trump says Ukraine and Russia have agreed 'energy ceasefire' - BBC",
    "source": "BBC",
    "published": "Sun, 11 Oct 2026 21:36:40 GMT",
    "read": "de-escalation"
+  },
+  {
+   "topic": "Saudi / Gulf supply",
+   "title": "Houthi strike on Riyadh airport kills 13, group claims Aramco hits. Saudi, Iran talking now. - investingLive",
+   "source": "investingLive",
+   "published": "Sun, 11 Oct 2026 20:33:44 GMT",
+   "read": "escalation"
   }
  ],
  "ratings": [
