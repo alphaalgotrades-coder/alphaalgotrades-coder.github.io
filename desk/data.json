@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-12T12:10:03+00:00",
+ "generated_utc": "2026-10-12T12:15:03+00:00",
  "date_et": "2026-10-12",
  "build": "0d463cfe05",
  "tape": [
@@ -116,12 +116,12 @@
   "rows": [
    {
     "series": "2Y",
-    "level": 4.76,
-    "d_day_bps": 1.0,
+    "level": 4.766,
+    "d_day_bps": 1.6,
     "lean": "hawkish",
     "source": "YAHOO_TSY_FUT_ZT",
     "latency": "after-hours-futures-proxy",
-    "snapshot_ts": "2026-10-12T11:57:00+00:00",
+    "snapshot_ts": "2026-10-12T12:02:00+00:00",
     "snapshot_date": "2026-10-12",
     "prior_day": "2026-10-08",
     "prior_day_close": 4.75,
@@ -140,42 +140,42 @@
      4.75,
      4.752,
      4.75,
-     4.75,
-     4.752,
+     4.748,
      4.754,
+     4.756,
      4.754,
      4.754,
      4.758,
      4.76,
-     4.758,
+     4.76,
      4.764,
+     4.762,
+     4.762,
      4.764,
      4.762,
-     4.762,
-     4.762,
-     4.76,
      4.76,
      4.758,
      4.76,
      4.76,
      4.762,
+     4.764,
+     4.762,
+     4.764,
      4.762,
      4.766,
-     4.764,
-     4.762,
-     4.764,
+     4.766,
      4.764,
      4.764
     ]
    },
    {
     "series": "5Y",
-    "level": 5.002,
-    "d_day_bps": 1.1,
+    "level": 5.007,
+    "d_day_bps": 1.6,
     "lean": "hawkish",
     "source": "YAHOO_TSY_FUT_ZF",
     "latency": "after-hours-futures-proxy",
-    "snapshot_ts": "2026-10-12T11:58:00+00:00",
+    "snapshot_ts": "2026-10-12T12:01:00+00:00",
     "snapshot_date": "2026-10-12",
     "prior_day": "2026-10-08",
     "prior_day_close": 4.991,
@@ -200,36 +200,36 @@
      4.993,
      4.993,
      5.0,
-     5.0,
+     5.002,
      4.996,
-     5.0,
-     5.005,
-     5.003,
      5.003,
      5.005,
      5.002,
+     5.003,
+     5.005,
      5.002,
      4.998,
-     5.002,
      5.0,
      5.002,
+     5.002,
      5.003,
+     5.003,
+     5.005,
+     5.002,
      5.007,
      5.005,
      5.003,
-     5.005,
-     5.005,
-     5.005
+     5.007
     ]
    },
    {
     "series": "10Y",
-    "level": 5.238,
-    "d_day_bps": 0.7,
-    "lean": "flat",
+    "level": 5.245,
+    "d_day_bps": 1.4,
+    "lean": "hawkish",
     "source": "YAHOO_TSY_FUT_ZN",
     "latency": "after-hours-futures-proxy",
-    "snapshot_ts": "2026-10-12T11:57:00+00:00",
+    "snapshot_ts": "2026-10-12T12:02:00+00:00",
     "snapshot_date": "2026-10-12",
     "prior_day": "2026-10-08",
     "prior_day_close": 5.231,
@@ -255,35 +255,35 @@
      5.231,
      5.238,
      5.24,
-     5.233,
-     5.24,
+     5.236,
      5.242,
+     5.242,
+     5.242,
+     5.245,
+     5.242,
+     5.24,
+     5.236,
+     5.238,
+     5.242,
+     5.242,
+     5.242,
+     5.245,
      5.242,
      5.24,
      5.245,
-     5.24,
-     5.24,
-     5.24,
-     5.24,
      5.242,
      5.242,
-     5.242,
-     5.242,
-     5.24,
-     5.245,
-     5.242,
-     5.242,
-     5.242
+     5.245
     ]
    },
    {
     "series": "30Y",
-    "level": 5.608,
-    "d_day_bps": 0.2,
+    "level": 5.612,
+    "d_day_bps": 0.6,
     "lean": "flat",
     "source": "YAHOO_TSY_FUT_ZB",
     "latency": "after-hours-futures-proxy",
-    "snapshot_ts": "2026-10-12T11:57:00+00:00",
+    "snapshot_ts": "2026-10-12T12:01:00+00:00",
     "snapshot_date": "2026-10-12",
     "prior_day": "2026-10-08",
     "prior_day_close": 5.606,
@@ -302,36 +302,36 @@
      5.6,
      5.598,
      5.598,
+     5.595,
      5.598,
-     5.597,
      5.602,
      5.6,
-     5.602,
+     5.604,
      5.608,
      5.61,
      5.606,
      5.612,
      5.612,
+     5.61,
+     5.612,
+     5.612,
      5.612,
      5.61,
-     5.614,
-     5.614,
+     5.61,
+     5.612,
+     5.612,
+     5.612,
+     5.612,
+     5.612,
      5.608,
+     5.614,
+     5.612,
      5.608,
-     5.61,
-     5.612,
-     5.612,
-     5.612,
-     5.612,
-     5.612,
-     5.61,
-     5.61,
-     5.612,
-     5.608
+     5.61
     ]
    }
   ],
-  "as_of": "2026-10-12T11:57:00+00:00",
+  "as_of": "2026-10-12T12:02:00+00:00",
   "note": "after-hours-futures-proxy"
  },
  "strip": {
@@ -351,14 +351,14 @@
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4192.8,
-    "pct": -0.56
+    "price": 4193.2,
+    "pct": -0.55
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.418,
-    "pct": 0.2
+    "price": 102.402,
+    "pct": 0.18
    },
    {
     "sym": "SPY",
@@ -375,15 +375,22 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 15.43,
-    "pct": 3.98
+    "price": 15.45,
+    "pct": 4.11
    }
   ],
-  "as_of": "2026-10-12T12:09:06.504943+00:00",
-  "tone": "risk-on",
-  "age_min": 0.9549775666666667
+  "as_of": "2026-10-12T12:12:08.482430+00:00",
+  "tone": "mixed",
+  "age_min": 2.921244516666667
  },
  "stories": [
+  {
+   "topic": "Saudi / Gulf supply",
+   "title": "Oil prices rise as attacks on Saudi Arabia overshadow Trump's Russian supply announcements - Reuters",
+   "source": "Reuters",
+   "published": "Sun, 11 Oct 2026 23:26:00 GMT",
+   "read": "escalation"
+  },
   {
    "topic": "Iran / Hormuz",
    "title": "Iran says US response to its proposal to reopen Hormuz was 'insufficient' - Reuters",
@@ -400,31 +407,24 @@
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "Putin would halt strikes on election day if Ukraine holds vote: Kremlin - Anadolu Ajans\u0131",
-   "source": "Anadolu Ajans\u0131",
-   "published": "Mon, 12 Oct 2026 11:12:24 GMT",
+   "title": "Trump strikes diesel deal with Putin, announces Russia-Ukraine energy ceasefire - Fox Business",
+   "source": "Fox Business",
+   "published": "Mon, 12 Oct 2026 11:47:56 GMT",
    "read": "de-escalation"
   },
   {
    "topic": "Saudi / Gulf supply",
-   "title": "Saudi Aramco studying new crude export routes, overseas storage expansion - BusinessLine",
-   "source": "BusinessLine",
-   "published": "Mon, 12 Oct 2026 10:58:45 GMT",
+   "title": "Asian refiners buy spot November Saudi oil, sources say - Reuters",
+   "source": "Reuters",
+   "published": "Mon, 12 Oct 2026 11:46:13 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Taiwan / China",
-   "title": "Taiwan denounces China's military maneuvers and warns of their impact on regional stability - Dem\u00f3crata",
-   "source": "Dem\u00f3crata",
-   "published": "Mon, 12 Oct 2026 10:56:34 GMT",
-   "read": "escalation"
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "Kremlin \u2018has nothing to say yet about the proposed energy ceasefire\u2019 following Trump truce announcement - i24NEWS",
-   "source": "i24NEWS",
-   "published": "Mon, 12 Oct 2026 10:50:10 GMT",
-   "read": "unclear"
+   "title": "Putin would halt strikes on election day if Ukraine holds vote: Kremlin - Anadolu Ajans\u0131",
+   "source": "Anadolu Ajans\u0131",
+   "published": "Mon, 12 Oct 2026 11:12:24 GMT",
+   "read": "de-escalation"
   }
  ],
  "ratings": [
@@ -538,29 +538,29 @@
    {
     "code": "FR",
     "name": "France",
-    "level": 4.8655,
+    "level": 4.8539,
     "as_of": "2026-10-12",
-    "spread_bp": 140.2,
-    "d_day_bps": 2.0
+    "spread_bp": 139.5,
+    "d_day_bps": 0.8
    },
    {
     "code": "DE",
     "name": "Germany",
-    "level": 3.4634,
+    "level": 3.4594,
     "as_of": "2026-10-12",
     "spread_bp": null,
-    "d_day_bps": -0.2
+    "d_day_bps": -0.6
    },
    {
     "code": "IT",
     "name": "Italy",
-    "level": 4.5745,
+    "level": 4.5642,
     "as_of": "2026-10-12",
-    "spread_bp": 111.1,
-    "d_day_bps": -0.2
+    "spread_bp": 110.5,
+    "d_day_bps": -1.2
    }
   ],
-  "bund": 3.4634,
+  "bund": 3.4594,
   "note": "10-year government bonds; spread measured over Germany"
  },
  "auctions": {
