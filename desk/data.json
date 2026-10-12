@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-12T00:10:03+00:00",
+ "generated_utc": "2026-10-12T00:15:04+00:00",
  "date_et": "2026-10-11",
  "build": "0d463cfe05",
  "tape": [
@@ -246,20 +246,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 90.84,
-    "pct": -1.1
+    "price": 90.82,
+    "pct": -1.12
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4215.7,
-    "pct": -0.01
+    "price": 4214.3,
+    "pct": -0.05
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.203,
-    "pct": -0.01
+    "price": 102.187,
+    "pct": -0.03
    },
    {
     "sym": "SPY",
@@ -280,24 +280,24 @@
     "pct": -3.7
    }
   ],
-  "as_of": "2026-10-12T00:09:05.902919+00:00",
+  "as_of": "2026-10-12T00:12:05.743492+00:00",
   "tone": "risk-on",
-  "age_min": 0.9690122333333334
+  "age_min": 2.9809851833333334
  },
  "stories": [
-  {
-   "topic": "Saudi / Gulf supply",
-   "title": "Saudi Aramco Cancels European Crude Cargoes as Key Pipeline Stays Shut - Crude Oil Prices Today | OilPrice.com",
-   "source": "Crude Oil Prices Today | OilPrice.com",
-   "published": "Tue, 15 Sep 2026 07:00:00 GMT",
-   "read": "unclear"
-  },
   {
    "topic": "Taiwan / China",
    "title": "How expanded Japan-US military drills could complicate PLA planning over Taiwan - SCMP",
    "source": "SCMP",
    "published": "Thu, 08 Oct 2026 12:00:16 GMT",
    "read": "escalation"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Trump faces growing backlash over plans to import diesel from Russia - BBC",
+   "source": "BBC",
+   "published": "Sun, 11 Oct 2026 23:18:45 GMT",
+   "read": "unclear"
   },
   {
    "topic": "Iran / Hormuz",
@@ -308,10 +308,10 @@
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "Trump declares Russia and Ukraine agreed to energy ceasefire after Putin call, diesel deal - WCIV",
-   "source": "WCIV",
-   "published": "Sun, 11 Oct 2026 21:43:20 GMT",
-   "read": "de-escalation"
+   "title": "Trump Russia deal could fuel Putin's war, ex-NATO commander warns as Zelenskyy says 'nyet' - Fox News",
+   "source": "Fox News",
+   "published": "Sun, 11 Oct 2026 21:56:55 GMT",
+   "read": "escalation"
   },
   {
    "topic": "Iran / Hormuz",
@@ -321,11 +321,11 @@
    "read": "escalation"
   },
   {
-   "topic": "Russia / Ukraine",
-   "title": "Trump claims Russia and Ukraine agree to 'energy ceasefire' despite continued attacks - PBS",
-   "source": "PBS",
-   "published": "Sun, 11 Oct 2026 21:25:24 GMT",
-   "read": "unclear"
+   "topic": "Saudi / Gulf supply",
+   "title": "Houthi strike on Riyadh airport kills 13, group claims Aramco hits. Saudi, Iran talking now. - investingLive",
+   "source": "investingLive",
+   "published": "Sun, 11 Oct 2026 20:33:44 GMT",
+   "read": "escalation"
   }
  ],
  "ratings": [
