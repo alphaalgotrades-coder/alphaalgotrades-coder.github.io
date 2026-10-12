@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-12T23:03:02+00:00",
+ "generated_utc": "2026-10-12T23:05:05+00:00",
  "date_et": "2026-10-12",
  "build": "0d463cfe05",
  "tape": [
@@ -351,8 +351,8 @@
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4195.5,
-    "pct": 0.12
+    "price": 4194.6,
+    "pct": 0.1
    },
    {
     "sym": "DXY",
@@ -379,9 +379,9 @@
     "pct": 2.49
    }
   ],
-  "as_of": "2026-10-12T23:00:10.629996+00:00",
+  "as_of": "2026-10-12T23:03:05.026593+00:00",
   "tone": "mixed",
-  "age_min": 2.8644271166666666
+  "age_min": 2.004847916666667
  },
  "stories": [
   {
@@ -606,14 +606,14 @@
   "note": "TreasuryDirect, announced offerings"
  },
  "book": {
-  "as_of_et": "18:05",
+  "as_of_et": "19:05",
   "since": "2026-07-13",
   "trading_days": 50,
   "green_days": 27,
   "red_days": 2,
   "total_fills": 146,
   "realized": 8379.87,
-  "open_upnl": -6066.2,
+  "open_upnl": -6305.0,
   "legs": [
    {
     "id": "AS261016P00024500",
