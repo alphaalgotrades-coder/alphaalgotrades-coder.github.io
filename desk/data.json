@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-12T21:30:05+00:00",
+ "generated_utc": "2026-10-12T21:35:03+00:00",
  "date_et": "2026-10-12",
  "build": "0d463cfe05",
  "tape": [
@@ -357,7 +357,7 @@
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.577,
+    "price": 102.579,
     "pct": 0.36
    },
    {
@@ -379,11 +379,25 @@
     "pct": 2.49
    }
   ],
-  "as_of": "2026-10-12T21:27:08.886731+00:00",
+  "as_of": "2026-10-12T21:33:06.295489+00:00",
   "tone": "mixed",
-  "age_min": 2.9472249
+  "age_min": 1.9628363666666668
  },
  "stories": [
+  {
+   "topic": "Iran / Hormuz",
+   "title": "US, UK discuss maritime security in Strait of Hormuz, resolving Russia-Ukraine war - Anadolu Ajans\u0131",
+   "source": "Anadolu Ajans\u0131",
+   "published": "Mon, 12 Oct 2026 20:48:05 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "NATO Details Plan to Shield Ukraine\u2019s European Allies From Russia - The New York Times",
+   "source": "The New York Times",
+   "published": "Mon, 12 Oct 2026 20:03:05 GMT",
+   "read": "escalation"
+  },
   {
    "topic": "Russia / Ukraine",
    "title": "US hopes diesel deal can 'soften' Moscow on peace talks, sources say - Reuters",
@@ -396,20 +410,6 @@
    "title": "Iran reviews U.S. Hormuz proposal as oil supply uncertainty continues - Oil &amp; Gas 360",
    "source": "Oil &amp; Gas 360",
    "published": "Mon, 12 Oct 2026 19:33:27 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Russia hits Ukraine gas facilities after Trump claims \u2018energy ceasefire\u2019 - NPR",
-   "source": "NPR",
-   "published": "Mon, 12 Oct 2026 18:53:00 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Another Hormuz? What to know about the Houthi threat to the Red Sea - NBC News",
-   "source": "NBC News",
-   "published": "Mon, 12 Oct 2026 18:36:09 GMT",
    "read": "unclear"
   },
   {
