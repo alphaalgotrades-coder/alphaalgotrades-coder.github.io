@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-12T08:10:04+00:00",
+ "generated_utc": "2026-10-12T08:15:04+00:00",
  "date_et": "2026-10-12",
  "build": "0d463cfe05",
  "tape": [
@@ -345,20 +345,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 91.14,
-    "pct": -0.77
+    "price": 91.17,
+    "pct": -0.74
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4205.0,
-    "pct": -0.27
+    "price": 4203.8,
+    "pct": -0.3
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.232,
-    "pct": 0.02
+    "price": 102.242,
+    "pct": 0.03
    },
    {
     "sym": "SPY",
@@ -375,13 +375,13 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 15.36,
-    "pct": 3.5
+    "price": 15.37,
+    "pct": 3.57
    }
   ],
-  "as_of": "2026-10-12T08:09:06.456115+00:00",
+  "as_of": "2026-10-12T08:12:06.065155+00:00",
   "tone": "risk-on",
-  "age_min": 0.9669608333333334
+  "age_min": 2.9727080333333333
  },
  "stories": [
   {
@@ -413,17 +413,17 @@
    "read": "unclear"
   },
   {
+   "topic": "Iran / Hormuz",
+   "title": "Iran says US response on reopening Hormuz 'insufficient' - Iran International",
+   "source": "Iran International",
+   "published": "Sun, 11 Oct 2026 16:11:40 GMT",
+   "read": "escalation"
+  },
+  {
    "topic": "Saudi / Gulf supply",
    "title": "Brent crude oil price forecast as Saudi Arabia-Houthi crisis escalates - TradingView",
    "source": "TradingView",
    "published": "Sun, 11 Oct 2026 07:56:30 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran vows to keep Hormuz control, calls US reply 'insufficient' - T\u00fcrkiye Today",
-   "source": "T\u00fcrkiye Today",
-   "published": "Mon, 12 Oct 2026 07:21:16 GMT",
    "read": "escalation"
   }
  ],
