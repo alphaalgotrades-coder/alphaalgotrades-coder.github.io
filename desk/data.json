@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-12T10:30:03+00:00",
+ "generated_utc": "2026-10-12T10:35:03+00:00",
  "date_et": "2026-10-12",
  "build": "0d463cfe05",
  "tape": [
@@ -116,12 +116,12 @@
   "rows": [
    {
     "series": "2Y",
-    "level": 4.762,
-    "d_day_bps": 1.2,
+    "level": 4.76,
+    "d_day_bps": 1.0,
     "lean": "hawkish",
     "source": "YAHOO_TSY_FUT_ZT",
     "latency": "after-hours-futures-proxy",
-    "snapshot_ts": "2026-10-12T10:17:00+00:00",
+    "snapshot_ts": "2026-10-12T10:21:00+00:00",
     "snapshot_date": "2026-10-12",
     "prior_day": "2026-10-08",
     "prior_day_close": 4.75,
@@ -146,16 +146,16 @@
      4.748,
      4.752,
      4.752,
+     4.744,
      4.748,
-     4.75,
-     4.75,
-     4.754,
-     4.754,
+     4.752,
+     4.752,
+     4.756,
      4.754,
      4.754,
      4.754,
      4.758,
-     4.758,
+     4.76,
      4.76,
      4.758,
      4.76,
@@ -170,12 +170,12 @@
    },
    {
     "series": "5Y",
-    "level": 5.003,
-    "d_day_bps": 1.2,
+    "level": 5.002,
+    "d_day_bps": 1.1,
     "lean": "hawkish",
     "source": "YAHOO_TSY_FUT_ZF",
     "latency": "after-hours-futures-proxy",
-    "snapshot_ts": "2026-10-12T10:17:00+00:00",
+    "snapshot_ts": "2026-10-12T10:21:00+00:00",
     "snapshot_date": "2026-10-12",
     "prior_day": "2026-10-08",
     "prior_day_close": 4.991,
@@ -194,20 +194,19 @@
      4.982,
      4.982,
      4.98,
+     4.986,
      4.987,
-     4.986,
-     4.989,
-     4.989,
-     4.986,
+     4.987,
+     4.987,
      4.991,
-     4.989,
-     4.982,
-     4.986,
-     4.989,
+     4.991,
+     4.987,
+     4.987,
+     4.987,
      4.991,
      4.993,
      4.993,
-     4.993,
+     4.991,
      4.993,
      5.0,
      5.0,
@@ -219,17 +218,18 @@
      5.003,
      5.002,
      5.003,
-     5.005
+     5.005,
+     5.003
     ]
    },
    {
     "series": "10Y",
-    "level": 5.245,
-    "d_day_bps": 1.4,
-    "lean": "hawkish",
+    "level": 5.24,
+    "d_day_bps": 0.9,
+    "lean": "flat",
     "source": "YAHOO_TSY_FUT_ZN",
     "latency": "after-hours-futures-proxy",
-    "snapshot_ts": "2026-10-12T10:18:00+00:00",
+    "snapshot_ts": "2026-10-12T10:22:00+00:00",
     "snapshot_date": "2026-10-12",
     "prior_day": "2026-10-08",
     "prior_day_close": 5.231,
@@ -249,19 +249,18 @@
      5.22,
      5.224,
      5.224,
+     5.229,
+     5.226,
      5.226,
      5.229,
-     5.229,
+     5.231,
+     5.224,
+     5.226,
      5.224,
      5.229,
+     5.231,
      5.229,
-     5.22,
-     5.222,
-     5.226,
      5.229,
-     5.231,
-     5.231,
-     5.231,
      5.233,
      5.238,
      5.24,
@@ -273,17 +272,18 @@
      5.242,
      5.24,
      5.245,
+     5.245,
      5.245
     ]
    },
    {
     "series": "30Y",
-    "level": 5.614,
-    "d_day_bps": 0.8,
+    "level": 5.612,
+    "d_day_bps": 0.6,
     "lean": "flat",
     "source": "YAHOO_TSY_FUT_ZB",
     "latency": "after-hours-futures-proxy",
-    "snapshot_ts": "2026-10-12T10:18:00+00:00",
+    "snapshot_ts": "2026-10-12T10:22:00+00:00",
     "snapshot_date": "2026-10-12",
     "prior_day": "2026-10-08",
     "prior_day_close": 5.606,
@@ -298,25 +298,24 @@
      5.593,
      5.593,
      5.593,
+     5.591,
+     5.593,
      5.595,
-     5.593,
-     5.593,
+     5.598,
      5.597,
-     5.595,
+     5.6,
+     5.6,
+     5.597,
      5.6,
      5.598,
      5.598,
-     5.598,
-     5.6,
-     5.593,
-     5.595,
      5.597,
      5.598,
      5.602,
      5.6,
+     5.6,
      5.602,
-     5.604,
-     5.608,
+     5.606,
      5.608,
      5.61,
      5.606,
@@ -327,11 +326,12 @@
      5.61,
      5.61,
      5.61,
-     5.612
+     5.612,
+     5.614
     ]
    }
   ],
-  "as_of": "2026-10-12T10:17:00+00:00",
+  "as_of": "2026-10-12T10:21:00+00:00",
   "note": "after-hours-futures-proxy"
  },
  "strip": {
@@ -345,19 +345,19 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 92.8,
-    "pct": 1.03
+    "price": 92.74,
+    "pct": 0.97
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4198.6,
-    "pct": -0.42
+    "price": 4200.8,
+    "pct": -0.37
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.379,
+    "price": 102.374,
     "pct": 0.16
    },
    {
@@ -379,37 +379,16 @@
     "pct": 4.38
    }
   ],
-  "as_of": "2026-10-12T10:27:05.394304+00:00",
+  "as_of": "2026-10-12T10:33:05.853123+00:00",
   "tone": "mixed",
-  "age_min": 2.97409685
+  "age_min": 1.9664594166666667
  },
  "stories": [
-  {
-   "topic": "Saudi / Gulf supply",
-   "title": "Houthi strike on Riyadh airport kills 13, group claims Aramco hits. Saudi, Iran talking now. - investingLive",
-   "source": "investingLive",
-   "published": "Sun, 11 Oct 2026 20:33:44 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "What to Know About Trump\u2019s Russia-Ukraine \u2018Energy Ceasefire\u2019 Claim - Time Magazine",
-   "source": "Time Magazine",
-   "published": "Sun, 11 Oct 2026 19:45:35 GMT",
-   "read": "unclear"
-  },
   {
    "topic": "Iran / Hormuz",
    "title": "Iran calls U.S. response \"insufficient\" amid stalled talks to end the war - CBS News",
    "source": "CBS News",
    "published": "Sun, 11 Oct 2026 19:07:00 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Saudi / Gulf supply",
-   "title": "Saudi Arabia, UAE Increase Oil Exports as Hormuz Shipments Recover - Egypt Oil &amp; Gas",
-   "source": "Egypt Oil &amp; Gas",
-   "published": "Sun, 11 Oct 2026 17:33:14 GMT",
    "read": "unclear"
   },
   {
@@ -420,11 +399,32 @@
    "read": "escalation"
   },
   {
-   "topic": "Saudi / Gulf supply",
-   "title": "Brent crude oil price forecast as Saudi Arabia-Houthi crisis escalates - TradingView",
-   "source": "TradingView",
-   "published": "Sun, 11 Oct 2026 07:56:30 GMT",
+   "topic": "Taiwan / China",
+   "title": "Taiwan to boost military spending to 'deter war' with China - dw.com",
+   "source": "dw.com",
+   "published": "Sat, 10 Oct 2026 09:40:56 GMT",
    "read": "escalation"
+  },
+  {
+   "topic": "Taiwan / China",
+   "title": "Taiwan aims to raise pilot retirement age to 58 as new F-16V jets arrive - South China Morning Post",
+   "source": "South China Morning Post",
+   "published": "Mon, 12 Oct 2026 10:23:46 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Saudi / Gulf supply",
+   "title": "Aramco CEO warns \u2018squeeze on crude oil is serious\u2019 - Roya News",
+   "source": "Roya News",
+   "published": "Mon, 12 Oct 2026 10:16:20 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "\u2018Putin Does Not Read Truth Social\u2019\u2014Zelenskyy Says Russia Is Ignoring Trump\u2019s \u2018Energy Ceasefire\u2019 Call - Forbes",
+   "source": "Forbes",
+   "published": "Mon, 12 Oct 2026 10:07:59 GMT",
+   "read": "unclear"
   }
  ],
  "ratings": [
@@ -538,29 +538,29 @@
    {
     "code": "FR",
     "name": "France",
-    "level": 4.8842,
+    "level": 4.8778,
     "as_of": "2026-10-12",
-    "spread_bp": 141.9,
-    "d_day_bps": 3.9
+    "spread_bp": 141.7,
+    "d_day_bps": 3.2
    },
    {
     "code": "DE",
     "name": "Germany",
-    "level": 3.4647,
+    "level": 3.4604,
     "as_of": "2026-10-12",
     "spread_bp": null,
-    "d_day_bps": -0.1
+    "d_day_bps": -0.5
    },
    {
     "code": "IT",
     "name": "Italy",
-    "level": 4.5874,
+    "level": 4.5829,
     "as_of": "2026-10-12",
     "spread_bp": 112.3,
-    "d_day_bps": 1.1
+    "d_day_bps": 0.6
    }
   ],
-  "bund": 3.4647,
+  "bund": 3.4604,
   "note": "10-year government bonds; spread measured over Germany"
  },
  "auctions": {
