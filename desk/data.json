@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-12T09:30:04+00:00",
+ "generated_utc": "2026-10-12T09:35:04+00:00",
  "date_et": "2026-10-12",
  "build": "0d463cfe05",
  "tape": [
@@ -345,20 +345,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 92.51,
-    "pct": 0.72
+    "price": 92.42,
+    "pct": 0.62
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4200.5,
-    "pct": -0.37
+    "price": 4201.2,
+    "pct": -0.36
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.307,
-    "pct": 0.09
+    "price": 102.326,
+    "pct": 0.11
    },
    {
     "sym": "SPY",
@@ -375,22 +375,15 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 15.48,
-    "pct": 4.31
+    "price": 15.43,
+    "pct": 3.98
    }
   ],
-  "as_of": "2026-10-12T09:27:05.073306+00:00",
-  "tone": "mixed",
-  "age_min": 2.9941590999999996
+  "as_of": "2026-10-12T09:33:05.502059+00:00",
+  "tone": "risk-on",
+  "age_min": 1.977649
  },
  "stories": [
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Trump says Ukraine and Russia have agreed 'energy ceasefire' - BBC",
-   "source": "BBC",
-   "published": "Sun, 11 Oct 2026 21:36:40 GMT",
-   "read": "de-escalation"
-  },
   {
    "topic": "Saudi / Gulf supply",
    "title": "Houthi strike on Riyadh airport kills 13, group claims Aramco hits. Saudi, Iran talking now. - investingLive",
@@ -424,6 +417,13 @@
    "title": "Iran says US response on reopening Hormuz 'insufficient' - Iran International",
    "source": "Iran International",
    "published": "Sun, 11 Oct 2026 16:11:40 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Saudi / Gulf supply",
+   "title": "Brent crude oil price forecast as Saudi Arabia-Houthi crisis escalates - TradingView",
+   "source": "TradingView",
+   "published": "Sun, 11 Oct 2026 07:56:30 GMT",
    "read": "escalation"
   }
  ],
