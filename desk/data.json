@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-12T04:50:04+00:00",
+ "generated_utc": "2026-10-12T04:55:03+00:00",
  "date_et": "2026-10-12",
  "build": "0d463cfe05",
  "tape": [
@@ -345,19 +345,19 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 90.31,
-    "pct": -1.68
+    "price": 90.36,
+    "pct": -1.62
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4221.5,
-    "pct": 0.12
+    "price": 4221.6,
+    "pct": 0.13
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.176,
+    "price": 102.177,
     "pct": -0.04
    },
    {
@@ -379,9 +379,9 @@
     "pct": -3.7
    }
   ],
-  "as_of": "2026-10-12T04:48:05.764214+00:00",
+  "as_of": "2026-10-12T04:54:06.106210+00:00",
   "tone": "risk-on",
-  "age_min": 1.9743521666666666
+  "age_min": 0.9657478333333334
  },
  "stories": [
   {
@@ -420,10 +420,10 @@
    "read": "unclear"
   },
   {
-   "topic": "Taiwan / China",
-   "title": "Taiwan tracks 12 Chinese military aircraft and 9 ships - Taiwan News",
-   "source": "Taiwan News",
-   "published": "Sun, 11 Oct 2026 14:01:35 GMT",
+   "topic": "Saudi / Gulf supply",
+   "title": "Brent crude oil price forecast as Saudi Arabia-Houthi crisis escalates - TradingView",
+   "source": "TradingView",
+   "published": "Sun, 11 Oct 2026 07:56:30 GMT",
    "read": "escalation"
   }
  ],
