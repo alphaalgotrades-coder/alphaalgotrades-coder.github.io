@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-12T06:10:04+00:00",
+ "generated_utc": "2026-10-12T06:15:04+00:00",
  "date_et": "2026-10-12",
  "build": "0d463cfe05",
  "tape": [
@@ -345,19 +345,19 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 90.75,
-    "pct": -1.2
+    "price": 90.7,
+    "pct": -1.25
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4214.4,
-    "pct": -0.05
+    "price": 4213.2,
+    "pct": -0.07
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.227,
+    "price": 102.221,
     "pct": 0.01
    },
    {
@@ -379,9 +379,9 @@
     "pct": -3.7
    }
   ],
-  "as_of": "2026-10-12T06:09:05.503990+00:00",
+  "as_of": "2026-10-12T06:12:05.813259+00:00",
   "tone": "risk-on",
-  "age_min": 0.9834631166666666
+  "age_min": 2.978315616666667
  },
  "stories": [
   {
@@ -421,9 +421,9 @@
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Iran Warns Ships Using Strait of Hormuz With Tracking Systems Off - Caspian Post",
-   "source": "Caspian Post",
-   "published": "Mon, 12 Oct 2026 05:14:06 GMT",
+   "title": "Supertanker hits mine in Strait of Hormuz as Iran accuses US of oil smuggling - T\u00fcrkiye Today",
+   "source": "T\u00fcrkiye Today",
+   "published": "Mon, 12 Oct 2026 05:58:46 GMT",
    "read": "escalation"
   }
  ],
