@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-12T07:50:04+00:00",
+ "generated_utc": "2026-10-12T07:55:04+00:00",
  "date_et": "2026-10-12",
  "build": "0d463cfe05",
  "tape": [
@@ -345,20 +345,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 90.89,
-    "pct": -1.05
+    "price": 91.03,
+    "pct": -0.89
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4209.9,
-    "pct": -0.15
+    "price": 4208.7,
+    "pct": -0.18
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.217,
-    "pct": 0.0
+    "price": 102.233,
+    "pct": 0.02
    },
    {
     "sym": "SPY",
@@ -375,13 +375,13 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 15.4,
-    "pct": 3.77
+    "price": 15.38,
+    "pct": 3.64
    }
   ],
-  "as_of": "2026-10-12T07:48:10.011756+00:00",
+  "as_of": "2026-10-12T07:54:06.193955+00:00",
   "tone": "risk-on",
-  "age_min": 1.9039110166666666
+  "age_min": 0.9723835166666667
  },
  "stories": [
   {
@@ -420,10 +420,10 @@
    "read": "escalation"
   },
   {
-   "topic": "Taiwan / China",
-   "title": "Taiwan to closely monitor China live-fire drills amid rising tensions - T\u00fcrkiye Today",
+   "topic": "Iran / Hormuz",
+   "title": "Iran vows to keep Hormuz control, calls US reply 'insufficient' - T\u00fcrkiye Today",
    "source": "T\u00fcrkiye Today",
-   "published": "Mon, 12 Oct 2026 07:11:44 GMT",
+   "published": "Mon, 12 Oct 2026 07:21:16 GMT",
    "read": "escalation"
   }
  ],
