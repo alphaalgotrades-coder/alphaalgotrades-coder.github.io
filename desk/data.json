@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-12T00:30:04+00:00",
+ "generated_utc": "2026-10-12T00:35:04+00:00",
  "date_et": "2026-10-11",
  "build": "0d463cfe05",
  "tape": [
@@ -246,14 +246,14 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 90.79,
-    "pct": -1.15
+    "price": 90.7,
+    "pct": -1.25
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4230.9,
-    "pct": 0.35
+    "price": 4234.7,
+    "pct": 0.44
    },
    {
     "sym": "DXY",
@@ -280,9 +280,9 @@
     "pct": -3.7
    }
   ],
-  "as_of": "2026-10-12T00:27:05.926099+00:00",
+  "as_of": "2026-10-12T00:33:05.855210+00:00",
   "tone": "risk-on",
-  "age_min": 2.984549616666667
+  "age_min": 1.9720539333333333
  },
  "stories": [
   {
@@ -321,11 +321,11 @@
    "read": "escalation"
   },
   {
-   "topic": "Saudi / Gulf supply",
-   "title": "Houthi strike on Riyadh airport kills 13, group claims Aramco hits. Saudi, Iran talking now. - investingLive",
-   "source": "investingLive",
-   "published": "Sun, 11 Oct 2026 20:33:44 GMT",
-   "read": "escalation"
+   "topic": "Russia / Ukraine",
+   "title": "Republican senator says Trump diesel agreement with Russia may be illegal - Al Jazeera",
+   "source": "Al Jazeera",
+   "published": "Sun, 11 Oct 2026 20:48:46 GMT",
+   "read": "unclear"
   }
  ],
  "ratings": [
