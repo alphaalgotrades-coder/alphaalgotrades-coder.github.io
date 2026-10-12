@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-12T00:50:03+00:00",
+ "generated_utc": "2026-10-12T00:55:03+00:00",
  "date_et": "2026-10-11",
  "build": "0d463cfe05",
  "tape": [
@@ -252,14 +252,14 @@
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4228.3,
-    "pct": 0.28
+    "price": 4234.8,
+    "pct": 0.44
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.14,
-    "pct": -0.07
+    "price": 102.126,
+    "pct": -0.09
    },
    {
     "sym": "SPY",
@@ -280,9 +280,9 @@
     "pct": -3.7
    }
   ],
-  "as_of": "2026-10-12T00:48:06.442310+00:00",
+  "as_of": "2026-10-12T00:54:05.839780+00:00",
   "tone": "risk-on",
-  "age_min": 1.96103685
+  "age_min": 0.9699503666666666
  },
  "stories": [
   {
@@ -290,6 +290,13 @@
    "title": "How expanded Japan-US military drills could complicate PLA planning over Taiwan - SCMP",
    "source": "SCMP",
    "published": "Thu, 08 Oct 2026 12:00:16 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iran-US diplomacy stalls as Houthi attacks on Saudi Arabia intensify - Iran International",
+   "source": "Iran International",
+   "published": "Sun, 11 Oct 2026 23:40:00 GMT",
    "read": "escalation"
   },
   {
@@ -308,10 +315,10 @@
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "Trump Russia deal could fuel Putin's war, ex-NATO commander warns as Zelenskyy says 'nyet' - Fox News",
-   "source": "Fox News",
-   "published": "Sun, 11 Oct 2026 21:56:55 GMT",
-   "read": "escalation"
+   "title": "Lawmakers in bipartisan statement push back on Trump over Russian oil - The Hill",
+   "source": "The Hill",
+   "published": "Sun, 11 Oct 2026 22:54:00 GMT",
+   "read": "unclear"
   },
   {
    "topic": "Iran / Hormuz",
@@ -319,13 +326,6 @@
    "source": "PBS",
    "published": "Sun, 11 Oct 2026 21:43:11 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Republican senator says Trump diesel agreement with Russia may be illegal - Al Jazeera",
-   "source": "Al Jazeera",
-   "published": "Sun, 11 Oct 2026 20:48:46 GMT",
-   "read": "unclear"
   }
  ],
  "ratings": [
