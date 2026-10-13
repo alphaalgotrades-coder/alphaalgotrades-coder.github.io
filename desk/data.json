@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-13T03:10:03+00:00",
+ "generated_utc": "2026-10-13T03:15:03+00:00",
  "date_et": "2026-10-12",
  "build": "0d463cfe05",
  "tape": [
@@ -345,20 +345,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 92.41,
-    "pct": -1.42
+    "price": 92.4,
+    "pct": -1.43
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4204.3,
-    "pct": 0.33
+    "price": 4201.3,
+    "pct": 0.26
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.39,
-    "pct": -0.19
+    "price": 102.401,
+    "pct": -0.18
    },
    {
     "sym": "SPY",
@@ -379,11 +379,18 @@
     "pct": 2.49
    }
   ],
-  "as_of": "2026-10-13T03:09:06.037234+00:00",
+  "as_of": "2026-10-13T03:12:05.655384+00:00",
   "tone": "mixed",
-  "age_min": 0.9625351333333333
+  "age_min": 2.9737533333333332
  },
  "stories": [
+  {
+   "topic": "Iran / Hormuz",
+   "title": "UKMTO issues four Hormuz attack alerts, Iran claims ADNOC tanker strike - Seatrade Maritime News",
+   "source": "Seatrade Maritime News",
+   "published": "Tue, 13 Oct 2026 02:51:08 GMT",
+   "read": "escalation"
+  },
   {
    "topic": "Taiwan / China",
    "title": "Taiwan tracks 10 Chinese ships, 5 military aircraft - Taiwan News",
@@ -417,13 +424,6 @@
    "title": "Opinion | Putin Ignores That Energy \u2018Cease-Fire\u2019 - WSJ",
    "source": "WSJ",
    "published": "Mon, 12 Oct 2026 21:40:00 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Why do Iran\u2019s oil \u2018intermediaries\u2019 owe the government billions? - Al Jazeera",
-   "source": "Al Jazeera",
-   "published": "Mon, 12 Oct 2026 21:20:37 GMT",
    "read": "unclear"
   }
  ],
