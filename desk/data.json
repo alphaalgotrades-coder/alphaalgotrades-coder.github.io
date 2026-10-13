@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-13T22:50:03+00:00",
+ "generated_utc": "2026-10-13T22:55:03+00:00",
  "date_et": "2026-10-13",
  "build": "0d463cfe05",
  "tape": [
@@ -399,14 +399,14 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 94.75,
-    "pct": 0.65
+    "price": 94.7,
+    "pct": 0.59
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4183.3,
-    "pct": 0.14
+    "price": 4182.8,
+    "pct": 0.13
    },
    {
     "sym": "DXY",
@@ -433,11 +433,18 @@
     "pct": 2.9
    }
   ],
-  "as_of": "2026-10-13T22:48:06.301375+00:00",
+  "as_of": "2026-10-13T22:54:06.631295+00:00",
   "tone": "mixed",
-  "age_min": 1.9632761166666666
+  "age_min": 0.9585595666666666
  },
  "stories": [
+  {
+   "topic": "Saudi / Gulf supply",
+   "title": "Fire Hits Saudi Aramco Headquarters Compound in Houthi Missile Attack, Damage Spreads Across Oil Infrastructure - bloomingbit",
+   "source": "bloomingbit",
+   "published": "Tue, 13 Oct 2026 22:43:13 GMT",
+   "read": "escalation"
+  },
   {
    "topic": "Iran / Hormuz",
    "title": "What's behind Iran\u2019s intensifying attacks on shipping in Hormuz? - Al-Monitor",
@@ -471,13 +478,6 @@
    "title": "Iran Strait of Hormuz - WV News",
    "source": "WV News",
    "published": "Tue, 13 Oct 2026 19:23:07 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Saudi / Gulf supply",
-   "title": "CRUDE WRAP: WTI (X6) SETTLES USD 0.40 HIGHER AT USD 94.14/BBL; BRENT (Z6) SETTLES USD 0.96 LOWER AT USD 105.69/BBL - Newsquawk",
-   "source": "Newsquawk",
-   "published": "Tue, 13 Oct 2026 19:18:00 GMT",
    "read": "unclear"
   }
  ],
