@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-13T21:50:04+00:00",
+ "generated_utc": "2026-10-13T21:55:04+00:00",
  "date_et": "2026-10-13",
  "build": "0d463cfe05",
  "tape": [
@@ -91,7 +91,7 @@
    "title": "Visitor Arrivals m/m",
    "cons": "",
    "prev": "0.5%",
-   "actual": ""
+   "actual": "2.8%"
   },
   {
    "time": "19:30",
@@ -400,18 +400,18 @@
     "sym": "CL",
     "name": "WTI crude futures",
     "price": 94.79,
-    "pct": 1.12
+    "pct": 0.69
    },
    {
     "sym": "GC",
     "name": "Gold futures",
     "price": 4184.2,
-    "pct": -0.15
+    "pct": 0.17
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.201,
+    "price": 102.203,
     "pct": -0.38
    },
    {
@@ -433,9 +433,9 @@
     "pct": 2.9
    }
   ],
-  "as_of": "2026-10-13T21:48:06.657157+00:00",
+  "as_of": "2026-10-13T21:54:06.315772+00:00",
   "tone": "mixed",
-  "age_min": 1.9652086833333333
+  "age_min": 0.96716945
  },
  "stories": [
   {
@@ -451,6 +451,13 @@
    "source": "Atlantic Council",
    "published": "Tue, 13 Oct 2026 20:57:00 GMT",
    "read": "escalation"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Bipartisan group of senators call on Trump to rescind Russian diesel deal - NPR",
+   "source": "NPR",
+   "published": "Tue, 13 Oct 2026 19:52:52 GMT",
+   "read": "unclear"
   },
   {
    "topic": "Iran / Hormuz",
@@ -472,13 +479,6 @@
    "source": "Anadolu Ajans\u0131",
    "published": "Tue, 13 Oct 2026 19:09:30 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Ukraine and the US: What's next after Trump's diesel deal with Russia? - DW.com",
-   "source": "DW.com",
-   "published": "Tue, 13 Oct 2026 18:55:08 GMT",
-   "read": "unclear"
   }
  ],
  "ratings": [
