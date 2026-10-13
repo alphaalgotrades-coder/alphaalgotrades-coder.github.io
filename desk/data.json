@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-13T00:50:03+00:00",
+ "generated_utc": "2026-10-13T00:55:03+00:00",
  "date_et": "2026-10-12",
  "build": "0d463cfe05",
  "tape": [
@@ -345,20 +345,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 93.08,
-    "pct": -0.7
+    "price": 93.06,
+    "pct": -0.73
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4188.7,
-    "pct": -0.05
+    "price": 4186.4,
+    "pct": -0.1
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.566,
-    "pct": -0.02
+    "price": 102.561,
+    "pct": -0.03
    },
    {
     "sym": "SPY",
@@ -379,9 +379,9 @@
     "pct": 2.49
    }
   ],
-  "as_of": "2026-10-13T00:48:06.238649+00:00",
+  "as_of": "2026-10-13T00:54:06.134751+00:00",
   "tone": "mixed",
-  "age_min": 1.9607523666666669
+  "age_min": 0.9610411166666667
  },
  "stories": [
   {
@@ -393,9 +393,16 @@
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "Trump\u2019s October Surprise - The Atlantic",
-   "source": "The Atlantic",
-   "published": "Mon, 12 Oct 2026 21:08:00 GMT",
+   "title": "Opinion | Putin Ignores That Energy \u2018Cease-Fire\u2019 - WSJ",
+   "source": "WSJ",
+   "published": "Mon, 12 Oct 2026 21:40:00 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Why do Iran\u2019s oil \u2018intermediaries\u2019 owe the government billions? - Al Jazeera",
+   "source": "Al Jazeera",
+   "published": "Mon, 12 Oct 2026 21:20:37 GMT",
    "read": "unclear"
   },
   {
@@ -403,13 +410,6 @@
    "title": "US, UK discuss maritime security in Strait of Hormuz, resolving Russia-Ukraine war - Anadolu Ajans\u0131",
    "source": "Anadolu Ajans\u0131",
    "published": "Mon, 12 Oct 2026 20:48:05 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran reviews U.S. Hormuz proposal as oil supply uncertainty continues - Oil &amp; Gas 360",
-   "source": "Oil &amp; Gas 360",
-   "published": "Mon, 12 Oct 2026 19:33:27 GMT",
    "read": "unclear"
   },
   {
