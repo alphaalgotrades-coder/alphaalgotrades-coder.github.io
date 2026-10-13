@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-13T23:50:03+00:00",
+ "generated_utc": "2026-10-13T23:55:03+00:00",
  "date_et": "2026-10-13",
  "build": "0d463cfe05",
  "tape": [
@@ -399,14 +399,14 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 94.66,
-    "pct": 0.55
+    "price": 94.81,
+    "pct": 0.71
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4179.8,
-    "pct": 0.06
+    "price": 4179.2,
+    "pct": 0.05
    },
    {
     "sym": "DXY",
@@ -433,11 +433,18 @@
     "pct": 2.9
    }
   ],
-  "as_of": "2026-10-13T23:48:06.777373+00:00",
+  "as_of": "2026-10-13T23:54:06.447448+00:00",
   "tone": "mixed",
-  "age_min": 1.94874225
+  "age_min": 0.9605323166666667
  },
  "stories": [
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Russian diesel deal \"a betrayal,\" bipartisan coalition says - Axios",
+   "source": "Axios",
+   "published": "Tue, 13 Oct 2026 23:18:04 GMT",
+   "read": "unclear"
+  },
   {
    "topic": "Saudi / Gulf supply",
    "title": "Fire Hits Saudi Aramco Headquarters Compound in Houthi Missile Attack, Damage Spreads Across Oil Infrastructure - bloomingbit",
@@ -472,13 +479,6 @@
    "source": "WRIC ABC 8News",
    "published": "Tue, 13 Oct 2026 19:32:29 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran Strait of Hormuz - WV News",
-   "source": "WV News",
-   "published": "Tue, 13 Oct 2026 19:23:07 GMT",
-   "read": "unclear"
   }
  ],
  "ratings": [
