@@ -1,42 +1,69 @@
 {
- "generated_utc": "2026-10-13T03:55:03+00:00",
- "date_et": "2026-10-12",
+ "generated_utc": "2026-10-13T04:00:04+00:00",
+ "date_et": "2026-10-13",
  "build": "0d463cfe05",
  "tape": [
   {
-   "time": "05:30",
-   "ccy": "GBP",
+   "time": "02:00",
+   "ccy": "EUR",
    "impact": "Low",
-   "title": "MPC Member Breeden Speaks",
-   "cons": "",
-   "prev": "",
+   "title": "German Final CPI m/m",
+   "cons": "0.6%",
+   "prev": "0.6%",
    "actual": ""
   },
   {
-   "time": "07:00",
+   "time": "03:45",
    "ccy": "USD",
-   "impact": "Holi",
-   "title": "Bank Holiday",
-   "cons": "",
-   "prev": "",
-   "actual": ""
-  },
-  {
-   "time": "08:00",
-   "ccy": "CAD",
-   "impact": "Holi",
-   "title": "Bank Holiday",
-   "cons": "",
-   "prev": "",
-   "actual": ""
-  },
-  {
-   "time": "08:50",
-   "ccy": "GBP",
    "impact": "Low",
-   "title": "MPC Member Mann Speaks",
+   "title": "FOMC Member Waller Speaks",
    "cons": "",
    "prev": "",
+   "actual": ""
+  },
+  {
+   "time": "04:03",
+   "ccy": "CNY",
+   "impact": "Low",
+   "title": "M2 Money Supply y/y",
+   "cons": "7.4%",
+   "prev": "7.5%",
+   "actual": ""
+  },
+  {
+   "time": "04:03",
+   "ccy": "CNY",
+   "impact": "Low",
+   "title": "New Loans",
+   "cons": "1025B",
+   "prev": "60B",
+   "actual": ""
+  },
+  {
+   "time": "06:00",
+   "ccy": "USD",
+   "impact": "Low",
+   "title": "NFIB Small Business Index",
+   "cons": "98.1",
+   "prev": "98.7",
+   "actual": ""
+  },
+  {
+   "time": "08:15",
+   "ccy": "USD",
+   "impact": "Low",
+   "title": "ADP Weekly Employment Change",
+   "cons": "",
+   "prev": "23.8K",
+   "actual": ""
+  },
+  {
+   "time": "10:00",
+   "ccy": "USD",
+   "impact": "Low",
+   "title": "Existing Home Sales",
+   "cons": "3.95M",
+   "prev": "3.98M",
    "actual": ""
   },
   {
@@ -49,64 +76,109 @@
    "actual": ""
   },
   {
-   "time": "12:10",
+   "time": "10:30",
+   "ccy": "AUD",
+   "impact": "Low",
+   "title": "CB Leading Index m/m",
+   "cons": "",
+   "prev": "0.5%",
+   "actual": ""
+  },
+  {
+   "time": "13:00",
    "ccy": "USD",
    "impact": "Low",
-   "title": "FOMC Member Hammack Speaks",
+   "title": "FOMC Member Barkin Speaks",
    "cons": "",
    "prev": "",
    "actual": ""
   },
   {
-   "time": "19:01",
-   "ccy": "GBP",
+   "time": "16:00",
+   "ccy": "USD",
    "impact": "Low",
-   "title": "BRC Retail Sales Monitor y/y",
-   "cons": "0.8%",
+   "title": "FOMC Member Collins Speaks",
+   "cons": "",
+   "prev": "",
+   "actual": ""
+  },
+  {
+   "time": "17:45",
+   "ccy": "NZD",
+   "impact": "Low",
+   "title": "Visitor Arrivals m/m",
+   "cons": "",
    "prev": "0.5%",
-   "actual": "1.0%"
+   "actual": ""
+  },
+  {
+   "time": "19:30",
+   "ccy": "AUD",
+   "impact": "Low",
+   "title": "MI Leading Index m/m",
+   "cons": "",
+   "prev": "0.0%",
+   "actual": ""
   },
   {
    "time": "19:50",
    "ccy": "JPY",
    "impact": "Low",
-   "title": "Bank Lending y/y",
-   "cons": "5.5%",
-   "prev": "5.4%",
-   "actual": "5.3%"
+   "title": "M2 Money Stock y/y",
+   "cons": "2.1%",
+   "prev": "2.0%",
+   "actual": ""
   },
   {
-   "time": "19:50",
-   "ccy": "JPY",
+   "time": "21:30",
+   "ccy": "CNY",
+   "impact": "Low",
+   "title": "CPI y/y",
+   "cons": "1.0%",
+   "prev": "0.8%",
+   "actual": ""
+  },
+  {
+   "time": "21:30",
+   "ccy": "CNY",
    "impact": "Low",
    "title": "PPI y/y",
-   "cons": "7.6%",
-   "prev": "7.6%",
-   "actual": "6.8%"
+   "cons": "4.4%",
+   "prev": "3.8%",
+   "actual": ""
   },
   {
-   "time": "20:30",
-   "ccy": "AUD",
+   "time": "22:03",
+   "ccy": "CNY",
    "impact": "Low",
-   "title": "Monetary Policy Meeting Minutes",
+   "title": "Trade Balance",
+   "cons": "790B",
+   "prev": "809B",
+   "actual": ""
+  },
+  {
+   "time": "22:04",
+   "ccy": "CNY",
+   "impact": "Low",
+   "title": "USD-Denominated Trade Balance",
+   "cons": "116.8B",
+   "prev": "119.1B",
+   "actual": ""
+  },
+  {
+   "time": "22:10",
+   "ccy": "EUR",
+   "impact": "Medi",
+   "title": "ECB President Lagarde Speaks",
    "cons": "",
    "prev": "",
    "actual": ""
   },
   {
-   "time": "20:30",
-   "ccy": "AUD",
-   "impact": "Low",
-   "title": "NAB Business Confidence",
-   "cons": "",
-   "prev": "-8",
-   "actual": "-13"
-  },
-  {
-   "time": "23:00",
+   "time": "23:30",
    "ccy": "GBP",
    "impact": "Low",
-   "title": "MPC Member Greene Speaks",
+   "title": "MPC Member Breeden Speaks",
    "cons": "",
    "prev": "",
    "actual": ""
@@ -345,20 +417,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 92.73,
-    "pct": -1.08
+    "price": 92.78,
+    "pct": -1.02
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4206.3,
-    "pct": 0.37
+    "price": 4207.6,
+    "pct": 0.41
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.428,
-    "pct": -0.16
+    "price": 102.433,
+    "pct": -0.15
    },
    {
     "sym": "SPY",
@@ -379,9 +451,9 @@
     "pct": 2.49
    }
   ],
-  "as_of": "2026-10-13T03:54:05.647747+00:00",
+  "as_of": "2026-10-13T03:57:05.862561+00:00",
   "tone": "mixed",
-  "age_min": 0.9708833833333333
+  "age_min": 2.976096016666667
  },
  "stories": [
   {
