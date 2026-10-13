@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-13T04:30:04+00:00",
+ "generated_utc": "2026-10-13T04:35:04+00:00",
  "date_et": "2026-10-13",
  "build": "0d463cfe05",
  "tape": [
@@ -423,14 +423,14 @@
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4215.3,
-    "pct": 0.59
+    "price": 4216.1,
+    "pct": 0.61
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.428,
-    "pct": -0.16
+    "price": 102.43,
+    "pct": -0.15
    },
    {
     "sym": "SPY",
@@ -451,11 +451,18 @@
     "pct": 2.49
    }
   ],
-  "as_of": "2026-10-13T04:27:04.913012+00:00",
+  "as_of": "2026-10-13T04:33:06.226107+00:00",
   "tone": "mixed",
-  "age_min": 2.9952130666666665
+  "age_min": 1.9680229999999999
  },
  "stories": [
+  {
+   "topic": "Iran / Hormuz",
+   "title": "UKMTO warnings show 12 commercial ships attacked in one week - Iran International",
+   "source": "Iran International",
+   "published": "Tue, 13 Oct 2026 03:37:25 GMT",
+   "read": "escalation"
+  },
   {
    "topic": "Russia / Ukraine",
    "title": "Trump insists energy ceasefire holds as Ukraine reports new Russian strikes - Al Jazeera",
@@ -489,13 +496,6 @@
    "title": "Taiwan tracks 10 Chinese ships, 5 military aircraft - Taiwan News",
    "source": "Taiwan News",
    "published": "Tue, 13 Oct 2026 01:44:47 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Riyadh rocked by explosions as Iranian strikes in Hormuz rise - Middle East Eye",
-   "source": "Middle East Eye",
-   "published": "Tue, 13 Oct 2026 01:23:00 GMT",
    "read": "escalation"
   }
  ],
