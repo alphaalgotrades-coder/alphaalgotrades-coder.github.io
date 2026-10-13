@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-13T06:50:04+00:00",
+ "generated_utc": "2026-10-13T06:55:04+00:00",
  "date_et": "2026-10-13",
  "build": "0d463cfe05",
  "tape": [
@@ -417,19 +417,19 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 92.46,
-    "pct": -1.37
+    "price": 92.44,
+    "pct": -1.39
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4209.1,
-    "pct": 0.44
+    "price": 4210.2,
+    "pct": 0.47
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.404,
+    "price": 102.405,
     "pct": -0.18
    },
    {
@@ -451,9 +451,9 @@
     "pct": 2.49
    }
   ],
-  "as_of": "2026-10-13T06:48:05.417107+00:00",
+  "as_of": "2026-10-13T06:54:05.539314+00:00",
   "tone": "mixed",
-  "age_min": 1.98046915
+  "age_min": 0.9778447666666668
  },
  "stories": [
   {
@@ -462,6 +462,13 @@
    "source": "8AM Media",
    "published": "Tue, 13 Oct 2026 05:48:29 GMT",
    "read": "escalation"
+  },
+  {
+   "topic": "Saudi / Gulf supply",
+   "title": "Oil Prices Retreat as Saudi Arabia Pledges to Keep Exports Flowing - Crude Oil Prices Today | OilPrice.com",
+   "source": "Crude Oil Prices Today | OilPrice.com",
+   "published": "Tue, 13 Oct 2026 05:38:59 GMT",
+   "read": "unclear"
   },
   {
    "topic": "Iran / Hormuz",
@@ -489,13 +496,6 @@
    "title": "Taiwan says Chinese drills will not affect regional shipping - Taiwan News",
    "source": "Taiwan News",
    "published": "Tue, 13 Oct 2026 03:24:00 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Saudi / Gulf supply",
-   "title": "Taiwan secures Saudi crude for November as CPC assures year-end supply - Taiwan News",
-   "source": "Taiwan News",
-   "published": "Tue, 13 Oct 2026 03:18:00 GMT",
    "read": "unclear"
   }
  ],
