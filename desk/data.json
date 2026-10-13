@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-13T06:10:04+00:00",
+ "generated_utc": "2026-10-13T06:15:04+00:00",
  "date_et": "2026-10-13",
  "build": "0d463cfe05",
  "tape": [
@@ -10,7 +10,7 @@
    "title": "German Final CPI m/m",
    "cons": "0.6%",
    "prev": "0.6%",
-   "actual": ""
+   "actual": "0.6%"
   },
   {
    "time": "03:45",
@@ -417,19 +417,19 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 92.57,
-    "pct": -1.25
+    "price": 92.58,
+    "pct": -1.24
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4216.7,
-    "pct": 0.62
+    "price": 4215.6,
+    "pct": 0.6
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.373,
+    "price": 102.378,
     "pct": -0.21
    },
    {
@@ -451,11 +451,18 @@
     "pct": 2.49
    }
   ],
-  "as_of": "2026-10-13T06:09:05.246369+00:00",
+  "as_of": "2026-10-13T06:12:04.997661+00:00",
   "tone": "mixed",
-  "age_min": 0.9846229833333333
+  "age_min": 2.997777816666667
  },
  "stories": [
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iran\u2019s Revolutionary Guards Commander Warns Outside Powers Against Intervening in Strait of Hormuz - 8AM Media",
+   "source": "8AM Media",
+   "published": "Tue, 13 Oct 2026 05:48:29 GMT",
+   "read": "escalation"
+  },
   {
    "topic": "Iran / Hormuz",
    "title": "Big Tech Should Pay Iran Fees for Strait of Hormuz Cables: Iran Media Report - Alphabet (NASDAQ:GOOGL) - Benzinga",
@@ -490,13 +497,6 @@
    "source": "Taiwan News",
    "published": "Tue, 13 Oct 2026 03:18:00 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "UKMTO issues four Hormuz attack alerts, Iran claims ADNOC tanker strike - Seatrade Maritime News",
-   "source": "Seatrade Maritime News",
-   "published": "Tue, 13 Oct 2026 02:51:08 GMT",
-   "read": "escalation"
   }
  ],
  "ratings": [
