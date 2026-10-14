@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-14T22:30:02+00:00",
+ "generated_utc": "2026-10-14T22:35:02+00:00",
  "date_et": "2026-10-14",
  "build": "0d463cfe05",
  "tape": [
@@ -471,20 +471,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 95.1,
-    "pct": 0.01
+    "price": 95.09,
+    "pct": null
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4125.4,
-    "pct": 0.43
+    "price": 4129.5,
+    "pct": 0.53
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.553,
-    "pct": 0.37
+    "price": 102.528,
+    "pct": 0.34
    },
    {
     "sym": "SPY",
@@ -505,9 +505,9 @@
     "pct": 10.48
    }
   ],
-  "as_of": "2026-10-14T22:27:05.728836+00:00",
+  "as_of": "2026-10-14T22:33:05.228805+00:00",
   "tone": "risk-off",
-  "age_min": 2.9513212
+  "age_min": 1.9645955333333334
  },
  "stories": [
   {
@@ -533,9 +533,9 @@
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Trump faces new Iran war challenges as Houthi attacks threaten energy supplies - KUTV",
-   "source": "KUTV",
-   "published": "Wed, 14 Oct 2026 20:28:13 GMT",
+   "title": "Trump faces new Iran war challenges as Houthi attacks threaten energy supplies - WBFF",
+   "source": "WBFF",
+   "published": "Wed, 14 Oct 2026 20:29:31 GMT",
    "read": "escalation"
   },
   {
