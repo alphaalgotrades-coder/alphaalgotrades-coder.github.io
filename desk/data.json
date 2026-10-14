@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-14T02:30:04+00:00",
+ "generated_utc": "2026-10-14T02:35:04+00:00",
  "date_et": "2026-10-13",
  "build": "0d463cfe05",
  "tape": [
@@ -399,20 +399,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 95.16,
-    "pct": 1.08
+    "price": 94.83,
+    "pct": 0.73
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4183.0,
-    "pct": 0.14
+    "price": 4184.0,
+    "pct": 0.16
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.135,
-    "pct": -0.04
+    "price": 102.131,
+    "pct": -0.05
    },
    {
     "sym": "SPY",
@@ -433,11 +433,25 @@
     "pct": 2.9
    }
   ],
-  "as_of": "2026-10-14T02:27:05.861519+00:00",
+  "as_of": "2026-10-14T02:33:05.856614+00:00",
   "tone": "mixed",
-  "age_min": 2.984334416666667
+  "age_min": 1.9808586000000001
  },
  "stories": [
+  {
+   "topic": "Taiwan / China",
+   "title": "Taiwan tracks 12 Chinese ships, 9 military aircraft - Taiwan News",
+   "source": "Taiwan News",
+   "published": "Wed, 14 Oct 2026 02:25:13 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Saudi / Gulf supply",
+   "title": "Oil Price Today (October 14): Crude oil gains to $107 as Houthis attack Saudi Aramco building in new attac - The Economic Times",
+   "source": "The Economic Times",
+   "published": "Wed, 14 Oct 2026 02:04:58 GMT",
+   "read": "escalation"
+  },
   {
    "topic": "Iran / Hormuz",
    "title": "Oil rises amid growing Mideast tensions between Iran-backed Houthis and Saudi Arabia - CNBC",
@@ -464,20 +478,6 @@
    "title": "China's Unprecedented Drills Across Six Maritime Zones - \uc870\uc120\uc77c\ubcf4",
    "source": "\uc870\uc120\uc77c\ubcf4",
    "published": "Wed, 14 Oct 2026 00:42:44 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran shifting tactics to step up attacks on shipping before US vote, officials say - Reuters",
-   "source": "Reuters",
-   "published": "Wed, 14 Oct 2026 00:06:00 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran increases threat to Strait of Hormuz shipping, and other Middle East developments - WWLP",
-   "source": "WWLP",
-   "published": "Tue, 13 Oct 2026 23:29:11 GMT",
    "read": "escalation"
   }
  ],
