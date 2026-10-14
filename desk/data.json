@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-14T09:55:03+00:00",
+ "generated_utc": "2026-10-14T10:00:04+00:00",
  "date_et": "2026-10-14",
  "build": "0d463cfe05",
  "tape": [
@@ -49,22 +49,22 @@
    "actual": ""
   },
   {
-   "time": "05:03",
+   "time": "05:00",
    "ccy": "CNY",
    "impact": "Low",
    "title": "M2 Money Supply y/y",
    "cons": "7.4%",
    "prev": "7.5%",
-   "actual": ""
+   "actual": "7.2%"
   },
   {
-   "time": "05:03",
+   "time": "05:01",
    "ccy": "CNY",
    "impact": "Low",
    "title": "New Loans",
    "cons": "1025B",
    "prev": "60B",
-   "actual": ""
+   "actual": "1080B"
   },
   {
    "time": "05:34",
@@ -471,19 +471,19 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 94.78,
-    "pct": 0.68
+    "price": 94.61,
+    "pct": 0.5
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4166.1,
-    "pct": -0.27
+    "price": 4165.7,
+    "pct": -0.28
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.228,
+    "price": 102.231,
     "pct": 0.05
    },
    {
@@ -505,9 +505,9 @@
     "pct": -0.52
    }
   ],
-  "as_of": "2026-10-14T09:54:05.808975+00:00",
+  "as_of": "2026-10-14T09:57:06.002604+00:00",
   "tone": "mixed",
-  "age_min": 0.9577642999999999
+  "age_min": 2.9731859333333333
  },
  "stories": [
   {
