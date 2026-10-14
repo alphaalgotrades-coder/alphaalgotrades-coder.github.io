@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-14T09:25:02+00:00",
+ "generated_utc": "2026-10-14T09:30:03+00:00",
  "date_et": "2026-10-14",
  "build": "0d463cfe05",
  "tape": [
@@ -40,7 +40,16 @@
    "actual": ""
   },
   {
-   "time": "04:03",
+   "time": "04:30",
+   "ccy": "EUR",
+   "impact": "Medi",
+   "title": "ECB President Lagarde Speaks",
+   "cons": "",
+   "prev": "",
+   "actual": ""
+  },
+  {
+   "time": "05:03",
    "ccy": "CNY",
    "impact": "Low",
    "title": "M2 Money Supply y/y",
@@ -49,21 +58,12 @@
    "actual": ""
   },
   {
-   "time": "04:03",
+   "time": "05:03",
    "ccy": "CNY",
    "impact": "Low",
    "title": "New Loans",
    "cons": "1025B",
    "prev": "60B",
-   "actual": ""
-  },
-  {
-   "time": "04:30",
-   "ccy": "EUR",
-   "impact": "Medi",
-   "title": "ECB President Lagarde Speaks",
-   "cons": "",
-   "prev": "",
    "actual": ""
   },
   {
@@ -170,6 +170,15 @@
    "ccy": "USD",
    "impact": "Low",
    "title": "Beige Book",
+   "cons": "",
+   "prev": "",
+   "actual": ""
+  },
+  {
+   "time": "15:00",
+   "ccy": "USD",
+   "impact": "Low",
+   "title": "FOMC Member Goolsbee Speaks",
    "cons": "",
    "prev": "",
    "actual": ""
@@ -462,19 +471,19 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 94.09,
-    "pct": -0.05
+    "price": 94.12,
+    "pct": -0.02
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4166.8,
-    "pct": -0.25
+    "price": 4167.2,
+    "pct": -0.24
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.22,
+    "price": 102.225,
     "pct": 0.04
    },
    {
@@ -492,55 +501,55 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 15.17,
-    "pct": -0.65
+    "price": 15.19,
+    "pct": -0.52
    }
   ],
-  "as_of": "2026-10-14T09:24:05.791316+00:00",
+  "as_of": "2026-10-14T09:27:05.886382+00:00",
   "tone": "mixed",
-  "age_min": 1.03885355
+  "age_min": 2.9562808166666668
  },
  "stories": [
   {
    "topic": "Saudi / Gulf supply",
-   "title": "Crude oil nears $110 as Saudi attacks and Hormuz risks stoke supply fears - India Today",
-   "source": "India Today",
-   "published": "Wed, 14 Oct 2026 03:23:58 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Saudi / Gulf supply",
-   "title": "Saudi Aramco\u2019s New China Refinery Venture Gets First Crude Cargo - Bloomberg.com",
-   "source": "Bloomberg.com",
-   "published": "Wed, 14 Oct 2026 03:13:00 GMT",
+   "title": "Crude oil price forecast as US-Iran, Saudi Arabia-Houthi tensions rise - TradingView",
+   "source": "TradingView",
+   "published": "Wed, 14 Oct 2026 08:05:00 GMT",
    "read": "unclear"
   },
   {
-   "topic": "Iran / Hormuz",
-   "title": "Iran escalates Hormuz tanker attacks in gamble ahead of US midterms - Iran International",
-   "source": "Iran International",
-   "published": "Wed, 14 Oct 2026 02:32:56 GMT",
+   "topic": "Russia / Ukraine",
+   "title": "The Kremlin denies, but sets facts - GIS Reports",
+   "source": "GIS Reports",
+   "published": "Wed, 14 Oct 2026 07:38:31 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Saudi / Gulf supply",
+   "title": "Houthis target Saudi Aramco Dhahran HQ in further escalation - Quantum Commodity Intelligence",
+   "source": "Quantum Commodity Intelligence",
+   "published": "Wed, 14 Oct 2026 06:40:58 GMT",
    "read": "escalation"
   },
   {
    "topic": "Taiwan / China",
-   "title": "Taiwan tracks 12 Chinese ships, 9 military aircraft - Taiwan News",
-   "source": "Taiwan News",
-   "published": "Wed, 14 Oct 2026 02:25:13 GMT",
+   "title": "Taiwan Begins Live-Force Military Drills Deploying US Tanks in Counter to China's Live-Fire Exercises - news.sbs.co.kr",
+   "source": "news.sbs.co.kr",
+   "published": "Wed, 14 Oct 2026 05:50:47 GMT",
    "read": "escalation"
+  },
+  {
+   "topic": "Taiwan / China",
+   "title": "Why Is China Warning Taiwan Over a Water Cannon Incident in the South China Sea? - Modern Diplomacy",
+   "source": "Modern Diplomacy",
+   "published": "Wed, 14 Oct 2026 05:39:11 GMT",
+   "read": "unclear"
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Oil rises amid growing Mideast tensions between Iran-backed Houthis and Saudi Arabia - CNBC",
-   "source": "CNBC",
-   "published": "Wed, 14 Oct 2026 01:55:00 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Saudi / Gulf supply",
-   "title": "Saudi Aramco Headquarters Attacked and Set Ablaze; Trump Accuses Houthis of Deliberately Driving Up Oil Prices Ahead of Election - BigGo Finance",
-   "source": "BigGo Finance",
-   "published": "Wed, 14 Oct 2026 01:25:00 GMT",
+   "title": "Oil Prices Climb Above $106 as Iran Threatens More Tanker Attacks - Crude Oil Prices Today | OilPrice.com",
+   "source": "Crude Oil Prices Today | OilPrice.com",
+   "published": "Wed, 14 Oct 2026 05:31:31 GMT",
    "read": "escalation"
   }
  ],
