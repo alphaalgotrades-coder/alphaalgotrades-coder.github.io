@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-14T21:30:02+00:00",
+ "generated_utc": "2026-10-14T21:35:02+00:00",
  "date_et": "2026-10-14",
  "build": "0d463cfe05",
  "tape": [
@@ -483,7 +483,7 @@
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.551,
+    "price": 102.548,
     "pct": 0.36
    },
    {
@@ -505,23 +505,30 @@
     "pct": 10.48
    }
   ],
-  "as_of": "2026-10-14T21:27:05.304802+00:00",
+  "as_of": "2026-10-14T21:33:09.067240+00:00",
   "tone": "risk-off",
-  "age_min": 2.9634661500000004
+  "age_min": 1.8977070166666665
  },
  "stories": [
   {
-   "topic": "Iran / Hormuz",
-   "title": "Trump faces new Iran war challenges as Houthi attacks threaten energy supplies - fox23maine.com",
-   "source": "fox23maine.com",
-   "published": "Wed, 14 Oct 2026 20:31:43 GMT",
-   "read": "escalation"
+   "topic": "Saudi / Gulf supply",
+   "title": "Aramco's New China Refinery Venture Gets 1st Crude Cargo - Rigzone",
+   "source": "Rigzone",
+   "published": "Wed, 14 Oct 2026 21:20:41 GMT",
+   "read": "unclear"
   },
   {
    "topic": "Iran / Hormuz",
    "title": "Iran says a ship sank after striking a mine in Strait of Hormuz, and other Middle East developments - Sentinel Colorado",
    "source": "Sentinel Colorado",
    "published": "Wed, 14 Oct 2026 20:31:27 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Trump faces new Iran war challenges as Houthi attacks threaten energy supplies - KUTV",
+   "source": "KUTV",
+   "published": "Wed, 14 Oct 2026 20:28:13 GMT",
    "read": "escalation"
   },
   {
@@ -544,13 +551,6 @@
    "source": "IndexBox",
    "published": "Wed, 14 Oct 2026 19:00:32 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Donald Trump Temporarily Halts Freedom Project in Strait of Hormuz, Says Iran Deal Possible: how 15 outlets framed it - NewsCord",
-   "source": "NewsCord",
-   "published": "Wed, 14 Oct 2026 18:15:49 GMT",
-   "read": "de-escalation"
   }
  ],
  "ratings": [
