@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-14T03:10:03+00:00",
+ "generated_utc": "2026-10-14T03:15:04+00:00",
  "date_et": "2026-10-13",
  "build": "0d463cfe05",
  "tape": [
@@ -393,26 +393,26 @@
    {
     "sym": "MOVE",
     "name": "Bond-market volatility",
-    "price": 101.0918,
+    "price": 101.09,
     "pct": 2.66
    },
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 95.01,
-    "pct": 0.92
+    "price": 95.02,
+    "pct": 0.93
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4188.4,
-    "pct": 0.27
+    "price": 4190.9,
+    "pct": 0.33
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.104,
-    "pct": -0.07
+    "price": 102.106,
+    "pct": -0.46
    },
    {
     "sym": "SPY",
@@ -430,12 +430,12 @@
     "sym": "VIX",
     "name": "Volatility index",
     "price": 15.27,
-    "pct": 2.9
+    "pct": 0.39
    }
   ],
-  "as_of": "2026-10-14T03:09:05.905247+00:00",
+  "as_of": "2026-10-14T03:12:05.743064+00:00",
   "tone": "mixed",
-  "age_min": 0.9692378833333334
+  "age_min": 2.9847679
  },
  "stories": [
   {
@@ -474,11 +474,11 @@
    "read": "escalation"
   },
   {
-   "topic": "Taiwan / China",
-   "title": "2 Taiwanese executives arrested over mainland components in military drones - South China Morning Post",
-   "source": "South China Morning Post",
-   "published": "Wed, 14 Oct 2026 01:00:05 GMT",
-   "read": "unclear"
+   "topic": "Saudi / Gulf supply",
+   "title": "Saudi Aramco Headquarters Attacked and Set Ablaze; Trump Accuses Houthis of Deliberately Driving Up Oil Prices Ahead of Election - BigGo Finance",
+   "source": "BigGo Finance",
+   "published": "Wed, 14 Oct 2026 01:25:00 GMT",
+   "read": "escalation"
   }
  ],
  "ratings": [
