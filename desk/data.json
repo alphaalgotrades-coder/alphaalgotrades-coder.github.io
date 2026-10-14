@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-14T22:50:02+00:00",
+ "generated_utc": "2026-10-14T22:55:03+00:00",
  "date_et": "2026-10-14",
  "build": "0d463cfe05",
  "tape": [
@@ -477,8 +477,8 @@
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4128.3,
-    "pct": 0.5
+    "price": 4132.0,
+    "pct": 0.59
    },
    {
     "sym": "DXY",
@@ -505,9 +505,9 @@
     "pct": 10.48
    }
   ],
-  "as_of": "2026-10-14T22:48:05.104071+00:00",
+  "as_of": "2026-10-14T22:54:05.438265+00:00",
   "tone": "risk-off",
-  "age_min": 1.9663932333333334
+  "age_min": 0.9708526166666667
  },
  "stories": [
   {
@@ -523,13 +523,6 @@
    "source": "Rigzone",
    "published": "Wed, 14 Oct 2026 21:20:41 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran says a ship sank after striking a mine in Strait of Hormuz, and other Middle East developments - Sentinel Colorado",
-   "source": "Sentinel Colorado",
-   "published": "Wed, 14 Oct 2026 20:31:27 GMT",
-   "read": "escalation"
   },
   {
    "topic": "Iran / Hormuz",
@@ -550,6 +543,13 @@
    "title": "Saudi Aramco China JV Refinery Gets First Crude Cargo Ahead of 2027 Start - News and Statistics - IndexBox",
    "source": "IndexBox",
    "published": "Wed, 14 Oct 2026 19:01:06 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Saudi / Gulf supply",
+   "title": "Saudi Arabia to Boost East-West Pipeline Capacity to 10 Million Barrels Per Day - IndexBox",
+   "source": "IndexBox",
+   "published": "Wed, 14 Oct 2026 19:00:32 GMT",
    "read": "unclear"
   }
  ],
