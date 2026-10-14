@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-14T09:50:02+00:00",
+ "generated_utc": "2026-10-14T09:55:03+00:00",
  "date_et": "2026-10-14",
  "build": "0d463cfe05",
  "tape": [
@@ -73,7 +73,7 @@
    "title": "German 30-y Bond Auction",
    "cons": "",
    "prev": "3.80|1.6",
-   "actual": ""
+   "actual": "3.80"
   },
   {
    "time": "05:40",
@@ -471,19 +471,19 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 94.74,
-    "pct": 0.64
+    "price": 94.78,
+    "pct": 0.68
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4164.6,
-    "pct": -0.3
+    "price": 4166.1,
+    "pct": -0.27
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.229,
+    "price": 102.228,
     "pct": 0.05
    },
    {
@@ -501,15 +501,22 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 15.21,
-    "pct": -0.39
+    "price": 15.19,
+    "pct": -0.52
    }
   ],
-  "as_of": "2026-10-14T09:48:04.807373+00:00",
+  "as_of": "2026-10-14T09:54:05.808975+00:00",
   "tone": "mixed",
-  "age_min": 1.9687607666666667
+  "age_min": 0.9577642999999999
  },
  "stories": [
+  {
+   "topic": "Saudi / Gulf supply",
+   "title": "Saudi Aramco Headquarters Hit as Houthi Attacks Escalate - Crude Oil Prices Today | OilPrice.com",
+   "source": "Crude Oil Prices Today | OilPrice.com",
+   "published": "Wed, 14 Oct 2026 09:30:00 GMT",
+   "read": "escalation"
+  },
   {
    "topic": "Saudi / Gulf supply",
    "title": "Crude oil price forecast as US-Iran, Saudi Arabia-Houthi tensions rise - TradingView",
@@ -544,13 +551,6 @@
    "source": "Modern Diplomacy",
    "published": "Wed, 14 Oct 2026 05:39:11 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Oil Prices Climb Above $106 as Iran Threatens More Tanker Attacks - Crude Oil Prices Today | OilPrice.com",
-   "source": "Crude Oil Prices Today | OilPrice.com",
-   "published": "Wed, 14 Oct 2026 05:31:31 GMT",
-   "read": "escalation"
   }
  ],
  "ratings": [
