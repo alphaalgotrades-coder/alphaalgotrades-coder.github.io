@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-14T00:50:04+00:00",
+ "generated_utc": "2026-10-14T00:55:04+00:00",
  "date_et": "2026-10-13",
  "build": "0d463cfe05",
  "tape": [
@@ -399,19 +399,19 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 94.96,
-    "pct": 0.87
+    "price": 94.9,
+    "pct": 0.81
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4182.9,
-    "pct": 0.13
+    "price": 4179.5,
+    "pct": 0.05
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.162,
+    "price": 102.159,
     "pct": -0.02
    },
    {
@@ -433,11 +433,25 @@
     "pct": 2.9
    }
   ],
-  "as_of": "2026-10-14T00:48:14.349605+00:00",
+  "as_of": "2026-10-14T00:54:05.885041+00:00",
   "tone": "mixed",
-  "age_min": 1.8315389666666666
+  "age_min": 0.9718796666666666
  },
  "stories": [
+  {
+   "topic": "Taiwan / China",
+   "title": "China's Unprecedented Drills Across Six Maritime Zones - \uc870\uc120\uc77c\ubcf4",
+   "source": "\uc870\uc120\uc77c\ubcf4",
+   "published": "Wed, 14 Oct 2026 00:42:44 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iran increases threat to Strait of Hormuz shipping, and other Middle East developments - WWLP",
+   "source": "WWLP",
+   "published": "Tue, 13 Oct 2026 23:29:11 GMT",
+   "read": "escalation"
+  },
   {
    "topic": "Russia / Ukraine",
    "title": "Russian diesel deal \"a betrayal,\" bipartisan coalition says - Axios",
@@ -465,20 +479,6 @@
    "source": "Al-Monitor",
    "published": "Tue, 13 Oct 2026 21:11:33 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Putin snubs Trump\u2019s ceasefire as Russia aims to make Ukraine unlivable - Atlantic Council",
-   "source": "Atlantic Council",
-   "published": "Tue, 13 Oct 2026 20:57:00 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Bipartisan group of senators call on Trump to rescind Russian diesel deal - NPR",
-   "source": "NPR",
-   "published": "Tue, 13 Oct 2026 19:52:52 GMT",
-   "read": "unclear"
   }
  ],
  "ratings": [
