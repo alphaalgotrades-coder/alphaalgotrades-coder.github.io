@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-13T23:55:03+00:00",
+ "generated_utc": "2026-10-14T00:00:05+00:00",
  "date_et": "2026-10-13",
  "build": "0d463cfe05",
  "tape": [
@@ -109,7 +109,7 @@
    "title": "M2 Money Stock y/y",
    "cons": "2.1%",
    "prev": "2.0%",
-   "actual": ""
+   "actual": "2.0%"
   },
   {
    "time": "21:30",
@@ -399,20 +399,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 94.81,
-    "pct": 0.71
+    "price": 94.84,
+    "pct": 0.74
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4179.2,
-    "pct": 0.05
+    "price": 4179.6,
+    "pct": 0.06
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.212,
-    "pct": 0.03
+    "price": 102.186,
+    "pct": 0.01
    },
    {
     "sym": "SPY",
@@ -433,9 +433,9 @@
     "pct": 2.9
    }
   ],
-  "as_of": "2026-10-13T23:54:06.447448+00:00",
+  "as_of": "2026-10-13T23:57:07.747008+00:00",
   "tone": "mixed",
-  "age_min": 0.9605323166666667
+  "age_min": 2.9736933333333337
  },
  "stories": [
   {
