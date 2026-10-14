@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-14T03:30:05+00:00",
+ "generated_utc": "2026-10-14T03:35:04+00:00",
  "date_et": "2026-10-13",
  "build": "0d463cfe05",
  "tape": [
@@ -399,19 +399,19 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 94.83,
-    "pct": 0.73
+    "price": 94.91,
+    "pct": 0.82
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4191.9,
-    "pct": 0.35
+    "price": 4190.3,
+    "pct": 0.31
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.084,
+    "price": 102.087,
     "pct": -0.09
    },
    {
@@ -433,11 +433,25 @@
     "pct": 0.39
    }
   ],
-  "as_of": "2026-10-14T03:27:06.057434+00:00",
+  "as_of": "2026-10-14T03:33:16.012064+00:00",
   "tone": "mixed",
-  "age_min": 2.99735065
+  "age_min": 1.80703525
  },
  "stories": [
+  {
+   "topic": "Saudi / Gulf supply",
+   "title": "Crude oil nears $110 as Saudi attacks and Hormuz risks stoke supply fears - India Today",
+   "source": "India Today",
+   "published": "Wed, 14 Oct 2026 03:23:58 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Saudi / Gulf supply",
+   "title": "Saudi Aramco\u2019s New China Refinery Venture Gets First Crude Cargo - Bloomberg.com",
+   "source": "Bloomberg.com",
+   "published": "Wed, 14 Oct 2026 03:13:00 GMT",
+   "read": "unclear"
+  },
   {
    "topic": "Iran / Hormuz",
    "title": "Iran escalates Hormuz tanker attacks in gamble ahead of US midterms - Iran International",
@@ -453,24 +467,10 @@
    "read": "escalation"
   },
   {
-   "topic": "Saudi / Gulf supply",
-   "title": "Oil Price Today (October 14): Crude oil gains to $107 as Houthis attack Saudi Aramco building in new attac - The Economic Times",
-   "source": "The Economic Times",
-   "published": "Wed, 14 Oct 2026 02:04:58 GMT",
-   "read": "escalation"
-  },
-  {
    "topic": "Iran / Hormuz",
    "title": "Oil rises amid growing Mideast tensions between Iran-backed Houthis and Saudi Arabia - CNBC",
    "source": "CNBC",
    "published": "Wed, 14 Oct 2026 01:55:00 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Saudi / Gulf supply",
-   "title": "Brent Crude Climbs To $107/Barrel As Iranian Attacks On Tankers In Hormuz Flare Up, Houthis Hit Saudi's Aramco - NDTV Profit",
-   "source": "NDTV Profit",
-   "published": "Wed, 14 Oct 2026 01:25:40 GMT",
    "read": "escalation"
   },
   {
