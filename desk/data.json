@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-15T00:10:02+00:00",
+ "generated_utc": "2026-10-15T00:15:03+00:00",
  "date_et": "2026-10-14",
  "build": "0d463cfe05",
  "tape": [
@@ -471,8 +471,8 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 94.79,
-    "pct": -0.32
+    "price": 94.7,
+    "pct": -0.41
    },
    {
     "sym": "GC",
@@ -483,8 +483,8 @@
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.206,
-    "pct": -0.34
+    "price": 102.216,
+    "pct": -0.33
    },
    {
     "sym": "SPY",
@@ -505,17 +505,17 @@
     "pct": 10.48
    }
   ],
-  "as_of": "2026-10-15T00:09:06.492043+00:00",
+  "as_of": "2026-10-15T00:12:05.960511+00:00",
   "tone": "risk-off",
-  "age_min": 0.94404475
+  "age_min": 2.956283716666667
  },
  "stories": [
   {
    "topic": "Iran / Hormuz",
-   "title": "Iranian attacks sink two ships in Strait of Hormuz - The Washington Post",
-   "source": "The Washington Post",
-   "published": "Wed, 14 Oct 2026 22:00:55 GMT",
-   "read": "escalation"
+   "title": "Watch Esper Says Iran Can Still Disrupt Strait of Hormuz - Bloomberg.com",
+   "source": "Bloomberg.com",
+   "published": "Wed, 14 Oct 2026 22:21:11 GMT",
+   "read": "unclear"
   },
   {
    "topic": "Saudi / Gulf supply",
