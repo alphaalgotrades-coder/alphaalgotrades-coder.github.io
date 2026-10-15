@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-15T09:50:03+00:00",
+ "generated_utc": "2026-10-15T09:55:03+00:00",
  "date_et": "2026-10-15",
  "build": "0d463cfe05",
  "tape": [
@@ -561,19 +561,19 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 93.78,
-    "pct": -0.13
+    "price": 93.73,
+    "pct": -0.18
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4179.9,
-    "pct": 1.75
+    "price": 4180.1,
+    "pct": 1.76
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.958,
+    "price": 101.961,
     "pct": -0.58
    },
    {
@@ -591,22 +591,15 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 17.54,
-    "pct": 14.87
+    "price": 17.51,
+    "pct": 14.67
    }
   ],
-  "as_of": "2026-10-15T09:48:05.209774+00:00",
+  "as_of": "2026-10-15T09:54:05.203397+00:00",
   "tone": "risk-off",
-  "age_min": 1.9728033
+  "age_min": 0.9734661
  },
  "stories": [
-  {
-   "topic": "Russia / Ukraine",
-   "title": "The Memo: Crisis and chaos hit Ukraine as questions multiply over Trump\u2019s role - The Hill",
-   "source": "The Hill",
-   "published": "Wed, 14 Oct 2026 22:50:00 GMT",
-   "read": "unclear"
-  },
   {
    "topic": "Saudi / Gulf supply",
    "title": "Aramco's New China Refinery Venture Gets 1st Crude Cargo - Rigzone",
@@ -629,17 +622,24 @@
    "read": "escalation"
   },
   {
-   "topic": "Russia / Ukraine",
-   "title": "Gift for Putin as fears grow that Trump is turning the screws on Ukraine - CNN",
-   "source": "CNN",
-   "published": "Wed, 14 Oct 2026 16:57:26 GMT",
-   "read": "unclear"
-  },
-  {
    "topic": "Iran / Hormuz",
    "title": "Two container ships sink near strait of Hormuz amid surge in Iranian attacks - The Guardian",
    "source": "The Guardian",
    "published": "Wed, 14 Oct 2026 15:35:00 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Selling the Kremlin\u2019s war narrative to China\u2019s Gen Z: inside platform Bilibili\u2019s coverage of Ukraine - RSF",
+   "source": "RSF",
+   "published": "Thu, 15 Oct 2026 09:47:45 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Ukraine to restart strikes on Russian oil refineries, Zelensky says - BBC",
+   "source": "BBC",
+   "published": "Thu, 15 Oct 2026 08:11:48 GMT",
    "read": "escalation"
   }
  ],
