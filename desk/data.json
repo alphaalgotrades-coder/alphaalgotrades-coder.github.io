@@ -1,10 +1,10 @@
 {
- "generated_utc": "2026-10-15T05:55:03+00:00",
+ "generated_utc": "2026-10-15T06:00:05+00:00",
  "date_et": "2026-10-15",
  "build": "0d463cfe05",
  "tape": [
   {
-   "time": "00:25",
+   "time": "00:30",
    "ccy": "AUD",
    "impact": "Low",
    "title": "RBA Annual Report",
@@ -64,7 +64,7 @@
    "title": "Index of Services 3m/3m",
    "cons": "0.8%",
    "prev": "0.6%",
-   "actual": ""
+   "actual": "0.9%"
   },
   {
    "time": "02:00",
@@ -561,20 +561,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 94.38,
-    "pct": -0.75
+    "price": 94.42,
+    "pct": -0.7
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4160.8,
+    "price": 4161.0,
     "pct": 1.29
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.1,
-    "pct": -0.44
+    "price": 102.085,
+    "pct": -0.46
    },
    {
     "sym": "SPY",
@@ -595,9 +595,9 @@
     "pct": 10.48
    }
   ],
-  "as_of": "2026-10-15T05:54:05.467374+00:00",
+  "as_of": "2026-10-15T05:57:05.444481+00:00",
   "tone": "risk-off",
-  "age_min": 0.9691634333333333
+  "age_min": 2.9955258166666665
  },
  "stories": [
   {
