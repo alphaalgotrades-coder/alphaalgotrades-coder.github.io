@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-15T22:10:03+00:00",
+ "generated_utc": "2026-10-15T22:15:03+00:00",
  "date_et": "2026-10-15",
  "build": "0d463cfe05",
  "tape": [
@@ -561,19 +561,19 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 96.12,
-    "pct": -0.39
+    "price": 96.25,
+    "pct": -0.26
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4192.5,
-    "pct": 0.54
+    "price": 4192.0,
+    "pct": 0.53
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.004,
+    "price": 102.002,
     "pct": -0.54
    },
    {
@@ -595,9 +595,9 @@
     "pct": 7.79
    }
   ],
-  "as_of": "2026-10-15T22:09:08.841809+00:00",
+  "as_of": "2026-10-15T22:12:04.991439+00:00",
   "tone": "mixed",
-  "age_min": 0.9110790166666667
+  "age_min": 2.9850468
  },
  "stories": [
   {
@@ -616,6 +616,13 @@
   },
   {
    "topic": "Iran / Hormuz",
+   "title": "Opinion | The Democratic Hormuz Alternative - WSJ",
+   "source": "WSJ",
+   "published": "Thu, 15 Oct 2026 21:48:00 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Iran / Hormuz",
    "title": "Will more powerful bombs bring Iran closer to a deal with the US? - KOKH",
    "source": "KOKH",
    "published": "Thu, 15 Oct 2026 20:57:08 GMT",
@@ -626,13 +633,6 @@
    "title": "Viral footage shows iPhones floating in Strait of Hormuz after Iran sinks Singaporean cargo ship - Ynetnews",
    "source": "Ynetnews",
    "published": "Thu, 15 Oct 2026 19:20:05 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran ramps up attacks on shipping in Strait of Hormuz - Fox Business",
-   "source": "Fox Business",
-   "published": "Thu, 15 Oct 2026 19:18:02 GMT",
    "read": "escalation"
   },
   {
