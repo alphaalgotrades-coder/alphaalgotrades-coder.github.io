@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-15T00:35:03+00:00",
+ "generated_utc": "2026-10-15T00:40:03+00:00",
  "date_et": "2026-10-14",
  "build": "0d463cfe05",
  "tape": [
@@ -208,7 +208,7 @@
    "title": "Employment Change",
    "cons": "19.6K",
    "prev": "39.5K",
-   "actual": ""
+   "actual": "-39.3K"
   },
   {
    "time": "20:30",
@@ -217,7 +217,7 @@
    "title": "Unemployment Rate",
    "cons": "4.6%",
    "prev": "4.6%",
-   "actual": ""
+   "actual": "4.7%"
   },
   {
    "time": "22:55",
@@ -471,20 +471,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 94.67,
-    "pct": -0.44
+    "price": 94.66,
+    "pct": -0.45
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4161.9,
-    "pct": 1.31
+    "price": 4160.5,
+    "pct": 1.28
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.208,
-    "pct": -0.34
+    "price": 102.183,
+    "pct": -0.36
    },
    {
     "sym": "SPY",
@@ -505,9 +505,9 @@
     "pct": 10.48
    }
   ],
-  "as_of": "2026-10-15T00:33:05.765420+00:00",
+  "as_of": "2026-10-15T00:39:06.279078+00:00",
   "tone": "risk-off",
-  "age_min": 1.9643411333333334
+  "age_min": 0.9566176
  },
  "stories": [
   {
