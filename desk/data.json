@@ -1,10 +1,118 @@
 {
- "generated_utc": "2026-10-15T03:55:03+00:00",
- "date_et": "2026-10-14",
+ "generated_utc": "2026-10-15T04:00:04+00:00",
+ "date_et": "2026-10-15",
  "build": "0d463cfe05",
  "tape": [
   {
-   "time": "01:30",
+   "time": "00:25",
+   "ccy": "AUD",
+   "impact": "Low",
+   "title": "RBA Annual Report",
+   "cons": "",
+   "prev": "",
+   "actual": ""
+  },
+  {
+   "time": "00:30",
+   "ccy": "CHF",
+   "impact": "Medi",
+   "title": "SNB Chairman Schlegel Speaks",
+   "cons": "",
+   "prev": "",
+   "actual": ""
+  },
+  {
+   "time": "00:30",
+   "ccy": "JPY",
+   "impact": "Low",
+   "title": "Revised Industrial Production m/m",
+   "cons": "-1.7%",
+   "prev": "-1.7%",
+   "actual": ""
+  },
+  {
+   "time": "02:00",
+   "ccy": "GBP",
+   "impact": "High",
+   "title": "GDP m/m",
+   "cons": "-0.1%",
+   "prev": "0.4%",
+   "actual": ""
+  },
+  {
+   "time": "02:00",
+   "ccy": "GBP",
+   "impact": "Low",
+   "title": "Construction Output m/m",
+   "cons": "0.0%",
+   "prev": "0.1%",
+   "actual": ""
+  },
+  {
+   "time": "02:00",
+   "ccy": "GBP",
+   "impact": "Low",
+   "title": "Goods Trade Balance",
+   "cons": "-21.9B",
+   "prev": "-21.0B",
+   "actual": ""
+  },
+  {
+   "time": "02:00",
+   "ccy": "GBP",
+   "impact": "Low",
+   "title": "Index of Services 3m/3m",
+   "cons": "0.8%",
+   "prev": "0.6%",
+   "actual": ""
+  },
+  {
+   "time": "02:00",
+   "ccy": "GBP",
+   "impact": "Low",
+   "title": "Industrial Production m/m",
+   "cons": "-0.1%",
+   "prev": "0.2%",
+   "actual": ""
+  },
+  {
+   "time": "02:00",
+   "ccy": "GBP",
+   "impact": "Low",
+   "title": "Manufacturing Production m/m",
+   "cons": "-0.1%",
+   "prev": "0.9%",
+   "actual": ""
+  },
+  {
+   "time": "02:30",
+   "ccy": "CHF",
+   "impact": "Low",
+   "title": "PPI m/m",
+   "cons": "0.6%",
+   "prev": "0.7%",
+   "actual": ""
+  },
+  {
+   "time": "02:45",
+   "ccy": "EUR",
+   "impact": "Low",
+   "title": "French Final CPI m/m",
+   "cons": "-0.3%",
+   "prev": "-0.3%",
+   "actual": ""
+  },
+  {
+   "time": "02:45",
+   "ccy": "GBP",
+   "impact": "Low",
+   "title": "MPC Member Greene Speaks",
+   "cons": "",
+   "prev": "",
+   "actual": ""
+  },
+  {
+   "time": "03:30",
    "ccy": "GBP",
    "impact": "Medi",
    "title": "BOE Gov Bailey Speaks",
@@ -13,75 +121,30 @@
    "actual": ""
   },
   {
-   "time": "02:00",
-   "ccy": "EUR",
-   "impact": "Low",
-   "title": "German WPI m/m",
-   "cons": "0.6%",
-   "prev": "0.9%",
-   "actual": "1.9%"
-  },
-  {
-   "time": "02:00",
+   "time": "04:45",
    "ccy": "GBP",
    "impact": "Low",
-   "title": "MPC Member Pill Speaks",
-   "cons": "",
-   "prev": "",
-   "actual": ""
-  },
-  {
-   "time": "02:05",
-   "ccy": "CAD",
-   "impact": "Medi",
-   "title": "BOC Gov Macklem Speaks",
-   "cons": "",
-   "prev": "",
-   "actual": ""
-  },
-  {
-   "time": "04:30",
-   "ccy": "EUR",
-   "impact": "Medi",
-   "title": "ECB President Lagarde Speaks",
+   "title": "MPC Member Breeden Speaks",
    "cons": "",
    "prev": "",
    "actual": ""
   },
   {
    "time": "05:00",
-   "ccy": "CNY",
+   "ccy": "CAD",
    "impact": "Low",
-   "title": "M2 Money Supply y/y",
-   "cons": "7.4%",
-   "prev": "7.5%",
-   "actual": "7.2%"
-  },
-  {
-   "time": "05:01",
-   "ccy": "CNY",
-   "impact": "Low",
-   "title": "New Loans",
-   "cons": "1025B",
-   "prev": "60B",
-   "actual": "1080B"
-  },
-  {
-   "time": "05:38",
-   "ccy": "EUR",
-   "impact": "Low",
-   "title": "German 30-y Bond Auction",
-   "cons": "",
-   "prev": "3.80|1.6",
-   "actual": "3.80|1.4"
-  },
-  {
-   "time": "05:40",
-   "ccy": "USD",
-   "impact": "Low",
-   "title": "FOMC Member Bowman Speaks",
+   "title": "Gov Council Member Rogers Speaks",
    "cons": "",
    "prev": "",
+   "actual": ""
+  },
+  {
+   "time": "05:00",
+   "ccy": "EUR",
+   "impact": "Low",
+   "title": "Industrial Production m/m",
+   "cons": "0.0%",
+   "prev": "-0.1%",
    "actual": ""
   },
   {
@@ -97,55 +160,91 @@
    "time": "08:30",
    "ccy": "CAD",
    "impact": "Low",
-   "title": "Building Permits m/m",
-   "cons": "2.9%",
-   "prev": "-17.3%",
-   "actual": "8.8%"
+   "title": "Manufacturing Sales m/m",
+   "cons": "1.1%",
+   "prev": "-0.4%",
+   "actual": ""
   },
   {
    "time": "08:30",
-   "ccy": "USD",
-   "impact": "High",
-   "title": "Core CPI m/m",
-   "cons": "0.2%",
+   "ccy": "CAD",
+   "impact": "Low",
+   "title": "Wholesale Sales m/m",
+   "cons": "-1.5%",
    "prev": "0.3%",
-   "actual": "0.3%"
+   "actual": ""
   },
   {
    "time": "08:30",
    "ccy": "USD",
    "impact": "High",
-   "title": "Core CPI y/y",
-   "cons": "2.5%",
-   "prev": "2.4%",
-   "actual": "2.6%"
+   "title": "Core PPI m/m",
+   "cons": "0.3%",
+   "prev": "0.2%",
+   "actual": ""
   },
   {
    "time": "08:30",
    "ccy": "USD",
    "impact": "High",
-   "title": "CPI m/m",
+   "title": "Core Retail Sales m/m",
+   "cons": "0.6%",
+   "prev": "1.4%",
+   "actual": ""
+  },
+  {
+   "time": "08:30",
+   "ccy": "USD",
+   "impact": "High",
+   "title": "PPI m/m",
    "cons": "0.6%",
    "prev": "0.4%",
-   "actual": "0.6%"
+   "actual": ""
   },
   {
    "time": "08:30",
    "ccy": "USD",
    "impact": "High",
-   "title": "CPI y/y",
-   "cons": "3.6%",
-   "prev": "3.4%",
-   "actual": "3.7%"
+   "title": "Retail Sales m/m",
+   "cons": "0.3%",
+   "prev": "1.2%",
+   "actual": ""
   },
   {
-   "time": "09:30",
-   "ccy": "GBP",
+   "time": "08:30",
+   "ccy": "USD",
+   "impact": "High",
+   "title": "Philly Fed Manufacturing Index",
+   "cons": "28.2",
+   "prev": "37.8",
+   "actual": ""
+  },
+  {
+   "time": "08:30",
+   "ccy": "USD",
+   "impact": "High",
+   "title": "Unemployment Claims",
+   "cons": "199K",
+   "prev": "197K",
+   "actual": ""
+  },
+  {
+   "time": "08:30",
+   "ccy": "USD",
+   "impact": "High",
+   "title": "Empire State Manufacturing Index",
+   "cons": "12.1",
+   "prev": "7.6",
+   "actual": ""
+  },
+  {
+   "time": "10:00",
+   "ccy": "USD",
    "impact": "Low",
-   "title": "CB Leading Index m/m",
-   "cons": "",
-   "prev": "-0.1%",
-   "actual": "-0.1%"
+   "title": "Business Inventories m/m",
+   "cons": "0.4%",
+   "prev": "0.8%",
+   "actual": ""
   },
   {
    "time": "10:15",
@@ -157,82 +256,73 @@
    "actual": ""
   },
   {
-   "time": "13:30",
+   "time": "10:30",
    "ccy": "USD",
    "impact": "Low",
-   "title": "FOMC Member Barkin Speaks",
-   "cons": "",
-   "prev": "",
+   "title": "Natural Gas Storage",
+   "cons": "76B",
+   "prev": "85B",
    "actual": ""
   },
   {
-   "time": "14:00",
+   "time": "12:00",
    "ccy": "USD",
    "impact": "Low",
-   "title": "Beige Book",
-   "cons": "",
-   "prev": "",
-   "actual": ""
-  },
-  {
-   "time": "15:00",
-   "ccy": "USD",
-   "impact": "Low",
-   "title": "FOMC Member Goolsbee Speaks",
-   "cons": "",
-   "prev": "",
+   "title": "Crude Oil Inventories",
+   "cons": "0.2M",
+   "prev": "-3.2M",
    "actual": ""
   },
   {
    "time": "16:30",
    "ccy": "USD",
    "impact": "Low",
-   "title": "API Weekly Statistical Bulletin",
+   "title": "FOMC Member Hammack Speaks",
    "cons": "",
    "prev": "",
    "actual": ""
   },
   {
-   "time": "19:50",
-   "ccy": "JPY",
+   "time": "17:30",
+   "ccy": "NZD",
    "impact": "Low",
-   "title": "Core Machinery Orders m/m",
-   "cons": "2.2%",
-   "prev": "-3.7%",
-   "actual": "5.2%"
-  },
-  {
-   "time": "20:30",
-   "ccy": "AUD",
-   "impact": "High",
-   "title": "Employment Change",
-   "cons": "19.6K",
-   "prev": "39.5K",
-   "actual": "-39.3K"
-  },
-  {
-   "time": "20:30",
-   "ccy": "AUD",
-   "impact": "High",
-   "title": "Unemployment Rate",
-   "cons": "4.6%",
-   "prev": "4.6%",
-   "actual": "4.7%"
-  },
-  {
-   "time": "22:55",
-   "ccy": "USD",
-   "impact": "Low",
-   "title": "FOMC Member Bowman Speaks",
+   "title": "BusinessNZ Manufacturing Index",
    "cons": "",
-   "prev": "",
+   "prev": "53.1",
    "actual": ""
   },
   {
-   "time": "23:35",
+   "time": "17:45",
+   "ccy": "NZD",
+   "impact": "Low",
+   "title": "FPI m/m",
+   "cons": "",
+   "prev": "0.3%",
+   "actual": ""
+  },
+  {
+   "time": "22:00",
    "ccy": "GBP",
+   "impact": "High",
+   "title": "BOE Gov Bailey Speaks",
+   "cons": "",
+   "prev": "",
+   "actual": ""
+  },
+  {
+   "time": "22:30",
+   "ccy": "EUR",
    "impact": "Low",
-   "title": "MPC Member Pill Speaks",
+   "title": "German Buba President Nagel Speaks",
+   "cons": "",
+   "prev": "",
+   "actual": ""
+  },
+  {
+   "time": "23:30",
+   "ccy": "USD",
+   "impact": "High",
+   "title": "Fed Chairman Warsh Speaks",
    "cons": "",
    "prev": "",
    "actual": ""
@@ -471,20 +561,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 94.09,
-    "pct": -1.05
+    "price": 94.12,
+    "pct": -1.02
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4171.9,
-    "pct": 1.56
+    "price": 4170.0,
+    "pct": 1.51
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.934,
-    "pct": -0.6
+    "price": 101.921,
+    "pct": -0.62
    },
    {
     "sym": "SPY",
@@ -505,9 +595,9 @@
     "pct": 10.48
    }
   ],
-  "as_of": "2026-10-15T03:54:05.643917+00:00",
+  "as_of": "2026-10-15T03:57:05.861992+00:00",
   "tone": "risk-off",
-  "age_min": 0.9746920333333333
+  "age_min": 2.984355133333333
  },
  "stories": [
   {
