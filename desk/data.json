@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-15T00:30:03+00:00",
+ "generated_utc": "2026-10-15T00:35:03+00:00",
  "date_et": "2026-10-14",
  "build": "0d463cfe05",
  "tape": [
@@ -471,20 +471,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 94.63,
-    "pct": -0.48
+    "price": 94.67,
+    "pct": -0.44
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4156.5,
-    "pct": 1.18
+    "price": 4161.9,
+    "pct": 1.31
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.223,
-    "pct": -0.32
+    "price": 102.208,
+    "pct": -0.34
    },
    {
     "sym": "SPY",
@@ -505,11 +505,18 @@
     "pct": 10.48
    }
   ],
-  "as_of": "2026-10-15T00:27:05.860004+00:00",
+  "as_of": "2026-10-15T00:33:05.765420+00:00",
   "tone": "risk-off",
-  "age_min": 2.9668319000000003
+  "age_min": 1.9643411333333334
  },
  "stories": [
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Musk says US military controls Starlink\u2019s limits after Ukraine outcry - Al Jazeera",
+   "source": "Al Jazeera",
+   "published": "Wed, 14 Oct 2026 23:15:00 GMT",
+   "read": "unclear"
+  },
   {
    "topic": "Iran / Hormuz",
    "title": "Watch Esper Says Iran Can Still Disrupt Strait of Hormuz - Bloomberg.com",
@@ -525,6 +532,13 @@
    "read": "unclear"
   },
   {
+   "topic": "Russia / Ukraine",
+   "title": "Ukrainian drones are forced to slow down by sudden restrictions on use of Starlink - AP News",
+   "source": "AP News",
+   "published": "Wed, 14 Oct 2026 21:02:00 GMT",
+   "read": "unclear"
+  },
+  {
    "topic": "Iran / Hormuz",
    "title": "Trump faces new Iran war challenges as Houthi attacks threaten energy supplies - WBFF",
    "source": "WBFF",
@@ -533,23 +547,9 @@
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "Ukrainian drones lose some speed after SpaceX imposes sudden restrictions on use of Starlink - AP News",
-   "source": "AP News",
-   "published": "Wed, 14 Oct 2026 20:17:00 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
    "title": "GOP lawmaker defends Trump\u2019s energy ceasefire push, rips Putin over betrayal - The Hill",
    "source": "The Hill",
    "published": "Wed, 14 Oct 2026 19:59:00 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Saudi / Gulf supply",
-   "title": "Saudi Arabia to Boost East-West Pipeline Capacity to 10 Million Barrels Per Day - IndexBox",
-   "source": "IndexBox",
-   "published": "Wed, 14 Oct 2026 19:00:32 GMT",
    "read": "unclear"
   }
  ],
