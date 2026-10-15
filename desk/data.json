@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-15T09:00:04+00:00",
+ "generated_utc": "2026-10-15T09:05:04+00:00",
  "date_et": "2026-10-15",
  "build": "0d463cfe05",
  "tape": [
@@ -145,7 +145,7 @@
    "title": "Industrial Production m/m",
    "cons": "0.0%",
    "prev": "-0.1%",
-   "actual": ""
+   "actual": "-0.5%"
   },
   {
    "time": "06:15",
@@ -561,14 +561,14 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 94.81,
-    "pct": -0.29
+    "price": 95.05,
+    "pct": -0.04
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4171.9,
-    "pct": 1.56
+    "price": 4173.7,
+    "pct": 1.6
    },
    {
     "sym": "DXY",
@@ -591,13 +591,13 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 17.51,
-    "pct": 14.67
+    "price": 17.49,
+    "pct": 14.54
    }
   ],
-  "as_of": "2026-10-15T08:57:05.669122+00:00",
+  "as_of": "2026-10-15T09:03:12.639739+00:00",
   "tone": "risk-off",
-  "age_min": 2.9836270833333334
+  "age_min": 1.8602262666666667
  },
  "stories": [
   {
@@ -822,14 +822,14 @@
   "note": "TreasuryDirect, announced offerings"
  },
  "book": {
-  "as_of_et": "04:05",
+  "as_of_et": "05:05",
   "since": "2026-07-13",
   "trading_days": 50,
   "green_days": 27,
   "red_days": 2,
   "total_fills": 146,
   "realized": 8379.87,
-  "open_upnl": -5933.0,
+  "open_upnl": -6071.0,
   "legs": [
    {
     "id": "AS261016P00024500",
