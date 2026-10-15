@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-15T06:50:04+00:00",
+ "generated_utc": "2026-10-15T06:55:03+00:00",
  "date_et": "2026-10-15",
  "build": "0d463cfe05",
  "tape": [
@@ -100,7 +100,7 @@
    "title": "French Final CPI m/m",
    "cons": "-0.3%",
    "prev": "-0.3%",
-   "actual": ""
+   "actual": "-0.3%"
   },
   {
    "time": "02:45",
@@ -561,20 +561,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 94.16,
-    "pct": -0.98
+    "price": 94.2,
+    "pct": -0.94
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4155.3,
-    "pct": 1.15
+    "price": 4155.4,
+    "pct": 1.16
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.161,
-    "pct": -0.38
+    "price": 102.153,
+    "pct": -0.39
    },
    {
     "sym": "SPY",
@@ -595,9 +595,9 @@
     "pct": 10.48
    }
   ],
-  "as_of": "2026-10-15T06:48:04.797710+00:00",
+  "as_of": "2026-10-15T06:54:04.435982+00:00",
   "tone": "risk-off",
-  "age_min": 1.9973129333333333
+  "age_min": 0.98894905
  },
  "stories": [
   {
@@ -605,13 +605,6 @@
    "title": "Ukraine faces loss of key US-affiliated satellite support amid tensions between Trump and Zelenskyy - ABC News - Breaking News, Latest News and Videos",
    "source": "ABC News - Breaking News, Latest News and Videos",
    "published": "Wed, 14 Oct 2026 23:42:46 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Musk says US military controls Starlink\u2019s limits after Ukraine outcry - Al Jazeera",
-   "source": "Al Jazeera",
-   "published": "Wed, 14 Oct 2026 23:15:00 GMT",
    "read": "unclear"
   },
   {
@@ -627,6 +620,13 @@
    "source": "PBS",
    "published": "Wed, 14 Oct 2026 22:50:43 GMT",
    "read": "escalation"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "The Memo: Crisis and chaos hit Ukraine as questions multiply over Trump\u2019s role - The Hill",
+   "source": "The Hill",
+   "published": "Wed, 14 Oct 2026 22:50:00 GMT",
+   "read": "unclear"
   },
   {
    "topic": "Iran / Hormuz",
