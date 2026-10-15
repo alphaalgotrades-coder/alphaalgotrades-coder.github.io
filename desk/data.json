@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-15T21:45:03+00:00",
+ "generated_utc": "2026-10-15T21:50:02+00:00",
  "date_et": "2026-10-15",
  "build": "0d463cfe05",
  "tape": [
@@ -573,7 +573,7 @@
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.012,
+    "price": 102.009,
     "pct": -0.53
    },
    {
@@ -592,12 +592,12 @@
     "sym": "VIX",
     "name": "Volatility index",
     "price": 16.46,
-    "pct": 7.79
+    "pct": -2.43
    }
   ],
-  "as_of": "2026-10-15T21:42:05.783083+00:00",
-  "tone": "mixed",
-  "age_min": 2.9712837
+  "as_of": "2026-10-15T21:48:14.974833+00:00",
+  "tone": "risk-on",
+  "age_min": 1.80281385
  },
  "stories": [
   {
