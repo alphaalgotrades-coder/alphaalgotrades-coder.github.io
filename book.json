@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-15T14:05:03.908874+00:00",
+ "generated_utc": "2026-10-15T15:05:04.403858+00:00",
  "paper": true,
  "strategy": "the wheel (cash-secured puts -> covered calls)",
  "since": "2026-07-13",
@@ -392,7 +392,7 @@
    "engine": true,
    "agree": true,
    "entry": 0.35,
-   "upnl": -360.0,
+   "upnl": -420.0,
    "lane": "OPTIONS"
   },
   {
@@ -405,20 +405,7 @@
    "engine": true,
    "agree": true,
    "entry": 32.5,
-   "upnl": -540.0,
-   "lane": "OPTIONS"
-  },
-  {
-   "instrument": "BLDR 10/16 P50",
-   "raw": "BLDR261016P00050000",
-   "strategy": "HT_WHEEL",
-   "side": "short 1",
-   "broker": true,
-   "db": true,
-   "engine": true,
-   "agree": true,
-   "entry": 0.5,
-   "upnl": 30.0,
+   "upnl": -222.0,
    "lane": "OPTIONS"
   },
   {
@@ -431,7 +418,7 @@
    "engine": true,
    "agree": true,
    "entry": 70.0,
-   "upnl": -2348.0,
+   "upnl": -2231.0,
    "lane": "OPTIONS"
   },
   {
@@ -444,7 +431,7 @@
    "engine": true,
    "agree": true,
    "entry": 0.65,
-   "upnl": -805.0,
+   "upnl": -945.0,
    "lane": "OPTIONS"
   },
   {
@@ -470,7 +457,7 @@
    "engine": true,
    "agree": true,
    "entry": 13.68,
-   "upnl": 616.0,
+   "upnl": 850.5,
    "lane": "OPTIONS"
   },
   {
@@ -483,12 +470,12 @@
    "engine": true,
    "agree": true,
    "entry": 35.0,
-   "upnl": -968.0,
+   "upnl": -818.0,
    "lane": "OPTIONS"
   }
  ],
- "open_upnl": -4705.0,
- "reconciliation": "9/9 open legs reconciled against the broker statement and our own database",
+ "open_upnl": -4115.5,
+ "reconciliation": "8/8 open legs reconciled against the broker statement and our own database",
  "stats": {
   "closed_trades": 43,
   "win_rate": 86.0,
@@ -497,9 +484,9 @@
   "profit_factor": 8.06,
   "expectancy": 194.88,
   "sharpe_daily_ann": 5.72,
-  "capital_at_risk": 82726.0,
-  "period_return_pct": 10.13,
-  "ann_pace_pct": 38.9,
+  "capital_at_risk": 77726.0,
+  "period_return_pct": 10.78,
+  "ann_pace_pct": 41.4,
   "elapsed_days": 95
  },
  "assigned": [
