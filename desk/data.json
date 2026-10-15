@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-15T12:10:03+00:00",
+ "generated_utc": "2026-10-15T12:15:04+00:00",
  "date_et": "2026-10-15",
  "build": "0d463cfe05",
  "tape": [
@@ -332,12 +332,12 @@
   "rows": [
    {
     "series": "2Y",
-    "level": 4.738,
-    "d_day_bps": -5.2,
+    "level": 4.74,
+    "d_day_bps": -5.0,
     "lean": "dovish",
     "source": "YAHOO_TSY_FUT_ZT",
     "latency": "after-hours-futures-proxy",
-    "snapshot_ts": "2026-10-15T11:58:00+00:00",
+    "snapshot_ts": "2026-10-15T12:02:00+00:00",
     "snapshot_date": "2026-10-15",
     "prior_day": "2026-10-13",
     "prior_day_close": 4.79,
@@ -362,36 +362,36 @@
      4.723,
      4.721,
      4.723,
-     4.731,
      4.733,
+     4.735,
+     4.725,
+     4.721,
+     4.717,
+     4.721,
      4.721,
      4.723,
-     4.719,
-     4.719,
-     4.721,
-     4.721,
-     4.723,
-     4.725,
-     4.725,
      4.727,
-     4.729,
      4.725,
      4.723,
+     4.727,
+     4.721,
+     4.721,
+     4.725,
      4.725,
      4.729,
-     4.729,
-     4.742,
-     4.74
+     4.738,
+     4.74,
+     4.744
     ]
    },
    {
     "series": "5Y",
-    "level": 4.923,
-    "d_day_bps": -8.4,
+    "level": 4.921,
+    "d_day_bps": -8.6,
     "lean": "dovish",
     "source": "YAHOO_TSY_FUT_ZF",
     "latency": "after-hours-futures-proxy",
-    "snapshot_ts": "2026-10-15T11:57:00+00:00",
+    "snapshot_ts": "2026-10-15T12:02:00+00:00",
     "snapshot_date": "2026-10-15",
     "prior_day": "2026-10-13",
     "prior_day_close": 5.007,
@@ -417,25 +417,25 @@
      4.918,
      4.918,
      4.926,
-     4.926,
+     4.925,
+     4.914,
+     4.912,
      4.909,
-     4.918,
-     4.911,
+     4.914,
      4.912,
      4.912,
      4.912,
-     4.912,
-     4.918,
      4.916,
      4.916,
-     4.914,
-     4.909,
-     4.912,
+     4.916,
      4.918,
      4.914,
-     4.923,
-     4.921,
-     4.926
+     4.914,
+     4.918,
+     4.918,
+     4.919,
+     4.93,
+     4.93
     ]
    },
    {
@@ -445,7 +445,7 @@
     "lean": "dovish",
     "source": "YAHOO_TSY_FUT_ZN",
     "latency": "after-hours-futures-proxy",
-    "snapshot_ts": "2026-10-15T11:58:00+00:00",
+    "snapshot_ts": "2026-10-15T12:02:00+00:00",
     "snapshot_date": "2026-10-15",
     "prior_day": "2026-10-13",
     "prior_day_close": 5.217,
@@ -464,32 +464,32 @@
      5.137,
      5.125,
      5.128,
-     5.132,
-     5.123,
-     5.123,
      5.125,
-     5.123,
-     5.125,
-     5.13,
-     5.13,
-     5.112,
      5.121,
+     5.121,
+     5.118,
+     5.123,
+     5.125,
+     5.13,
+     5.125,
+     5.116,
+     5.118,
      5.114,
      5.116,
-     5.116,
-     5.116,
+     5.118,
      5.116,
      5.121,
      5.121,
-     5.121,
+     5.123,
+     5.118,
+     5.116,
+     5.118,
      5.121,
      5.118,
-     5.118,
-     5.121,
-     5.116,
-     5.125,
-     5.125,
-     5.125
+     5.123,
+     5.13,
+     5.13,
+     5.132
     ]
    },
    {
@@ -499,7 +499,7 @@
     "lean": "dovish",
     "source": "YAHOO_TSY_FUT_ZB",
     "latency": "after-hours-futures-proxy",
-    "snapshot_ts": "2026-10-15T11:57:00+00:00",
+    "snapshot_ts": "2026-10-15T12:02:00+00:00",
     "snapshot_date": "2026-10-15",
     "prior_day": "2026-10-13",
     "prior_day_close": 5.563,
@@ -512,42 +512,42 @@
      5.505,
      5.503,
      5.501,
-     5.499,
-     5.503,
-     5.503,
-     5.497,
-     5.488,
-     5.488,
+     5.496,
+     5.501,
+     5.501,
+     5.494,
+     5.486,
+     5.486,
      5.486,
      5.484,
      5.482,
      5.482,
-     5.482,
-     5.486,
+     5.484,
      5.488,
      5.484,
+     5.481,
+     5.473,
      5.475,
      5.477,
-     5.475,
+     5.477,
+     5.477,
+     5.479,
+     5.482,
+     5.484,
+     5.482,
+     5.484,
      5.479,
      5.479,
-     5.479,
-     5.481,
      5.481,
      5.481,
      5.482,
-     5.482,
-     5.482,
-     5.481,
-     5.481,
-     5.479,
      5.486,
      5.486,
-     5.484
+     5.486
     ]
    }
   ],
-  "as_of": "2026-10-15T11:58:00+00:00",
+  "as_of": "2026-10-15T12:02:00+00:00",
   "note": "after-hours-futures-proxy"
  },
  "strip": {
@@ -561,20 +561,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 94.17,
-    "pct": 0.29
+    "price": 94.11,
+    "pct": 0.22
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4168.1,
-    "pct": 1.47
+    "price": 4166.3,
+    "pct": 1.42
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.1,
-    "pct": -0.44
+    "price": 102.112,
+    "pct": -0.43
    },
    {
     "sym": "SPY",
@@ -591,22 +591,15 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 17.38,
-    "pct": 13.82
+    "price": 17.43,
+    "pct": 14.15
    }
   ],
-  "as_of": "2026-10-15T12:09:05.770643+00:00",
+  "as_of": "2026-10-15T12:12:05.623497+00:00",
   "tone": "risk-off",
-  "age_min": 0.9684659166666666
+  "age_min": 2.98290955
  },
  "stories": [
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Whose Side Is Trump Really on in the Ukraine-Russia War?: News Article - Independent Institute",
-   "source": "Independent Institute",
-   "published": "Wed, 14 Oct 2026 22:01:58 GMT",
-   "read": "unclear"
-  },
   {
    "topic": "Taiwan / China",
    "title": "Analysis: How long will China's top military body remain hollowed out? - Nikkei Asia",
@@ -616,10 +609,17 @@
   },
   {
    "topic": "Saudi / Gulf supply",
-   "title": "Attacks on Ships in Strait of Hormuz Escalate Sharply - The New York Times",
-   "source": "The New York Times",
-   "published": "Wed, 14 Oct 2026 18:20:24 GMT",
-   "read": "escalation"
+   "title": "Saudi Aramco offers extra spot crude cargoes to Europe, sources say - Reuters",
+   "source": "Reuters",
+   "published": "Thu, 15 Oct 2026 11:49:28 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "US-Iran stalemate: What are Trump\u2019s next military options? - Al Jazeera",
+   "source": "Al Jazeera",
+   "published": "Thu, 15 Oct 2026 11:45:06 GMT",
+   "read": "unclear"
   },
   {
    "topic": "Iran / Hormuz",
@@ -754,29 +754,29 @@
    {
     "code": "FR",
     "name": "France",
-    "level": 4.7508,
+    "level": 4.7481,
     "as_of": "2026-10-15",
-    "spread_bp": 137.8,
-    "d_day_bps": -11.1
+    "spread_bp": 138.0,
+    "d_day_bps": -11.3
    },
    {
     "code": "DE",
     "name": "Germany",
-    "level": 3.3726,
+    "level": 3.3685,
     "as_of": "2026-10-15",
     "spread_bp": null,
-    "d_day_bps": -6.9
+    "d_day_bps": -7.3
    },
    {
     "code": "IT",
     "name": "Italy",
-    "level": 4.4602,
+    "level": 4.4558,
     "as_of": "2026-10-15",
-    "spread_bp": 108.8,
-    "d_day_bps": -10.0
+    "spread_bp": 108.7,
+    "d_day_bps": -10.5
    }
   ],
-  "bund": 3.3726,
+  "bund": 3.3685,
   "note": "10-year government bonds; spread measured over Germany"
  },
  "auctions": {
