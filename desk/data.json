@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-15T06:00:05+00:00",
+ "generated_utc": "2026-10-15T06:05:04+00:00",
  "date_et": "2026-10-15",
  "build": "0d463cfe05",
  "tape": [
@@ -37,7 +37,7 @@
    "title": "GDP m/m",
    "cons": "-0.1%",
    "prev": "0.4%",
-   "actual": ""
+   "actual": "0.1%"
   },
   {
    "time": "02:00",
@@ -46,7 +46,7 @@
    "title": "Construction Output m/m",
    "cons": "0.0%",
    "prev": "0.1%",
-   "actual": ""
+   "actual": "-0.2%"
   },
   {
    "time": "02:00",
@@ -55,7 +55,7 @@
    "title": "Goods Trade Balance",
    "cons": "-21.9B",
    "prev": "-21.0B",
-   "actual": ""
+   "actual": "-18.0B"
   },
   {
    "time": "02:00",
@@ -73,7 +73,7 @@
    "title": "Industrial Production m/m",
    "cons": "-0.1%",
    "prev": "0.2%",
-   "actual": ""
+   "actual": "0.8%"
   },
   {
    "time": "02:00",
@@ -82,7 +82,7 @@
    "title": "Manufacturing Production m/m",
    "cons": "-0.1%",
    "prev": "0.9%",
-   "actual": ""
+   "actual": "1.2%"
   },
   {
    "time": "02:30",
@@ -561,20 +561,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 94.42,
-    "pct": -0.7
+    "price": 94.23,
+    "pct": -0.9
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4161.0,
-    "pct": 1.29
+    "price": 4160.1,
+    "pct": 1.27
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.085,
-    "pct": -0.46
+    "price": 102.061,
+    "pct": -0.48
    },
    {
     "sym": "SPY",
@@ -595,9 +595,9 @@
     "pct": 10.48
    }
   ],
-  "as_of": "2026-10-15T05:57:05.444481+00:00",
+  "as_of": "2026-10-15T06:03:05.089889+00:00",
   "tone": "risk-off",
-  "age_min": 2.9955258166666665
+  "age_min": 1.9884833833333333
  },
  "stories": [
   {
@@ -822,7 +822,7 @@
   "note": "TreasuryDirect, announced offerings"
  },
  "book": {
-  "as_of_et": "01:05",
+  "as_of_et": "02:05",
   "since": "2026-07-13",
   "trading_days": 50,
   "green_days": 27,
