@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-16T05:30:04+00:00",
+ "generated_utc": "2026-10-16T05:35:04+00:00",
  "date_et": "2026-10-16",
  "build": "0d463cfe05",
  "tape": [
@@ -363,19 +363,19 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 95.85,
-    "pct": -0.67
+    "price": 95.87,
+    "pct": -0.65
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4193.8,
-    "pct": 0.57
+    "price": 4194.5,
+    "pct": 0.59
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.922,
+    "price": 101.927,
     "pct": -0.13
    },
    {
@@ -397,9 +397,9 @@
     "pct": -2.43
    }
   ],
-  "as_of": "2026-10-16T05:27:05.395023+00:00",
+  "as_of": "2026-10-16T05:33:05.199886+00:00",
   "tone": "risk-on",
-  "age_min": 2.994058566666667
+  "age_min": 1.9891995333333334
  },
  "stories": [
   {
@@ -414,13 +414,6 @@
    "title": "UPDATED: Chinese Carrier Strike Group Heads to South China Sea After Philippine Sea Drills - USNI News",
    "source": "USNI News",
    "published": "Wed, 14 Oct 2026 17:41:00 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Saudi diplomat says Iran is encouraging Houthi escalation of attacks on the kingdom - PBS",
-   "source": "PBS",
-   "published": "Thu, 15 Oct 2026 23:16:23 GMT",
    "read": "escalation"
   },
   {
@@ -440,6 +433,13 @@
   {
    "topic": "Iran / Hormuz",
    "title": "Another tanker ablaze near Hormuz after two ships sunk in attacks - Euronews.com",
+   "source": "Euronews.com",
+   "published": "Thu, 15 Oct 2026 16:00:57 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Another tanker catches fire near Hormuz after two cargo ships sunk in attacks - Euronews.com",
    "source": "Euronews.com",
    "published": "Thu, 15 Oct 2026 16:00:57 GMT",
    "read": "escalation"
