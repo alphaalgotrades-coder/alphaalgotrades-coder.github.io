@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-16T06:50:04+00:00",
+ "generated_utc": "2026-10-16T06:55:04+00:00",
  "date_et": "2026-10-16",
  "build": "0d463cfe05",
  "tape": [
@@ -369,14 +369,14 @@
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4196.9,
-    "pct": 0.64
+    "price": 4199.7,
+    "pct": 0.71
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.858,
-    "pct": -0.19
+    "price": 101.848,
+    "pct": -0.2
    },
    {
     "sym": "SPY",
@@ -397,9 +397,9 @@
     "pct": -2.43
    }
   ],
-  "as_of": "2026-10-16T06:48:05.624785+00:00",
+  "as_of": "2026-10-16T06:54:05.488324+00:00",
   "tone": "risk-on",
-  "age_min": 1.9794595333333334
+  "age_min": 0.9874215
  },
  "stories": [
   {
@@ -414,13 +414,6 @@
    "title": "UPDATED: Chinese Carrier Strike Group Heads to South China Sea After Philippine Sea Drills - USNI News",
    "source": "USNI News",
    "published": "Wed, 14 Oct 2026 17:41:00 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Ukraine resumes strikes on energy targets, saying Russia never stopped its attacks - PBS",
-   "source": "PBS",
-   "published": "Thu, 15 Oct 2026 22:55:24 GMT",
    "read": "escalation"
   },
   {
@@ -443,6 +436,13 @@
    "source": "Euronews.com",
    "published": "Thu, 15 Oct 2026 16:00:57 GMT",
    "read": "escalation"
+  },
+  {
+   "topic": "Taiwan / China",
+   "title": "Ministry on guard for PLA exercises - Taipei Times",
+   "source": "Taipei Times",
+   "published": "Thu, 15 Oct 2026 16:00:00 GMT",
+   "read": "unclear"
   }
  ],
  "ratings": [],
