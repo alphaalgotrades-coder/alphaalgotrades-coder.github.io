@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-16T21:30:05+00:00",
+ "generated_utc": "2026-10-16T21:35:04+00:00",
  "date_et": "2026-10-16",
  "build": "0d463cfe05",
  "tape": [
@@ -397,9 +397,9 @@
     "pct": 21.45
    }
   ],
-  "as_of": "2026-10-16T21:27:05.847438+00:00",
+  "as_of": "2026-10-16T21:33:05.790248+00:00",
   "tone": "risk-off",
-  "age_min": 2.9994374833333333
+  "age_min": 1.9786074999999999
  },
  "stories": [
   {
@@ -438,10 +438,10 @@
    "read": "unclear"
   },
   {
-   "topic": "Iran / Hormuz",
-   "title": "CENTCOM: Hormuz Is Under US And Partner Control, Not Iran's - Kurdistan24",
-   "source": "Kurdistan24",
-   "published": "Fri, 16 Oct 2026 20:07:37 GMT",
+   "topic": "Russia / Ukraine",
+   "title": "Pope Leo, pictured for first time since his surgery, calls Russia\u2019s Putin, seeks ceasefire in Ukraine - The Salt Lake Tribune",
+   "source": "The Salt Lake Tribune",
+   "published": "Fri, 16 Oct 2026 20:18:09 GMT",
    "read": "de-escalation"
   }
  ],
