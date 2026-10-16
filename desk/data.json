@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-16T03:50:03+00:00",
+ "generated_utc": "2026-10-16T03:55:03+00:00",
  "date_et": "2026-10-15",
  "build": "0d463cfe05",
  "tape": [
@@ -561,20 +561,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 95.87,
-    "pct": -0.65
+    "price": 95.82,
+    "pct": -0.7
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4185.7,
+    "price": 4185.4,
     "pct": 0.37
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.011,
-    "pct": -0.04
+    "price": 102.046,
+    "pct": -0.01
    },
    {
     "sym": "SPY",
@@ -595,9 +595,9 @@
     "pct": -2.43
    }
   ],
-  "as_of": "2026-10-16T03:48:06.192686+00:00",
+  "as_of": "2026-10-16T03:54:06.548295+00:00",
   "tone": "risk-on",
-  "age_min": 1.9638562
+  "age_min": 0.9597191833333334
  },
  "stories": [
   {
@@ -623,13 +623,6 @@
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Iran Escalates Attacks, Sinking Two Cargo Ships Near Strait of Hormuz: 5 outlets compared - NewsCord",
-   "source": "NewsCord",
-   "published": "Thu, 15 Oct 2026 23:26:12 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
    "title": "Saudi diplomat says Iran is encouraging Houthi escalation of attacks on the kingdom - PBS",
    "source": "PBS",
    "published": "Thu, 15 Oct 2026 23:16:23 GMT",
@@ -641,6 +634,13 @@
    "source": "PBS",
    "published": "Thu, 15 Oct 2026 22:55:24 GMT",
    "read": "escalation"
+  },
+  {
+   "topic": "Saudi / Gulf supply",
+   "title": "Saudi Arabia races to recover European oil market share after pipeline attacks - Baird Maritime",
+   "source": "Baird Maritime",
+   "published": "Thu, 15 Oct 2026 17:51:05 GMT",
+   "read": "unclear"
   }
  ],
  "ratings": [],
