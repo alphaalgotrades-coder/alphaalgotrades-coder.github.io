@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-16T04:50:04+00:00",
+ "generated_utc": "2026-10-16T04:55:03+00:00",
  "date_et": "2026-10-16",
  "build": "0d463cfe05",
  "tape": [
@@ -363,20 +363,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 95.86,
-    "pct": -0.66
+    "price": 95.9,
+    "pct": -0.62
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4196.9,
-    "pct": 0.64
+    "price": 4195.4,
+    "pct": 0.61
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.881,
-    "pct": -0.17
+    "price": 101.896,
+    "pct": -0.16
    },
    {
     "sym": "SPY",
@@ -397,9 +397,9 @@
     "pct": -2.43
    }
   ],
-  "as_of": "2026-10-16T04:48:04.611504+00:00",
+  "as_of": "2026-10-16T04:54:04.980074+00:00",
   "tone": "risk-on",
-  "age_min": 1.99349815
+  "age_min": 0.9844841833333333
  },
  "stories": [
   {
@@ -414,13 +414,6 @@
    "title": "UPDATED: Chinese Carrier Strike Group Heads to South China Sea After Philippine Sea Drills - USNI News",
    "source": "USNI News",
    "published": "Wed, 14 Oct 2026 17:41:00 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran attacks tankers, but the flow of oil through the Strait of Hormuz unexpectedly increased - \u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u041d\u043e\u0432\u0438\u043d\u0438 (\u0423\u041d\u041d)",
-   "source": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u041d\u043e\u0432\u0438\u043d\u0438 (\u0423\u041d\u041d)",
-   "published": "Thu, 15 Oct 2026 23:56:17 GMT",
    "read": "escalation"
   },
   {
@@ -443,6 +436,13 @@
    "source": "Baird Maritime",
    "published": "Thu, 15 Oct 2026 17:51:05 GMT",
    "read": "unclear"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Another tanker ablaze near Hormuz after two ships sunk in attacks - Euronews.com",
+   "source": "Euronews.com",
+   "published": "Thu, 15 Oct 2026 16:00:57 GMT",
+   "read": "escalation"
   }
  ],
  "ratings": [],
