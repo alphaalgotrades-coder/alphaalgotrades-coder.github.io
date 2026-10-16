@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-16T23:50:03+00:00",
+ "generated_utc": "2026-10-16T23:55:03+00:00",
  "date_et": "2026-10-16",
  "build": "0d463cfe05",
  "tape": [
@@ -397,9 +397,9 @@
     "pct": 21.45
    }
   ],
-  "as_of": "2026-10-16T23:48:06.299519+00:00",
+  "as_of": "2026-10-16T23:54:10.371445+00:00",
   "tone": "risk-off",
-  "age_min": 1.9576829666666666
+  "age_min": 0.88641935
  },
  "stories": [
   {
@@ -438,10 +438,10 @@
    "read": "escalation"
   },
   {
-   "topic": "Saudi / Gulf supply",
-   "title": "Aramco speeds post-attack recovery with drones, rapid teams, local supplies - CHOSUNBIZ - Chosunbiz",
-   "source": "Chosunbiz",
-   "published": "Fri, 16 Oct 2026 21:00:00 GMT",
+   "topic": "Russia / Ukraine",
+   "title": "Trump Is So Desperate to Lower Gas Prices That He\u2019s Throwing a Key U.S. Ally Under the Bus - Slate",
+   "source": "Slate",
+   "published": "Fri, 16 Oct 2026 21:13:00 GMT",
    "read": "unclear"
   }
  ],
