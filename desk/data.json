@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-16T02:50:03+00:00",
+ "generated_utc": "2026-10-16T02:55:04+00:00",
  "date_et": "2026-10-15",
  "build": "0d463cfe05",
  "tape": [
@@ -561,20 +561,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 95.76,
-    "pct": -0.77
+    "price": 95.84,
+    "pct": -0.68
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4185.5,
-    "pct": 0.37
+    "price": 4182.4,
+    "pct": 0.29
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.001,
-    "pct": -0.05
+    "price": 102.01,
+    "pct": -0.04
    },
    {
     "sym": "SPY",
@@ -595,9 +595,9 @@
     "pct": 7.79
    }
   ],
-  "as_of": "2026-10-16T02:48:05.603504+00:00",
+  "as_of": "2026-10-16T02:54:05.438831+00:00",
   "tone": "mixed",
-  "age_min": 1.9735440666666666
+  "age_min": 0.9787025833333334
  },
  "stories": [
   {
@@ -629,17 +629,17 @@
    "read": "unclear"
   },
   {
-   "topic": "Russia / Ukraine",
-   "title": "Trump\u2019s Deal With Russia Inflames War He Vowed to Swiftly End - The New York Times",
-   "source": "The New York Times",
-   "published": "Thu, 15 Oct 2026 23:26:44 GMT",
-   "read": "unclear"
-  },
-  {
    "topic": "Iran / Hormuz",
    "title": "Iran Escalates Attacks, Sinking Two Cargo Ships Near Strait of Hormuz: 5 outlets compared - NewsCord",
    "source": "NewsCord",
    "published": "Thu, 15 Oct 2026 23:26:12 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Saudi diplomat says Iran is encouraging Houthi escalation of attacks on the kingdom - PBS",
+   "source": "PBS",
+   "published": "Thu, 15 Oct 2026 23:16:23 GMT",
    "read": "escalation"
   }
  ],
