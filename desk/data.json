@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-16T01:10:03+00:00",
+ "generated_utc": "2026-10-16T01:15:04+00:00",
  "date_et": "2026-10-15",
  "build": "0d463cfe05",
  "tape": [
@@ -561,20 +561,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 95.94,
-    "pct": -0.58
+    "price": 95.8,
+    "pct": -0.73
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4176.9,
-    "pct": 0.16
+    "price": 4177.6,
+    "pct": 0.18
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.061,
-    "pct": 0.01
+    "price": 102.06,
+    "pct": 0.0
    },
    {
     "sym": "SPY",
@@ -595,9 +595,9 @@
     "pct": 7.79
    }
   ],
-  "as_of": "2026-10-16T01:09:05.797503+00:00",
+  "as_of": "2026-10-16T01:12:05.916437+00:00",
   "tone": "mixed",
-  "age_min": 0.9604811166666667
+  "age_min": 2.979613866666667
  },
  "stories": [
   {
@@ -612,6 +612,13 @@
    "title": "UPDATED: Chinese Carrier Strike Group Heads to South China Sea After Philippine Sea Drills - USNI News",
    "source": "USNI News",
    "published": "Wed, 14 Oct 2026 17:41:00 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iran attacks tankers, but the flow of oil through the Strait of Hormuz unexpectedly increased - \u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u041d\u043e\u0432\u0438\u043d\u0438 (\u0423\u041d\u041d)",
+   "source": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u041d\u043e\u0432\u0438\u043d\u0438 (\u0423\u041d\u041d)",
+   "published": "Thu, 15 Oct 2026 23:56:17 GMT",
    "read": "escalation"
   },
   {
@@ -634,13 +641,6 @@
    "source": "NewsCord",
    "published": "Thu, 15 Oct 2026 23:26:12 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Trump\u2019s \u201cDiesel Deal\u201d With Russia Was Just the Start - Council on Foreign Relations",
-   "source": "Council on Foreign Relations",
-   "published": "Thu, 15 Oct 2026 22:35:55 GMT",
-   "read": "unclear"
   }
  ],
  "ratings": [],
