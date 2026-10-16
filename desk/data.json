@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-16T09:00:04+00:00",
+ "generated_utc": "2026-10-16T09:05:03+00:00",
  "date_et": "2026-10-16",
  "build": "0d463cfe05",
  "tape": [
@@ -19,7 +19,7 @@
    "title": "Final Core CPI y/y",
    "cons": "2.5%",
    "prev": "2.5%",
-   "actual": ""
+   "actual": "2.5%"
   },
   {
    "time": "05:00",
@@ -28,7 +28,7 @@
    "title": "Final CPI y/y",
    "cons": "3.8%",
    "prev": "3.8%",
-   "actual": ""
+   "actual": "3.8%"
   },
   {
    "time": "05:00",
@@ -363,20 +363,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 95.43,
-    "pct": -1.11
+    "price": 95.44,
+    "pct": -1.1
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4204.9,
-    "pct": 0.83
+    "price": 4207.2,
+    "pct": 0.89
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.798,
-    "pct": -0.25
+    "price": 101.78,
+    "pct": -0.27
    },
    {
     "sym": "SPY",
@@ -393,13 +393,13 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 16.03,
-    "pct": -2.61
+    "price": 16.02,
+    "pct": -2.67
    }
   ],
-  "as_of": "2026-10-16T08:57:04.701349+00:00",
+  "as_of": "2026-10-16T09:03:04.896588+00:00",
   "tone": "risk-on",
-  "age_min": 2.9989193999999997
+  "age_min": 1.9850912666666667
  },
  "stories": [
   {
@@ -500,8 +500,8 @@
    "policy_since": "2026-09-16",
    "cells": {
     "Inflation": {
-     "v": "3.2%",
-     "date": "2026-09-17"
+     "v": "3.8%",
+     "date": "2026-10-16"
     },
     "Unemployment": {
      "v": "6.4%",
@@ -609,14 +609,14 @@
   "note": "TreasuryDirect, announced offerings"
  },
  "book": {
-  "as_of_et": "04:05",
+  "as_of_et": "05:05",
   "since": "2026-07-13",
   "trading_days": 51,
   "green_days": 27,
   "red_days": 2,
   "total_fills": 148,
   "realized": 8379.87,
-  "open_upnl": -3578.0,
+  "open_upnl": -3694.0,
   "legs": [
    {
     "id": "AS261016P00024500",
