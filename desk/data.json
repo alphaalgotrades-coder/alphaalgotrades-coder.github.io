@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-16T00:30:04+00:00",
+ "generated_utc": "2026-10-16T00:35:03+00:00",
  "date_et": "2026-10-15",
  "build": "0d463cfe05",
  "tape": [
@@ -561,19 +561,19 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 96.07,
-    "pct": -0.45
+    "price": 96.05,
+    "pct": -0.47
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4176.3,
-    "pct": 0.15
+    "price": 4175.7,
+    "pct": 0.13
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.077,
+    "price": 102.071,
     "pct": 0.02
    },
    {
@@ -595,9 +595,9 @@
     "pct": 7.79
    }
   ],
-  "as_of": "2026-10-16T00:27:06.363570+00:00",
+  "as_of": "2026-10-16T00:33:05.395168+00:00",
   "tone": "mixed",
-  "age_min": 2.9664129833333335
+  "age_min": 1.97614035
  },
  "stories": [
   {
@@ -616,30 +616,30 @@
   },
   {
    "topic": "Russia / Ukraine",
+   "title": "Trump\u2019s October Surprise Is a Pivot to Putin - The New Yorker",
+   "source": "The New Yorker",
+   "published": "Thu, 15 Oct 2026 23:45:50 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Russia / Ukraine",
    "title": "Trump\u2019s Deal With Russia Inflames War He Vowed to Swiftly End - The New York Times",
    "source": "The New York Times",
    "published": "Thu, 15 Oct 2026 23:26:44 GMT",
    "read": "unclear"
   },
   {
+   "topic": "Iran / Hormuz",
+   "title": "Iran Escalates Attacks, Sinking Two Cargo Ships Near Strait of Hormuz: 5 outlets compared - NewsCord",
+   "source": "NewsCord",
+   "published": "Thu, 15 Oct 2026 23:26:12 GMT",
+   "read": "escalation"
+  },
+  {
    "topic": "Russia / Ukraine",
    "title": "Trump\u2019s \u201cDiesel Deal\u201d With Russia Was Just the Start - Council on Foreign Relations",
    "source": "Council on Foreign Relations",
    "published": "Thu, 15 Oct 2026 22:35:55 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Opinion | The Democratic Hormuz Alternative - WSJ",
-   "source": "WSJ",
-   "published": "Thu, 15 Oct 2026 21:48:00 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Will more powerful bombs bring Iran closer to a deal with the US? - KOKH",
-   "source": "KOKH",
-   "published": "Thu, 15 Oct 2026 20:57:08 GMT",
    "read": "unclear"
   }
  ],
