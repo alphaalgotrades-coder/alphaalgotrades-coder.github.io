@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-16T21:50:04+00:00",
+ "generated_utc": "2026-10-16T21:55:04+00:00",
  "date_et": "2026-10-16",
  "build": "0d463cfe05",
  "tape": [
@@ -397,9 +397,9 @@
     "pct": 21.45
    }
   ],
-  "as_of": "2026-10-16T21:48:05.697097+00:00",
+  "as_of": "2026-10-16T21:54:05.594039+00:00",
   "tone": "risk-off",
-  "age_min": 1.9839272666666665
+  "age_min": 0.9844864999999999
  },
  "stories": [
   {
@@ -438,11 +438,11 @@
    "read": "unclear"
   },
   {
-   "topic": "Russia / Ukraine",
-   "title": "Pope Leo, pictured for first time since his surgery, calls Russia\u2019s Putin, seeks ceasefire in Ukraine - The Salt Lake Tribune",
-   "source": "The Salt Lake Tribune",
-   "published": "Fri, 16 Oct 2026 20:18:09 GMT",
-   "read": "de-escalation"
+   "topic": "Iran / Hormuz",
+   "title": "Iran cultivated Houthis for years before opening new war front, Yemeni insider says - Iran International",
+   "source": "Iran International",
+   "published": "Fri, 16 Oct 2026 20:43:26 GMT",
+   "read": "escalation"
   }
  ],
  "ratings": [],
