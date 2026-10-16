@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-16T03:10:03+00:00",
+ "generated_utc": "2026-10-16T03:15:04+00:00",
  "date_et": "2026-10-15",
  "build": "0d463cfe05",
  "tape": [
@@ -555,26 +555,26 @@
    {
     "sym": "MOVE",
     "name": "Bond-market volatility",
-    "price": 102.4871,
+    "price": 102.49,
     "pct": 3.46
    },
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 95.84,
-    "pct": -0.68
+    "price": 95.91,
+    "pct": -0.61
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4199.9,
-    "pct": 0.71
+    "price": 4195.4,
+    "pct": 0.61
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.99,
-    "pct": -0.06
+    "price": 102.001,
+    "pct": -0.05
    },
    {
     "sym": "SPY",
@@ -592,12 +592,12 @@
     "sym": "VIX",
     "name": "Volatility index",
     "price": 16.46,
-    "pct": 7.79
+    "pct": -2.43
    }
   ],
-  "as_of": "2026-10-16T03:09:05.666497+00:00",
-  "tone": "mixed",
-  "age_min": 0.97262995
+  "as_of": "2026-10-16T03:12:05.527875+00:00",
+  "tone": "risk-on",
+  "age_min": 2.97896045
  },
  "stories": [
   {
@@ -622,13 +622,6 @@
    "read": "escalation"
   },
   {
-   "topic": "Russia / Ukraine",
-   "title": "Trump\u2019s October Surprise Is a Pivot to Putin - The New Yorker",
-   "source": "The New Yorker",
-   "published": "Thu, 15 Oct 2026 23:45:50 GMT",
-   "read": "unclear"
-  },
-  {
    "topic": "Iran / Hormuz",
    "title": "Iran Escalates Attacks, Sinking Two Cargo Ships Near Strait of Hormuz: 5 outlets compared - NewsCord",
    "source": "NewsCord",
@@ -640,6 +633,13 @@
    "title": "Saudi diplomat says Iran is encouraging Houthi escalation of attacks on the kingdom - PBS",
    "source": "PBS",
    "published": "Thu, 15 Oct 2026 23:16:23 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Ukraine resumes strikes on energy targets, saying Russia never stopped its attacks - PBS",
+   "source": "PBS",
+   "published": "Thu, 15 Oct 2026 22:55:24 GMT",
    "read": "escalation"
   }
  ],
