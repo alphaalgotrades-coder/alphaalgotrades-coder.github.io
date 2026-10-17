@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-17T03:30:04+00:00",
+ "generated_utc": "2026-10-17T03:35:04+00:00",
  "date_et": "2026-10-16",
  "build": "0d463cfe05",
  "tape": [
@@ -397,9 +397,9 @@
     "pct": 21.45
    }
   ],
-  "as_of": "2026-10-17T03:27:04.997535+00:00",
+  "as_of": "2026-10-17T03:33:05.138366+00:00",
   "tone": "risk-off",
-  "age_min": 2.9986310833333336
+  "age_min": 1.9882397
  },
  "stories": [
   {
@@ -410,11 +410,11 @@
    "read": "unclear"
   },
   {
-   "topic": "Saudi / Gulf supply",
-   "title": "Saudi Arabia races to recover European oil market share after pipeline attacks - Baird Maritime",
-   "source": "Baird Maritime",
-   "published": "Thu, 15 Oct 2026 17:51:05 GMT",
-   "read": "unclear"
+   "topic": "Iran / Hormuz",
+   "title": "Iran says oil tanker hit naval mine in Strait of Hormuz - Anadolu Ajans\u0131",
+   "source": "Anadolu Ajans\u0131",
+   "published": "Sat, 17 Oct 2026 03:19:05 GMT",
+   "read": "escalation"
   },
   {
    "topic": "Taiwan / China",
@@ -438,10 +438,10 @@
    "read": "escalation"
   },
   {
-   "topic": "Russia / Ukraine",
-   "title": "Recovering from lung surgery, Pope Leo urges Putin to agree to ceasefire in Russian-held Ukraine city - Fox News",
-   "source": "Fox News",
-   "published": "Fri, 16 Oct 2026 23:10:21 GMT",
+   "topic": "Iran / Hormuz",
+   "title": "Shafaq News..US pauses strikes on Iranian missiles in Hormuz - \u0634\u0641\u0642 \u0646\u064a\u0648\u0632",
+   "source": "\u0634\u0641\u0642 \u0646\u064a\u0648\u0632",
+   "published": "Fri, 16 Oct 2026 22:51:30 GMT",
    "read": "de-escalation"
   }
  ],
