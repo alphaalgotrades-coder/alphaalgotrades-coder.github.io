@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-17T12:50:03+00:00",
+ "generated_utc": "2026-10-17T12:55:04+00:00",
  "date_et": "2026-10-17",
  "build": "0d463cfe05",
  "tape": [
@@ -307,9 +307,9 @@
     "pct": 21.45
    }
   ],
-  "as_of": "2026-10-17T12:48:05.285494+00:00",
+  "as_of": "2026-10-17T12:54:05.216016+00:00",
   "tone": "risk-off",
-  "age_min": 1.9809102666666665
+  "age_min": 0.9840314166666667
  },
  "stories": [
   {
@@ -320,10 +320,10 @@
    "read": "unclear"
   },
   {
-   "topic": "Saudi / Gulf supply",
-   "title": "Oil prices gain on attacks in Saudi Arabia, Iran's new tactics to target tankers - Reuters",
-   "source": "Reuters",
-   "published": "Wed, 14 Oct 2026 20:01:08 GMT",
+   "topic": "Iran / Hormuz",
+   "title": "Iran\u2019s IRGC says 2nd supertanker hits naval mine in Strait of Hormuz - Anadolu Ajans\u0131",
+   "source": "Anadolu Ajans\u0131",
+   "published": "Sat, 17 Oct 2026 12:41:09 GMT",
    "read": "escalation"
   },
   {
