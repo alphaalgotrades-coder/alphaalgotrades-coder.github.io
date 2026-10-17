@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-17T05:10:04+00:00",
+ "generated_utc": "2026-10-17T05:15:04+00:00",
  "date_et": "2026-10-17",
  "build": "0d463cfe05",
  "tape": [
@@ -307,9 +307,9 @@
     "pct": 21.45
    }
   ],
-  "as_of": "2026-10-17T05:09:05.152492+00:00",
+  "as_of": "2026-10-17T05:12:04.970577+00:00",
   "tone": "risk-off",
-  "age_min": 0.9842541833333333
+  "age_min": 2.9867101000000003
  },
  "stories": [
   {
@@ -317,6 +317,13 @@
    "title": "The Trump-Xi Summit Exposed the Problems in China-US Crisis Management - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
    "source": "The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
    "published": "Wed, 14 Oct 2026 23:13:46 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Trump's Russia diesel deal may offer Putin more than money \u2014 and spell trouble for Ukraine - CNBC",
+   "source": "CNBC",
+   "published": "Sat, 17 Oct 2026 05:00:01 GMT",
    "read": "unclear"
   },
   {
@@ -346,13 +353,6 @@
    "source": "Taiwan News",
    "published": "Sat, 17 Oct 2026 02:51:00 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Trump waives several Russia sanctions as new US law takes effect - BBC",
-   "source": "BBC",
-   "published": "Sat, 17 Oct 2026 02:48:36 GMT",
-   "read": "unclear"
   }
  ],
  "ratings": [],
