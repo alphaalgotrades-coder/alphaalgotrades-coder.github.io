@@ -1,106 +1,25 @@
 {
- "generated_utc": "2026-10-17T03:55:04+00:00",
- "date_et": "2026-10-16",
+ "generated_utc": "2026-10-17T04:00:04+00:00",
+ "date_et": "2026-10-17",
  "build": "0d463cfe05",
  "tape": [
   {
-   "time": "00:15",
-   "ccy": "CAD",
+   "time": "00:45",
+   "ccy": "EUR",
+   "impact": "Low",
+   "title": "German Buba President Nagel Speaks",
+   "cons": "",
+   "prev": "",
+   "actual": ""
+  },
+  {
+   "time": "02:45",
+   "ccy": "GBP",
    "impact": "Medi",
-   "title": "BOC Gov Macklem Speaks",
+   "title": "BOE Gov Bailey Speaks",
    "cons": "",
    "prev": "",
    "actual": ""
-  },
-  {
-   "time": "05:00",
-   "ccy": "EUR",
-   "impact": "Low",
-   "title": "Final Core CPI y/y",
-   "cons": "2.5%",
-   "prev": "2.5%",
-   "actual": "2.5%"
-  },
-  {
-   "time": "05:00",
-   "ccy": "EUR",
-   "impact": "Low",
-   "title": "Final CPI y/y",
-   "cons": "3.8%",
-   "prev": "3.8%",
-   "actual": "3.8%"
-  },
-  {
-   "time": "05:00",
-   "ccy": "EUR",
-   "impact": "Low",
-   "title": "Trade Balance",
-   "cons": "4.5B",
-   "prev": "5.0B",
-   "actual": "-6.8B"
-  },
-  {
-   "time": "06:00",
-   "ccy": "EUR",
-   "impact": "Low",
-   "title": "Italian Trade Balance",
-   "cons": "7.50B",
-   "prev": "8.24B",
-   "actual": "1.77B"
-  },
-  {
-   "time": "08:00",
-   "ccy": "CAD",
-   "impact": "Low",
-   "title": "Gov Council Member Alexopoulos Speaks",
-   "cons": "",
-   "prev": "",
-   "actual": ""
-  },
-  {
-   "time": "08:15",
-   "ccy": "CAD",
-   "impact": "Low",
-   "title": "Housing Starts",
-   "cons": "234K",
-   "prev": "229K",
-   "actual": "249K"
-  },
-  {
-   "time": "08:30",
-   "ccy": "CAD",
-   "impact": "Low",
-   "title": "Foreign Securities Purchases",
-   "cons": "23.59B",
-   "prev": "20.65B",
-   "actual": "-17.31B"
-  },
-  {
-   "time": "08:30",
-   "ccy": "USD",
-   "impact": "Low",
-   "title": "Import Prices m/m",
-   "cons": "0.9%",
-   "prev": "0.7%",
-   "actual": "1.1%"
-  },
-  {
-   "time": "09:15",
-   "ccy": "USD",
-   "impact": "Low",
-   "title": "Capacity Utilization Rate",
-   "cons": "76.5%",
-   "prev": "76.3%",
-   "actual": "76.9%"
-  },
-  {
-   "time": "09:15",
-   "ccy": "USD",
-   "impact": "Low",
-   "title": "Industrial Production m/m",
-   "cons": "0.4%",
-   "prev": "0.0%",
-   "actual": "0.7%"
   },
   {
    "time": "10:15",
@@ -112,22 +31,13 @@
    "actual": ""
   },
   {
-   "time": "14:05",
-   "ccy": "USD",
+   "time": "20:00",
+   "ccy": "AUD",
    "impact": "Low",
-   "title": "Federal Budget Balance",
-   "cons": "-34.7B",
-   "prev": "-166.8B",
-   "actual": "-26.9B"
-  },
-  {
-   "time": "16:00",
-   "ccy": "USD",
-   "impact": "Low",
-   "title": "TIC Long-Term Purchases",
-   "cons": "75.2B",
-   "prev": "-27.9B",
-   "actual": "279.2B"
+   "title": "RBA Assist Gov Kent Speaks",
+   "cons": "",
+   "prev": "",
+   "actual": ""
   }
  ],
  "rates": {
@@ -397,9 +307,9 @@
     "pct": 21.45
    }
   ],
-  "as_of": "2026-10-17T03:54:08.549059+00:00",
+  "as_of": "2026-10-17T03:57:05.196042+00:00",
   "tone": "risk-off",
-  "age_min": 0.9316551166666667
+  "age_min": 2.9990013666666666
  },
  "stories": [
   {
