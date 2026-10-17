@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-17T09:10:04+00:00",
+ "generated_utc": "2026-10-17T09:15:04+00:00",
  "date_et": "2026-10-17",
  "build": "0d463cfe05",
  "tape": [
@@ -307,9 +307,9 @@
     "pct": 21.45
    }
   ],
-  "as_of": "2026-10-17T09:09:05.956969+00:00",
+  "as_of": "2026-10-17T09:12:15.358251+00:00",
   "tone": "risk-off",
-  "age_min": 0.9699256666666667
+  "age_min": 2.8192186833333333
  },
  "stories": [
   {
@@ -327,6 +327,20 @@
    "read": "escalation"
   },
   {
+   "topic": "Iran / Hormuz",
+   "title": "Attacks on ships around Strait of Hormuz reach record highs, as Iran steps up strikes with little response from the U.S. - NBC News",
+   "source": "NBC News",
+   "published": "Sat, 17 Oct 2026 09:00:00 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Trump puts on hold new Russia sanctions he signed into law - Al Jazeera",
+   "source": "Al Jazeera",
+   "published": "Sat, 17 Oct 2026 07:38:39 GMT",
+   "read": "de-escalation"
+  },
+  {
    "topic": "Russia / Ukraine",
    "title": "Trump Signs Order Exempting Russia From Sanctions Law - The New York Times",
    "source": "The New York Times",
@@ -339,20 +353,6 @@
    "source": "i24NEWS",
    "published": "Sat, 17 Oct 2026 06:40:00 GMT",
    "read": "de-escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran's Guards Say Tanker Exploded after Hitting Mine in Strait of Hormuz - ASHARQ AL-AWSAT English",
-   "source": "ASHARQ AL-AWSAT English",
-   "published": "Sat, 17 Oct 2026 05:37:27 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "How the US-Iran war upended two critical global trade routes - CNN",
-   "source": "CNN",
-   "published": "Sat, 17 Oct 2026 05:00:45 GMT",
-   "read": "unclear"
   }
  ],
  "ratings": [],
