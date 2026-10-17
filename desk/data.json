@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-17T11:50:04+00:00",
+ "generated_utc": "2026-10-17T11:55:04+00:00",
  "date_et": "2026-10-17",
  "build": "0d463cfe05",
  "tape": [
@@ -307,9 +307,9 @@
     "pct": 21.45
    }
   ],
-  "as_of": "2026-10-17T11:48:04.662646+00:00",
+  "as_of": "2026-10-17T11:54:04.916969+00:00",
   "tone": "risk-off",
-  "age_min": 1.9951469833333335
+  "age_min": 0.9891332333333334
  },
  "stories": [
   {
@@ -342,16 +342,16 @@
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Hormuz ship attacks hit record high as Iran escalates strikes with little U.S. response - NBC News",
-   "source": "NBC News",
-   "published": "Sat, 17 Oct 2026 09:00:39 GMT",
+   "title": "There is a violent \u2018new normal\u2019 in the Strait of Hormuz. Here\u2019s why we should worry - The Independent",
+   "source": "The Independent",
+   "published": "Sat, 17 Oct 2026 09:10:00 GMT",
    "read": "escalation"
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Attacks on ships around Strait of Hormuz reach record highs, as Iran steps up strikes with little response from the U.S. - NBC News",
+   "title": "Hormuz ship attacks hit record high as Iran escalates strikes with little U.S. response - NBC News",
    "source": "NBC News",
-   "published": "Sat, 17 Oct 2026 09:00:00 GMT",
+   "published": "Sat, 17 Oct 2026 09:00:39 GMT",
    "read": "escalation"
   }
  ],
