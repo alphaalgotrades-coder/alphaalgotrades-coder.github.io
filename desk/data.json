@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-17T14:50:03+00:00",
+ "generated_utc": "2026-10-17T14:55:03+00:00",
  "date_et": "2026-10-17",
  "build": "0d463cfe05",
  "tape": [
@@ -307,11 +307,18 @@
     "pct": 21.45
    }
   ],
-  "as_of": "2026-10-17T14:48:05.904793+00:00",
+  "as_of": "2026-10-17T14:54:05.604754+00:00",
   "tone": "risk-off",
-  "age_min": 1.96381165
+  "age_min": 0.9713328166666667
  },
  "stories": [
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iran War Day 232: Attacks on Hormuz Shipping Surge as Iran Says Strait \u2018Closed\u2019 - The American Conservative",
+   "source": "The American Conservative",
+   "published": "Sat, 17 Oct 2026 14:30:00 GMT",
+   "read": "escalation"
+  },
   {
    "topic": "Iran / Hormuz",
    "title": "Iran says oil tankers struck by mines in Strait of Hormuz - The Jerusalem Post",
@@ -346,13 +353,6 @@
    "source": "The Guardian",
    "published": "Sat, 17 Oct 2026 13:29:00 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Putin Claims 6,500 Square Kilometres Seized in Ukraine. The Reality Is 45 Times Smaller - UNITED24 Media",
-   "source": "UNITED24 Media",
-   "published": "Sat, 17 Oct 2026 12:54:32 GMT",
-   "read": "escalation"
   }
  ],
  "ratings": [],
