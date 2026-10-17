@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-17T16:30:04+00:00",
+ "generated_utc": "2026-10-17T16:35:03+00:00",
  "date_et": "2026-10-17",
  "build": "0d463cfe05",
  "tape": [
@@ -307,9 +307,9 @@
     "pct": 21.45
    }
   ],
-  "as_of": "2026-10-17T16:27:05.794792+00:00",
+  "as_of": "2026-10-17T16:33:08.841791+00:00",
   "tone": "risk-off",
-  "age_min": 2.9740933833333334
+  "age_min": 1.9199882166666666
  },
  "stories": [
   {
@@ -348,11 +348,11 @@
    "read": "escalation"
   },
   {
-   "topic": "Taiwan / China",
-   "title": "How Taiwan\u2019s new AI satellite system aims to speed up PLA tracking - South China Morning Post",
-   "source": "South China Morning Post",
-   "published": "Sat, 17 Oct 2026 14:00:07 GMT",
-   "read": "escalation"
+   "topic": "Russia / Ukraine",
+   "title": "Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold - NPR",
+   "source": "NPR",
+   "published": "Sat, 17 Oct 2026 14:25:10 GMT",
+   "read": "unclear"
   }
  ],
  "ratings": [],
