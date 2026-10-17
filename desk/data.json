@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-17T09:30:04+00:00",
+ "generated_utc": "2026-10-17T09:35:04+00:00",
  "date_et": "2026-10-17",
  "build": "0d463cfe05",
  "tape": [
@@ -307,9 +307,9 @@
     "pct": 21.45
    }
   ],
-  "as_of": "2026-10-17T09:27:06.339571+00:00",
+  "as_of": "2026-10-17T09:33:05.909759+00:00",
   "tone": "risk-off",
-  "age_min": 2.977389983333333
+  "age_min": 1.9742170333333333
  },
  "stories": [
   {
@@ -324,6 +324,13 @@
    "title": "Oil prices gain on attacks in Saudi Arabia, Iran's new tactics to target tankers - Reuters",
    "source": "Reuters",
    "published": "Wed, 14 Oct 2026 20:01:08 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Saudi / Gulf supply",
+   "title": "Attacks on Saudi Arabia Intensify: Concerns Grow over Expanding Impact on Crude Oil Market - The Japan News",
+   "source": "The Japan News",
+   "published": "Sat, 17 Oct 2026 09:13:00 GMT",
    "read": "escalation"
   },
   {
@@ -345,13 +352,6 @@
    "title": "Trump Signs Order Exempting Russia From Sanctions Law - The New York Times",
    "source": "The New York Times",
    "published": "Sat, 17 Oct 2026 07:10:00 GMT",
-   "read": "de-escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Trump Waives New Russia Sanctions As Rift With Ukraine Deepens - i24NEWS",
-   "source": "i24NEWS",
-   "published": "Sat, 17 Oct 2026 06:40:00 GMT",
    "read": "de-escalation"
   }
  ],
