@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-17T19:50:03+00:00",
+ "generated_utc": "2026-10-17T19:55:03+00:00",
  "date_et": "2026-10-17",
  "build": "0d463cfe05",
  "tape": [
@@ -307,9 +307,9 @@
     "pct": 21.45
    }
   ],
-  "as_of": "2026-10-17T19:48:04.768475+00:00",
+  "as_of": "2026-10-17T19:54:04.879062+00:00",
   "tone": "risk-off",
-  "age_min": 1.9852663166666666
+  "age_min": 0.9811480833333334
  },
  "stories": [
   {
@@ -317,6 +317,13 @@
    "title": "Saudi Aramco\u2019s New China Refinery Venture Gets First Crude Cargo - Bloomberg.com",
    "source": "Bloomberg.com",
    "published": "Wed, 14 Oct 2026 03:13:00 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Trump Offers Putin Economic Relief in Hopes That Russia Will Return the Favor - The New York Times",
+   "source": "The New York Times",
+   "published": "Sat, 17 Oct 2026 19:17:58 GMT",
    "read": "unclear"
   },
   {
@@ -346,13 +353,6 @@
    "source": "PBS",
    "published": "Sat, 17 Oct 2026 15:57:10 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Trump suspends Russia sanctions as deadly attacks plunge Ukraine into darkness - Vatican News",
-   "source": "Vatican News",
-   "published": "Sat, 17 Oct 2026 15:31:52 GMT",
-   "read": "escalation"
   }
  ],
  "ratings": [],
