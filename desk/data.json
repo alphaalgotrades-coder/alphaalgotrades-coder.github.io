@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-17T04:30:03+00:00",
+ "generated_utc": "2026-10-17T04:35:03+00:00",
  "date_et": "2026-10-17",
  "build": "0d463cfe05",
  "tape": [
@@ -307,9 +307,9 @@
     "pct": 21.45
    }
   ],
-  "as_of": "2026-10-17T04:27:05.028124+00:00",
+  "as_of": "2026-10-17T04:33:04.963443+00:00",
   "tone": "risk-off",
-  "age_min": 2.9818781666666667
+  "age_min": 1.9847705333333332
  },
  "stories": [
   {
@@ -335,17 +335,17 @@
   },
   {
    "topic": "Russia / Ukraine",
+   "title": "Trump waives several Russia sanctions as new US law takes effect - BBC",
+   "source": "BBC",
+   "published": "Sat, 17 Oct 2026 02:48:36 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Russia / Ukraine",
    "title": "Trump Signs Order Exempting Russia From Sanctions Legislation - The New York Times",
    "source": "The New York Times",
    "published": "Sat, 17 Oct 2026 01:55:30 GMT",
    "read": "de-escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Ukraine war briefing: Russia building non-negotiable \u2018security zone\u2019 inside Ukrainian border, Putin declares - The Guardian",
-   "source": "The Guardian",
-   "published": "Sat, 17 Oct 2026 01:15:00 GMT",
-   "read": "escalation"
   },
   {
    "topic": "Iran / Hormuz",
