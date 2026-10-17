@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-17T19:10:03+00:00",
+ "generated_utc": "2026-10-17T19:15:03+00:00",
  "date_et": "2026-10-17",
  "build": "0d463cfe05",
  "tape": [
@@ -307,9 +307,9 @@
     "pct": 21.45
    }
   ],
-  "as_of": "2026-10-17T19:09:04.663522+00:00",
+  "as_of": "2026-10-17T19:12:04.870901+00:00",
   "tone": "risk-off",
-  "age_min": 0.9865302833333334
+  "age_min": 2.9868667833333333
  },
  "stories": [
   {
@@ -318,6 +318,13 @@
    "source": "Bloomberg.com",
    "published": "Wed, 14 Oct 2026 03:13:00 GMT",
    "read": "unclear"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Ship attacks in Strait of Hormuz hit record high since Iran war began - New York Post",
+   "source": "New York Post",
+   "published": "Sat, 17 Oct 2026 18:42:00 GMT",
+   "read": "escalation"
   },
   {
    "topic": "Russia / Ukraine",
@@ -345,13 +352,6 @@
    "title": "Trump suspends Russia sanctions as deadly attacks plunge Ukraine into darkness - Vatican News",
    "source": "Vatican News",
    "published": "Sat, 17 Oct 2026 15:31:52 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran\u2019s Guards Say Two Tankers Hit Mines In Strait Of Hormuz - gCaptain",
-   "source": "gCaptain",
-   "published": "Sat, 17 Oct 2026 14:44:46 GMT",
    "read": "escalation"
   }
  ],
