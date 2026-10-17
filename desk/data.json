@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-17T08:10:03+00:00",
+ "generated_utc": "2026-10-17T08:15:04+00:00",
  "date_et": "2026-10-17",
  "build": "0d463cfe05",
  "tape": [
@@ -307,9 +307,9 @@
     "pct": 21.45
    }
   ],
-  "as_of": "2026-10-17T08:09:06.168602+00:00",
+  "as_of": "2026-10-17T08:12:05.801156+00:00",
   "tone": "risk-off",
-  "age_min": 0.9611478333333333
+  "age_min": 2.979642216666667
  },
  "stories": [
   {
@@ -327,6 +327,20 @@
    "read": "escalation"
   },
   {
+   "topic": "Russia / Ukraine",
+   "title": "Trump Signs Order Exempting Russia From Sanctions Law - The New York Times",
+   "source": "The New York Times",
+   "published": "Sat, 17 Oct 2026 07:10:00 GMT",
+   "read": "de-escalation"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Trump Waives New Russia Sanctions As Rift With Ukraine Deepens - i24NEWS",
+   "source": "i24NEWS",
+   "published": "Sat, 17 Oct 2026 06:40:00 GMT",
+   "read": "de-escalation"
+  },
+  {
    "topic": "Iran / Hormuz",
    "title": "Iran's Guards Say Tanker Exploded after Hitting Mine in Strait of Hormuz - ASHARQ AL-AWSAT English",
    "source": "ASHARQ AL-AWSAT English",
@@ -339,20 +353,6 @@
    "source": "CNN",
    "published": "Sat, 17 Oct 2026 05:00:45 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Trump's Russia diesel deal may offer Putin more than money \u2014 and spell trouble for Ukraine - CNBC",
-   "source": "CNBC",
-   "published": "Sat, 17 Oct 2026 05:00:01 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "US says Iran barred from maritime trade as pressure campaign targets oil revenue, military funding - Anadolu Ajans\u0131",
-   "source": "Anadolu Ajans\u0131",
-   "published": "Sat, 17 Oct 2026 04:41:24 GMT",
-   "read": "escalation"
   }
  ],
  "ratings": [],
