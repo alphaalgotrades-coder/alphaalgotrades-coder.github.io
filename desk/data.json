@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-17T20:50:03+00:00",
+ "generated_utc": "2026-10-17T20:55:03+00:00",
  "date_et": "2026-10-17",
  "build": "0d463cfe05",
  "tape": [
@@ -307,9 +307,9 @@
     "pct": 21.45
    }
   ],
-  "as_of": "2026-10-17T20:48:04.982262+00:00",
+  "as_of": "2026-10-17T20:54:04.881341+00:00",
   "tone": "risk-off",
-  "age_min": 1.9786701166666667
+  "age_min": 0.9870085333333333
  },
  "stories": [
   {
@@ -317,6 +317,20 @@
    "title": "Saudi Aramco\u2019s New China Refinery Venture Gets First Crude Cargo - Bloomberg.com",
    "source": "Bloomberg.com",
    "published": "Wed, 14 Oct 2026 03:13:00 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Trump\u2019s \u2018Diesel Deal\u2019 With Russia Was Just the Start - Council on Foreign Relations",
+   "source": "Council on Foreign Relations",
+   "published": "Thu, 15 Oct 2026 22:35:55 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Taiwan / China",
+   "title": "Taiwan turns to AI to speed up early warning of Chinese military activity - Interesting Engineering",
+   "source": "Interesting Engineering",
+   "published": "Sat, 17 Oct 2026 20:36:00 GMT",
    "read": "unclear"
   },
   {
@@ -339,20 +353,6 @@
    "source": "Middle East Eye",
    "published": "Sat, 17 Oct 2026 18:38:00 GMT",
    "read": "de-escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "How Trump is helping Putin - DW.com",
-   "source": "DW.com",
-   "published": "Sat, 17 Oct 2026 17:48:01 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Trump's decision to waive Russian sanctions outrages Congress, but no quick counter seen - PBS",
-   "source": "PBS",
-   "published": "Sat, 17 Oct 2026 15:57:10 GMT",
-   "read": "unclear"
   }
  ],
  "ratings": [],
