@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-17T00:30:04+00:00",
+ "generated_utc": "2026-10-17T00:35:04+00:00",
  "date_et": "2026-10-16",
  "build": "0d463cfe05",
  "tape": [
@@ -397,9 +397,9 @@
     "pct": 21.45
    }
   ],
-  "as_of": "2026-10-17T00:27:06.416176+00:00",
+  "as_of": "2026-10-17T00:33:06.337616+00:00",
   "tone": "risk-off",
-  "age_min": 2.9695534666666665
+  "age_min": 1.9682225833333333
  },
  "stories": [
   {
@@ -424,6 +424,13 @@
    "read": "unclear"
   },
   {
+   "topic": "Russia / Ukraine",
+   "title": "Putin Announces Russia Building 660-Kilometer Security Zone Inside Ukraine, Rejects Talks With Kyiv - NewsCord",
+   "source": "NewsCord",
+   "published": "Fri, 16 Oct 2026 23:20:49 GMT",
+   "read": "escalation"
+  },
+  {
    "topic": "Iran / Hormuz",
    "title": "Shafaq News..US pauses strikes on Iranian missiles in Hormuz - \u0634\u0641\u0642 \u0646\u064a\u0648\u0632",
    "source": "\u0634\u0641\u0642 \u0646\u064a\u0648\u0632",
@@ -436,13 +443,6 @@
    "source": "Kyiv Post",
    "published": "Fri, 16 Oct 2026 22:11:15 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Trump Is So Desperate to Lower Gas Prices That He\u2019s Throwing a Key U.S. Ally Under the Bus - Slate",
-   "source": "Slate",
-   "published": "Fri, 16 Oct 2026 21:13:00 GMT",
-   "read": "unclear"
   }
  ],
  "ratings": [],
