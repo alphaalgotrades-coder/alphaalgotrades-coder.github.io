@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-17T15:50:03+00:00",
+ "generated_utc": "2026-10-17T15:55:03+00:00",
  "date_et": "2026-10-17",
  "build": "0d463cfe05",
  "tape": [
@@ -307,11 +307,18 @@
     "pct": 21.45
    }
   ],
-  "as_of": "2026-10-17T15:48:05.611371+00:00",
+  "as_of": "2026-10-17T15:54:05.815226+00:00",
   "tone": "risk-off",
-  "age_min": 1.9681043666666667
+  "age_min": 0.9656923333333334
  },
  "stories": [
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iran Says Mines Hit Two Tankers in Strait of Hormuz, Escalating Maritime Security Fears - Modern Diplomacy",
+   "source": "Modern Diplomacy",
+   "published": "Sat, 17 Oct 2026 15:21:00 GMT",
+   "read": "escalation"
+  },
   {
    "topic": "Iran / Hormuz",
    "title": "Iran War Day 232: Attacks on Hormuz Shipping Surge as Iran Says Strait \u2018Closed\u2019 - The American Conservative",
@@ -335,24 +342,17 @@
   },
   {
    "topic": "Russia / Ukraine",
+   "title": "Zelenskyy: neither US nor Russia has confirmed possible meeting with Putin in Miami - \u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u043f\u0440\u0430\u0432\u0434\u0430",
+   "source": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u043f\u0440\u0430\u0432\u0434\u0430",
+   "published": "Sat, 17 Oct 2026 13:57:00 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Russia / Ukraine",
    "title": "Trump\u2019s pause on Russia sanctions will intensify war in Ukraine, Zelenskyy warns - The Guardian",
    "source": "The Guardian",
    "published": "Sat, 17 Oct 2026 13:40:00 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran's Guards say two tankers hit mines in Strait of Hormuz - Reuters",
-   "source": "Reuters",
-   "published": "Sat, 17 Oct 2026 13:36:11 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Zelenskyy says Trump\u2019s lifting of sanctions on Russia will intensify war in Ukraine - The Guardian",
-   "source": "The Guardian",
-   "published": "Sat, 17 Oct 2026 13:29:00 GMT",
-   "read": "unclear"
   }
  ],
  "ratings": [],
