@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-17T05:30:04+00:00",
+ "generated_utc": "2026-10-17T05:35:04+00:00",
  "date_et": "2026-10-17",
  "build": "0d463cfe05",
  "tape": [
@@ -307,9 +307,9 @@
     "pct": 21.45
    }
   ],
-  "as_of": "2026-10-17T05:27:04.972986+00:00",
+  "as_of": "2026-10-17T05:33:08.230184+00:00",
   "tone": "risk-off",
-  "age_min": 2.9913682833333337
+  "age_min": 1.9327700666666667
  },
  "stories": [
   {
@@ -317,6 +317,20 @@
    "title": "The Trump-Xi Summit Exposed the Problems in China-US Crisis Management - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
    "source": "The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
    "published": "Wed, 14 Oct 2026 23:13:46 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Saudi / Gulf supply",
+   "title": "Oil prices gain on attacks in Saudi Arabia, Iran's new tactics to target tankers - Reuters",
+   "source": "Reuters",
+   "published": "Wed, 14 Oct 2026 20:01:08 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "How the US-Iran war upended two critical global trade routes - CNN",
+   "source": "CNN",
+   "published": "Sat, 17 Oct 2026 05:00:45 GMT",
    "read": "unclear"
   },
   {
@@ -338,20 +352,6 @@
    "title": "Iran says supertanker hit mine in Strait of Hormuz - Yahoo",
    "source": "Yahoo",
    "published": "Sat, 17 Oct 2026 04:18:00 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran says oil tanker hit naval mine in Strait of Hormuz - Anadolu Ajans\u0131",
-   "source": "Anadolu Ajans\u0131",
-   "published": "Sat, 17 Oct 2026 03:19:05 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Taiwan / China",
-   "title": "Taiwan tracks 9 Chinese military aircraft and 14 ships - Taiwan News",
-   "source": "Taiwan News",
-   "published": "Sat, 17 Oct 2026 02:51:00 GMT",
    "read": "escalation"
   }
  ],
