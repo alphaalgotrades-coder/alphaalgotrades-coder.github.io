@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-17T22:50:03+00:00",
+ "generated_utc": "2026-10-17T22:55:03+00:00",
  "date_et": "2026-10-17",
  "build": "0d463cfe05",
  "tape": [
@@ -307,9 +307,9 @@
     "pct": 21.45
    }
   ],
-  "as_of": "2026-10-17T22:48:04.926424+00:00",
+  "as_of": "2026-10-17T22:54:04.838067+00:00",
   "tone": "risk-off",
-  "age_min": 1.9826442499999999
+  "age_min": 0.9871516333333333
  },
  "stories": [
   {
@@ -334,6 +334,13 @@
    "read": "unclear"
   },
   {
+   "topic": "Russia / Ukraine",
+   "title": "Just days after his controversial diesel deal, US President Donald Trump has blocked several sanctions against Russia, shortly before they were set to take effect. The move comes a",
+   "source": "Facebook",
+   "published": "Sat, 17 Oct 2026 21:45:16 GMT",
+   "read": "de-escalation"
+  },
+  {
    "topic": "Taiwan / China",
    "title": "Taiwan turns to AI to speed up early warning of Chinese military activity - Interesting Engineering",
    "source": "Interesting Engineering",
@@ -346,13 +353,6 @@
    "source": "The Jerusalem Post",
    "published": "Sat, 17 Oct 2026 19:27:05 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Ship attacks in Strait of Hormuz hit record high since Iran war began - New York Post",
-   "source": "New York Post",
-   "published": "Sat, 17 Oct 2026 18:42:00 GMT",
-   "read": "escalation"
   }
  ],
  "ratings": [],
