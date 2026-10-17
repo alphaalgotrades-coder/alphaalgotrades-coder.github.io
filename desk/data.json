@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-17T21:10:03+00:00",
+ "generated_utc": "2026-10-17T21:15:03+00:00",
  "date_et": "2026-10-17",
  "build": "0d463cfe05",
  "tape": [
@@ -307,9 +307,9 @@
     "pct": 21.45
    }
   ],
-  "as_of": "2026-10-17T21:09:05.067311+00:00",
+  "as_of": "2026-10-17T21:12:05.115888+00:00",
   "tone": "risk-off",
-  "age_min": 0.9775985666666667
+  "age_min": 2.9833754666666668
  },
  "stories": [
   {
@@ -324,6 +324,13 @@
    "title": "Trump\u2019s \u2018Diesel Deal\u2019 With Russia Was Just the Start - Council on Foreign Relations",
    "source": "Council on Foreign Relations",
    "published": "Thu, 15 Oct 2026 22:35:55 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Russia-Ukraine War | Map, Casualties, Timeline, Death Toll, Causes, &amp; Significance - Britannica",
+   "source": "Britannica",
+   "published": "Thu, 15 Oct 2026 05:00:00 GMT",
    "read": "unclear"
   },
   {
@@ -346,13 +353,6 @@
    "source": "New York Post",
    "published": "Sat, 17 Oct 2026 18:42:00 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran\u2019s attacks on Hormuz shipping 'unsuccessful', Centcom says - Middle East Eye",
-   "source": "Middle East Eye",
-   "published": "Sat, 17 Oct 2026 18:38:00 GMT",
-   "read": "de-escalation"
   }
  ],
  "ratings": [],
