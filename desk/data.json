@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-17T12:30:04+00:00",
+ "generated_utc": "2026-10-17T12:35:04+00:00",
  "date_et": "2026-10-17",
  "build": "0d463cfe05",
  "tape": [
@@ -307,9 +307,9 @@
     "pct": 21.45
    }
   ],
-  "as_of": "2026-10-17T12:27:05.526792+00:00",
+  "as_of": "2026-10-17T12:33:05.490610+00:00",
   "tone": "risk-off",
-  "age_min": 2.9919586333333332
+  "age_min": 1.9791955166666668
  },
  "stories": [
   {
@@ -324,6 +324,13 @@
    "title": "Oil prices gain on attacks in Saudi Arabia, Iran's new tactics to target tankers - Reuters",
    "source": "Reuters",
    "published": "Wed, 14 Oct 2026 20:01:08 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "US and Iran both claim control of Strait of Hormuz amid attacks on vessels - Al Jazeera",
+   "source": "Al Jazeera",
+   "published": "Sat, 17 Oct 2026 12:23:53 GMT",
    "read": "escalation"
   },
   {
@@ -345,13 +352,6 @@
    "title": "Super tanker ablaze after striking mine in Strait of Hormuz, IRGC says - Euronews.com",
    "source": "Euronews.com",
    "published": "Sat, 17 Oct 2026 09:22:41 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Saudi / Gulf supply",
-   "title": "Attacks on Saudi Arabia Intensify: Concerns Grow over Expanding Impact on Crude Oil Market - The Japan News",
-   "source": "The Japan News",
-   "published": "Sat, 17 Oct 2026 09:13:00 GMT",
    "read": "escalation"
   }
  ],
