@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-17T16:10:03+00:00",
+ "generated_utc": "2026-10-17T16:15:03+00:00",
  "date_et": "2026-10-17",
  "build": "0d463cfe05",
  "tape": [
@@ -307,11 +307,32 @@
     "pct": 21.45
    }
   ],
-  "as_of": "2026-10-17T16:09:05.949476+00:00",
+  "as_of": "2026-10-17T16:12:05.836853+00:00",
   "tone": "risk-off",
-  "age_min": 0.9643529999999999
+  "age_min": 2.9659518666666664
  },
  "stories": [
+  {
+   "topic": "Saudi / Gulf supply",
+   "title": "Saudi Aramco\u2019s New China Refinery Venture Gets First Crude Cargo - Bloomberg.com",
+   "source": "Bloomberg.com",
+   "published": "Wed, 14 Oct 2026 03:13:00 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "'Vast majority' of Iran's attempted attacks on Strait of Hormuz are unsuccessful, CENTCOM spokesman says - Fox News",
+   "source": "Fox News",
+   "published": "Sat, 17 Oct 2026 15:46:37 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Trump suspends Russia sanctions as deadly attacks plunge Ukraine into darkness - Vatican News",
+   "source": "Vatican News",
+   "published": "Sat, 17 Oct 2026 15:31:52 GMT",
+   "read": "escalation"
+  },
   {
    "topic": "Iran / Hormuz",
    "title": "Iran Says Mines Hit Two Tankers in Strait of Hormuz, Escalating Maritime Security Fears - Modern Diplomacy",
@@ -327,31 +348,10 @@
    "read": "escalation"
   },
   {
-   "topic": "Iran / Hormuz",
-   "title": "Iran says oil tankers struck by mines in Strait of Hormuz - The Jerusalem Post",
-   "source": "The Jerusalem Post",
-   "published": "Sat, 17 Oct 2026 14:15:24 GMT",
-   "read": "escalation"
-  },
-  {
    "topic": "Taiwan / China",
    "title": "How Taiwan\u2019s new AI satellite system aims to speed up PLA tracking - South China Morning Post",
    "source": "South China Morning Post",
    "published": "Sat, 17 Oct 2026 14:00:07 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Zelenskyy: neither US nor Russia has confirmed possible meeting with Putin in Miami - \u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u043f\u0440\u0430\u0432\u0434\u0430",
-   "source": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u043f\u0440\u0430\u0432\u0434\u0430",
-   "published": "Sat, 17 Oct 2026 13:57:00 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Trump\u2019s pause on Russia sanctions will intensify war in Ukraine, Zelenskyy warns - The Guardian",
-   "source": "The Guardian",
-   "published": "Sat, 17 Oct 2026 13:40:00 GMT",
    "read": "escalation"
   }
  ],
