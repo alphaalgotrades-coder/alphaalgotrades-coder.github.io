@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-17T13:50:03+00:00",
+ "generated_utc": "2026-10-17T13:55:03+00:00",
  "date_et": "2026-10-17",
  "build": "0d463cfe05",
  "tape": [
@@ -307,9 +307,9 @@
     "pct": 21.45
    }
   ],
-  "as_of": "2026-10-17T13:48:05.204728+00:00",
+  "as_of": "2026-10-17T13:54:08.489143+00:00",
   "tone": "risk-off",
-  "age_min": 1.971808
+  "age_min": 0.9152404666666667
  },
  "stories": [
   {
@@ -317,6 +317,20 @@
    "title": "The Trump-Xi Summit Exposed the Problems in China-US Crisis Management - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
    "source": "The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
    "published": "Wed, 14 Oct 2026 23:13:46 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iran's Guards say two tankers hit mines in Strait of Hormuz - Reuters",
+   "source": "Reuters",
+   "published": "Sat, 17 Oct 2026 13:36:11 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Zelenskyy says Trump\u2019s lifting of sanctions on Russia will intensify war in Ukraine - The Guardian",
+   "source": "The Guardian",
+   "published": "Sat, 17 Oct 2026 13:29:00 GMT",
    "read": "unclear"
   },
   {
@@ -339,20 +353,6 @@
    "source": "Anadolu Ajans\u0131",
    "published": "Sat, 17 Oct 2026 12:41:09 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "US and Iran both claim control of Strait of Hormuz amid attacks on vessels - Al Jazeera",
-   "source": "Al Jazeera",
-   "published": "Sat, 17 Oct 2026 12:23:53 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Zelensky says US move to waive sanctions 'rewards' Russia's Putin - RFI",
-   "source": "RFI",
-   "published": "Sat, 17 Oct 2026 11:11:39 GMT",
-   "read": "unclear"
   }
  ],
  "ratings": [],
