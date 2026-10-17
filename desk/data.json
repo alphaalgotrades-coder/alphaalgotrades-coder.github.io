@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-17T01:30:04+00:00",
+ "generated_utc": "2026-10-17T01:35:04+00:00",
  "date_et": "2026-10-16",
  "build": "0d463cfe05",
  "tape": [
@@ -397,9 +397,9 @@
     "pct": 21.45
    }
   ],
-  "as_of": "2026-10-17T01:27:06.453557+00:00",
+  "as_of": "2026-10-17T01:33:06.188591+00:00",
   "tone": "risk-off",
-  "age_min": 2.97309355
+  "age_min": 1.9723606666666667
  },
  "stories": [
   {
@@ -425,24 +425,24 @@
   },
   {
    "topic": "Russia / Ukraine",
+   "title": "Ukraine war briefing: Russia building non-negotiable \u2018security zone\u2019 inside Ukrainian border, Putin declares - The Guardian",
+   "source": "The Guardian",
+   "published": "Sat, 17 Oct 2026 01:15:00 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Russia / Ukraine",
    "title": "Putin Announces Russia Building 660-Kilometer Security Zone Inside Ukraine, Rejects Talks With Kyiv - NewsCord",
    "source": "NewsCord",
    "published": "Fri, 16 Oct 2026 23:20:49 GMT",
    "read": "escalation"
   },
   {
-   "topic": "Iran / Hormuz",
-   "title": "Shafaq News..US pauses strikes on Iranian missiles in Hormuz - \u0634\u0641\u0642 \u0646\u064a\u0648\u0632",
-   "source": "\u0634\u0641\u0642 \u0646\u064a\u0648\u0632",
-   "published": "Fri, 16 Oct 2026 22:51:30 GMT",
-   "read": "de-escalation"
-  },
-  {
    "topic": "Russia / Ukraine",
-   "title": "Gerasimov Tells Putin Russian Forces Are Targeting Ukraine\u2019s Bridges, Railways, Data Centers - Kyiv Post",
-   "source": "Kyiv Post",
-   "published": "Fri, 16 Oct 2026 22:11:15 GMT",
-   "read": "escalation"
+   "title": "Recovering from lung surgery, Pope Leo urges Putin to agree to ceasefire in Russian-held Ukraine city - Fox News",
+   "source": "Fox News",
+   "published": "Fri, 16 Oct 2026 23:10:21 GMT",
+   "read": "de-escalation"
   }
  ],
  "ratings": [],
