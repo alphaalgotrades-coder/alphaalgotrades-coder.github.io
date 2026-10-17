@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-17T10:10:04+00:00",
+ "generated_utc": "2026-10-17T10:15:04+00:00",
  "date_et": "2026-10-17",
  "build": "0d463cfe05",
  "tape": [
@@ -307,9 +307,9 @@
     "pct": 21.45
    }
   ],
-  "as_of": "2026-10-17T10:09:15.704205+00:00",
+  "as_of": "2026-10-17T10:12:06.217854+00:00",
   "tone": "risk-off",
-  "age_min": 0.8084367
+  "age_min": 2.9747855166666666
  },
  "stories": [
   {
@@ -327,6 +327,13 @@
    "read": "escalation"
   },
   {
+   "topic": "Iran / Hormuz",
+   "title": "Super tanker ablaze after striking mine in Strait of Hormuz, IRGC says - Euronews.com",
+   "source": "Euronews.com",
+   "published": "Sat, 17 Oct 2026 09:22:41 GMT",
+   "read": "escalation"
+  },
+  {
    "topic": "Saudi / Gulf supply",
    "title": "Attacks on Saudi Arabia Intensify: Concerns Grow over Expanding Impact on Crude Oil Market - The Japan News",
    "source": "The Japan News",
@@ -335,24 +342,17 @@
   },
   {
    "topic": "Iran / Hormuz",
+   "title": "Hormuz ship attacks hit record high as Iran escalates strikes with little U.S. response - NBC News",
+   "source": "NBC News",
+   "published": "Sat, 17 Oct 2026 09:00:39 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
    "title": "Attacks on ships around Strait of Hormuz reach record highs, as Iran steps up strikes with little response from the U.S. - NBC News",
    "source": "NBC News",
    "published": "Sat, 17 Oct 2026 09:00:00 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Trump puts on hold new Russia sanctions he signed into law - Al Jazeera",
-   "source": "Al Jazeera",
-   "published": "Sat, 17 Oct 2026 07:38:39 GMT",
-   "read": "de-escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Trump Signs Order Exempting Russia From Sanctions Law - The New York Times",
-   "source": "The New York Times",
-   "published": "Sat, 17 Oct 2026 07:10:00 GMT",
-   "read": "de-escalation"
   }
  ],
  "ratings": [],
