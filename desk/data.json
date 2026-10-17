@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-17T14:30:03+00:00",
+ "generated_utc": "2026-10-17T14:35:03+00:00",
  "date_et": "2026-10-17",
  "build": "0d463cfe05",
  "tape": [
@@ -307,16 +307,30 @@
     "pct": 21.45
    }
   ],
-  "as_of": "2026-10-17T14:27:05.457124+00:00",
+  "as_of": "2026-10-17T14:33:05.161161+00:00",
   "tone": "risk-off",
-  "age_min": 2.9739024333333335
+  "age_min": 1.973736
  },
  "stories": [
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iran says oil tankers struck by mines in Strait of Hormuz - The Jerusalem Post",
+   "source": "The Jerusalem Post",
+   "published": "Sat, 17 Oct 2026 14:15:24 GMT",
+   "read": "escalation"
+  },
   {
    "topic": "Taiwan / China",
    "title": "How Taiwan\u2019s new AI satellite system aims to speed up PLA tracking - South China Morning Post",
    "source": "South China Morning Post",
    "published": "Sat, 17 Oct 2026 14:00:07 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Trump\u2019s pause on Russia sanctions will intensify war in Ukraine, Zelenskyy warns - The Guardian",
+   "source": "The Guardian",
+   "published": "Sat, 17 Oct 2026 13:40:00 GMT",
    "read": "escalation"
   },
   {
@@ -335,23 +349,9 @@
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "Russia-Ukraine war news: Donald Trump waives Russia sanctions; Volodymyr Zelenskyy urges support for new ones - ABC7 Chicago",
-   "source": "ABC7 Chicago",
-   "published": "Sat, 17 Oct 2026 13:09:56 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
    "title": "Putin Claims 6,500 Square Kilometres Seized in Ukraine. The Reality Is 45 Times Smaller - UNITED24 Media",
    "source": "UNITED24 Media",
    "published": "Sat, 17 Oct 2026 12:54:32 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran\u2019s IRGC says 2nd supertanker hits naval mine in Strait of Hormuz - Anadolu Ajans\u0131",
-   "source": "Anadolu Ajans\u0131",
-   "published": "Sat, 17 Oct 2026 12:41:09 GMT",
    "read": "escalation"
   }
  ],
