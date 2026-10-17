@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-17T18:10:03+00:00",
+ "generated_utc": "2026-10-17T18:15:03+00:00",
  "date_et": "2026-10-17",
  "build": "0d463cfe05",
  "tape": [
@@ -307,9 +307,9 @@
     "pct": 21.45
    }
   ],
-  "as_of": "2026-10-17T18:09:04.803621+00:00",
+  "as_of": "2026-10-17T18:12:04.675844+00:00",
   "tone": "risk-off",
-  "age_min": 0.9816581666666667
+  "age_min": 2.9849240833333335
  },
  "stories": [
   {
@@ -317,6 +317,13 @@
    "title": "Saudi Aramco\u2019s New China Refinery Venture Gets First Crude Cargo - Bloomberg.com",
    "source": "Bloomberg.com",
    "published": "Wed, 14 Oct 2026 03:13:00 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "How Trump is helping Putin - DW.com",
+   "source": "DW.com",
+   "published": "Sat, 17 Oct 2026 17:48:01 GMT",
    "read": "unclear"
   },
   {
@@ -345,13 +352,6 @@
    "title": "Trump suspends Russia sanctions as deadly attacks plunge Ukraine into darkness - Vatican News",
    "source": "Vatican News",
    "published": "Sat, 17 Oct 2026 15:31:52 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran Says Mines Hit Two Tankers in Strait of Hormuz, Escalating Maritime Security Fears - Modern Diplomacy",
-   "source": "Modern Diplomacy",
-   "published": "Sat, 17 Oct 2026 15:21:00 GMT",
    "read": "escalation"
   }
  ],
