@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-18T21:45:04+00:00",
+ "generated_utc": "2026-10-18T21:50:03+00:00",
  "date_et": "2026-10-18",
  "build": "0d463cfe05",
  "tape": [
@@ -19,7 +19,7 @@
    "title": "BusinessNZ Services Index",
    "cons": "",
    "prev": "51.2",
-   "actual": ""
+   "actual": "50.9"
   },
   {
    "time": "17:45",
@@ -28,7 +28,7 @@
    "title": "Trade Balance",
    "cons": "-775M",
    "prev": "-1349M",
-   "actual": ""
+   "actual": "-1971M"
   },
   {
    "time": "19:01",
@@ -379,9 +379,9 @@
     "pct": 21.45
    }
   ],
-  "as_of": "2026-10-18T21:42:15.092983+00:00",
+  "as_of": "2026-10-18T21:48:05.616675+00:00",
   "tone": "risk-off",
-  "age_min": 2.824186016666667
+  "age_min": 1.9744166166666666
  },
  "stories": [
   {
