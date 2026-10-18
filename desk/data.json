@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-18T09:50:03+00:00",
+ "generated_utc": "2026-10-18T09:55:03+00:00",
  "date_et": "2026-10-18",
  "build": "0d463cfe05",
  "tape": [
@@ -379,9 +379,9 @@
     "pct": 21.45
    }
   ],
-  "as_of": "2026-10-18T09:48:05.382633+00:00",
+  "as_of": "2026-10-18T09:54:05.630773+00:00",
   "tone": "risk-off",
-  "age_min": 1.9769887833333333
+  "age_min": 0.9717489166666666
  },
  "stories": [
   {
@@ -389,6 +389,20 @@
    "title": "Saudi Aramco\u2019s New China Refinery Venture Gets First Crude Cargo - Bloomberg.com",
    "source": "Bloomberg.com",
    "published": "Wed, 14 Oct 2026 03:13:00 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Live - Iran\u2019s new defense minister urges US personnel out of region as Washington signals longer stay - Iran International",
+   "source": "Iran International",
+   "published": "Sun, 18 Oct 2026 09:17:37 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Ukraine War, Day 1,697: Trump Camp Proposes Renewed Europe Purchases of Russia's Gas - EA WorldView",
+   "source": "EA WorldView",
+   "published": "Sun, 18 Oct 2026 09:12:54 GMT",
    "read": "unclear"
   },
   {
@@ -410,20 +424,6 @@
    "title": "Taiwan in the crosshairs? US Army unveils new strategy to counter China - The Times of India",
    "source": "The Times of India",
    "published": "Sun, 18 Oct 2026 06:18:00 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Rubio says Trump to take up to 60 days to weigh Russia sanctions - Reuters",
-   "source": "Reuters",
-   "published": "Sun, 18 Oct 2026 03:38:00 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran war: Tankers hit near Hormuz as Tehran offers U.S. reopening plan - Investing.com",
-   "source": "Investing.com",
-   "published": "Sun, 18 Oct 2026 03:35:36 GMT",
    "read": "escalation"
   }
  ],
