@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-18T04:30:04+00:00",
+ "generated_utc": "2026-10-18T04:35:04+00:00",
  "date_et": "2026-10-18",
  "build": "0d463cfe05",
  "tape": [],
@@ -270,9 +270,9 @@
     "pct": 21.45
    }
   ],
-  "as_of": "2026-10-18T04:27:06.092264+00:00",
+  "as_of": "2026-10-18T04:33:05.967023+00:00",
   "tone": "risk-off",
-  "age_min": 2.9764152666666663
+  "age_min": 1.9710529166666668
  },
  "stories": [
   {
@@ -288,6 +288,13 @@
    "source": "Britannica",
    "published": "Thu, 15 Oct 2026 05:00:00 GMT",
    "read": "unclear"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iran war: Tankers hit near Hormuz as Tehran offers U.S. reopening plan - Investing.com",
+   "source": "Investing.com",
+   "published": "Sun, 18 Oct 2026 03:35:36 GMT",
+   "read": "escalation"
   },
   {
    "topic": "Taiwan / China",
@@ -309,13 +316,6 @@
    "source": "The Tribune",
    "published": "Sun, 18 Oct 2026 01:25:56 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Araghchi says Iran has presented 'concrete' Hormuz reopening proposal - Middle East Eye",
-   "source": "Middle East Eye",
-   "published": "Sun, 18 Oct 2026 01:22:00 GMT",
-   "read": "de-escalation"
   }
  ],
  "ratings": [],
