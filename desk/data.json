@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-18T17:30:04+00:00",
+ "generated_utc": "2026-10-18T17:35:03+00:00",
  "date_et": "2026-10-18",
  "build": "0d463cfe05",
  "tape": [
@@ -379,9 +379,9 @@
     "pct": 21.45
    }
   ],
-  "as_of": "2026-10-18T17:27:06.344476+00:00",
+  "as_of": "2026-10-18T17:33:06.233950+00:00",
   "tone": "risk-off",
-  "age_min": 2.971246483333333
+  "age_min": 1.9655020333333333
  },
  "stories": [
   {
@@ -396,6 +396,13 @@
    "title": "Saudi Aramco\u2019s New China Refinery Venture Gets First Crude Cargo - Bloomberg.com",
    "source": "Bloomberg.com",
    "published": "Wed, 14 Oct 2026 03:13:00 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Trump's Russia sanctions pause will pressure Putin to 'tone down' war in Ukraine: energy secretary - New York Post",
+   "source": "New York Post",
+   "published": "Sun, 18 Oct 2026 17:08:00 GMT",
    "read": "unclear"
   },
   {
@@ -418,13 +425,6 @@
    "source": "The Jerusalem Post",
    "published": "Sun, 18 Oct 2026 14:29:04 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran FM: Hormuz Could Open Friday if US Agrees to 7-Day Proposal - The Media Line",
-   "source": "The Media Line",
-   "published": "Sun, 18 Oct 2026 13:35:11 GMT",
-   "read": "de-escalation"
   }
  ],
  "ratings": [],
