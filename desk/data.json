@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-18T15:30:04+00:00",
+ "generated_utc": "2026-10-18T15:35:04+00:00",
  "date_et": "2026-10-18",
  "build": "0d463cfe05",
  "tape": [
@@ -379,9 +379,9 @@
     "pct": 21.45
    }
   ],
-  "as_of": "2026-10-18T15:27:05.202976+00:00",
+  "as_of": "2026-10-18T15:33:05.833548+00:00",
   "tone": "risk-off",
-  "age_min": 2.991305666666667
+  "age_min": 1.9725789666666667
  },
  "stories": [
   {
@@ -396,6 +396,13 @@
    "title": "Saudi Aramco\u2019s New China Refinery Venture Gets First Crude Cargo - Bloomberg.com",
    "source": "Bloomberg.com",
    "published": "Wed, 14 Oct 2026 03:13:00 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iranian fishermen scramble for loot from sunken container ship after explosion - The Jerusalem Post",
+   "source": "The Jerusalem Post",
+   "published": "Sun, 18 Oct 2026 14:29:04 GMT",
    "read": "unclear"
   },
   {
@@ -418,13 +425,6 @@
    "source": "NBC News",
    "published": "Sun, 18 Oct 2026 12:21:20 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Kremlin says Russian strikes aim to diminish Ukraine\u2019s \u2018offensive potential\u2019 - Anadolu Ajans\u0131",
-   "source": "Anadolu Ajans\u0131",
-   "published": "Sun, 18 Oct 2026 12:11:31 GMT",
-   "read": "escalation"
   }
  ],
  "ratings": [],
