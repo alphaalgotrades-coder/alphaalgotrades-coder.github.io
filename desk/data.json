@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-18T06:50:03+00:00",
+ "generated_utc": "2026-10-18T06:55:03+00:00",
  "date_et": "2026-10-18",
  "build": "0d463cfe05",
  "tape": [
@@ -379,9 +379,9 @@
     "pct": 21.45
    }
   ],
-  "as_of": "2026-10-18T06:48:07.775199+00:00",
+  "as_of": "2026-10-18T06:54:05.383095+00:00",
   "tone": "risk-off",
-  "age_min": 1.9361485833333334
+  "age_min": 0.9740384
  },
  "stories": [
   {
@@ -390,6 +390,13 @@
    "source": "Bloomberg.com",
    "published": "Wed, 14 Oct 2026 03:13:00 GMT",
    "read": "unclear"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iran war: Saudi helicopter crash kills two as tanker attacks threaten Hormuz - Investing.com",
+   "source": "Investing.com",
+   "published": "Sun, 18 Oct 2026 06:31:02 GMT",
+   "read": "escalation"
   },
   {
    "topic": "Taiwan / China",
@@ -417,13 +424,6 @@
    "title": "Taiwan tracks 14 Chinese ships, 2 military aircraft - Taiwan News",
    "source": "Taiwan News",
    "published": "Sun, 18 Oct 2026 03:25:24 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran says two tankers catch fire after hitting mines in Strait of Hormuz - Al Jazeera",
-   "source": "Al Jazeera",
-   "published": "Sun, 18 Oct 2026 02:02:44 GMT",
    "read": "escalation"
   }
  ],
