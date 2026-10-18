@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-18T01:30:04+00:00",
+ "generated_utc": "2026-10-18T01:35:04+00:00",
  "date_et": "2026-10-17",
  "build": "0d463cfe05",
  "tape": [
@@ -307,9 +307,9 @@
     "pct": 21.45
    }
   ],
-  "as_of": "2026-10-18T01:27:05.911843+00:00",
+  "as_of": "2026-10-18T01:33:05.299065+00:00",
   "tone": "risk-off",
-  "age_min": 2.9767138833333333
+  "age_min": 1.9860621
  },
  "stories": [
   {
@@ -334,6 +334,13 @@
    "read": "unclear"
   },
   {
+   "topic": "Taiwan / China",
+   "title": "Taiwan detects 2 PLA aircraft, 5 PLAN vessels operating near territory - The Tribune",
+   "source": "The Tribune",
+   "published": "Sun, 18 Oct 2026 01:25:56 GMT",
+   "read": "escalation"
+  },
+  {
    "topic": "Iran / Hormuz",
    "title": "Iranian oil tanker explodes after hitting a naval mine in the Strait of Hormuz - KTVN",
    "source": "KTVN",
@@ -346,13 +353,6 @@
    "source": "Facebook",
    "published": "Sat, 17 Oct 2026 21:45:16 GMT",
    "read": "de-escalation"
-  },
-  {
-   "topic": "Taiwan / China",
-   "title": "Taiwan turns to AI to speed up early warning of Chinese military activity - Interesting Engineering",
-   "source": "Interesting Engineering",
-   "published": "Sat, 17 Oct 2026 20:36:00 GMT",
-   "read": "unclear"
   }
  ],
  "ratings": [],
