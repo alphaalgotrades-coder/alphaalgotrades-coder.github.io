@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-18T14:30:04+00:00",
+ "generated_utc": "2026-10-18T14:35:03+00:00",
  "date_et": "2026-10-18",
  "build": "0d463cfe05",
  "tape": [
@@ -379,9 +379,9 @@
     "pct": 21.45
    }
   ],
-  "as_of": "2026-10-18T14:27:05.258339+00:00",
+  "as_of": "2026-10-18T14:33:05.169780+00:00",
   "tone": "risk-off",
-  "age_min": 2.993867016666667
+  "age_min": 1.97917945
  },
  "stories": [
   {
@@ -399,13 +399,6 @@
    "read": "unclear"
   },
   {
-   "topic": "Russia / Ukraine",
-   "title": "Ukraine resumes strikes on energy targets, saying Russia never stopped its attacks - PBS",
-   "source": "PBS",
-   "published": "Thu, 15 Oct 2026 22:55:24 GMT",
-   "read": "escalation"
-  },
-  {
    "topic": "Iran / Hormuz",
    "title": "Iran FM: Hormuz Could Open Friday if US Agrees to 7-Day Proposal - The Media Line",
    "source": "The Media Line",
@@ -421,9 +414,16 @@
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "Kremlin says Ukrainian attacks won't change war aims as Kyiv hits Saint Petersburg - AFP.com",
-   "source": "AFP.com",
-   "published": "Sun, 18 Oct 2026 13:05:13 GMT",
+   "title": "U.S. taking Putin\u2019s side would be a \u2018historic mistake,\u2019 says Zelenskyy - NBC News",
+   "source": "NBC News",
+   "published": "Sun, 18 Oct 2026 12:21:20 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Kremlin says Russian strikes aim to diminish Ukraine\u2019s \u2018offensive potential\u2019 - Anadolu Ajans\u0131",
+   "source": "Anadolu Ajans\u0131",
+   "published": "Sun, 18 Oct 2026 12:11:31 GMT",
    "read": "escalation"
   }
  ],
