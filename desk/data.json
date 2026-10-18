@@ -1,8 +1,117 @@
 {
- "generated_utc": "2026-10-18T06:00:04+00:00",
+ "generated_utc": "2026-10-18T06:05:03+00:00",
  "date_et": "2026-10-18",
  "build": "0d463cfe05",
- "tape": [],
+ "tape": [
+  {
+   "time": "10:15",
+   "ccy": "All",
+   "impact": "Low",
+   "title": "IMF Meetings",
+   "cons": "",
+   "prev": "",
+   "actual": ""
+  },
+  {
+   "time": "17:30",
+   "ccy": "NZD",
+   "impact": "Low",
+   "title": "BusinessNZ Services Index",
+   "cons": "",
+   "prev": "51.2",
+   "actual": ""
+  },
+  {
+   "time": "17:45",
+   "ccy": "NZD",
+   "impact": "Low",
+   "title": "Trade Balance",
+   "cons": "-775M",
+   "prev": "-1349M",
+   "actual": ""
+  },
+  {
+   "time": "19:01",
+   "ccy": "GBP",
+   "impact": "Low",
+   "title": "Rightmove HPI m/m",
+   "cons": "",
+   "prev": "0.7%",
+   "actual": ""
+  },
+  {
+   "time": "19:05",
+   "ccy": "AUD",
+   "impact": "Low",
+   "title": "RBA Assist Gov Kent Speaks",
+   "cons": "",
+   "prev": "",
+   "actual": ""
+  },
+  {
+   "time": "21:30",
+   "ccy": "CNY",
+   "impact": "Low",
+   "title": "New Home Prices m/m",
+   "cons": "",
+   "prev": "-0.17%",
+   "actual": ""
+  },
+  {
+   "time": "22:00",
+   "ccy": "CNY",
+   "impact": "Low",
+   "title": "Fixed Asset Investment ytd/y",
+   "cons": "-7.3%",
+   "prev": "-7.2%",
+   "actual": ""
+  },
+  {
+   "time": "22:00",
+   "ccy": "CNY",
+   "impact": "Low",
+   "title": "GDP q/y",
+   "cons": "4.4%",
+   "prev": "4.3%",
+   "actual": ""
+  },
+  {
+   "time": "22:00",
+   "ccy": "CNY",
+   "impact": "Low",
+   "title": "Industrial Production y/y",
+   "cons": "5.4%",
+   "prev": "5.2%",
+   "actual": ""
+  },
+  {
+   "time": "22:00",
+   "ccy": "CNY",
+   "impact": "Low",
+   "title": "NBS Press Conference",
+   "cons": "",
+   "prev": "",
+   "actual": ""
+  },
+  {
+   "time": "22:00",
+   "ccy": "CNY",
+   "impact": "Low",
+   "title": "Retail Sales y/y",
+   "cons": "0.5%",
+   "prev": "0.4%",
+   "actual": ""
+  },
+  {
+   "time": "22:00",
+   "ccy": "CNY",
+   "impact": "Low",
+   "title": "Unemployment Rate",
+   "cons": "5.3%",
+   "prev": "5.3%",
+   "actual": ""
+  }
+ ],
  "rates": {
   "rows": [
    {
@@ -270,9 +379,9 @@
     "pct": 21.45
    }
   ],
-  "as_of": "2026-10-18T05:57:05.291722+00:00",
+  "as_of": "2026-10-18T06:03:05.393632+00:00",
   "tone": "risk-off",
-  "age_min": 2.9833156333333335
+  "age_min": 1.9761437166666667
  },
  "stories": [
   {
@@ -488,7 +597,7 @@
   "note": "TreasuryDirect, announced offerings"
  },
  "book": {
-  "as_of_et": "01:05",
+  "as_of_et": "02:05",
   "since": "2026-07-13",
   "trading_days": 52,
   "green_days": 28,
