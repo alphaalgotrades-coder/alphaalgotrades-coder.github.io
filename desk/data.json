@@ -1,45 +1,8 @@
 {
- "generated_utc": "2026-10-18T03:55:04+00:00",
- "date_et": "2026-10-17",
+ "generated_utc": "2026-10-18T04:00:04+00:00",
+ "date_et": "2026-10-18",
  "build": "0d463cfe05",
- "tape": [
-  {
-   "time": "00:45",
-   "ccy": "EUR",
-   "impact": "Low",
-   "title": "German Buba President Nagel Speaks",
-   "cons": "",
-   "prev": "",
-   "actual": ""
-  },
-  {
-   "time": "02:45",
-   "ccy": "GBP",
-   "impact": "Medi",
-   "title": "BOE Gov Bailey Speaks",
-   "cons": "",
-   "prev": "",
-   "actual": ""
-  },
-  {
-   "time": "10:15",
-   "ccy": "All",
-   "impact": "Low",
-   "title": "IMF Meetings",
-   "cons": "",
-   "prev": "",
-   "actual": ""
-  },
-  {
-   "time": "20:00",
-   "ccy": "AUD",
-   "impact": "Low",
-   "title": "RBA Assist Gov Kent Speaks",
-   "cons": "",
-   "prev": "",
-   "actual": ""
-  }
- ],
+ "tape": [],
  "rates": {
   "rows": [
    {
@@ -307,9 +270,9 @@
     "pct": 21.45
    }
   ],
-  "as_of": "2026-10-18T03:54:06.025619+00:00",
+  "as_of": "2026-10-18T03:57:15.716543+00:00",
   "tone": "risk-off",
-  "age_min": 0.9741431166666668
+  "age_min": 2.8216644333333334
  },
  "stories": [
   {
