@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-18T21:50:03+00:00",
+ "generated_utc": "2026-10-18T21:55:04+00:00",
  "date_et": "2026-10-18",
  "build": "0d463cfe05",
  "tape": [
@@ -379,9 +379,9 @@
     "pct": 21.45
    }
   ],
-  "as_of": "2026-10-18T21:48:05.616675+00:00",
+  "as_of": "2026-10-18T21:54:15.092973+00:00",
   "tone": "risk-off",
-  "age_min": 1.9744166166666666
+  "age_min": 0.8208074666666667
  },
  "stories": [
   {
@@ -407,24 +407,24 @@
   },
   {
    "topic": "Russia / Ukraine",
+   "title": "Zelensky says \u2018of course\u2019 Ukraine trusts the US, hopes Trump will \u2018change his decisions\u2019 - The Hill",
+   "source": "The Hill",
+   "published": "Sun, 18 Oct 2026 17:55:00 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Russia / Ukraine",
    "title": "Ukrainian Drone Strike Hits Putin\u2019s Hometown, Striking Oil Terminal - WSJ",
    "source": "WSJ",
    "published": "Sun, 18 Oct 2026 17:23:00 GMT",
    "read": "escalation"
   },
   {
-   "topic": "Saudi / Gulf supply",
-   "title": "Oil Rally Lifts Saudi Stocks, While Qatar And Egypt Markets Tumble - NDTV Profit",
-   "source": "NDTV Profit",
-   "published": "Sun, 18 Oct 2026 15:33:22 GMT",
+   "topic": "Taiwan / China",
+   "title": "Chinese maritime control a growing issue - Taipei Times",
+   "source": "Taipei Times",
+   "published": "Sun, 18 Oct 2026 16:00:00 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Ukraine defies Trump and launches one of its biggest drone attacks on Russia this year - Scripps News",
-   "source": "Scripps News",
-   "published": "Sun, 18 Oct 2026 15:24:09 GMT",
-   "read": "escalation"
   }
  ],
  "ratings": [],
