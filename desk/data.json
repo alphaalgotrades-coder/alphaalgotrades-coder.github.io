@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-18T23:30:04+00:00",
+ "generated_utc": "2026-10-18T23:35:04+00:00",
  "date_et": "2026-10-18",
  "build": "0d463cfe05",
  "tape": [
@@ -345,20 +345,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 98.11,
-    "pct": -0.92
+    "price": 98.13,
+    "pct": -0.9
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4197.4,
-    "pct": 0.39
+    "price": 4201.8,
+    "pct": 0.5
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.906,
-    "pct": 0.07
+    "price": 101.877,
+    "pct": 0.04
    },
    {
     "sym": "SPY",
@@ -379,9 +379,9 @@
     "pct": 21.45
    }
   ],
-  "as_of": "2026-10-18T23:27:05.916681+00:00",
+  "as_of": "2026-10-18T23:33:15.473639+00:00",
   "tone": "risk-off",
-  "age_min": 2.9778349
+  "age_min": 1.8144864666666665
  },
  "stories": [
   {
@@ -396,6 +396,13 @@
    "title": "Saudi Aramco\u2019s New China Refinery Venture Gets First Crude Cargo - Bloomberg.com",
    "source": "Bloomberg.com",
    "published": "Wed, 14 Oct 2026 03:13:00 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Taiwan / China",
+   "title": "China Spied on Taiwanese President\u2019s Son \u2013 in the US - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+   "source": "The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+   "published": "Thu, 15 Oct 2026 19:18:46 GMT",
    "read": "unclear"
   },
   {
@@ -418,13 +425,6 @@
    "source": "The Atlantic",
    "published": "Sun, 18 Oct 2026 21:51:28 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran is running out of money and can't even pay its troops as U.S. blockade chokes the economy - Fortune",
-   "source": "Fortune",
-   "published": "Sun, 18 Oct 2026 20:46:00 GMT",
-   "read": "escalation"
   }
  ],
  "ratings": [],
