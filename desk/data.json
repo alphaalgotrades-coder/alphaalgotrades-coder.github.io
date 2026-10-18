@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-18T11:30:04+00:00",
+ "generated_utc": "2026-10-18T11:35:03+00:00",
  "date_et": "2026-10-18",
  "build": "0d463cfe05",
  "tape": [
@@ -379,9 +379,9 @@
     "pct": 21.45
    }
   ],
-  "as_of": "2026-10-18T11:27:05.839872+00:00",
+  "as_of": "2026-10-18T11:33:05.764924+00:00",
   "tone": "risk-off",
-  "age_min": 2.9820751833333334
+  "age_min": 1.97107155
  },
  "stories": [
   {
@@ -392,10 +392,24 @@
    "read": "unclear"
   },
   {
+   "topic": "Russia / Ukraine",
+   "title": "EA-Silicon Curtain VideoCast: Trump Has Joined Russia In War v. Ukraine - EA WorldView",
+   "source": "EA WorldView",
+   "published": "Sun, 18 Oct 2026 11:12:00 GMT",
+   "read": "escalation"
+  },
+  {
    "topic": "Saudi / Gulf supply",
-   "title": "Aramco Has No Fourth Route \u2014 Saudi Export Crisis - houseofsaud.com",
-   "source": "houseofsaud.com",
+   "title": "Aramco Has No Fourth Route \u2014 Saudi Export Crisis - https://houseofsaud.com/",
+   "source": "https://houseofsaud.com/",
    "published": "Sun, 18 Oct 2026 10:50:40 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iran urges United States to accept 7-day deal - NewsNation",
+   "source": "NewsNation",
+   "published": "Sun, 18 Oct 2026 10:20:59 GMT",
    "read": "unclear"
   },
   {
@@ -410,20 +424,6 @@
    "title": "Live - Iran\u2019s new defense minister urges US personnel out of region as Washington signals longer stay - Iran International",
    "source": "Iran International",
    "published": "Sun, 18 Oct 2026 09:17:37 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Ukraine War, Day 1,697: Trump Camp Proposes Renewed Europe Purchases of Russia's Gas - EA WorldView",
-   "source": "EA WorldView",
-   "published": "Sun, 18 Oct 2026 09:12:54 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran's IRGC: 2nd supertanker explodes after hitting mine in Hormuz Strait - chinadailyhk",
-   "source": "chinadailyhk",
-   "published": "Sun, 18 Oct 2026 07:43:52 GMT",
    "read": "escalation"
   }
  ],
