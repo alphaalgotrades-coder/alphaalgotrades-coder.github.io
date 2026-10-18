@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-18T12:50:03+00:00",
+ "generated_utc": "2026-10-18T12:55:03+00:00",
  "date_et": "2026-10-18",
  "build": "0d463cfe05",
  "tape": [
@@ -379,9 +379,9 @@
     "pct": 21.45
    }
   ],
-  "as_of": "2026-10-18T12:48:05.182872+00:00",
+  "as_of": "2026-10-18T12:54:05.591666+00:00",
   "tone": "risk-off",
-  "age_min": 1.9801257833333332
+  "age_min": 0.9735934333333333
  },
  "stories": [
   {
@@ -400,6 +400,20 @@
   },
   {
    "topic": "Russia / Ukraine",
+   "title": "Ukraine resumes strikes on energy targets, saying Russia never stopped its attacks - PBS",
+   "source": "PBS",
+   "published": "Thu, 15 Oct 2026 22:55:24 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Trump tries different approach with Russia to bring Americans relief amid ongoing war with Ukraine - Fox News",
+   "source": "Fox News",
+   "published": "Sun, 18 Oct 2026 12:00:13 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Russia / Ukraine",
    "title": "Ukraine targets Russia with more than 1,000 drones, striking oil terminal in St. Petersburg - ABC News - Breaking News, Latest News and Videos",
    "source": "ABC News - Breaking News, Latest News and Videos",
    "published": "Sun, 18 Oct 2026 11:15:00 GMT",
@@ -411,20 +425,6 @@
    "source": "EA WorldView",
    "published": "Sun, 18 Oct 2026 11:12:00 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Saudi / Gulf supply",
-   "title": "Aramco Has No Fourth Route \u2014 Saudi Export Crisis - https://houseofsaud.com/",
-   "source": "https://houseofsaud.com/",
-   "published": "Sun, 18 Oct 2026 10:50:40 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran urges United States to accept 7-day deal - NewsNation",
-   "source": "NewsNation",
-   "published": "Sun, 18 Oct 2026 10:20:59 GMT",
-   "read": "unclear"
   }
  ],
  "ratings": [],
