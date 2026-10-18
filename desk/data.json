@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-18T11:50:03+00:00",
+ "generated_utc": "2026-10-18T11:55:04+00:00",
  "date_et": "2026-10-18",
  "build": "0d463cfe05",
  "tape": [
@@ -379,11 +379,18 @@
     "pct": 21.45
    }
   ],
-  "as_of": "2026-10-18T11:48:05.648071+00:00",
+  "as_of": "2026-10-18T11:54:05.984209+00:00",
   "tone": "risk-off",
-  "age_min": 1.9743179666666668
+  "age_min": 0.9710282166666667
  },
  "stories": [
+  {
+   "topic": "Taiwan / China",
+   "title": "UPDATED: Chinese Carrier Strike Group Heads to South China Sea After Philippine Sea Drills - USNI News",
+   "source": "USNI News",
+   "published": "Wed, 14 Oct 2026 17:41:00 GMT",
+   "read": "escalation"
+  },
   {
    "topic": "Saudi / Gulf supply",
    "title": "Saudi Aramco\u2019s New China Refinery Venture Gets First Crude Cargo - Bloomberg.com",
@@ -414,17 +421,10 @@
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Iran urges US to accept proposal to reopen Strait of Hormuz - Arab News",
-   "source": "Arab News",
-   "published": "Sun, 18 Oct 2026 09:29:29 GMT",
+   "title": "Iran Urges US to Accept Proposal to Reopen Strait of Hormuz - ASHARQ AL-AWSAT English",
+   "source": "ASHARQ AL-AWSAT English",
+   "published": "Sun, 18 Oct 2026 09:31:33 GMT",
    "read": "de-escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Live - Iran\u2019s new defense minister urges US personnel out of region as Washington signals longer stay - Iran International",
-   "source": "Iran International",
-   "published": "Sun, 18 Oct 2026 09:17:37 GMT",
-   "read": "escalation"
   }
  ],
  "ratings": [],
