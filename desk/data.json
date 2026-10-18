@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-18T16:10:03+00:00",
+ "generated_utc": "2026-10-18T16:15:03+00:00",
  "date_et": "2026-10-18",
  "build": "0d463cfe05",
  "tape": [
@@ -379,9 +379,9 @@
     "pct": 21.45
    }
   ],
-  "as_of": "2026-10-18T16:09:06.442578+00:00",
+  "as_of": "2026-10-18T16:12:06.085251+00:00",
   "tone": "risk-off",
-  "age_min": 0.9569167833333334
+  "age_min": 2.9676522999999997
  },
  "stories": [
   {
@@ -399,6 +399,20 @@
    "read": "unclear"
   },
   {
+   "topic": "Russia / Ukraine",
+   "title": "Zelensky warns US support of Putin is a \u2018historic mistake\u2019 - The Hill",
+   "source": "The Hill",
+   "published": "Sun, 18 Oct 2026 15:50:00 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Saudi / Gulf supply",
+   "title": "Oil Rally Lifts Saudi Stocks, While Qatar And Egypt Markets Tumble - NDTV Profit",
+   "source": "NDTV Profit",
+   "published": "Sun, 18 Oct 2026 15:33:22 GMT",
+   "read": "unclear"
+  },
+  {
    "topic": "Iran / Hormuz",
    "title": "Iranian fishermen scramble for loot from sunken container ship after explosion - The Jerusalem Post",
    "source": "The Jerusalem Post",
@@ -411,20 +425,6 @@
    "source": "The Media Line",
    "published": "Sun, 18 Oct 2026 13:35:11 GMT",
    "read": "de-escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran signals possible nuclear policy shift, threatens US retaliation - Iran International",
-   "source": "Iran International",
-   "published": "Sun, 18 Oct 2026 13:21:17 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "U.S. taking Putin\u2019s side would be a \u2018historic mistake,\u2019 says Zelenskyy - NBC News",
-   "source": "NBC News",
-   "published": "Sun, 18 Oct 2026 12:21:20 GMT",
-   "read": "unclear"
   }
  ],
  "ratings": [],
