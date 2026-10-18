@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-18T20:30:04+00:00",
+ "generated_utc": "2026-10-18T20:35:04+00:00",
  "date_et": "2026-10-18",
  "build": "0d463cfe05",
  "tape": [
@@ -379,9 +379,9 @@
     "pct": 21.45
    }
   ],
-  "as_of": "2026-10-18T20:27:06.277201+00:00",
+  "as_of": "2026-10-18T20:33:06.132470+00:00",
   "tone": "risk-off",
-  "age_min": 2.9730960166666667
+  "age_min": 1.9686267499999999
  },
  "stories": [
   {
@@ -400,10 +400,10 @@
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "Trump's Russia sanctions pause will pressure Putin to 'tone down' war in Ukraine: energy secretary - New York Post",
-   "source": "New York Post",
-   "published": "Sun, 18 Oct 2026 17:08:00 GMT",
-   "read": "unclear"
+   "title": "Ukrainian Drone Strike Hits Putin\u2019s Hometown, Striking Oil Terminal - WSJ",
+   "source": "WSJ",
+   "published": "Sun, 18 Oct 2026 17:23:00 GMT",
+   "read": "escalation"
   },
   {
    "topic": "Saudi / Gulf supply",
