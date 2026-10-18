@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-18T22:30:05+00:00",
+ "generated_utc": "2026-10-18T22:35:03+00:00",
  "date_et": "2026-10-18",
  "build": "0d463cfe05",
  "tape": [
@@ -345,20 +345,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 98.33,
-    "pct": -0.7
+    "price": 98.43,
+    "pct": -0.6
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4195.3,
-    "pct": 0.34
+    "price": 4196.1,
+    "pct": 0.36
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.831,
-    "pct": -0.01
+    "price": 101.809,
+    "pct": -0.03
    },
    {
     "sym": "SPY",
@@ -379,9 +379,9 @@
     "pct": 21.45
    }
   ],
-  "as_of": "2026-10-18T22:27:05.980897+00:00",
+  "as_of": "2026-10-18T22:33:15.733528+00:00",
   "tone": "risk-off",
-  "age_min": 2.992254283333333
+  "age_min": 1.8051054333333334
  },
  "stories": [
   {
@@ -396,6 +396,13 @@
    "title": "Saudi Aramco\u2019s New China Refinery Venture Gets First Crude Cargo - Bloomberg.com",
    "source": "Bloomberg.com",
    "published": "Wed, 14 Oct 2026 03:13:00 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Siding With Putin Is a Huge Mistake - The Atlantic",
+   "source": "The Atlantic",
+   "published": "Sun, 18 Oct 2026 22:26:41 GMT",
    "read": "unclear"
   },
   {
@@ -418,13 +425,6 @@
    "source": "Fortune",
    "published": "Sun, 18 Oct 2026 20:46:00 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Zelensky says \u2018of course\u2019 Ukraine trusts the US, hopes Trump will \u2018change his decisions\u2019 - The Hill",
-   "source": "The Hill",
-   "published": "Sun, 18 Oct 2026 17:55:00 GMT",
-   "read": "unclear"
   }
  ],
  "ratings": [],
