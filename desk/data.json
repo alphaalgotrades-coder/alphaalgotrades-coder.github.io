@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-18T08:10:04+00:00",
+ "generated_utc": "2026-10-18T08:15:04+00:00",
  "date_et": "2026-10-18",
  "build": "0d463cfe05",
  "tape": [
@@ -379,9 +379,9 @@
     "pct": 21.45
    }
   ],
-  "as_of": "2026-10-18T08:09:05.622117+00:00",
+  "as_of": "2026-10-18T08:12:11.894215+00:00",
   "tone": "risk-off",
-  "age_min": 0.9809800000000001
+  "age_min": 2.8736310333333335
  },
  "stories": [
   {
@@ -390,6 +390,13 @@
    "source": "Bloomberg.com",
    "published": "Wed, 14 Oct 2026 03:13:00 GMT",
    "read": "unclear"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iran's IRGC: 2nd supertanker explodes after hitting mine in Hormuz Strait - chinadailyhk",
+   "source": "chinadailyhk",
+   "published": "Sun, 18 Oct 2026 07:43:52 GMT",
+   "read": "escalation"
   },
   {
    "topic": "Iran / Hormuz",
@@ -417,13 +424,6 @@
    "title": "Iran war: Tankers hit near Hormuz as Tehran offers U.S. reopening plan - Investing.com",
    "source": "Investing.com",
    "published": "Sun, 18 Oct 2026 03:35:36 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Taiwan / China",
-   "title": "Taiwan tracks 14 Chinese ships, 2 military aircraft - Taiwan News",
-   "source": "Taiwan News",
-   "published": "Sun, 18 Oct 2026 03:25:24 GMT",
    "read": "escalation"
   }
  ],
