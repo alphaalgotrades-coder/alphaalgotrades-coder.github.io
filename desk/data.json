@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-18T12:30:04+00:00",
+ "generated_utc": "2026-10-18T12:35:03+00:00",
  "date_et": "2026-10-18",
  "build": "0d463cfe05",
  "tape": [
@@ -379,9 +379,9 @@
     "pct": 21.45
    }
   ],
-  "as_of": "2026-10-18T12:27:05.441969+00:00",
+  "as_of": "2026-10-18T12:33:05.110904+00:00",
   "tone": "risk-off",
-  "age_min": 2.9888025666666667
+  "age_min": 1.98140665
  },
  "stories": [
   {
@@ -397,6 +397,13 @@
    "source": "Bloomberg.com",
    "published": "Wed, 14 Oct 2026 03:13:00 GMT",
    "read": "unclear"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Ukraine targets Russia with more than 1,000 drones, striking oil terminal in St. Petersburg - ABC News - Breaking News, Latest News and Videos",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "published": "Sun, 18 Oct 2026 11:15:00 GMT",
+   "read": "escalation"
   },
   {
    "topic": "Russia / Ukraine",
@@ -418,13 +425,6 @@
    "source": "NewsNation",
    "published": "Sun, 18 Oct 2026 10:20:59 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran Urges US to Accept Proposal to Reopen Strait of Hormuz - ASHARQ AL-AWSAT English",
-   "source": "ASHARQ AL-AWSAT English",
-   "published": "Sun, 18 Oct 2026 09:31:33 GMT",
-   "read": "de-escalation"
   }
  ],
  "ratings": [],
