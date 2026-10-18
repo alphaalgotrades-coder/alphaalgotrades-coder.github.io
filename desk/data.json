@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-18T17:50:03+00:00",
+ "generated_utc": "2026-10-18T17:55:03+00:00",
  "date_et": "2026-10-18",
  "build": "0d463cfe05",
  "tape": [
@@ -379,9 +379,9 @@
     "pct": 21.45
    }
   ],
-  "as_of": "2026-10-18T17:48:08.963045+00:00",
+  "as_of": "2026-10-18T17:54:05.593606+00:00",
   "tone": "risk-off",
-  "age_min": 1.9166013333333334
+  "age_min": 0.9726122333333334
  },
  "stories": [
   {
@@ -420,11 +420,11 @@
    "read": "unclear"
   },
   {
-   "topic": "Iran / Hormuz",
-   "title": "Iranian fishermen scramble for loot from sunken container ship after explosion - The Jerusalem Post",
-   "source": "The Jerusalem Post",
-   "published": "Sun, 18 Oct 2026 14:29:04 GMT",
-   "read": "unclear"
+   "topic": "Russia / Ukraine",
+   "title": "Ukraine defies Trump and launches one of its biggest drone attacks on Russia this year - Scripps News",
+   "source": "Scripps News",
+   "published": "Sun, 18 Oct 2026 15:24:09 GMT",
+   "read": "escalation"
   }
  ],
  "ratings": [],
