@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-18T23:10:03+00:00",
+ "generated_utc": "2026-10-18T23:15:04+00:00",
  "date_et": "2026-10-18",
  "build": "0d463cfe05",
  "tape": [
@@ -37,7 +37,7 @@
    "title": "Rightmove HPI m/m",
    "cons": "",
    "prev": "0.7%",
-   "actual": ""
+   "actual": "1.0%"
   },
   {
    "time": "19:05",
@@ -351,13 +351,13 @@
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4196.5,
-    "pct": 0.37
+    "price": 4199.0,
+    "pct": 0.43
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.919,
+    "price": 101.922,
     "pct": 0.08
    },
    {
@@ -379,9 +379,9 @@
     "pct": 21.45
    }
   ],
-  "as_of": "2026-10-18T23:09:05.748583+00:00",
+  "as_of": "2026-10-18T23:12:11.190580+00:00",
   "tone": "risk-off",
-  "age_min": 0.9736711166666667
+  "age_min": 2.8893150999999997
  },
  "stories": [
   {
@@ -400,6 +400,13 @@
   },
   {
    "topic": "Russia / Ukraine",
+   "title": "Exclusive | Putin Floats a Summit With Trump and Xi to Decide Ukraine\u2019s Fate - WSJ",
+   "source": "WSJ",
+   "published": "Sun, 18 Oct 2026 23:00:00 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Russia / Ukraine",
    "title": "Siding With Putin Is a Huge Mistake - The Atlantic",
    "source": "The Atlantic",
    "published": "Sun, 18 Oct 2026 22:26:41 GMT",
@@ -411,13 +418,6 @@
    "source": "The Atlantic",
    "published": "Sun, 18 Oct 2026 21:51:28 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran\u2019s IRGC navy says oil tanker hits mine, catches fire in Strait of Hormuz - The Times of Israel",
-   "source": "The Times of Israel",
-   "published": "Sun, 18 Oct 2026 20:59:55 GMT",
-   "read": "escalation"
   },
   {
    "topic": "Iran / Hormuz",
