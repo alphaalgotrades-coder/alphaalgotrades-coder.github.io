@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-18T01:10:03+00:00",
+ "generated_utc": "2026-10-18T01:15:04+00:00",
  "date_et": "2026-10-17",
  "build": "0d463cfe05",
  "tape": [
@@ -307,9 +307,9 @@
     "pct": 21.45
    }
   ],
-  "as_of": "2026-10-18T01:09:06.193845+00:00",
+  "as_of": "2026-10-18T01:12:15.231262+00:00",
   "tone": "risk-off",
-  "age_min": 0.9627512333333333
+  "age_min": 2.8176083833333334
  },
  "stories": [
   {
@@ -334,6 +334,13 @@
    "read": "unclear"
   },
   {
+   "topic": "Iran / Hormuz",
+   "title": "Iranian oil tanker explodes after hitting a naval mine in the Strait of Hormuz - KTVN",
+   "source": "KTVN",
+   "published": "Sun, 18 Oct 2026 00:12:00 GMT",
+   "read": "escalation"
+  },
+  {
    "topic": "Russia / Ukraine",
    "title": "Just days after his controversial diesel deal, US President Donald Trump has blocked several sanctions against Russia, shortly before they were set to take effect. The move comes a",
    "source": "Facebook",
@@ -345,13 +352,6 @@
    "title": "Taiwan turns to AI to speed up early warning of Chinese military activity - Interesting Engineering",
    "source": "Interesting Engineering",
    "published": "Sat, 17 Oct 2026 20:36:00 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "US, Israel face threats of war if oil prices keep rising - The Jerusalem Post",
-   "source": "The Jerusalem Post",
-   "published": "Sat, 17 Oct 2026 19:27:05 GMT",
    "read": "unclear"
   }
  ],
