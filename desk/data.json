@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-19T23:10:03+00:00",
+ "generated_utc": "2026-10-19T23:15:03+00:00",
  "date_et": "2026-10-19",
  "build": "0d463cfe05",
  "tape": [
@@ -327,14 +327,14 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 98.23,
-    "pct": -0.31
+    "price": 98.26,
+    "pct": -0.28
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4155.4,
-    "pct": -0.11
+    "price": 4153.5,
+    "pct": -0.16
    },
    {
     "sym": "DXY",
@@ -361,9 +361,9 @@
     "pct": -7.75
    }
   ],
-  "as_of": "2026-10-19T23:09:06.371585+00:00",
+  "as_of": "2026-10-19T23:12:05.969939+00:00",
   "tone": "risk-on",
-  "age_min": 0.96098165
+  "age_min": 2.9677440833333337
  },
  "stories": [
   {
@@ -375,9 +375,9 @@
   },
   {
    "topic": "Saudi / Gulf supply",
-   "title": "Saudi Aramco\u2019s Bumper $33 Billion Profit Gives Kingdom\u2019s Finances a Boost - WSJ",
-   "source": "WSJ",
-   "published": "Tue, 04 Aug 2026 07:00:00 GMT",
+   "title": "Saudi Aramco\u2019s New China Refinery Venture Gets First Crude Cargo - Bloomberg",
+   "source": "Bloomberg",
+   "published": "Wed, 14 Oct 2026 03:13:00 GMT",
    "read": "unclear"
   },
   {
@@ -403,9 +403,9 @@
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "Trump open to idea of joint meeting with Xi, Putin next month - Reuters",
-   "source": "Reuters",
-   "published": "Mon, 19 Oct 2026 22:28:49 GMT",
+   "title": "Russia proposes a Trump-Xi-Putin meeting in China next month - The Washington Post",
+   "source": "The Washington Post",
+   "published": "Mon, 19 Oct 2026 22:58:45 GMT",
    "read": "unclear"
   }
  ],
