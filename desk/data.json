@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-19T06:10:04+00:00",
+ "generated_utc": "2026-10-19T06:15:04+00:00",
  "date_et": "2026-10-19",
  "build": "0d463cfe05",
  "tape": [
@@ -336,19 +336,19 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 97.25,
-    "pct": -1.79
+    "price": 97.28,
+    "pct": -1.76
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4204.8,
-    "pct": 0.57
+    "price": 4204.7,
+    "pct": 0.56
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.846,
+    "price": 101.849,
     "pct": 0.01
    },
    {
@@ -370,9 +370,9 @@
     "pct": 21.45
    }
   ],
-  "as_of": "2026-10-19T06:09:05.688284+00:00",
+  "as_of": "2026-10-19T06:12:05.106549+00:00",
   "tone": "risk-off",
-  "age_min": 0.9770293333333334
+  "age_min": 2.9897991333333334
  },
  "stories": [
   {
@@ -404,17 +404,17 @@
    "read": "escalation"
   },
   {
-   "topic": "Russia / Ukraine",
-   "title": "Putin Reportedly Wants A Summit With Trump And Xi On Ukraine\u2014Without Zelenskyy - Forbes",
-   "source": "Forbes",
-   "published": "Mon, 19 Oct 2026 05:01:23 GMT",
+   "topic": "Iran / Hormuz",
+   "title": "Iran\u2019s IRGC Navy Says Oil Tanker Caught Fire After Striking Mine in Strait of Hormuz: how 5 outlets framed it - NewsCord",
+   "source": "NewsCord",
+   "published": "Mon, 19 Oct 2026 05:21:02 GMT",
    "read": "unclear"
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "Trump defends Russia sanctions waivers, accuses Zelenskyy of 'prolonging war' - DW.com",
-   "source": "DW.com",
-   "published": "Mon, 19 Oct 2026 04:04:25 GMT",
+   "title": "Putin Reportedly Wants A Summit With Trump And Xi On Ukraine\u2014Without Zelenskyy - Forbes",
+   "source": "Forbes",
+   "published": "Mon, 19 Oct 2026 05:01:23 GMT",
    "read": "unclear"
   }
  ],
