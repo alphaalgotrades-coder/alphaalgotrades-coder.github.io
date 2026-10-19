@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-19T04:40:03+00:00",
+ "generated_utc": "2026-10-19T04:45:03+00:00",
  "date_et": "2026-10-19",
  "build": "0d463cfe05",
  "tape": [
@@ -10,7 +10,7 @@
    "title": "Tertiary Industry Activity m/m",
    "cons": "-0.3%",
    "prev": "0.4%",
-   "actual": ""
+   "actual": "-0.1%"
   },
   {
    "time": "02:02",
@@ -336,20 +336,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 97.47,
-    "pct": -1.57
+    "price": 97.48,
+    "pct": -1.56
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4194.7,
-    "pct": 0.33
+    "price": 4196.5,
+    "pct": 0.37
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.824,
-    "pct": -0.01
+    "price": 101.819,
+    "pct": -0.02
    },
    {
     "sym": "SPY",
@@ -370,9 +370,9 @@
     "pct": 21.45
    }
   ],
-  "as_of": "2026-10-19T04:39:07.581099+00:00",
+  "as_of": "2026-10-19T04:42:06.984243+00:00",
   "tone": "risk-off",
-  "age_min": 0.94280715
+  "age_min": 2.9507716333333334
  },
  "stories": [
   {
