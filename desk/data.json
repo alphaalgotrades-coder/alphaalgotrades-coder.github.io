@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-19T06:30:04+00:00",
+ "generated_utc": "2026-10-19T06:35:04+00:00",
  "date_et": "2026-10-19",
  "build": "0d463cfe05",
  "tape": [
@@ -336,20 +336,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 97.26,
-    "pct": -1.78
+    "price": 97.03,
+    "pct": -2.01
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4197.2,
-    "pct": 0.39
+    "price": 4198.2,
+    "pct": 0.41
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.864,
-    "pct": 0.03
+    "price": 101.859,
+    "pct": 0.02
    },
    {
     "sym": "SPY",
@@ -370,9 +370,9 @@
     "pct": 21.45
    }
   ],
-  "as_of": "2026-10-19T06:27:05.376617+00:00",
+  "as_of": "2026-10-19T06:33:05.327760+00:00",
   "tone": "risk-off",
-  "age_min": 2.994687583333333
+  "age_min": 1.9872563833333332
  },
  "stories": [
   {
@@ -397,6 +397,13 @@
    "read": "unclear"
   },
   {
+   "topic": "Russia / Ukraine",
+   "title": "Graham Breaks With Trump Over Russia Sanctions Law Her Brother Championed - The New York Times",
+   "source": "The New York Times",
+   "published": "Sat, 17 Oct 2026 20:14:01 GMT",
+   "read": "unclear"
+  },
+  {
    "topic": "Saudi / Gulf supply",
    "title": "An attack on two oil tankers off the coast of Saudi Arabia has reignited tensions in the Gulf, while the price of crude oil continues to rise - voz.us",
    "source": "voz.us",
@@ -405,16 +412,9 @@
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Iran\u2019s IRGC Navy Says Oil Tanker Caught Fire After Striking Mine in Strait of Hormuz: how 5 outlets framed it - NewsCord",
-   "source": "NewsCord",
-   "published": "Mon, 19 Oct 2026 05:21:02 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Putin Reportedly Wants A Summit With Trump And Xi On Ukraine\u2014Without Zelenskyy - Forbes",
-   "source": "Forbes",
-   "published": "Mon, 19 Oct 2026 05:01:23 GMT",
+   "title": "Iran War, Hormuz Disruption Keep Energy Security in Focus - Kurdistan24",
+   "source": "Kurdistan24",
+   "published": "Mon, 19 Oct 2026 05:32:01 GMT",
    "read": "unclear"
   }
  ],
