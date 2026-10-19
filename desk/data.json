@@ -1,115 +1,106 @@
 {
- "generated_utc": "2026-10-19T03:55:03+00:00",
- "date_et": "2026-10-18",
+ "generated_utc": "2026-10-19T04:00:04+00:00",
+ "date_et": "2026-10-19",
  "build": "0d463cfe05",
  "tape": [
   {
-   "time": "10:15",
-   "ccy": "All",
+   "time": "00:30",
+   "ccy": "JPY",
    "impact": "Low",
-   "title": "IMF Meetings",
-   "cons": "",
-   "prev": "",
-   "actual": ""
-  },
-  {
-   "time": "17:30",
-   "ccy": "NZD",
-   "impact": "Low",
-   "title": "BusinessNZ Services Index",
-   "cons": "",
-   "prev": "51.2",
-   "actual": "50.9"
-  },
-  {
-   "time": "17:45",
-   "ccy": "NZD",
-   "impact": "Low",
-   "title": "Trade Balance",
-   "cons": "-775M",
-   "prev": "-1349M",
-   "actual": "-1971M"
-  },
-  {
-   "time": "19:01",
-   "ccy": "GBP",
-   "impact": "Low",
-   "title": "Rightmove HPI m/m",
-   "cons": "",
-   "prev": "0.7%",
-   "actual": "1.0%"
-  },
-  {
-   "time": "19:05",
-   "ccy": "AUD",
-   "impact": "Low",
-   "title": "RBA Assist Gov Kent Speaks",
-   "cons": "",
-   "prev": "",
-   "actual": ""
-  },
-  {
-   "time": "21:30",
-   "ccy": "CNY",
-   "impact": "Low",
-   "title": "New Home Prices m/m",
-   "cons": "",
-   "prev": "-0.17%",
-   "actual": "-0.14%"
-  },
-  {
-   "time": "22:00",
-   "ccy": "CNY",
-   "impact": "Low",
-   "title": "Fixed Asset Investment ytd/y",
-   "cons": "-7.3%",
-   "prev": "-7.2%",
-   "actual": "-7.2%"
-  },
-  {
-   "time": "22:00",
-   "ccy": "CNY",
-   "impact": "Low",
-   "title": "GDP q/y",
-   "cons": "4.4%",
-   "prev": "4.3%",
-   "actual": "4.5%"
-  },
-  {
-   "time": "22:00",
-   "ccy": "CNY",
-   "impact": "Low",
-   "title": "Industrial Production y/y",
-   "cons": "5.4%",
-   "prev": "5.2%",
-   "actual": "5.5%"
-  },
-  {
-   "time": "22:00",
-   "ccy": "CNY",
-   "impact": "Low",
-   "title": "NBS Press Conference",
-   "cons": "",
-   "prev": "",
-   "actual": ""
-  },
-  {
-   "time": "22:00",
-   "ccy": "CNY",
-   "impact": "Low",
-   "title": "Retail Sales y/y",
-   "cons": "0.5%",
+   "title": "Tertiary Industry Activity m/m",
+   "cons": "-0.3%",
    "prev": "0.4%",
-   "actual": "1.1%"
+   "actual": ""
   },
   {
-   "time": "22:00",
+   "time": "02:02",
    "ccy": "CNY",
    "impact": "Low",
-   "title": "Unemployment Rate",
-   "cons": "5.3%",
-   "prev": "5.3%",
-   "actual": "5.2%"
+   "title": "Foreign Direct Investment ytd/y",
+   "cons": "",
+   "prev": "-5.3%",
+   "actual": ""
+  },
+  {
+   "time": "08:30",
+   "ccy": "CAD",
+   "impact": "High",
+   "title": "CPI m/m",
+   "cons": "0.2%",
+   "prev": "-0.1%",
+   "actual": ""
+  },
+  {
+   "time": "08:30",
+   "ccy": "CAD",
+   "impact": "High",
+   "title": "Median CPI y/y",
+   "cons": "2.0%",
+   "prev": "2.0%",
+   "actual": ""
+  },
+  {
+   "time": "08:30",
+   "ccy": "CAD",
+   "impact": "High",
+   "title": "Trimmed CPI y/y",
+   "cons": "1.9%",
+   "prev": "1.9%",
+   "actual": ""
+  },
+  {
+   "time": "08:30",
+   "ccy": "CAD",
+   "impact": "Medi",
+   "title": "Common CPI y/y",
+   "cons": "2.6%",
+   "prev": "2.6%",
+   "actual": ""
+  },
+  {
+   "time": "08:30",
+   "ccy": "CAD",
+   "impact": "Low",
+   "title": "Core CPI m/m",
+   "cons": "",
+   "prev": "0.1%",
+   "actual": ""
+  },
+  {
+   "time": "10:00",
+   "ccy": "USD",
+   "impact": "Low",
+   "title": "NAHB Housing Market Index",
+   "cons": "31",
+   "prev": "32",
+   "actual": ""
+  },
+  {
+   "time": "11:30",
+   "ccy": "CAD",
+   "impact": "Low",
+   "title": "BOC Business Outlook Survey",
+   "cons": "",
+   "prev": "",
+   "actual": ""
+  },
+  {
+   "time": "21:00",
+   "ccy": "CNY",
+   "impact": "Low",
+   "title": "1-y Loan Prime Rate",
+   "cons": "3.00%",
+   "prev": "3.00%",
+   "actual": ""
+  },
+  {
+   "time": "21:00",
+   "ccy": "CNY",
+   "impact": "Low",
+   "title": "5-y Loan Prime Rate",
+   "cons": "3.50%",
+   "prev": "3.50%",
+   "actual": ""
   }
  ],
  "rates": {
@@ -351,14 +342,14 @@
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4199.7,
-    "pct": 0.44
+    "price": 4199.8,
+    "pct": 0.45
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.832,
-    "pct": -0.0
+    "price": 101.819,
+    "pct": -0.02
    },
    {
     "sym": "SPY",
@@ -379,9 +370,9 @@
     "pct": 21.45
    }
   ],
-  "as_of": "2026-10-19T03:54:05.984033+00:00",
+  "as_of": "2026-10-19T03:57:05.844866+00:00",
   "tone": "risk-off",
-  "age_min": 0.9627669666666667
+  "age_min": 2.9741775666666666
  },
  "stories": [
   {
