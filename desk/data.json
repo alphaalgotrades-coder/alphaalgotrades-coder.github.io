@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-19T09:50:04+00:00",
+ "generated_utc": "2026-10-19T09:55:04+00:00",
  "date_et": "2026-10-19",
  "build": "0d463cfe05",
  "tape": [
@@ -336,20 +336,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 98.27,
-    "pct": -0.76
+    "price": 98.3,
+    "pct": -0.73
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4189.0,
-    "pct": 0.19
+    "price": 4189.3,
+    "pct": 0.2
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.914,
-    "pct": 0.08
+    "price": 101.906,
+    "pct": 0.07
    },
    {
     "sym": "SPY",
@@ -366,22 +366,15 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 18.65,
-    "pct": -6.7
+    "price": 18.67,
+    "pct": -6.6
    }
   ],
-  "as_of": "2026-10-19T09:48:06.943341+00:00",
+  "as_of": "2026-10-19T09:54:15.456693+00:00",
   "tone": "mixed",
-  "age_min": 1.9613926
+  "age_min": 0.8184427500000001
  },
  "stories": [
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Zelenskyy Says Trump Is Pushing Ukraine to Yield to Russia - Bloomberg.com",
-   "source": "Bloomberg.com",
-   "published": "Sun, 18 Oct 2026 18:21:08 GMT",
-   "read": "unclear"
-  },
   {
    "topic": "Taiwan / China",
    "title": "\u2018Hybrid warfare\u2019: Taiwan drives away 16 Chinese ships - Al Jazeera",
@@ -415,6 +408,13 @@
    "title": "Tehran seeks to punish Trump in midterms with oil price pain, Iranian officials say - The Washington Post",
    "source": "The Washington Post",
    "published": "Mon, 19 Oct 2026 09:17:56 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Saudi / Gulf supply",
+   "title": "Saudi Aramco cuts Asia crude prices: what it means for Saudi Aramco stock - ad-hoc-news.de",
+   "source": "ad-hoc-news.de",
+   "published": "Mon, 19 Oct 2026 09:05:55 GMT",
    "read": "unclear"
   }
  ],
