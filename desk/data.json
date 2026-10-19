@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-19T02:10:04+00:00",
+ "generated_utc": "2026-10-19T02:15:03+00:00",
  "date_et": "2026-10-18",
  "build": "0d463cfe05",
  "tape": [
@@ -64,7 +64,7 @@
    "title": "Fixed Asset Investment ytd/y",
    "cons": "-7.3%",
    "prev": "-7.2%",
-   "actual": ""
+   "actual": "-7.2%"
   },
   {
    "time": "22:00",
@@ -73,7 +73,7 @@
    "title": "GDP q/y",
    "cons": "4.4%",
    "prev": "4.3%",
-   "actual": ""
+   "actual": "4.5%"
   },
   {
    "time": "22:00",
@@ -109,7 +109,7 @@
    "title": "Unemployment Rate",
    "cons": "5.3%",
    "prev": "5.3%",
-   "actual": ""
+   "actual": "5.2%"
   }
  ],
  "rates": {
@@ -345,20 +345,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 97.66,
-    "pct": -1.37
+    "price": 97.6,
+    "pct": -1.43
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4192.5,
-    "pct": 0.27
+    "price": 4195.6,
+    "pct": 0.35
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.824,
-    "pct": -0.01
+    "price": 101.817,
+    "pct": -0.02
    },
    {
     "sym": "SPY",
@@ -379,18 +379,11 @@
     "pct": 21.45
    }
   ],
-  "as_of": "2026-10-19T02:09:06.123947+00:00",
+  "as_of": "2026-10-19T02:12:05.608724+00:00",
   "tone": "risk-off",
-  "age_min": 0.9709069833333334
+  "age_min": 2.9749920666666667
  },
  "stories": [
-  {
-   "topic": "Taiwan / China",
-   "title": "UPDATED: Chinese Carrier Strike Group Heads to South China Sea After Philippine Sea Drills - USNI News",
-   "source": "USNI News",
-   "published": "Wed, 14 Oct 2026 17:41:00 GMT",
-   "read": "escalation"
-  },
   {
    "topic": "Saudi / Gulf supply",
    "title": "Saudi Aramco\u2019s New China Refinery Venture Gets First Crude Cargo - Bloomberg.com",
@@ -424,6 +417,13 @@
    "title": "Chinese maritime control a growing issue - Taipei Times",
    "source": "Taipei Times",
    "published": "Sun, 18 Oct 2026 16:00:00 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Saudi / Gulf supply",
+   "title": "Oil Rally Lifts Saudi Stocks, While Qatar And Egypt Markets Tumble - NDTV Profit",
+   "source": "NDTV Profit",
+   "published": "Sun, 18 Oct 2026 15:33:22 GMT",
    "read": "unclear"
   }
  ],
