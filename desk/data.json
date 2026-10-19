@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-19T00:10:03+00:00",
+ "generated_utc": "2026-10-19T00:15:04+00:00",
  "date_et": "2026-10-18",
  "build": "0d463cfe05",
  "tape": [
@@ -345,20 +345,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 97.72,
-    "pct": -1.31
+    "price": 97.52,
+    "pct": -1.51
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4204.8,
-    "pct": 0.57
+    "price": 4208.1,
+    "pct": 0.65
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.817,
-    "pct": -0.02
+    "price": 101.784,
+    "pct": -0.05
    },
    {
     "sym": "SPY",
@@ -379,9 +379,9 @@
     "pct": 21.45
    }
   ],
-  "as_of": "2026-10-19T00:09:06.015548+00:00",
+  "as_of": "2026-10-19T00:12:06.017746+00:00",
   "tone": "risk-off",
-  "age_min": 0.9670244333333333
+  "age_min": 2.9730182833333334
  },
  "stories": [
   {
@@ -421,10 +421,10 @@
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "America Is Now an Ally of Russia - The Atlantic",
-   "source": "The Atlantic",
-   "published": "Sun, 18 Oct 2026 21:51:28 GMT",
-   "read": "unclear"
+   "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going - BBC",
+   "source": "BBC",
+   "published": "Sun, 18 Oct 2026 22:10:45 GMT",
+   "read": "de-escalation"
   }
  ],
  "ratings": [],
