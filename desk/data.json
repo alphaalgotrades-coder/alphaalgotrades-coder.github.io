@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-19T04:10:03+00:00",
+ "generated_utc": "2026-10-19T04:15:03+00:00",
  "date_et": "2026-10-19",
  "build": "0d463cfe05",
  "tape": [
@@ -336,19 +336,19 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 97.36,
-    "pct": -1.68
+    "price": 97.42,
+    "pct": -1.62
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4201.1,
-    "pct": 0.48
+    "price": 4200.1,
+    "pct": 0.45
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.821,
+    "price": 101.817,
     "pct": -0.02
    },
    {
@@ -370,9 +370,9 @@
     "pct": 21.45
    }
   ],
-  "as_of": "2026-10-19T04:09:07.629878+00:00",
+  "as_of": "2026-10-19T04:12:07.939559+00:00",
   "tone": "risk-off",
-  "age_min": 0.9381836166666666
+  "age_min": 2.9327258
  },
  "stories": [
   {
@@ -380,13 +380,6 @@
    "title": "Saudi Aramco\u2019s New China Refinery Venture Gets First Crude Cargo - Bloomberg.com",
    "source": "Bloomberg.com",
    "published": "Wed, 14 Oct 2026 03:13:00 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Taiwan / China",
-   "title": "China Spied on Taiwanese President\u2019s Son \u2013 in the US - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
-   "source": "The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
-   "published": "Thu, 15 Oct 2026 19:18:46 GMT",
    "read": "unclear"
   },
   {
@@ -401,6 +394,13 @@
    "title": "Iran's IRGC navy says oil tanker hits mine, catches fire in Strait of Hormuz - Middle East Eye",
    "source": "Middle East Eye",
    "published": "Sun, 18 Oct 2026 21:30:00 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Taiwan / China",
+   "title": "\u2018Hybrid warfare\u2019: Taiwan drives away 16 Chinese ships - Al Jazeera",
+   "source": "Al Jazeera",
+   "published": "Sun, 18 Oct 2026 16:28:02 GMT",
    "read": "escalation"
   },
   {
