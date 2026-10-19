@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-19T15:30:05+00:00",
+ "generated_utc": "2026-10-19T15:35:05+00:00",
  "date_et": "2026-10-19",
  "build": "0d463cfe05",
  "tape": [
@@ -103,7 +103,7 @@
     "lean": "hawkish",
     "source": "YAHOO_TSY_FUT_ZT",
     "latency": "after-hours-futures-proxy",
-    "snapshot_ts": "2026-10-19T15:18:00+00:00",
+    "snapshot_ts": "2026-10-19T15:22:00+00:00",
     "snapshot_date": "2026-10-19",
     "prior_day": "2026-10-15",
     "prior_day_close": 4.77,
@@ -120,44 +120,44 @@
      4.764,
      4.76,
      4.76,
-     4.762,
-     4.764,
      4.766,
-     4.762,
+     4.766,
+     4.766,
+     4.764,
      4.762,
      4.76,
      4.758,
      4.758,
-     4.754,
+     4.758,
      4.752,
-     4.75,
-     4.75,
-     4.764,
-     4.762,
-     4.77,
+     4.748,
+     4.752,
+     4.76,
+     4.766,
+     4.768,
      4.78,
      4.78,
-     4.774,
-     4.784,
-     4.782,
-     4.78,
-     4.778,
      4.772,
-     4.78,
-     4.788,
-     4.788,
-     4.792,
-     4.792
+     4.782,
+     4.782,
+     4.782,
+     4.77,
+     4.782,
+     4.782,
+     4.79,
+     4.794,
+     4.79,
+     4.79
     ]
    },
    {
     "series": "5Y",
-    "level": 4.923,
-    "d_day_bps": 2.4,
+    "level": 4.925,
+    "d_day_bps": 2.6,
     "lean": "hawkish",
     "source": "YAHOO_TSY_FUT_ZF",
     "latency": "after-hours-futures-proxy",
-    "snapshot_ts": "2026-10-19T15:18:00+00:00",
+    "snapshot_ts": "2026-10-19T15:22:00+00:00",
     "snapshot_date": "2026-10-19",
     "prior_day": "2026-10-15",
     "prior_day_close": 4.899,
@@ -170,38 +170,38 @@
      4.871,
      4.875,
      4.88,
-     4.88,
-     4.89,
-     4.89,
-     4.887,
+     4.882,
+     4.889,
+     4.889,
      4.885,
-     4.883,
-     4.883,
+     4.882,
      4.88,
+     4.883,
+     4.882,
      4.875,
-     4.876,
-     4.887,
+     4.878,
+     4.896,
      4.892,
-     4.892,
-     4.902,
-     4.904,
-     4.904,
-     4.894,
      4.901,
-     4.906,
-     4.902,
-     4.902,
      4.904,
+     4.902,
+     4.897,
+     4.899,
      4.904,
-     4.894,
+     4.908,
+     4.902,
      4.906,
      4.908,
-     4.908,
+     4.892,
+     4.895,
+     4.906,
+     4.911,
      4.915,
-     4.926,
      4.922,
+     4.927,
      4.923,
-     4.922
+     4.92,
+     4.926
     ]
    },
    {
@@ -211,7 +211,7 @@
     "lean": "hawkish",
     "source": "YAHOO_TSY_FUT_ZN",
     "latency": "after-hours-futures-proxy",
-    "snapshot_ts": "2026-10-19T15:18:00+00:00",
+    "snapshot_ts": "2026-10-19T15:22:00+00:00",
     "snapshot_date": "2026-10-19",
     "prior_day": "2026-10-15",
     "prior_day_close": 5.098,
@@ -221,41 +221,41 @@
      5.059,
      5.057,
      5.062,
-     5.057,
+     5.055,
      5.059,
      5.064,
      5.066,
-     5.075,
-     5.075,
+     5.078,
      5.075,
      5.071,
-     5.066,
      5.071,
-     5.071,
+     5.068,
+     5.073,
+     5.068,
      5.064,
-     5.066,
-     5.087,
-     5.08,
+     5.068,
+     5.078,
+     5.09,
      5.098,
-     5.096,
-     5.098,
-     5.106,
      5.098,
      5.102,
-     5.104,
-     5.106,
+     5.098,
      5.096,
      5.102,
      5.106,
+     5.102,
+     5.098,
+     5.108,
      5.093,
      5.098,
      5.106,
-     5.105,
-     5.121,
-     5.127,
+     5.11,
+     5.115,
      5.123,
-     5.125,
-     5.121
+     5.129,
+     5.121,
+     5.121,
+     5.127
     ]
    },
    {
@@ -265,7 +265,7 @@
     "lean": "hawkish",
     "source": "YAHOO_TSY_FUT_ZB",
     "latency": "after-hours-futures-proxy",
-    "snapshot_ts": "2026-10-19T15:18:00+00:00",
+    "snapshot_ts": "2026-10-19T15:21:00+00:00",
     "snapshot_date": "2026-10-19",
     "prior_day": "2026-10-15",
     "prior_day_close": 5.436,
@@ -280,40 +280,40 @@
      5.407,
      5.409,
      5.42,
+     5.416,
      5.418,
-     5.418,
-     5.414,
-     5.414,
      5.416,
      5.416,
-     5.409,
      5.412,
-     5.427,
-     5.423,
-     5.434,
-     5.434,
-     5.434,
-     5.444,
-     5.441,
-     5.443,
-     5.443,
-     5.447,
+     5.412,
+     5.41,
+     5.414,
+     5.422,
+     5.432,
+     5.432,
+     5.436,
+     5.436,
+     5.44,
      5.436,
      5.442,
-     5.446,
+     5.442,
+     5.442,
+     5.437,
+     5.451,
+     5.438,
      5.44,
-     5.443,
      5.449,
-     5.445,
-     5.456,
-     5.462,
-     5.458,
-     5.462,
-     5.46
+     5.451,
+     5.453,
+     5.46,
+     5.464,
+     5.46,
+     5.46,
+     5.462
     ]
    }
   ],
-  "as_of": "2026-10-19T15:18:00+00:00",
+  "as_of": "2026-10-19T15:22:00+00:00",
   "note": "after-hours-futures-proxy"
  },
  "strip": {
@@ -321,49 +321,49 @@
    {
     "sym": "MOVE",
     "name": "Bond-market volatility",
-    "price": 102.8095,
-    "pct": 1.69
+    "price": 102.6954,
+    "pct": 1.58
    },
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 97.65,
-    "pct": -1.38
+    "price": 97.81,
+    "pct": -1.22
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4163.3,
-    "pct": -0.43
+    "price": 4164.3,
+    "pct": -0.4
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.945,
-    "pct": 0.11
+    "price": 101.936,
+    "pct": 0.1
    },
    {
     "sym": "SPY",
     "name": "S&P 500 ETF",
-    "price": 769.84,
-    "pct": 0.86
+    "price": 769.498,
+    "pct": 0.82
    },
    {
     "sym": "QQQ",
     "name": "Nasdaq 100 ETF",
-    "price": 723.7,
-    "pct": 1.96
+    "price": 723.205,
+    "pct": 1.89
    },
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 17.72,
-    "pct": -11.36
+    "price": 17.65,
+    "pct": -11.71
    }
   ],
-  "as_of": "2026-10-19T15:27:05.738780+00:00",
+  "as_of": "2026-10-19T15:33:05.658701+00:00",
   "tone": "risk-on",
-  "age_min": 2.9926001166666665
+  "age_min": 2.003252333333333
  },
  "stories": [
   {
@@ -395,18 +395,18 @@
    "read": "escalation"
   },
   {
+   "topic": "Russia / Ukraine",
+   "title": "Opinion | How to stop Putin\u2019s missiles before they even leave Russia - The Washington Post",
+   "source": "The Washington Post",
+   "published": "Mon, 19 Oct 2026 15:18:02 GMT",
+   "read": "unclear"
+  },
+  {
    "topic": "Iran / Hormuz",
    "title": "Strait of Hormuz scoured for spilt cargo after Iran attacks container ships - The Guardian",
    "source": "The Guardian",
    "published": "Mon, 19 Oct 2026 14:48:00 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran's Araqchi blames US for Strait of Hormuz tensions, calls for diplomacy - Reuters",
-   "source": "Reuters",
-   "published": "Mon, 19 Oct 2026 14:15:43 GMT",
-   "read": "unclear"
   }
  ],
  "ratings": [],
@@ -511,29 +511,29 @@
    {
     "code": "FR",
     "name": "France",
-    "level": 4.9243,
+    "level": 4.9213,
     "as_of": "2026-10-19",
-    "spread_bp": 146.8,
-    "d_day_bps": 7.1
+    "spread_bp": 146.9,
+    "d_day_bps": 6.8
    },
    {
     "code": "DE",
     "name": "Germany",
-    "level": 3.456,
+    "level": 3.4522,
     "as_of": "2026-10-19",
     "spread_bp": null,
-    "d_day_bps": 3.5
+    "d_day_bps": 3.2
    },
    {
     "code": "IT",
     "name": "Italy",
-    "level": 4.575,
+    "level": 4.5695,
     "as_of": "2026-10-19",
-    "spread_bp": 111.9,
-    "d_day_bps": 6.4
+    "spread_bp": 111.7,
+    "d_day_bps": 5.8
    }
   ],
-  "bund": 3.456,
+  "bund": 3.4522,
   "note": "10-year government bonds; spread measured over Germany"
  },
  "auctions": {
@@ -541,20 +541,8 @@
    {
     "date": "",
     "type": "Bill",
-    "term": "13-Week",
-    "amount_bn": 95.0
-   },
-   {
-    "date": "",
-    "type": "Bill",
     "term": "6-Week",
     "amount_bn": 95.0
-   },
-   {
-    "date": "",
-    "type": "Bill",
-    "term": "26-Week",
-    "amount_bn": 82.0
    },
    {
     "date": "",
@@ -573,9 +561,21 @@
     "type": "Bill",
     "term": "17-Week",
     "amount_bn": null
+   },
+   {
+    "date": "",
+    "type": "Bill",
+    "term": "4-Week",
+    "amount_bn": null
+   },
+   {
+    "date": "",
+    "type": "Bill",
+    "term": "8-Week",
+    "amount_bn": null
    }
   ],
-  "total_bn": 311.0,
+  "total_bn": 134.0,
   "note": "TreasuryDirect, announced offerings"
  },
  "book": {
