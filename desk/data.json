@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-19T06:00:04+00:00",
+ "generated_utc": "2026-10-19T06:05:04+00:00",
  "date_et": "2026-10-19",
  "build": "0d463cfe05",
  "tape": [
@@ -13,7 +13,7 @@
    "actual": "-0.1%"
   },
   {
-   "time": "02:02",
+   "time": "05:10",
    "ccy": "CNY",
    "impact": "Low",
    "title": "Foreign Direct Investment ytd/y",
@@ -336,20 +336,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 97.31,
-    "pct": -1.73
+    "price": 97.38,
+    "pct": -1.66
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4205.7,
-    "pct": 0.59
+    "price": 4205.0,
+    "pct": 0.57
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.818,
-    "pct": -0.02
+    "price": 101.83,
+    "pct": -0.01
    },
    {
     "sym": "SPY",
@@ -370,9 +370,9 @@
     "pct": 21.45
    }
   ],
-  "as_of": "2026-10-19T05:57:05.287163+00:00",
+  "as_of": "2026-10-19T06:03:05.576944+00:00",
   "tone": "risk-off",
-  "age_min": 2.9891728333333334
+  "age_min": 1.9825515666666667
  },
  "stories": [
   {
@@ -588,7 +588,7 @@
   "note": "TreasuryDirect, announced offerings"
  },
  "book": {
-  "as_of_et": "01:05",
+  "as_of_et": "02:05",
   "since": "2026-07-13",
   "trading_days": 52,
   "green_days": 28,
