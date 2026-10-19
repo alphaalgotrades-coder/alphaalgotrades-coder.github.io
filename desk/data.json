@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-19T23:30:03+00:00",
+ "generated_utc": "2026-10-19T23:35:03+00:00",
  "date_et": "2026-10-19",
  "build": "0d463cfe05",
  "tape": [
@@ -327,14 +327,14 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 98.27,
-    "pct": -0.27
+    "price": 98.25,
+    "pct": -0.29
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4152.7,
-    "pct": -0.18
+    "price": 4153.8,
+    "pct": -0.15
    },
    {
     "sym": "DXY",
@@ -361,9 +361,9 @@
     "pct": -7.75
    }
   ],
-  "as_of": "2026-10-19T23:27:05.536152+00:00",
+  "as_of": "2026-10-19T23:33:09.114976+00:00",
   "tone": "risk-on",
-  "age_min": 2.9696469333333337
+  "age_min": 1.9153803666666667
  },
  "stories": [
   {
@@ -395,17 +395,17 @@
    "read": "escalation"
   },
   {
-   "topic": "Saudi / Gulf supply",
-   "title": "Saudi Arabia ramps up Gulf oil exports after pipeline attack, data shows - Reuters",
-   "source": "Reuters",
-   "published": "Mon, 21 Sep 2026 07:00:00 GMT",
-   "read": "escalation"
-  },
-  {
    "topic": "Russia / Ukraine",
    "title": "Russia proposes a Trump-Xi-Putin meeting in China next month - The Washington Post",
    "source": "The Washington Post",
    "published": "Mon, 19 Oct 2026 22:58:45 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Trump open to idea of joint meeting with Xi, Putin next month - Reuters",
+   "source": "Reuters",
+   "published": "Mon, 19 Oct 2026 22:28:49 GMT",
    "read": "unclear"
   }
  ],
