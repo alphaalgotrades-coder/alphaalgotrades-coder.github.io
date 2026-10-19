@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-19T09:30:04+00:00",
+ "generated_utc": "2026-10-19T09:35:04+00:00",
  "date_et": "2026-10-19",
  "build": "0d463cfe05",
  "tape": [
@@ -328,28 +328,22 @@
  "strip": {
   "rows": [
    {
-    "sym": "MOVE",
-    "name": "Bond-market volatility",
-    "price": 101.103,
-    "pct": -1.35
-   },
-   {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 97.93,
-    "pct": -1.1
+    "price": 98.09,
+    "pct": -0.94
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4191.7,
-    "pct": 0.25
+    "price": 4189.7,
+    "pct": 0.21
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.92,
-    "pct": 0.08
+    "price": 101.929,
+    "pct": 0.09
    },
    {
     "sym": "SPY",
@@ -366,13 +360,13 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 18.77,
-    "pct": -6.1
+    "price": 18.73,
+    "pct": -6.3
    }
   ],
-  "as_of": "2026-10-19T09:27:07.191041+00:00",
+  "as_of": "2026-10-19T09:33:07.359594+00:00",
   "tone": "mixed",
-  "age_min": 2.965444066666667
+  "age_min": 1.95504435
  },
  "stories": [
   {
@@ -411,11 +405,11 @@
    "read": "escalation"
   },
   {
-   "topic": "Russia / Ukraine",
-   "title": "Ukraine strikes Putin's hometown, as Trump eases pressure on Russia - DW.com",
-   "source": "DW.com",
-   "published": "Mon, 19 Oct 2026 08:59:09 GMT",
-   "read": "escalation"
+   "topic": "Iran / Hormuz",
+   "title": "Tehran seeks to punish Trump in midterms with oil price pain, Iranian officials say - The Washington Post",
+   "source": "The Washington Post",
+   "published": "Mon, 19 Oct 2026 09:17:56 GMT",
+   "read": "unclear"
   }
  ],
  "ratings": [],
