@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-20T07:55:03+00:00",
+ "generated_utc": "2026-10-20T08:00:05+00:00",
  "date_et": "2026-10-20",
  "build": "0d463cfe05",
  "tape": [
@@ -116,7 +116,7 @@
    "ccy": "USD",
    "impact": "Low",
    "title": "Pending Home Sales m/m",
-   "cons": "-0.7%",
+   "cons": "-0.6%",
    "prev": "0.3%",
    "actual": ""
   },
@@ -408,20 +408,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 99.23,
-    "pct": 0.7
+    "price": 99.37,
+    "pct": 0.84
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4141.5,
-    "pct": -0.45
+    "price": 4142.2,
+    "pct": -0.43
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.771,
-    "pct": -0.2
+    "price": 101.768,
+    "pct": -0.21
    },
    {
     "sym": "SPY",
@@ -438,13 +438,13 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 18.58,
-    "pct": 0.76
+    "price": 18.55,
+    "pct": 0.6
    }
   ],
-  "as_of": "2026-10-20T07:54:05.724914+00:00",
+  "as_of": "2026-10-20T07:57:06.123935+00:00",
   "tone": "risk-on",
-  "age_min": 0.9728102333333334
+  "age_min": 2.9986335
  },
  "stories": [
   {
