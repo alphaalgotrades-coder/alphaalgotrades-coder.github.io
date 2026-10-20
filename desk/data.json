@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-20T23:10:04+00:00",
+ "generated_utc": "2026-10-20T23:15:04+00:00",
  "date_et": "2026-10-20",
  "build": "0d463cfe05",
  "tape": [
@@ -399,14 +399,14 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 98.2,
-    "pct": 0.39
+    "price": 98.21,
+    "pct": 0.4
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4138.2,
-    "pct": -0.11
+    "price": 4138.4,
+    "pct": -0.1
    },
    {
     "sym": "DXY",
@@ -433,11 +433,32 @@
     "pct": -6.13
    }
   ],
-  "as_of": "2026-10-20T23:09:05.665509+00:00",
+  "as_of": "2026-10-20T23:12:05.484347+00:00",
   "tone": "risk-on",
-  "age_min": 0.97774695
+  "age_min": 2.988288116666667
  },
  "stories": [
+  {
+   "topic": "Taiwan / China",
+   "title": "China's Unprecedented Drills Across Six Maritime Zones - \uc870\uc120\uc77c\ubcf4",
+   "source": "\uc870\uc120\uc77c\ubcf4",
+   "published": "Wed, 14 Oct 2026 00:42:44 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Witkoff to present Putin with peace proposal after talks with Zelensky - Axios",
+   "source": "Axios",
+   "published": "Tue, 20 Oct 2026 23:05:57 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Zelenskyy seeks to mend ties with Trump ahead of Witkoff-Putin meeting - PBS",
+   "source": "PBS",
+   "published": "Tue, 20 Oct 2026 22:55:59 GMT",
+   "read": "unclear"
+  },
   {
    "topic": "Saudi / Gulf supply",
    "title": "Next major oil supply shock could come from Saudi Arabia - www.daily-sun.com",
@@ -458,27 +479,6 @@
    "source": "BBC",
    "published": "Tue, 20 Oct 2026 20:01:04 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Shafaq News..US, Iran clash over Hormuz security and negotiations - \u0634\u0641\u0642 \u0646\u064a\u0648\u0632",
-   "source": "\u0634\u0641\u0642 \u0646\u064a\u0648\u0632",
-   "published": "Tue, 20 Oct 2026 19:58:05 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran says supertanker carrying over 2 million barrels of oil hit mine near Hormuz - Anadolu Ajans\u0131",
-   "source": "Anadolu Ajans\u0131",
-   "published": "Tue, 20 Oct 2026 18:32:38 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Sea mine crisis re-emerges in Strait of Hormuz as Tehran urges Washington to accept deal - Fox News",
-   "source": "Fox News",
-   "published": "Tue, 20 Oct 2026 18:26:18 GMT",
-   "read": "escalation"
   }
  ],
  "ratings": [],
