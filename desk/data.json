@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-20T06:00:05+00:00",
+ "generated_utc": "2026-10-20T06:05:04+00:00",
  "date_et": "2026-10-20",
  "build": "0d463cfe05",
  "tape": [
@@ -10,7 +10,7 @@
    "title": "German PPI m/m",
    "cons": "1.5%",
    "prev": "1.1%",
-   "actual": ""
+   "actual": "1.9%"
   },
   {
    "time": "02:00",
@@ -408,20 +408,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 98.93,
-    "pct": 0.4
+    "price": 99.01,
+    "pct": 0.48
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4146.8,
-    "pct": -0.32
+    "price": 4141.7,
+    "pct": -0.44
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.781,
-    "pct": -0.2
+    "price": 101.798,
+    "pct": -0.18
    },
    {
     "sym": "SPY",
@@ -442,9 +442,9 @@
     "pct": -7.75
    }
   ],
-  "as_of": "2026-10-20T05:57:05.685421+00:00",
+  "as_of": "2026-10-20T06:03:05.634821+00:00",
   "tone": "risk-on",
-  "age_min": 2.995119633333333
+  "age_min": 1.9890169833333333
  },
  "stories": [
   {
@@ -660,7 +660,7 @@
   "note": "TreasuryDirect, announced offerings"
  },
  "book": {
-  "as_of_et": "01:05",
+  "as_of_et": "02:05",
   "since": "2026-07-13",
   "trading_days": 52,
   "green_days": 28,
