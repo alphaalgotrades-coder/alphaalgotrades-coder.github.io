@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-20T01:10:04+00:00",
+ "generated_utc": "2026-10-20T01:15:04+00:00",
  "date_et": "2026-10-19",
  "build": "0d463cfe05",
  "tape": [
@@ -82,7 +82,7 @@
    "title": "1-y Loan Prime Rate",
    "cons": "3.00%",
    "prev": "3.00%",
-   "actual": ""
+   "actual": "3.00%"
   },
   {
    "time": "21:00",
@@ -91,7 +91,7 @@
    "title": "5-y Loan Prime Rate",
    "cons": "3.50%",
    "prev": "3.50%",
-   "actual": ""
+   "actual": "3.50%"
   }
  ],
  "rates": {
@@ -327,19 +327,19 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 98.53,
-    "pct": -0.01
+    "price": 98.73,
+    "pct": 0.19
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4150.2,
-    "pct": -0.24
+    "price": 4147.1,
+    "pct": -0.31
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.945,
+    "price": 101.95,
     "pct": -0.03
    },
    {
@@ -361,9 +361,9 @@
     "pct": -7.75
    }
   ],
-  "as_of": "2026-10-20T01:09:05.604972+00:00",
+  "as_of": "2026-10-20T01:12:05.107842+00:00",
   "tone": "risk-on",
-  "age_min": 0.9809854833333334
+  "age_min": 2.99549895
  },
  "stories": [
   {
@@ -403,10 +403,10 @@
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "Putin floats US-China-Russia summit to end Ukraine war, WSJ reports - Semafor",
-   "source": "Semafor",
-   "published": "Mon, 19 Oct 2026 22:25:00 GMT",
-   "read": "de-escalation"
+   "title": "Trump\u2019s latest moves back Russia, buck Congress and U.S. allies - NBC News",
+   "source": "NBC News",
+   "published": "Mon, 19 Oct 2026 23:00:24 GMT",
+   "read": "unclear"
   }
  ],
  "ratings": [],
