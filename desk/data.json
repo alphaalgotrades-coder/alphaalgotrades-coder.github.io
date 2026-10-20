@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-20T23:50:04+00:00",
+ "generated_utc": "2026-10-20T23:55:04+00:00",
  "date_et": "2026-10-20",
  "build": "0d463cfe05",
  "tape": [
@@ -399,14 +399,14 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 98.37,
-    "pct": 0.56
+    "price": 98.38,
+    "pct": 0.57
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4134.0,
-    "pct": -0.21
+    "price": 4134.3,
+    "pct": -0.2
    },
    {
     "sym": "DXY",
@@ -433,9 +433,9 @@
     "pct": -6.13
    }
   ],
-  "as_of": "2026-10-20T23:48:06.532748+00:00",
+  "as_of": "2026-10-20T23:54:05.805648+00:00",
   "tone": "risk-on",
-  "age_min": 1.9607968
+  "age_min": 0.97213505
  },
  "stories": [
   {
@@ -467,18 +467,18 @@
    "read": "unclear"
   },
   {
-   "topic": "Russia / Ukraine",
-   "title": "Trump Says He Asked Putin to Release an American Jailed in Russia - The New York Times",
-   "source": "The New York Times",
-   "published": "Tue, 20 Oct 2026 20:47:51 GMT",
-   "read": "unclear"
-  },
-  {
    "topic": "Iran / Hormuz",
    "title": "Shafaq News..US, Iran clash over Hormuz security and negotiations - \u0634\u0641\u0642 \u0646\u064a\u0648\u0632",
    "source": "\u0634\u0641\u0642 \u0646\u064a\u0648\u0632",
    "published": "Tue, 20 Oct 2026 19:58:05 GMT",
    "read": "escalation"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Trump says he asked Putin to release American Stephen Hubbard - Reuters",
+   "source": "Reuters",
+   "published": "Tue, 20 Oct 2026 19:31:27 GMT",
+   "read": "unclear"
   }
  ],
  "ratings": [],
