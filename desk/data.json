@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-20T07:50:04+00:00",
+ "generated_utc": "2026-10-20T07:55:03+00:00",
  "date_et": "2026-10-20",
  "build": "0d463cfe05",
  "tape": [
@@ -408,20 +408,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 99.55,
-    "pct": 1.02
+    "price": 99.23,
+    "pct": 0.7
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4143.0,
-    "pct": -0.41
+    "price": 4141.5,
+    "pct": -0.45
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.749,
-    "pct": -0.23
+    "price": 101.771,
+    "pct": -0.2
    },
    {
     "sym": "SPY",
@@ -438,13 +438,13 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 18.56,
-    "pct": 0.65
+    "price": 18.58,
+    "pct": 0.76
    }
   ],
-  "as_of": "2026-10-20T07:48:15.111139+00:00",
+  "as_of": "2026-10-20T07:54:05.724914+00:00",
   "tone": "risk-on",
-  "age_min": 1.8249582
+  "age_min": 0.9728102333333334
  },
  "stories": [
   {
@@ -453,6 +453,13 @@
    "source": "Xinhua",
    "published": "Wed, 14 Oct 2026 12:49:36 GMT",
    "read": "unclear"
+  },
+  {
+   "topic": "Taiwan / China",
+   "title": "US Commission chair warns China Coast Guard patrols East of Taiwan are 'Highly Destabilising' - The Economic Times",
+   "source": "The Economic Times",
+   "published": "Tue, 20 Oct 2026 07:40:31 GMT",
+   "read": "escalation"
   },
   {
    "topic": "Iran / Hormuz",
@@ -480,13 +487,6 @@
    "title": "Chinese patrols to Taiwan\u2019s east are \u2018destabilising\u2019: US Congress-appointed official - The Straits Times",
    "source": "The Straits Times",
    "published": "Tue, 20 Oct 2026 03:26:00 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Taiwan / China",
-   "title": "Chinese patrols to Taiwan's east are 'destabilising', US Congress-appointed official says - Reuters",
-   "source": "Reuters",
-   "published": "Tue, 20 Oct 2026 03:21:00 GMT",
    "read": "escalation"
   }
  ],
