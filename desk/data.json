@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-20T23:30:04+00:00",
+ "generated_utc": "2026-10-20T23:35:04+00:00",
  "date_et": "2026-10-20",
  "build": "0d463cfe05",
  "tape": [
@@ -399,14 +399,14 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 98.25,
-    "pct": 0.44
+    "price": 98.33,
+    "pct": 0.52
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4136.5,
-    "pct": -0.15
+    "price": 4134.3,
+    "pct": -0.2
    },
    {
     "sym": "DXY",
@@ -433,9 +433,9 @@
     "pct": -6.13
    }
   ],
-  "as_of": "2026-10-20T23:27:05.314592+00:00",
+  "as_of": "2026-10-20T23:33:06.601755+00:00",
   "tone": "risk-on",
-  "age_min": 2.9935925666666665
+  "age_min": 1.9671018666666666
  },
  "stories": [
   {
@@ -474,11 +474,11 @@
    "read": "unclear"
   },
   {
-   "topic": "Russia / Ukraine",
-   "title": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo - BBC",
-   "source": "BBC",
-   "published": "Tue, 20 Oct 2026 20:01:04 GMT",
-   "read": "unclear"
+   "topic": "Iran / Hormuz",
+   "title": "Shafaq News..US, Iran clash over Hormuz security and negotiations - \u0634\u0641\u0642 \u0646\u064a\u0648\u0632",
+   "source": "\u0634\u0641\u0642 \u0646\u064a\u0648\u0632",
+   "published": "Tue, 20 Oct 2026 19:58:05 GMT",
+   "read": "escalation"
   }
  ],
  "ratings": [],
