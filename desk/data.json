@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-20T09:10:04+00:00",
+ "generated_utc": "2026-10-20T09:15:04+00:00",
  "date_et": "2026-10-20",
  "build": "0d463cfe05",
  "tape": [
@@ -55,7 +55,7 @@
    "title": "German ZEW Economic Sentiment",
    "cons": "30.2",
    "prev": "34.7",
-   "actual": ""
+   "actual": "28.1"
   },
   {
    "time": "05:00",
@@ -64,7 +64,7 @@
    "title": "ZEW Economic Sentiment",
    "cons": "23.6",
    "prev": "25.8",
-   "actual": ""
+   "actual": "18.5"
   },
   {
    "time": "05:10",
@@ -408,19 +408,19 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 100.36,
-    "pct": 1.85
+    "price": 100.29,
+    "pct": 1.78
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4139.2,
-    "pct": -0.5
+    "price": 4138.8,
+    "pct": -0.51
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.81,
+    "price": 101.808,
     "pct": -0.17
    },
    {
@@ -438,34 +438,20 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 18.64,
-    "pct": 1.08
+    "price": 18.68,
+    "pct": 1.3
    }
   ],
-  "as_of": "2026-10-20T09:09:06.253623+00:00",
+  "as_of": "2026-10-20T09:12:05.687324+00:00",
   "tone": "risk-on",
-  "age_min": 0.9697540833333333
+  "age_min": 2.986379
  },
  "stories": [
   {
    "topic": "Saudi / Gulf supply",
-   "title": "Saudi Aramco CEO warns global crude inventories near dangerously low levels - Xinhua",
-   "source": "Xinhua",
-   "published": "Wed, 14 Oct 2026 12:49:36 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Saudi / Gulf supply",
-   "title": "Houthis claim further strikes on Aramco targets, Riyadh airport - Quantum Commodity Intelligence",
-   "source": "Quantum Commodity Intelligence",
-   "published": "Tue, 20 Oct 2026 08:40:30 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Saudi / Gulf supply",
-   "title": "Asian Refiners in Dispute With Saudis Over 2027 Oil Contracts - Bloomberg.com",
-   "source": "Bloomberg.com",
-   "published": "Tue, 20 Oct 2026 08:03:18 GMT",
+   "title": "Aramco Finds a New Way to Keep Saudi Crude Flowing to China - Crude Oil Prices Today | OilPrice.com",
+   "source": "Crude Oil Prices Today | OilPrice.com",
+   "published": "Wed, 26 Aug 2026 07:00:00 GMT",
    "read": "unclear"
   },
   {
@@ -477,17 +463,31 @@
   },
   {
    "topic": "Iran / Hormuz",
+   "title": "Iran extends Strait of Hormuz blacklist to 120 ships, including vessels sunk - TradeWinds News",
+   "source": "TradeWinds News",
+   "published": "Tue, 20 Oct 2026 07:05:02 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
    "title": "Iran says it downed US drone over Strait of Hormuz - A News",
    "source": "A News",
    "published": "Tue, 20 Oct 2026 06:28:44 GMT",
    "read": "escalation"
   },
   {
-   "topic": "Iran / Hormuz",
-   "title": "Oil majors face spending test from Iran war windfall cash - Reuters",
+   "topic": "Taiwan / China",
+   "title": "Beijing sends naval forces to monitor US warship near disputed South China Sea shoal - The Straits Times",
+   "source": "The Straits Times",
+   "published": "Tue, 20 Oct 2026 05:16:00 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Taiwan / China",
+   "title": "China sends naval forces to monitor US warship near disputed shoal - Reuters",
    "source": "Reuters",
-   "published": "Tue, 20 Oct 2026 06:04:00 GMT",
-   "read": "unclear"
+   "published": "Tue, 20 Oct 2026 05:13:00 GMT",
+   "read": "escalation"
   }
  ],
  "ratings": [],
