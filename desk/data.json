@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-20T04:10:04+00:00",
+ "generated_utc": "2026-10-20T04:15:04+00:00",
  "date_et": "2026-10-20",
  "build": "0d463cfe05",
  "tape": [
@@ -408,19 +408,19 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 98.59,
-    "pct": 0.05
+    "price": 98.64,
+    "pct": 0.1
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4165.3,
-    "pct": 0.12
+    "price": 4164.0,
+    "pct": 0.09
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.81,
+    "price": 101.807,
     "pct": -0.17
    },
    {
@@ -442,9 +442,9 @@
     "pct": -7.75
    }
   ],
-  "as_of": "2026-10-20T04:09:15.881664+00:00",
+  "as_of": "2026-10-20T04:12:05.174217+00:00",
   "tone": "risk-on",
-  "age_min": 0.8076088833333334
+  "age_min": 2.991131766666667
  },
  "stories": [
   {
@@ -453,6 +453,13 @@
    "source": "Bloomberg",
    "published": "Wed, 14 Oct 2026 03:13:00 GMT",
    "read": "unclear"
+  },
+  {
+   "topic": "Taiwan / China",
+   "title": "Chinese patrols to Taiwan\u2019s east are \u2018destabilising\u2019: US Congress-appointed official - The Straits Times",
+   "source": "The Straits Times",
+   "published": "Tue, 20 Oct 2026 03:26:00 GMT",
+   "read": "escalation"
   },
   {
    "topic": "Taiwan / China",
@@ -480,13 +487,6 @@
    "title": "[MARKET ANALYSIS] Crude marginally firmer following reported attacks on Saudi Arabia; gold dips - Newsquawk",
    "source": "Newsquawk",
    "published": "Tue, 20 Oct 2026 01:59:00 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Trump\u2019s Push for Deals With Russia Powers His Frustration With Ukraine - The New York Times",
-   "source": "The New York Times",
-   "published": "Tue, 20 Oct 2026 00:33:09 GMT",
    "read": "unclear"
   }
  ],
