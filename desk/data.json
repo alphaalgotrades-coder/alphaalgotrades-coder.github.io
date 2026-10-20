@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-20T10:10:04+00:00",
+ "generated_utc": "2026-10-20T10:15:04+00:00",
  "date_et": "2026-10-20",
  "build": "0d463cfe05",
  "tape": [
@@ -175,7 +175,7 @@
     "lean": "hawkish",
     "source": "YAHOO_TSY_FUT_ZT",
     "latency": "after-hours-futures-proxy",
-    "snapshot_ts": "2026-10-20T09:58:00+00:00",
+    "snapshot_ts": "2026-10-20T10:02:00+00:00",
     "snapshot_date": "2026-10-20",
     "prior_day": "2026-10-16",
     "prior_day_close": 4.74,
@@ -191,27 +191,26 @@
      4.734,
      4.732,
      4.732,
-     4.73,
+     4.734,
+     4.738,
+     4.74,
+     4.74,
+     4.732,
+     4.734,
+     4.732,
+     4.738,
+     4.74,
+     4.74,
+     4.736,
+     4.74,
+     4.738,
+     4.738,
+     4.736,
+     4.734,
      4.736,
      4.742,
      4.74,
-     4.732,
-     4.734,
-     4.732,
-     4.734,
-     4.738,
-     4.74,
-     4.738,
-     4.74,
-     4.74,
-     4.738,
-     4.738,
-     4.736,
-     4.734,
-     4.734,
-     4.738,
-     4.738,
-     4.738,
+     4.742,
      4.736,
      4.738,
      4.738,
@@ -219,6 +218,7 @@
      4.75,
      4.752,
      4.748,
+     4.75,
      4.75
     ]
    },
@@ -229,7 +229,7 @@
     "lean": "flat",
     "source": "YAHOO_TSY_FUT_ZF",
     "latency": "after-hours-futures-proxy",
-    "snapshot_ts": "2026-10-20T09:57:00+00:00",
+    "snapshot_ts": "2026-10-20T10:02:00+00:00",
     "snapshot_date": "2026-10-20",
     "prior_day": "2026-10-16",
     "prior_day_close": 4.899,
@@ -245,27 +245,26 @@
      4.887,
      4.885,
      4.885,
-     4.883,
+     4.887,
      4.892,
-     4.896,
+     4.894,
      4.894,
      4.885,
      4.887,
-     4.887,
-     4.887,
+     4.885,
      4.892,
      4.892,
+     4.894,
      4.89,
-     4.889,
      4.892,
-     4.889,
+     4.892,
      4.889,
      4.889,
      4.889,
      4.887,
+     4.896,
      4.892,
-     4.89,
-     4.89,
+     4.894,
      4.89,
      4.889,
      4.89,
@@ -273,7 +272,8 @@
      4.901,
      4.904,
      4.897,
-     4.901
+     4.901,
+     4.899
     ]
    },
    {
@@ -283,7 +283,7 @@
     "lean": "flat",
     "source": "YAHOO_TSY_FUT_ZN",
     "latency": "after-hours-futures-proxy",
-    "snapshot_ts": "2026-10-20T09:57:00+00:00",
+    "snapshot_ts": "2026-10-20T10:01:00+00:00",
     "snapshot_date": "2026-10-20",
     "prior_day": "2026-10-16",
     "prior_day_close": 5.098,
@@ -296,38 +296,38 @@
      5.087,
      5.087,
      5.084,
-     5.084,
      5.082,
+     5.08,
      5.082,
      5.082,
      5.089,
      5.093,
      5.091,
      5.082,
-     5.08,
-     5.082,
+     5.084,
      5.082,
      5.087,
-     5.089,
-     5.089,
-     5.084,
      5.087,
      5.089,
+     5.087,
      5.084,
+     5.087,
      5.084,
+     5.082,
      5.084,
      5.084,
      5.091,
      5.087,
      5.091,
-     5.084,
-     5.082,
+     5.087,
+     5.087,
      5.08,
      5.089,
      5.089,
      5.093,
      5.091,
-     5.091
+     5.091,
+     5.089
     ]
    },
    {
@@ -337,7 +337,7 @@
     "lean": "dovish",
     "source": "YAHOO_TSY_FUT_ZB",
     "latency": "after-hours-futures-proxy",
-    "snapshot_ts": "2026-10-20T09:57:00+00:00",
+    "snapshot_ts": "2026-10-20T10:00:00+00:00",
     "snapshot_date": "2026-10-20",
     "prior_day": "2026-10-16",
     "prior_day_close": 5.436,
@@ -348,44 +348,44 @@
      5.429,
      5.43,
      5.427,
-     5.427,
+     5.429,
      5.425,
      5.425,
      5.423,
      5.423,
      5.425,
-     5.427,
-     5.432,
+     5.43,
+     5.43,
      5.43,
      5.423,
      5.423,
      5.421,
-     5.421,
+     5.423,
+     5.425,
      5.423,
      5.421,
      5.421,
-     5.421,
-     5.427,
      5.425,
+     5.423,
      5.423,
      5.423,
      5.421,
      5.419,
      5.425,
-     5.425,
-     5.427,
      5.423,
-     5.421,
+     5.425,
+     5.423,
+     5.419,
      5.419,
      5.423,
-     5.423,
      5.427,
-     5.423,
-     5.423
+     5.429,
+     5.425,
+     5.421
     ]
    }
   ],
-  "as_of": "2026-10-20T09:58:00+00:00",
+  "as_of": "2026-10-20T10:02:00+00:00",
   "note": "after-hours-futures-proxy"
  },
  "strip": {
@@ -399,20 +399,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 100.52,
-    "pct": 2.01
+    "price": 100.57,
+    "pct": 2.06
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4131.2,
-    "pct": -0.69
+    "price": 4131.8,
+    "pct": -0.68
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.842,
-    "pct": -0.14
+    "price": 101.823,
+    "pct": -0.15
    },
    {
     "sym": "SPY",
@@ -429,21 +429,28 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 18.76,
-    "pct": 1.74
+    "price": 18.71,
+    "pct": 1.46
    }
   ],
-  "as_of": "2026-10-20T10:09:06.300757+00:00",
+  "as_of": "2026-10-20T10:12:05.809394+00:00",
   "tone": "risk-on",
-  "age_min": 0.9704907166666668
+  "age_min": 2.9881754333333332
  },
  "stories": [
   {
-   "topic": "Saudi / Gulf supply",
-   "title": "Aramco Finds a New Way to Keep Saudi Crude Flowing to China - Crude Oil Prices Today | OilPrice.com",
-   "source": "Crude Oil Prices Today | OilPrice.com",
-   "published": "Wed, 26 Aug 2026 07:00:00 GMT",
+   "topic": "Russia / Ukraine",
+   "title": "Trump Open to \u2018Denuclearization\u2019 Summit with Putin and Xi - Time Magazine",
+   "source": "Time Magazine",
+   "published": "Tue, 20 Oct 2026 10:00:05 GMT",
    "read": "unclear"
+  },
+  {
+   "topic": "Taiwan / China",
+   "title": "Taiwan commits record US$34.5 billion defense budget amid escalating Chinese threats - Indonesia Business Post",
+   "source": "Indonesia Business Post",
+   "published": "Tue, 20 Oct 2026 09:58:10 GMT",
+   "read": "escalation"
   },
   {
    "topic": "Saudi / Gulf supply",
@@ -460,24 +467,17 @@
    "read": "unclear"
   },
   {
+   "topic": "Saudi / Gulf supply",
+   "title": "Asia Refiners in Dispute With Saudis Over 2027 Oil Contracts - Bloomberg.com",
+   "source": "Bloomberg.com",
+   "published": "Tue, 20 Oct 2026 08:44:36 GMT",
+   "read": "unclear"
+  },
+  {
    "topic": "Iran / Hormuz",
    "title": "Iran\u2019s Revolutionary Guard Warns of New Targets, Points to Internet Cables Under Hormuz - The Media Line",
    "source": "The Media Line",
    "published": "Tue, 20 Oct 2026 07:55:38 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran extends Strait of Hormuz blacklist to 120 ships, including vessels sunk - TradeWinds News",
-   "source": "TradeWinds News",
-   "published": "Tue, 20 Oct 2026 07:05:02 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran says it downed US drone over Strait of Hormuz - A News",
-   "source": "A News",
-   "published": "Tue, 20 Oct 2026 06:28:44 GMT",
    "read": "escalation"
   }
  ],
@@ -583,29 +583,29 @@
    {
     "code": "FR",
     "name": "France",
-    "level": 4.9553,
+    "level": 4.9575,
     "as_of": "2026-10-20",
     "spread_bp": 152.2,
-    "d_day_bps": 1.6
+    "d_day_bps": 1.8
    },
    {
     "code": "DE",
     "name": "Germany",
-    "level": 3.4334,
+    "level": 3.4356,
     "as_of": "2026-10-20",
     "spread_bp": null,
-    "d_day_bps": -3.0
+    "d_day_bps": -2.7
    },
    {
     "code": "IT",
     "name": "Italy",
-    "level": 4.6046,
+    "level": 4.6083,
     "as_of": "2026-10-20",
-    "spread_bp": 117.1,
-    "d_day_bps": 1.5
+    "spread_bp": 117.3,
+    "d_day_bps": 1.8
    }
   ],
-  "bund": 3.4334,
+  "bund": 3.4356,
   "note": "10-year government bonds; spread measured over Germany"
  },
  "auctions": {
