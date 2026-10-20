@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-20T09:50:04+00:00",
+ "generated_utc": "2026-10-20T09:55:04+00:00",
  "date_et": "2026-10-20",
  "build": "0d463cfe05",
  "tape": [
@@ -408,20 +408,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 100.82,
-    "pct": 2.31
+    "price": 100.74,
+    "pct": 2.23
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4137.7,
-    "pct": -0.54
+    "price": 4138.4,
+    "pct": -0.52
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.833,
-    "pct": -0.14
+    "price": 101.843,
+    "pct": -0.13
    },
    {
     "sym": "SPY",
@@ -438,13 +438,13 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 18.62,
-    "pct": 0.98
+    "price": 18.65,
+    "pct": 1.14
    }
   ],
-  "as_of": "2026-10-20T09:48:05.699329+00:00",
+  "as_of": "2026-10-20T09:54:05.727740+00:00",
   "tone": "risk-on",
-  "age_min": 1.9793792333333333
+  "age_min": 0.9840382166666667
  },
  "stories": [
   {
@@ -452,6 +452,13 @@
    "title": "Aramco Finds a New Way to Keep Saudi Crude Flowing to China - Crude Oil Prices Today | OilPrice.com",
    "source": "Crude Oil Prices Today | OilPrice.com",
    "published": "Wed, 26 Aug 2026 07:00:00 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Saudi / Gulf supply",
+   "title": "Asia refiners in dispute with Saudis over 2027 oil contracts - The Edge Malaysia",
+   "source": "The Edge Malaysia",
+   "published": "Tue, 20 Oct 2026 09:35:13 GMT",
    "read": "unclear"
   },
   {
@@ -480,13 +487,6 @@
    "title": "Iran says it downed US drone over Strait of Hormuz - A News",
    "source": "A News",
    "published": "Tue, 20 Oct 2026 06:28:44 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Taiwan / China",
-   "title": "Beijing sends naval forces to monitor US warship near disputed South China Sea shoal - The Straits Times",
-   "source": "The Straits Times",
-   "published": "Tue, 20 Oct 2026 05:16:00 GMT",
    "read": "escalation"
   }
  ],
