@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-20T00:30:04+00:00",
+ "generated_utc": "2026-10-20T00:35:04+00:00",
  "date_et": "2026-10-19",
  "build": "0d463cfe05",
  "tape": [
@@ -327,20 +327,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 98.25,
-    "pct": -0.29
+    "price": 98.42,
+    "pct": -0.12
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4154.3,
-    "pct": -0.14
+    "price": 4150.9,
+    "pct": -0.22
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.919,
-    "pct": -0.06
+    "price": 101.946,
+    "pct": -0.03
    },
    {
     "sym": "SPY",
@@ -361,9 +361,9 @@
     "pct": -7.75
    }
   ],
-  "as_of": "2026-10-20T00:27:04.767471+00:00",
+  "as_of": "2026-10-20T00:33:08.117341+00:00",
   "tone": "risk-on",
-  "age_min": 3.0058629166666666
+  "age_min": 1.9397079499999998
  },
  "stories": [
   {
@@ -403,10 +403,10 @@
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "Trump open to idea of joint meeting with Xi, Putin next month - Reuters",
-   "source": "Reuters",
-   "published": "Mon, 19 Oct 2026 22:28:49 GMT",
-   "read": "unclear"
+   "title": "Putin floats US-China-Russia summit to end Ukraine war, WSJ reports - Semafor",
+   "source": "Semafor",
+   "published": "Mon, 19 Oct 2026 22:25:00 GMT",
+   "read": "de-escalation"
   }
  ],
  "ratings": [],
