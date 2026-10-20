@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-20T07:10:04+00:00",
+ "generated_utc": "2026-10-20T07:15:04+00:00",
  "date_et": "2026-10-20",
  "build": "0d463cfe05",
  "tape": [
@@ -402,26 +402,26 @@
    {
     "sym": "MOVE",
     "name": "Bond-market volatility",
-    "price": 101.299,
+    "price": 101.3,
     "pct": 0.2
    },
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 98.54,
-    "pct": null
+    "price": 98.68,
+    "pct": 0.14
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4153.6,
-    "pct": -0.16
+    "price": 4154.2,
+    "pct": -0.14
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.797,
-    "pct": -0.18
+    "price": 101.787,
+    "pct": -0.19
    },
    {
     "sym": "SPY",
@@ -439,12 +439,12 @@
     "sym": "VIX",
     "name": "Volatility index",
     "price": 18.44,
-    "pct": null
+    "pct": -7.75
    }
   ],
-  "as_of": "2026-10-20T07:09:04.571700+00:00",
+  "as_of": "2026-10-20T07:12:04.727248+00:00",
   "tone": "risk-on",
-  "age_min": 0.9968041833333333
+  "age_min": 2.9994717833333335
  },
  "stories": [
   {
@@ -453,6 +453,13 @@
    "source": "Xinhua",
    "published": "Wed, 14 Oct 2026 12:49:36 GMT",
    "read": "unclear"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iran says it downed US drone over Strait of Hormuz - Anadolu Ajans\u0131",
+   "source": "Anadolu Ajans\u0131",
+   "published": "Tue, 20 Oct 2026 06:43:46 GMT",
+   "read": "escalation"
   },
   {
    "topic": "Iran / Hormuz",
@@ -480,13 +487,6 @@
    "title": "Chinese patrols to Taiwan's east are 'destabilising', US Congress-appointed official says - Reuters",
    "source": "Reuters",
    "published": "Tue, 20 Oct 2026 03:21:00 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Taiwan / China",
-   "title": "Taiwan tracks 14 Chinese military aircraft, 14 ships - Taiwan News",
-   "source": "Taiwan News",
-   "published": "Tue, 20 Oct 2026 03:12:55 GMT",
    "read": "escalation"
   }
  ],
