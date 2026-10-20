@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-20T04:30:04+00:00",
+ "generated_utc": "2026-10-20T04:35:04+00:00",
  "date_et": "2026-10-20",
  "build": "0d463cfe05",
  "tape": [
@@ -408,19 +408,19 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 98.56,
-    "pct": 0.02
+    "price": 98.57,
+    "pct": 0.03
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4163.6,
-    "pct": 0.08
+    "price": 4164.5,
+    "pct": 0.11
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.807,
+    "price": 101.806,
     "pct": -0.17
    },
    {
@@ -442,9 +442,9 @@
     "pct": -7.75
    }
   ],
-  "as_of": "2026-10-20T04:27:08.743688+00:00",
+  "as_of": "2026-10-20T04:33:06.079319+00:00",
   "tone": "risk-on",
-  "age_min": 2.9319207333333335
+  "age_min": 1.9703270166666667
  },
  "stories": [
   {
@@ -453,6 +453,13 @@
    "source": "Bloomberg",
    "published": "Wed, 14 Oct 2026 03:13:00 GMT",
    "read": "unclear"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iran Escalates Threat to Target Undersea Cables in Hormuz Strait: \u2018All of the World\u2019s Internet and Commercial Data Depend on Them\u2019 - Yahoo",
+   "source": "Yahoo",
+   "published": "Tue, 20 Oct 2026 03:54:00 GMT",
+   "read": "escalation"
   },
   {
    "topic": "Taiwan / China",
@@ -481,13 +488,6 @@
    "source": "Anadolu Ajans\u0131",
    "published": "Tue, 20 Oct 2026 02:19:58 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Saudi / Gulf supply",
-   "title": "[MARKET ANALYSIS] Crude marginally firmer following reported attacks on Saudi Arabia; gold dips - Newsquawk",
-   "source": "Newsquawk",
-   "published": "Tue, 20 Oct 2026 01:59:00 GMT",
-   "read": "unclear"
   }
  ],
  "ratings": [],
