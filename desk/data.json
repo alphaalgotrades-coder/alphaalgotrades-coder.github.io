@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-20T01:50:04+00:00",
+ "generated_utc": "2026-10-20T01:55:04+00:00",
  "date_et": "2026-10-19",
  "build": "0d463cfe05",
  "tape": [
@@ -327,20 +327,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 98.91,
-    "pct": 0.38
+    "price": 98.77,
+    "pct": 0.23
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4139.8,
-    "pct": -0.49
+    "price": 4146.2,
+    "pct": -0.33
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.953,
-    "pct": -0.03
+    "price": 101.939,
+    "pct": -0.04
    },
    {
     "sym": "SPY",
@@ -361,9 +361,9 @@
     "pct": -7.75
    }
   ],
-  "as_of": "2026-10-20T01:48:05.064933+00:00",
+  "as_of": "2026-10-20T01:54:08.587765+00:00",
   "tone": "risk-on",
-  "age_min": 1.9892630666666666
+  "age_min": 0.9329706833333333
  },
  "stories": [
   {
@@ -388,6 +388,13 @@
    "read": "unclear"
   },
   {
+   "topic": "Iran / Hormuz",
+   "title": "Iran oil exports through Hormuz dry up under US blockade - Arabian Gulf Business Insight | AGBI",
+   "source": "Arabian Gulf Business Insight | AGBI",
+   "published": "Tue, 20 Oct 2026 00:00:00 GMT",
+   "read": "escalation"
+  },
+  {
    "topic": "Saudi / Gulf supply",
    "title": "Brent oil tops $109 after Houthi militants claim they attacked Saudi airports and Aramco facilities - CNBC",
    "source": "CNBC",
@@ -400,13 +407,6 @@
    "source": "The New York Times",
    "published": "Sat, 25 Jul 2026 07:00:00 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Trump\u2019s latest moves back Russia, buck Congress and U.S. allies - NBC News",
-   "source": "NBC News",
-   "published": "Mon, 19 Oct 2026 23:00:24 GMT",
-   "read": "unclear"
   }
  ],
  "ratings": [],
