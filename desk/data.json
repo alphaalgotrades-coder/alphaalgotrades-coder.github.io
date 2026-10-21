@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-21T02:30:04+00:00",
+ "generated_utc": "2026-10-21T02:35:04+00:00",
  "date_et": "2026-10-20",
  "build": "0d463cfe05",
  "tape": [
@@ -399,19 +399,19 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 99.17,
-    "pct": 1.38
+    "price": 99.12,
+    "pct": 1.33
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4136.8,
-    "pct": -0.14
+    "price": 4135.3,
+    "pct": -0.18
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.77,
+    "price": 101.776,
     "pct": 0.07
    },
    {
@@ -433,11 +433,18 @@
     "pct": -6.13
    }
   ],
-  "as_of": "2026-10-21T02:27:08.794928+00:00",
+  "as_of": "2026-10-21T02:33:05.280266+00:00",
   "tone": "risk-on",
-  "age_min": 2.9313973333333334
+  "age_min": 1.9835701166666666
  },
  "stories": [
+  {
+   "topic": "Taiwan / China",
+   "title": "Taiwan confirms funding for US observers at Han Kuang drills \u2014 South China Morning Post - UA.NEWS",
+   "source": "UA.NEWS",
+   "published": "Wed, 21 Oct 2026 02:21:55 GMT",
+   "read": "unclear"
+  },
   {
    "topic": "Taiwan / China",
    "title": "China confronts US warship near Sabina Shoal as Taiwan tensions escalate - The Jerusalem Post",
@@ -453,17 +460,17 @@
    "read": "escalation"
   },
   {
-   "topic": "Taiwan / China",
-   "title": "Taiwan admits paying for retired US general to observe largest annual war games - South China Morning Post",
-   "source": "South China Morning Post",
-   "published": "Wed, 21 Oct 2026 01:30:08 GMT",
-   "read": "escalation"
-  },
-  {
    "topic": "Iran / Hormuz",
    "title": "Oil rises on Middle East supply worries - The Mighty 790 KFGO",
    "source": "The Mighty 790 KFGO",
    "published": "Wed, 21 Oct 2026 01:23:10 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "The Three Dates for Deciding Ukraine\u2019s Future - The Atlantic",
+   "source": "The Atlantic",
+   "published": "Wed, 21 Oct 2026 00:12:00 GMT",
    "read": "unclear"
   },
   {
@@ -472,13 +479,6 @@
    "source": "WSJ",
    "published": "Wed, 21 Oct 2026 00:00:00 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Ukraine war briefing: US envoy Witkoff to meet Putin after \u2018constructive\u2019 talks with Zelenskyy in Norway - The Guardian",
-   "source": "The Guardian",
-   "published": "Tue, 20 Oct 2026 23:35:10 GMT",
-   "read": "de-escalation"
   }
  ],
  "ratings": [],
