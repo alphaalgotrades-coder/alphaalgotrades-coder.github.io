@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-21T09:50:03+00:00",
+ "generated_utc": "2026-10-21T09:55:03+00:00",
  "date_et": "2026-10-21",
  "build": "0d463cfe05",
  "tape": [
@@ -354,20 +354,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 99.05,
-    "pct": 1.26
+    "price": 99.26,
+    "pct": 1.47
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4140.4,
-    "pct": -0.05
+    "price": 4141.0,
+    "pct": -0.04
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.755,
-    "pct": 0.05
+    "price": 101.761,
+    "pct": 0.06
    },
    {
     "sym": "SPY",
@@ -384,15 +384,29 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 17.33,
-    "pct": 0.12
+    "price": 17.37,
+    "pct": 0.35
    }
   ],
-  "as_of": "2026-10-21T09:48:05.673166+00:00",
+  "as_of": "2026-10-21T09:54:05.831059+00:00",
   "tone": "risk-on",
-  "age_min": 1.9681901000000002
+  "age_min": 0.9657473333333333
  },
  "stories": [
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iran has lost its last opportunity: Left with the Strait of Hormuz - TodayPress.tv",
+   "source": "TodayPress.tv",
+   "published": "Wed, 21 Oct 2026 09:30:14 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Russia says it freed American Stephen Hubbard, 74, as Trump envoy meets with Putin - NBC News",
+   "source": "NBC News",
+   "published": "Wed, 21 Oct 2026 09:25:00 GMT",
+   "read": "unclear"
+  },
   {
    "topic": "Russia / Ukraine",
    "title": "Witkoff heads to Russia for Putin talks as Zelenskyy insists 'nothing about Ukraine without Ukraine' - CNBC",
@@ -402,10 +416,10 @@
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "Trump envoy Witkoff to meet Putin in St. Petersburg for Ukraine war talks - Bozeman Daily Chronicle",
-   "source": "Bozeman Daily Chronicle",
-   "published": "Wed, 21 Oct 2026 07:54:35 GMT",
-   "read": "unclear"
+   "title": "Putin Releases American Jailed in Russia After U.S. Envoy Arrives for Ukraine Talks - The Moscow Times",
+   "source": "The Moscow Times",
+   "published": "Wed, 21 Oct 2026 08:09:00 GMT",
+   "read": "de-escalation"
   },
   {
    "topic": "Iran / Hormuz",
@@ -420,20 +434,6 @@
    "source": "Shipping Telegraph",
    "published": "Wed, 21 Oct 2026 07:45:27 GMT",
    "read": "de-escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "US envoy arrives in Russia ahead of meeting with Putin as Zelensky says intelligence sharing 'works now' - BBC",
-   "source": "BBC",
-   "published": "Wed, 21 Oct 2026 06:37:55 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran sets conditions for reopening Strait of Hormuz within 7 days - www.israelhayom.com",
-   "source": "www.israelhayom.com",
-   "published": "Wed, 21 Oct 2026 06:30:02 GMT",
-   "read": "escalation"
   }
  ],
  "ratings": [],
