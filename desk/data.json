@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-21T04:50:03+00:00",
+ "generated_utc": "2026-10-21T04:55:03+00:00",
  "date_et": "2026-10-21",
  "build": "0d463cfe05",
  "tape": [
@@ -354,20 +354,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 99.12,
-    "pct": 1.33
+    "price": 99.06,
+    "pct": 1.27
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4134.4,
-    "pct": -0.2
+    "price": 4133.8,
+    "pct": -0.21
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.787,
-    "pct": 0.08
+    "price": 101.775,
+    "pct": 0.07
    },
    {
     "sym": "SPY",
@@ -388,9 +388,9 @@
     "pct": -6.13
    }
   ],
-  "as_of": "2026-10-21T04:48:05.275571+00:00",
+  "as_of": "2026-10-21T04:54:05.365239+00:00",
   "tone": "risk-on",
-  "age_min": 1.97519175
+  "age_min": 0.9770128
  },
  "stories": [
   {
@@ -422,17 +422,17 @@
    "read": "escalation"
   },
   {
+   "topic": "Saudi / Gulf supply",
+   "title": "Saudi Aramco and Asian Refiners Dispute How to Count 2026 Spot Oil - www.tokenpost.com",
+   "source": "www.tokenpost.com",
+   "published": "Wed, 21 Oct 2026 01:56:00 GMT",
+   "read": "unclear"
+  },
+  {
    "topic": "Iran / Hormuz",
    "title": "Oil rises on Middle East supply worries - The Mighty 790 KFGO",
    "source": "The Mighty 790 KFGO",
    "published": "Wed, 21 Oct 2026 01:23:10 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "The Three Dates for Deciding Ukraine\u2019s Future - The Atlantic",
-   "source": "The Atlantic",
-   "published": "Wed, 21 Oct 2026 00:12:00 GMT",
    "read": "unclear"
   }
  ],
