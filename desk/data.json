@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-21T07:50:03+00:00",
+ "generated_utc": "2026-10-21T07:55:03+00:00",
  "date_et": "2026-10-21",
  "build": "0d463cfe05",
  "tape": [
@@ -354,19 +354,19 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 98.71,
-    "pct": 0.91
+    "price": 98.57,
+    "pct": 0.77
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4139.6,
-    "pct": -0.07
+    "price": 4138.9,
+    "pct": -0.09
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.761,
+    "price": 101.765,
     "pct": 0.06
    },
    {
@@ -388,11 +388,39 @@
     "pct": -0.81
    }
   ],
-  "as_of": "2026-10-21T07:48:04.807187+00:00",
+  "as_of": "2026-10-21T07:54:05.846573+00:00",
   "tone": "risk-on",
-  "age_min": 1.9845375166666666
+  "age_min": 0.9689738166666667
  },
  "stories": [
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Rubio Accuses Iran of Using Nazi Submarine Tactics in Hormuz - IranWire",
+   "source": "IranWire",
+   "published": "Wed, 21 Oct 2026 07:49:24 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iran offers to reopen Hormuz within 7 days, accuses US of stalling talks - Shipping Telegraph",
+   "source": "Shipping Telegraph",
+   "published": "Wed, 21 Oct 2026 07:45:27 GMT",
+   "read": "de-escalation"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Witkoff in Russia for Putin meeting after \u2018positive\u2019 talks with Zelenskyy - Al Jazeera",
+   "source": "Al Jazeera",
+   "published": "Wed, 21 Oct 2026 07:40:24 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "US envoy arrives in Russia ahead of meeting with Putin as Zelensky says intelligence sharing 'works now' - BBC",
+   "source": "BBC",
+   "published": "Wed, 21 Oct 2026 06:37:55 GMT",
+   "read": "unclear"
+  },
   {
    "topic": "Iran / Hormuz",
    "title": "Iran sets conditions for reopening Strait of Hormuz within 7 days - www.israelhayom.com",
@@ -402,37 +430,9 @@
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Persian Gulf oil exports top prewar levels under US-protected shipping lanes; Iran escalates attacks - report - i24NEWS",
-   "source": "i24NEWS",
-   "published": "Wed, 21 Oct 2026 05:33:00 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
    "title": "Oil prices climb as traders assess Middle East developments - CNBC",
    "source": "CNBC",
    "published": "Wed, 21 Oct 2026 05:27:19 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Troubled waters: life during wartime for Iranians on the strait of Hormuz - The Guardian",
-   "source": "The Guardian",
-   "published": "Wed, 21 Oct 2026 05:00:00 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Russia, sensing victory, cheers Trump\u2019s latest shift against Ukraine - The Washington Post",
-   "source": "The Washington Post",
-   "published": "Wed, 21 Oct 2026 04:53:38 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Is Putin\u2019s Waiting Game Working? - The New York Times",
-   "source": "The New York Times",
-   "published": "Wed, 21 Oct 2026 04:48:00 GMT",
    "read": "unclear"
   }
  ],
