@@ -1,12 +1,12 @@
 {
- "generated_utc": "2026-10-21T13:05:04.034233+00:00",
+ "generated_utc": "2026-10-21T14:05:03.921741+00:00",
  "paper": true,
  "strategy": "the wheel (cash-secured puts -> covered calls)",
  "since": "2026-07-13",
- "trading_days": 52,
+ "trading_days": 53,
  "green_days": 28,
  "red_days": 2,
- "total_fills": 152,
+ "total_fills": 156,
  "symbols_traded": 22,
  "cumulative_realized": 8973.89,
  "days": [
@@ -373,6 +373,13 @@
    "realized": 594.02,
    "commission": 0.0,
    "cumulative": 8973.89
+  },
+  {
+   "date": "2026-10-21",
+   "fills": 4,
+   "realized": 0.0,
+   "commission": 0.0,
+   "cumulative": 8973.89
   }
  ],
  "open_legs": [
@@ -399,7 +406,33 @@
    "engine": true,
    "agree": true,
    "entry": 32.5,
-   "upnl": 36.0,
+   "upnl": -54.0,
+   "lane": "OPTIONS"
+  },
+  {
+   "instrument": "BLDR 11/20 C62",
+   "raw": "BLDR261120C00062500",
+   "strategy": "HT_WHEEL",
+   "side": "short 2",
+   "broker": true,
+   "db": true,
+   "engine": true,
+   "agree": true,
+   "entry": 0.95,
+   "upnl": -60.0,
+   "lane": "OPTIONS"
+  },
+  {
+   "instrument": "BLDR 11/20 P47",
+   "raw": "BLDR261120P00047500",
+   "strategy": "HT_WHEEL",
+   "side": "short 2",
+   "broker": true,
+   "db": true,
+   "engine": true,
+   "agree": true,
+   "entry": 1.05,
+   "upnl": -110.0,
    "lane": "OPTIONS"
   },
   {
@@ -412,7 +445,33 @@
    "engine": true,
    "agree": true,
    "entry": 70.0,
-   "upnl": -2005.0,
+   "upnl": -2084.0,
+   "lane": "OPTIONS"
+  },
+  {
+   "instrument": "Z 11/20 C35",
+   "raw": "Z261120C00035000",
+   "strategy": "HT_WHEEL",
+   "side": "short 4",
+   "broker": true,
+   "db": true,
+   "engine": true,
+   "agree": true,
+   "entry": 1.25,
+   "upnl": -140.0,
+   "lane": "OPTIONS"
+  },
+  {
+   "instrument": "Z 11/20 P27",
+   "raw": "Z261120P00027500",
+   "strategy": "HT_WHEEL",
+   "side": "short 2",
+   "broker": true,
+   "db": true,
+   "engine": true,
+   "agree": true,
+   "entry": 0.65,
+   "upnl": -20.0,
    "lane": "OPTIONS"
   },
   {
@@ -425,12 +484,12 @@
    "engine": true,
    "agree": true,
    "entry": 35.0,
-   "upnl": -220.52,
+   "upnl": -150.0,
    "lane": "OPTIONS"
   }
  ],
- "open_upnl": -2669.52,
- "reconciliation": "4/4 open legs reconciled against the broker statement and our own database",
+ "open_upnl": -3098.0,
+ "reconciliation": "8/8 open legs reconciled against the broker statement and our own database",
  "stats": {
   "closed_trades": 44,
   "win_rate": 86.4,
@@ -438,11 +497,11 @@
   "avg_loss": -197.83,
   "profit_factor": 8.56,
   "expectancy": 203.95,
-  "sharpe_daily_ann": 6.02,
-  "capital_at_risk": 46250.0,
-  "period_return_pct": 19.4,
-  "ann_pace_pct": 73.0,
-  "elapsed_days": 97
+  "sharpe_daily_ann": 5.95,
+  "capital_at_risk": 61250.0,
+  "period_return_pct": 14.65,
+  "ann_pace_pct": 52.9,
+  "elapsed_days": 101
  },
  "assigned": [
   {
@@ -456,15 +515,15 @@
    "symbol": "BLDR",
    "shares": 200,
    "entry": 70.0,
-   "basis": 63.55,
-   "reduced_pct": 9.2
+   "basis": 61.55,
+   "reduced_pct": 12.1
   },
   {
    "symbol": "Z",
    "shares": 400,
    "entry": 33.75,
-   "basis": 31.57,
-   "reduced_pct": 6.4
+   "basis": 30.0,
+   "reduced_pct": 11.1
   }
  ]
 }
