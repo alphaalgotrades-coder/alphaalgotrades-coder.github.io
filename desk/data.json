@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-21T07:10:03+00:00",
+ "generated_utc": "2026-10-21T07:15:04+00:00",
  "date_et": "2026-10-21",
  "build": "0d463cfe05",
  "tape": [
@@ -348,26 +348,26 @@
    {
     "sym": "MOVE",
     "name": "Bond-market volatility",
-    "price": 101.695,
+    "price": 101.7,
     "pct": 0.39
    },
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 99.31,
-    "pct": 1.52
+    "price": 99.35,
+    "pct": 1.56
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4129.6,
-    "pct": -0.31
+    "price": 4131.1,
+    "pct": -0.28
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.801,
-    "pct": 0.1
+    "price": 101.814,
+    "pct": 0.11
    },
    {
     "sym": "SPY",
@@ -385,14 +385,21 @@
     "sym": "VIX",
     "name": "Volatility index",
     "price": 17.31,
-    "pct": null
+    "pct": -6.13
    }
   ],
-  "as_of": "2026-10-21T07:09:05.948805+00:00",
+  "as_of": "2026-10-21T07:12:05.534312+00:00",
   "tone": "risk-on",
-  "age_min": 0.9675726499999999
+  "age_min": 2.9825801666666667
  },
  "stories": [
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iran sets conditions for reopening Strait of Hormuz within 7 days - www.israelhayom.com",
+   "source": "www.israelhayom.com",
+   "published": "Wed, 21 Oct 2026 06:30:02 GMT",
+   "read": "escalation"
+  },
   {
    "topic": "Iran / Hormuz",
    "title": "Persian Gulf oil exports top prewar levels under US-protected shipping lanes; Iran escalates attacks - report - i24NEWS",
@@ -405,13 +412,6 @@
    "title": "Oil prices climb as traders assess Middle East developments - CNBC",
    "source": "CNBC",
    "published": "Wed, 21 Oct 2026 05:27:19 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "A new 'Danube' approach to the Hormuz Strait is in order - Responsible Statecraft",
-   "source": "Responsible Statecraft",
-   "published": "Wed, 21 Oct 2026 05:10:13 GMT",
    "read": "unclear"
   },
   {
@@ -430,9 +430,9 @@
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "US envoy to meet Putin in Russia as Zelensky says intelligence sharing 'works now' - BBC",
-   "source": "BBC",
-   "published": "Wed, 21 Oct 2026 03:59:18 GMT",
+   "title": "Is Putin\u2019s Waiting Game Working? - The New York Times",
+   "source": "The New York Times",
+   "published": "Wed, 21 Oct 2026 04:48:00 GMT",
    "read": "unclear"
   }
  ],
