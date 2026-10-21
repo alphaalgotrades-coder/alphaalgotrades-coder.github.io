@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-21T01:50:04+00:00",
+ "generated_utc": "2026-10-21T01:55:04+00:00",
  "date_et": "2026-10-20",
  "build": "0d463cfe05",
  "tape": [
@@ -399,20 +399,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 98.85,
-    "pct": 1.05
+    "price": 98.91,
+    "pct": 1.11
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4139.8,
-    "pct": -0.07
+    "price": 4135.2,
+    "pct": -0.18
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.784,
-    "pct": 0.08
+    "price": 101.8,
+    "pct": 0.1
    },
    {
     "sym": "SPY",
@@ -433,11 +433,32 @@
     "pct": -6.13
    }
   ],
-  "as_of": "2026-10-21T01:48:05.079380+00:00",
+  "as_of": "2026-10-21T01:54:05.311224+00:00",
   "tone": "risk-on",
-  "age_min": 1.9878083333333334
+  "age_min": 0.9811368
  },
  "stories": [
+  {
+   "topic": "Taiwan / China",
+   "title": "China confronts US warship near Sabina Shoal as Taiwan tensions escalate - The Jerusalem Post",
+   "source": "The Jerusalem Post",
+   "published": "Wed, 21 Oct 2026 01:46:01 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Taiwan / China",
+   "title": "Taiwan tracks 29 Chinese military aircraft, 15 ships - Taiwan News",
+   "source": "Taiwan News",
+   "published": "Wed, 21 Oct 2026 01:40:10 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Taiwan / China",
+   "title": "Taiwan admits paying for retired US general to observe largest annual war games - South China Morning Post",
+   "source": "South China Morning Post",
+   "published": "Wed, 21 Oct 2026 01:30:08 GMT",
+   "read": "escalation"
+  },
   {
    "topic": "Iran / Hormuz",
    "title": "Oil rises on Middle East supply worries - The Mighty 790 KFGO",
@@ -453,32 +474,11 @@
    "read": "unclear"
   },
   {
-   "topic": "Taiwan / China",
-   "title": "China's Unprecedented Drills Across Six Maritime Zones - \uc870\uc120\uc77c\ubcf4",
-   "source": "\uc870\uc120\uc77c\ubcf4",
-   "published": "Wed, 14 Oct 2026 00:42:44 GMT",
-   "read": "escalation"
-  },
-  {
    "topic": "Russia / Ukraine",
    "title": "Ukraine war briefing: US envoy Witkoff to meet Putin after \u2018constructive\u2019 talks with Zelenskyy in Norway - The Guardian",
    "source": "The Guardian",
    "published": "Tue, 20 Oct 2026 23:35:10 GMT",
    "read": "de-escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Witkoff to present Putin with peace proposal after talks with Zelensky - Axios",
-   "source": "Axios",
-   "published": "Tue, 20 Oct 2026 23:05:57 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Saudi / Gulf supply",
-   "title": "Next major oil supply shock could come from Saudi Arabia - www.daily-sun.com",
-   "source": "www.daily-sun.com",
-   "published": "Tue, 20 Oct 2026 20:54:46 GMT",
-   "read": "unclear"
   }
  ],
  "ratings": [],
