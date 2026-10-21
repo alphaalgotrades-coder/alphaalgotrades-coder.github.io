@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-21T00:30:04+00:00",
+ "generated_utc": "2026-10-21T00:35:03+00:00",
  "date_et": "2026-10-20",
  "build": "0d463cfe05",
  "tape": [
@@ -399,20 +399,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 98.49,
-    "pct": 0.68
+    "price": 98.56,
+    "pct": 0.76
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4135.1,
-    "pct": -0.18
+    "price": 4136.8,
+    "pct": -0.14
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.798,
-    "pct": 0.1
+    "price": 101.81,
+    "pct": 0.11
    },
    {
     "sym": "SPY",
@@ -433,9 +433,9 @@
     "pct": -6.13
    }
   ],
-  "as_of": "2026-10-21T00:27:05.825109+00:00",
+  "as_of": "2026-10-21T00:33:05.839173+00:00",
   "tone": "risk-on",
-  "age_min": 2.97570665
+  "age_min": 1.9653919833333333
  },
  "stories": [
   {
@@ -447,16 +447,16 @@
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "Witkoff to present Putin with peace proposal after talks with Zelensky - Axios",
-   "source": "Axios",
-   "published": "Tue, 20 Oct 2026 23:05:57 GMT",
-   "read": "unclear"
+   "title": "Ukraine war briefing: US envoy Witkoff to meet Putin after \u2018constructive\u2019 talks with Zelenskyy in Norway - The Guardian",
+   "source": "The Guardian",
+   "published": "Tue, 20 Oct 2026 23:35:10 GMT",
+   "read": "de-escalation"
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "Zelenskyy seeks to mend ties with Trump ahead of Witkoff-Putin meeting - PBS",
-   "source": "PBS",
-   "published": "Tue, 20 Oct 2026 22:55:59 GMT",
+   "title": "Witkoff to present Putin with peace proposal after talks with Zelensky - Axios",
+   "source": "Axios",
+   "published": "Tue, 20 Oct 2026 23:05:57 GMT",
    "read": "unclear"
   },
   {
