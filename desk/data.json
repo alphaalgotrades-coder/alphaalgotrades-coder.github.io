@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-21T23:10:03+00:00",
+ "generated_utc": "2026-10-21T23:15:04+00:00",
  "date_et": "2026-10-21",
  "build": "0d463cfe05",
  "tape": [
@@ -345,14 +345,14 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 98.0,
-    "pct": 0.87
+    "price": 97.94,
+    "pct": 0.81
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4147.9,
-    "pct": -0.05
+    "price": 4147.4,
+    "pct": -0.06
    },
    {
     "sym": "DXY",
@@ -379,11 +379,18 @@
     "pct": -3.64
    }
   ],
-  "as_of": "2026-10-21T23:09:05.140064+00:00",
+  "as_of": "2026-10-21T23:12:05.074305+00:00",
   "tone": "risk-on",
-  "age_min": 0.9830463333333334
+  "age_min": 2.992959
  },
  "stories": [
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Putin and Zelenskyy back three-way US peace talks on Ukraine - Al Jazeera",
+   "source": "Al Jazeera",
+   "published": "Wed, 21 Oct 2026 22:03:35 GMT",
+   "read": "unclear"
+  },
   {
    "topic": "Iran / Hormuz",
    "title": "Live - Iran hints at \u2018second chance\u2019 for US talks as Putin calls for deal - Iran International",
@@ -411,13 +418,6 @@
    "source": "MarketWatch",
    "published": "Wed, 21 Oct 2026 21:14:00 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Russia agrees to resume three-way talks on Ukraine war with Kyiv and Washington, Kremlin says - AP News",
-   "source": "AP News",
-   "published": "Wed, 21 Oct 2026 20:29:00 GMT",
-   "read": "de-escalation"
   },
   {
    "topic": "Iran / Hormuz",
