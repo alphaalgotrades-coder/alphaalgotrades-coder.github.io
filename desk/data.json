@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-21T01:30:04+00:00",
+ "generated_utc": "2026-10-21T01:35:03+00:00",
  "date_et": "2026-10-20",
  "build": "0d463cfe05",
  "tape": [
@@ -399,20 +399,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 98.95,
-    "pct": 1.16
+    "price": 98.94,
+    "pct": 1.14
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4128.7,
-    "pct": -0.34
+    "price": 4129.1,
+    "pct": -0.33
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.778,
-    "pct": 0.08
+    "price": 101.793,
+    "pct": 0.09
    },
    {
     "sym": "SPY",
@@ -433,11 +433,18 @@
     "pct": -6.13
    }
   ],
-  "as_of": "2026-10-21T01:27:05.136141+00:00",
+  "as_of": "2026-10-21T01:33:05.171999+00:00",
   "tone": "risk-on",
-  "age_min": 2.9980970166666667
+  "age_min": 1.9697027333333332
  },
  "stories": [
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Oil rises on Middle East supply worries - The Mighty 790 KFGO",
+   "source": "The Mighty 790 KFGO",
+   "published": "Wed, 21 Oct 2026 01:23:10 GMT",
+   "read": "unclear"
+  },
   {
    "topic": "Iran / Hormuz",
    "title": "More Oil Is Now Coming Out of the Persian Gulf Than Before the Iran War - WSJ",
@@ -472,13 +479,6 @@
    "source": "www.daily-sun.com",
    "published": "Tue, 20 Oct 2026 20:54:46 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Shafaq News..US, Iran clash over Hormuz security and negotiations - \u0634\u0641\u0642 \u0646\u064a\u0648\u0632",
-   "source": "\u0634\u0641\u0642 \u0646\u064a\u0648\u0632",
-   "published": "Tue, 20 Oct 2026 19:58:05 GMT",
-   "read": "escalation"
   }
  ],
  "ratings": [],
