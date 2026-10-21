@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-21T23:30:04+00:00",
+ "generated_utc": "2026-10-21T23:35:04+00:00",
  "date_et": "2026-10-21",
  "build": "0d463cfe05",
  "tape": [
@@ -345,14 +345,14 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 97.82,
-    "pct": 0.69
+    "price": 97.88,
+    "pct": 0.75
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4144.4,
-    "pct": -0.13
+    "price": 4143.6,
+    "pct": -0.15
    },
    {
     "sym": "DXY",
@@ -379,9 +379,9 @@
     "pct": -3.64
    }
   ],
-  "as_of": "2026-10-21T23:27:05.267985+00:00",
+  "as_of": "2026-10-21T23:33:05.262837+00:00",
   "tone": "risk-on",
-  "age_min": 2.9957217
+  "age_min": 1.9858037333333334
  },
  "stories": [
   {
@@ -406,13 +406,6 @@
    "read": "de-escalation"
   },
   {
-   "topic": "Russia / Ukraine",
-   "title": "Trump\u2019s Putin Overtures Deserve Criticism. But Outrage Won\u2019t End the Ukraine War. - Council on Foreign Relations",
-   "source": "Council on Foreign Relations",
-   "published": "Wed, 21 Oct 2026 21:17:59 GMT",
-   "read": "unclear"
-  },
-  {
    "topic": "Iran / Hormuz",
    "title": "Oil is now flowing out of the Persian Gulf like before the Iran war. Why prices may still not come down anytime soon. - MarketWatch",
    "source": "MarketWatch",
@@ -425,6 +418,13 @@
    "source": "WBFF",
    "published": "Wed, 21 Oct 2026 20:23:08 GMT",
    "read": "unclear"
+  },
+  {
+   "topic": "Saudi / Gulf supply",
+   "title": "Saudi Arabia says Shaybah oilfield attacked, ops unaffected - Quantum Commodity Intelligence",
+   "source": "Quantum Commodity Intelligence",
+   "published": "Wed, 21 Oct 2026 19:49:21 GMT",
+   "read": "escalation"
   }
  ],
  "ratings": [],
