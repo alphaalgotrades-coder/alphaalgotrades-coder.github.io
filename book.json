@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-21T15:05:02.910848+00:00",
+ "generated_utc": "2026-10-21T16:05:04.470989+00:00",
  "paper": true,
  "strategy": "the wheel (cash-secured puts -> covered calls)",
  "since": "2026-07-13",
@@ -393,7 +393,7 @@
    "engine": true,
    "agree": true,
    "entry": 0.35,
-   "upnl": -360.0,
+   "upnl": -330.0,
    "lane": "OPTIONS"
   },
   {
@@ -406,7 +406,7 @@
    "engine": true,
    "agree": true,
    "entry": 32.5,
-   "upnl": -168.0,
+   "upnl": -132.0,
    "lane": "OPTIONS"
   },
   {
@@ -432,7 +432,7 @@
    "engine": true,
    "agree": true,
    "entry": 1.05,
-   "upnl": -110.0,
+   "upnl": -100.0,
    "lane": "OPTIONS"
   },
   {
@@ -445,7 +445,7 @@
    "engine": true,
    "agree": true,
    "entry": 70.0,
-   "upnl": -2142.0,
+   "upnl": -2149.0,
    "lane": "OPTIONS"
   },
   {
@@ -458,7 +458,7 @@
    "engine": true,
    "agree": true,
    "entry": 1.25,
-   "upnl": -100.0,
+   "upnl": -60.0,
    "lane": "OPTIONS"
   },
   {
@@ -484,11 +484,11 @@
    "engine": true,
    "agree": true,
    "entry": 35.0,
-   "upnl": -244.0,
+   "upnl": -304.0,
    "lane": "OPTIONS"
   }
  ],
- "open_upnl": -3214.0,
+ "open_upnl": -3165.0,
  "reconciliation": "8/8 open legs reconciled against the broker statement and our own database",
  "stats": {
   "closed_trades": 44,
