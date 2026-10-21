@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-21T04:30:03+00:00",
+ "generated_utc": "2026-10-21T04:35:03+00:00",
  "date_et": "2026-10-21",
  "build": "0d463cfe05",
  "tape": [
@@ -354,20 +354,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 99.14,
-    "pct": 1.35
+    "price": 99.16,
+    "pct": 1.37
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4141.8,
-    "pct": -0.02
+    "price": 4142.6,
+    "pct": null
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.742,
-    "pct": 0.04
+    "price": 101.759,
+    "pct": 0.06
    },
    {
     "sym": "SPY",
@@ -388,11 +388,25 @@
     "pct": -6.13
    }
   ],
-  "as_of": "2026-10-21T04:27:05.236184+00:00",
+  "as_of": "2026-10-21T04:33:05.245492+00:00",
   "tone": "risk-on",
-  "age_min": 2.9804874666666668
+  "age_min": 1.9776792333333333
  },
  "stories": [
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iran\u2019s Revolutionary Guards Claim Oil Tanker Struck a Sea Mine - 8AM Media",
+   "source": "8AM Media",
+   "published": "Wed, 21 Oct 2026 04:12:17 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Taiwan / China",
+   "title": "China says it is 'safeguarding order' around Taiwan-controlled South China Sea atoll - The Korea Times",
+   "source": "The Korea Times",
+   "published": "Wed, 21 Oct 2026 03:56:03 GMT",
+   "read": "escalation"
+  },
   {
    "topic": "Taiwan / China",
    "title": "Taiwan security agency flags rise in Chinese disinformation ahead of local elections - Reuters",
@@ -408,13 +422,6 @@
    "read": "escalation"
   },
   {
-   "topic": "Taiwan / China",
-   "title": "Taiwan confirms funding for US observers at Han Kuang drills \u2014 South China Morning Post - UA.NEWS",
-   "source": "UA.NEWS",
-   "published": "Wed, 21 Oct 2026 02:21:55 GMT",
-   "read": "unclear"
-  },
-  {
    "topic": "Iran / Hormuz",
    "title": "Oil rises on Middle East supply worries - The Mighty 790 KFGO",
    "source": "The Mighty 790 KFGO",
@@ -426,13 +433,6 @@
    "title": "The Three Dates for Deciding Ukraine\u2019s Future - The Atlantic",
    "source": "The Atlantic",
    "published": "Wed, 21 Oct 2026 00:12:00 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "More Oil Is Now Coming Out of the Persian Gulf Than Before the Iran War - WSJ",
-   "source": "WSJ",
-   "published": "Wed, 21 Oct 2026 00:00:00 GMT",
    "read": "unclear"
   }
  ],
