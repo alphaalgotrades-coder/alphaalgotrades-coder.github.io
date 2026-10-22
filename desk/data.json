@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-22T23:40:03+00:00",
+ "generated_utc": "2026-10-22T23:45:04+00:00",
  "date_et": "2026-10-22",
  "build": "0d463cfe05",
  "tape": [
@@ -127,7 +127,7 @@
    "title": "National Core CPI y/y",
    "cons": "2.1%",
    "prev": "1.7%",
-   "actual": "2.2%"
+   "actual": "2.1%"
   },
   {
    "time": "20:30",
@@ -372,14 +372,14 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 99.47,
-    "pct": null
+    "price": 99.61,
+    "pct": 0.14
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4042.3,
-    "pct": -0.45
+    "price": 4040.8,
+    "pct": -0.48
    },
    {
     "sym": "DXY",
@@ -406,9 +406,9 @@
     "pct": 14.09
    }
   ],
-  "as_of": "2026-10-22T23:39:08.489513+00:00",
+  "as_of": "2026-10-22T23:42:04.862933+00:00",
   "tone": "risk-off",
-  "age_min": 0.9218343833333333
+  "age_min": 2.9963471
  },
  "stories": [
   {
@@ -541,7 +541,7 @@
    "policy_since": "2026-09-18",
    "cells": {
     "Inflation": {
-     "v": "2.2%",
+     "v": "2.1%",
      "date": "2026-10-22"
     },
     "Unemployment": {
