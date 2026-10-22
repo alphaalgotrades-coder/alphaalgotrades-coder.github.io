@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-22T04:30:03+00:00",
+ "generated_utc": "2026-10-22T04:35:03+00:00",
  "date_et": "2026-10-22",
  "build": "0d463cfe05",
  "tape": [
@@ -372,8 +372,8 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 98.54,
-    "pct": 1.43
+    "price": 98.64,
+    "pct": 1.53
    },
    {
     "sym": "GC",
@@ -384,8 +384,8 @@
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.584,
-    "pct": -0.19
+    "price": 101.578,
+    "pct": -0.2
    },
    {
     "sym": "SPY",
@@ -406,9 +406,9 @@
     "pct": -3.64
    }
   ],
-  "as_of": "2026-10-22T04:27:04.987284+00:00",
+  "as_of": "2026-10-22T04:33:05.091402+00:00",
   "tone": "risk-on",
-  "age_min": 2.97299225
+  "age_min": 1.9785036666666669
  },
  "stories": [
   {
@@ -441,16 +441,16 @@
   },
   {
    "topic": "Saudi / Gulf supply",
-   "title": "Saudi Crude Exports Hit Five-Month High as Production Falls to Record Low - Crude Oil Prices Today | OilPrice.com",
-   "source": "Crude Oil Prices Today | OilPrice.com",
-   "published": "Wed, 21 Oct 2026 17:30:00 GMT",
-   "read": "unclear"
+   "title": "Crude oil futures rise as Houthis intensify attacks on Saudi Arabia - BusinessLine",
+   "source": "BusinessLine",
+   "published": "Thu, 22 Oct 2026 04:07:23 GMT",
+   "read": "escalation"
   },
   {
    "topic": "Taiwan / China",
-   "title": "Taiwan probes organised crime links to China\u2019s \u2018transnational repression\u2019 - KELO-AM",
-   "source": "KELO-AM",
-   "published": "Thu, 22 Oct 2026 03:03:48 GMT",
+   "title": "What\u2019s holding up Washington\u2019s US$14bil arms sale to Taiwan? - Free Malaysia Today",
+   "source": "Free Malaysia Today",
+   "published": "Thu, 22 Oct 2026 03:26:24 GMT",
    "read": "unclear"
   }
  ],
