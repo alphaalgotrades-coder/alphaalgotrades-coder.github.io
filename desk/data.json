@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-22T23:50:03+00:00",
+ "generated_utc": "2026-10-22T23:55:03+00:00",
  "date_et": "2026-10-22",
  "build": "0d463cfe05",
  "tape": [
@@ -372,14 +372,14 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 99.51,
-    "pct": 0.04
+    "price": 99.54,
+    "pct": 0.07
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4040.2,
-    "pct": -0.5
+    "price": 4039.8,
+    "pct": -0.51
    },
    {
     "sym": "DXY",
@@ -406,9 +406,9 @@
     "pct": 14.09
    }
   ],
-  "as_of": "2026-10-22T23:48:05.515471+00:00",
+  "as_of": "2026-10-22T23:54:05.009177+00:00",
   "tone": "risk-off",
-  "age_min": 1.9769036666666666
+  "age_min": 0.9805549833333332
  },
  "stories": [
   {
@@ -424,6 +424,13 @@
    "source": "The Washington Post",
    "published": "Thu, 22 Oct 2026 23:01:55 GMT",
    "read": "unclear"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Vladimir Putin confirms Russia ready to resume US-mediated Ukraine peace talks next month - The Jerusalem Post",
+   "source": "The Jerusalem Post",
+   "published": "Thu, 22 Oct 2026 22:33:14 GMT",
+   "read": "de-escalation"
   },
   {
    "topic": "Saudi / Gulf supply",
@@ -445,13 +452,6 @@
    "source": "Los Angeles Times",
    "published": "Thu, 22 Oct 2026 21:16:00 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Kharg Island is \u2018useless\u2019 to Iran as is: Navy SEAL veteran - Fox Business",
-   "source": "Fox Business",
-   "published": "Thu, 22 Oct 2026 21:11:55 GMT",
-   "read": "unclear"
   }
  ],
  "ratings": [],
