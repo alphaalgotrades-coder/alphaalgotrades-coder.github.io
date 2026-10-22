@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-22T08:30:04+00:00",
+ "generated_utc": "2026-10-22T08:35:03+00:00",
  "date_et": "2026-10-22",
  "build": "0d463cfe05",
  "tape": [
@@ -372,20 +372,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 99.82,
-    "pct": 2.75
+    "price": 99.85,
+    "pct": 2.78
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4099.6,
-    "pct": -1.21
+    "price": 4108.7,
+    "pct": -1.0
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.595,
-    "pct": -0.18
+    "price": 101.529,
+    "pct": -0.25
    },
    {
     "sym": "SPY",
@@ -406,11 +406,18 @@
     "pct": 10.85
    }
   ],
-  "as_of": "2026-10-22T08:27:05.764170+00:00",
+  "as_of": "2026-10-22T08:33:05.751871+00:00",
   "tone": "mixed",
-  "age_min": 2.9827709666666666
+  "age_min": 1.9720827333333333
  },
  "stories": [
+  {
+   "topic": "Saudi / Gulf supply",
+   "title": "Saudi crude exports rise 7.9% and reach a 5-month high - Inspenet",
+   "source": "Inspenet",
+   "published": "Wed, 21 Oct 2026 20:03:59 GMT",
+   "read": "unclear"
+  },
   {
    "topic": "Russia / Ukraine",
    "title": "Rosenberg: Russia agrees to Ukraine talks but sees little to talk about in new peace push - BBC",
@@ -433,24 +440,17 @@
    "read": "unclear"
   },
   {
+   "topic": "Saudi / Gulf supply",
+   "title": "Saudi Aramco and Asian Refiners Dispute How to Count 2026 Spot Oil - tokenpost.com",
+   "source": "tokenpost.com",
+   "published": "Wed, 21 Oct 2026 01:56:00 GMT",
+   "read": "unclear"
+  },
+  {
    "topic": "Russia / Ukraine",
    "title": "Back in the eye of the storm: A Trump-Putin deal would require doing more to protect Ukraine and EUrope | EPC - EPC, European Policy Centre",
    "source": "EPC, European Policy Centre",
    "published": "Tue, 20 Oct 2026 09:15:24 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran says 7 tankers on fire or damaged in the Strait of Hormuz, and other Mideast news - The Killeen Daily Herald",
-   "source": "The Killeen Daily Herald",
-   "published": "Thu, 22 Oct 2026 07:13:50 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Saudi / Gulf supply",
-   "title": "Brent crude price climbs to $111 a barrel after latest attacks in Saudi Arabia - Moneycontrol.com",
-   "source": "Moneycontrol.com",
-   "published": "Thu, 22 Oct 2026 06:30:15 GMT",
    "read": "unclear"
   }
  ],
