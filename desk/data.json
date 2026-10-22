@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-22T23:10:03+00:00",
+ "generated_utc": "2026-10-22T23:15:04+00:00",
  "date_et": "2026-10-22",
  "build": "0d463cfe05",
  "tape": [
@@ -118,7 +118,7 @@
    "title": "GfK Consumer Confidence",
    "cons": "-14",
    "prev": "-13",
-   "actual": ""
+   "actual": "-24"
   },
   {
    "time": "19:30",
@@ -372,14 +372,14 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 98.99,
-    "pct": -0.48
+    "price": 98.91,
+    "pct": -0.56
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4042.8,
-    "pct": -0.43
+    "price": 4041.8,
+    "pct": -0.46
    },
    {
     "sym": "DXY",
@@ -406,9 +406,9 @@
     "pct": 14.09
    }
   ],
-  "as_of": "2026-10-22T23:09:08.701925+00:00",
+  "as_of": "2026-10-22T23:12:05.856546+00:00",
   "tone": "risk-off",
-  "age_min": 0.9197158833333333
+  "age_min": 2.9722779833333335
  },
  "stories": [
   {
@@ -420,16 +420,16 @@
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "Witkoff faces backlash for praising Putin as a \u2018humanitarian\u2019 - The Washington Post",
+   "title": "Russia agreed to restart trilateral talks. Peace in Ukraine is far off. - The Washington Post",
    "source": "The Washington Post",
-   "published": "Thu, 22 Oct 2026 22:15:00 GMT",
+   "published": "Thu, 22 Oct 2026 23:01:55 GMT",
    "read": "unclear"
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "Putin says talks must focus on security for Russia, Ukraine and Europe overall - Reuters",
-   "source": "Reuters",
-   "published": "Thu, 22 Oct 2026 21:28:26 GMT",
+   "title": "Witkoff faces backlash for praising Putin as a \u2018humanitarian\u2019 - The Washington Post",
+   "source": "The Washington Post",
+   "published": "Thu, 22 Oct 2026 22:15:00 GMT",
    "read": "unclear"
   },
   {
