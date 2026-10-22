@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-22T08:10:03+00:00",
+ "generated_utc": "2026-10-22T08:15:04+00:00",
  "date_et": "2026-10-22",
  "build": "0d463cfe05",
  "tape": [
@@ -372,20 +372,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 99.94,
-    "pct": 2.87
+    "price": 99.73,
+    "pct": 2.66
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4101.9,
-    "pct": -1.16
+    "price": 4106.3,
+    "pct": -1.05
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.552,
-    "pct": -0.22
+    "price": 101.548,
+    "pct": -0.23
    },
    {
     "sym": "SPY",
@@ -402,15 +402,22 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 18.4,
-    "pct": 10.31
+    "price": 18.44,
+    "pct": 10.55
    }
   ],
-  "as_of": "2026-10-22T08:09:06.534000+00:00",
+  "as_of": "2026-10-22T08:12:05.625970+00:00",
   "tone": "mixed",
-  "age_min": 0.95278855
+  "age_min": 2.9780508333333335
  },
  "stories": [
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Rosenberg: Russia agrees to Ukraine talks but sees little to talk about in new peace push - BBC",
+   "source": "BBC",
+   "published": "Wed, 21 Oct 2026 19:58:06 GMT",
+   "read": "unclear"
+  },
   {
    "topic": "Russia / Ukraine",
    "title": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace - BBC",
@@ -434,8 +441,8 @@
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Iran says 7 tankers on fire or damaged in the Strait of Hormuz, and other Mideast news - The Journal",
-   "source": "The Journal",
+   "title": "Iran says 7 tankers on fire or damaged in the Strait of Hormuz, and other Mideast news - The Killeen Daily Herald",
+   "source": "The Killeen Daily Herald",
    "published": "Thu, 22 Oct 2026 07:13:50 GMT",
    "read": "escalation"
   },
@@ -445,13 +452,6 @@
    "source": "Moneycontrol.com",
    "published": "Thu, 22 Oct 2026 06:30:15 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Saudi / Gulf supply",
-   "title": "Oil prices rise over 2% after attack on Saudi oil field fuels supply concerns - A News",
-   "source": "A News",
-   "published": "Thu, 22 Oct 2026 06:18:49 GMT",
-   "read": "escalation"
   }
  ],
  "ratings": [],
