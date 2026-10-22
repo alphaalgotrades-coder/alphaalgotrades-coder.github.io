@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-22T10:30:04+00:00",
+ "generated_utc": "2026-10-22T10:35:03+00:00",
  "date_et": "2026-10-22",
  "build": "0d463cfe05",
  "tape": [
@@ -148,7 +148,7 @@
     "lean": "dovish",
     "source": "YAHOO_TSY_FUT_ZT",
     "latency": "after-hours-futures-proxy",
-    "snapshot_ts": "2026-10-22T10:17:00+00:00",
+    "snapshot_ts": "2026-10-22T10:22:00+00:00",
     "snapshot_date": "2026-10-22",
     "prior_day": "2026-10-20",
     "prior_day_close": 4.79,
@@ -168,19 +168,18 @@
      4.75,
      4.752,
      4.75,
-     4.75,
-     4.744,
-     4.742,
-     4.744,
-     4.735,
-     4.74,
-     4.742,
-     4.746,
-     4.742,
-     4.744,
      4.746,
      4.738,
      4.742,
+     4.738,
+     4.74,
+     4.744,
+     4.744,
+     4.744,
+     4.742,
+     4.744,
+     4.742,
+     4.74,
      4.746,
      4.752,
      4.746,
@@ -192,17 +191,18 @@
      4.731,
      4.731,
      4.731,
-     4.738
+     4.738,
+     4.735
     ]
    },
    {
     "series": "5Y",
-    "level": 4.865,
-    "d_day_bps": -7.0,
+    "level": 4.863,
+    "d_day_bps": -7.2,
     "lean": "dovish",
     "source": "YAHOO_TSY_FUT_ZF",
     "latency": "after-hours-futures-proxy",
-    "snapshot_ts": "2026-10-22T10:17:00+00:00",
+    "snapshot_ts": "2026-10-22T10:22:00+00:00",
     "snapshot_date": "2026-10-22",
     "prior_day": "2026-10-20",
     "prior_day_close": 4.935,
@@ -217,27 +217,26 @@
      4.884,
      4.886,
      4.886,
+     4.882,
      4.884,
-     4.884,
-     4.886,
+     4.888,
      4.888,
      4.886,
-     4.884,
-     4.881,
-     4.877,
-     4.877,
-     4.872,
-     4.875,
-     4.879,
-     4.879,
-     4.875,
-     4.875,
-     4.875,
-     4.87,
+     4.882,
      4.874,
-     4.875,
-     4.881,
+     4.877,
      4.872,
+     4.872,
+     4.877,
+     4.879,
+     4.877,
+     4.877,
+     4.877,
+     4.872,
+     4.872,
+     4.877,
+     4.882,
+     4.874,
      4.865,
      4.868,
      4.863,
@@ -246,7 +245,8 @@
      4.856,
      4.856,
      4.856,
-     4.867
+     4.867,
+     4.865
     ]
    },
    {
@@ -256,7 +256,7 @@
     "lean": "dovish",
     "source": "YAHOO_TSY_FUT_ZN",
     "latency": "after-hours-futures-proxy",
-    "snapshot_ts": "2026-10-22T10:17:00+00:00",
+    "snapshot_ts": "2026-10-22T10:22:00+00:00",
     "snapshot_date": "2026-10-22",
     "prior_day": "2026-10-20",
     "prior_day_close": 5.117,
@@ -271,27 +271,26 @@
      5.062,
      5.064,
      5.067,
-     5.062,
      5.064,
      5.064,
+     5.069,
      5.067,
-     5.064,
-     5.064,
-     5.06,
-     5.06,
-     5.058,
+     5.067,
+     5.062,
      5.053,
      5.058,
-     5.06,
-     5.06,
-     5.055,
-     5.058,
-     5.055,
+     5.053,
      5.053,
      5.055,
+     5.06,
+     5.058,
      5.058,
      5.06,
-     5.053,
+     5.051,
+     5.055,
+     5.058,
+     5.062,
+     5.055,
      5.046,
      5.051,
      5.046,
@@ -300,6 +299,7 @@
      5.037,
      5.037,
      5.037,
+     5.044,
      5.044
     ]
    },
@@ -310,7 +310,7 @@
     "lean": "dovish",
     "source": "YAHOO_TSY_FUT_ZB",
     "latency": "after-hours-futures-proxy",
-    "snapshot_ts": "2026-10-22T10:18:00+00:00",
+    "snapshot_ts": "2026-10-22T10:21:00+00:00",
     "snapshot_date": "2026-10-22",
     "prior_day": "2026-10-20",
     "prior_day_close": 5.425,
@@ -324,41 +324,41 @@
      5.381,
      5.379,
      5.381,
-     5.379,
-     5.379,
      5.381,
      5.381,
      5.381,
      5.382,
-     5.381,
-     5.373,
-     5.377,
-     5.373,
-     5.375,
-     5.379,
-     5.381,
-     5.381,
-     5.377,
-     5.379,
-     5.377,
-     5.377,
-     5.379,
      5.382,
-     5.377,
+     5.382,
+     5.381,
+     5.379,
+     5.379,
      5.375,
      5.377,
      5.379,
+     5.379,
+     5.379,
+     5.379,
+     5.377,
+     5.377,
+     5.379,
+     5.377,
+     5.381,
+     5.377,
+     5.377,
+     5.381,
      5.375,
      5.373,
      5.373,
      5.371,
      5.366,
      5.369,
-     5.375
+     5.375,
+     5.377
     ]
    }
   ],
-  "as_of": "2026-10-22T10:17:00+00:00",
+  "as_of": "2026-10-22T10:22:00+00:00",
   "note": "after-hours-futures-proxy"
  },
  "strip": {
@@ -372,20 +372,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 99.52,
-    "pct": 2.44
+    "price": 99.34,
+    "pct": 2.25
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4103.0,
-    "pct": -1.13
+    "price": 4107.2,
+    "pct": -1.03
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.63,
-    "pct": -0.15
+    "price": 101.641,
+    "pct": -0.14
    },
    {
     "sym": "SPY",
@@ -402,13 +402,13 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 18.35,
-    "pct": 10.01
+    "price": 18.44,
+    "pct": 10.55
    }
   ],
-  "as_of": "2026-10-22T10:27:05.567602+00:00",
+  "as_of": "2026-10-22T10:33:05.361999+00:00",
   "tone": "mixed",
-  "age_min": 2.9908504666666667
+  "age_min": 1.9772807833333335
  },
  "stories": [
   {
@@ -427,16 +427,9 @@
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "Putin proposed trilateral talks on Ukraine. What role will China play? - DW.com",
-   "source": "DW.com",
-   "published": "Wed, 21 Oct 2026 19:32:58 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran's floating oil reserves, used for China sales, completely depleted, analysts say - report - The Jerusalem Post",
-   "source": "The Jerusalem Post",
-   "published": "Thu, 22 Oct 2026 09:30:31 GMT",
+   "title": "Putin Nears a Prize: Restoring Ties With the U.S. While Giving Up Nothing - The New York Times",
+   "source": "The New York Times",
+   "published": "Thu, 22 Oct 2026 09:32:28 GMT",
    "read": "unclear"
   },
   {
@@ -451,6 +444,13 @@
    "title": "Saudi Arabia seeks access to foreign strategic oil reserves for Aramco - Business Standard",
    "source": "Business Standard",
    "published": "Thu, 22 Oct 2026 08:55:03 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Saudi / Gulf supply",
+   "title": "Saudi Aramco: \"Seeking Partnerships to Expand Strategic Oil Reserves, Considering Alternative Crude Export Routes\" - \uc544\uc2dc\uc544\uacbd\uc81c",
+   "source": "\uc544\uc2dc\uc544\uacbd\uc81c",
+   "published": "Thu, 22 Oct 2026 08:47:53 GMT",
    "read": "unclear"
   }
  ],
@@ -556,29 +556,29 @@
    {
     "code": "FR",
     "name": "France",
-    "level": 5.0875,
+    "level": 5.0897,
     "as_of": "2026-10-22",
-    "spread_bp": 170.6,
-    "d_day_bps": 6.2
+    "spread_bp": 170.9,
+    "d_day_bps": 6.4
    },
    {
     "code": "DE",
     "name": "Germany",
-    "level": 3.3815,
+    "level": 3.3805,
     "as_of": "2026-10-22",
     "spread_bp": null,
-    "d_day_bps": -4.5
+    "d_day_bps": -4.6
    },
    {
     "code": "IT",
     "name": "Italy",
-    "level": 4.6281,
+    "level": 4.6327,
     "as_of": "2026-10-22",
-    "spread_bp": 124.7,
-    "d_day_bps": 3.9
+    "spread_bp": 125.2,
+    "d_day_bps": 4.4
    }
   ],
-  "bund": 3.3815,
+  "bund": 3.3805,
   "note": "10-year government bonds; spread measured over Germany"
  },
  "auctions": {
