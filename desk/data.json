@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-22T09:50:03+00:00",
+ "generated_utc": "2026-10-22T09:55:03+00:00",
  "date_et": "2026-10-22",
  "build": "0d463cfe05",
  "tape": [
@@ -372,20 +372,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 99.53,
-    "pct": 2.45
+    "price": 99.68,
+    "pct": 2.6
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4099.6,
-    "pct": -1.21
+    "price": 4102.6,
+    "pct": -1.14
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.565,
-    "pct": -0.21
+    "price": 101.548,
+    "pct": -0.23
    },
    {
     "sym": "SPY",
@@ -402,22 +402,15 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 18.49,
-    "pct": 10.85
+    "price": 18.54,
+    "pct": 11.15
    }
   ],
-  "as_of": "2026-10-22T09:48:06.039276+00:00",
+  "as_of": "2026-10-22T09:54:06.047398+00:00",
   "tone": "mixed",
-  "age_min": 1.9683190833333333
+  "age_min": 0.9631298166666666
  },
  "stories": [
-  {
-   "topic": "Saudi / Gulf supply",
-   "title": "Saudi crude exports rise 7.9% and reach a 5-month high - Inspenet",
-   "source": "Inspenet",
-   "published": "Wed, 21 Oct 2026 20:03:59 GMT",
-   "read": "unclear"
-  },
   {
    "topic": "Russia / Ukraine",
    "title": "Rosenberg: Russia agrees to Ukraine talks but sees little to talk about in new peace push - BBC",
@@ -440,17 +433,24 @@
    "read": "unclear"
   },
   {
-   "topic": "Saudi / Gulf supply",
-   "title": "Saudi Aramco and Asian Refiners Dispute How to Count 2026 Spot Oil - tokenpost.com",
-   "source": "tokenpost.com",
-   "published": "Wed, 21 Oct 2026 01:56:00 GMT",
-   "read": "unclear"
-  },
-  {
    "topic": "Russia / Ukraine",
    "title": "Back in the eye of the storm: A Trump-Putin deal would require doing more to protect Ukraine and EUrope | EPC - EPC, European Policy Centre",
    "source": "EPC, European Policy Centre",
    "published": "Tue, 20 Oct 2026 09:15:24 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Trump Says US Is \u2018Not Negotiating\u2019 With Iran as Hormuz Crisis Deepens, Hints War Could End \u2018Very Soon\u2019 - Benzinga",
+   "source": "Benzinga",
+   "published": "Thu, 22 Oct 2026 09:18:23 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Saudi / Gulf supply",
+   "title": "Aramco Seeks Storage Partnerships, Eyes New Oil Export Routes - Egypt Oil &amp; Gas",
+   "source": "Egypt Oil &amp; Gas",
+   "published": "Thu, 22 Oct 2026 09:00:53 GMT",
    "read": "unclear"
   }
  ],
