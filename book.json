@@ -1,13 +1,13 @@
 {
- "generated_utc": "2026-10-22T18:05:05.082780+00:00",
+ "generated_utc": "2026-10-22T19:05:04.420173+00:00",
  "paper": true,
  "strategy": "the wheel (cash-secured puts -> covered calls)",
  "since": "2026-07-13",
- "trading_days": 53,
+ "trading_days": 54,
  "green_days": 28,
  "red_days": 2,
- "total_fills": 156,
- "symbols_traded": 22,
+ "total_fills": 157,
+ "symbols_traded": 23,
  "cumulative_realized": 8973.89,
  "days": [
   {
@@ -380,6 +380,13 @@
    "realized": 0.0,
    "commission": 0.0,
    "cumulative": 8973.89
+  },
+  {
+   "date": "2026-10-22",
+   "fills": 1,
+   "realized": 0.0,
+   "commission": 0.0,
+   "cumulative": 8973.89
   }
  ],
  "open_legs": [
@@ -393,7 +400,7 @@
    "engine": true,
    "agree": true,
    "entry": 0.35,
-   "upnl": -180.0,
+   "upnl": -90.0,
    "lane": "OPTIONS"
   },
   {
@@ -406,7 +413,7 @@
    "engine": true,
    "agree": true,
    "entry": 32.5,
-   "upnl": -435.0,
+   "upnl": -648.0,
    "lane": "OPTIONS"
   },
   {
@@ -445,7 +452,20 @@
    "engine": true,
    "agree": true,
    "entry": 70.0,
-   "upnl": -1598.0,
+   "upnl": -1519.0,
+   "lane": "OPTIONS"
+  },
+  {
+   "instrument": "MCHP 10/30 P73",
+   "raw": "MCHP261030P00073000",
+   "strategy": "HT_WHEEL",
+   "side": "short 1",
+   "broker": true,
+   "db": true,
+   "engine": true,
+   "agree": true,
+   "entry": 2.0,
+   "upnl": -30.0,
    "lane": "OPTIONS"
   },
   {
@@ -458,7 +478,7 @@
    "engine": true,
    "agree": true,
    "entry": 1.25,
-   "upnl": -540.0,
+   "upnl": -500.0,
    "lane": "OPTIONS"
   },
   {
@@ -471,7 +491,7 @@
    "engine": true,
    "agree": true,
    "entry": 0.65,
-   "upnl": 30.0,
+   "upnl": 40.0,
    "lane": "OPTIONS"
   },
   {
@@ -484,12 +504,12 @@
    "engine": true,
    "agree": true,
    "entry": 35.0,
-   "upnl": 810.0,
+   "upnl": 772.0,
    "lane": "OPTIONS"
   }
  ],
- "open_upnl": -2143.0,
- "reconciliation": "8/8 open legs reconciled against the broker statement and our own database",
+ "open_upnl": -2205.0,
+ "reconciliation": "9/9 open legs reconciled against the broker statement and our own database",
  "stats": {
   "closed_trades": 44,
   "win_rate": 86.4,
@@ -497,11 +517,11 @@
   "avg_loss": -197.83,
   "profit_factor": 8.56,
   "expectancy": 203.95,
-  "sharpe_daily_ann": 5.95,
-  "capital_at_risk": 61250.0,
-  "period_return_pct": 14.65,
-  "ann_pace_pct": 52.9,
-  "elapsed_days": 101
+  "sharpe_daily_ann": 5.89,
+  "capital_at_risk": 68550.0,
+  "period_return_pct": 13.09,
+  "ann_pace_pct": 46.8,
+  "elapsed_days": 102
  },
  "assigned": [
   {
