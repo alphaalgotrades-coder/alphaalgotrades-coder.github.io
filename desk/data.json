@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-22T21:30:05+00:00",
+ "generated_utc": "2026-10-22T21:35:03+00:00",
  "date_et": "2026-10-22",
  "build": "0d463cfe05",
  "tape": [
@@ -384,8 +384,8 @@
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.626,
-    "pct": -0.15
+    "price": 101.618,
+    "pct": -0.16
    },
    {
     "sym": "SPY",
@@ -406,9 +406,9 @@
     "pct": 14.09
    }
   ],
-  "as_of": "2026-10-22T21:27:05.901330+00:00",
+  "as_of": "2026-10-22T21:33:05.924221+00:00",
   "tone": "risk-off",
-  "age_min": 2.9918220666666664
+  "age_min": 1.9616952499999998
  },
  "stories": [
   {
@@ -427,6 +427,13 @@
   },
   {
    "topic": "Iran / Hormuz",
+   "title": "October Marks Highest Number of Strait of Hormuz Attacks - USNI News",
+   "source": "USNI News",
+   "published": "Thu, 22 Oct 2026 21:23:00 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
    "title": "Oil prices approach Iran-war highs as soaring tanker rates trigger a second energy squeeze - MarketWatch",
    "source": "MarketWatch",
    "published": "Thu, 22 Oct 2026 20:46:00 GMT",
@@ -437,13 +444,6 @@
    "title": "Russian strikes hit Kyiv after Witkoff meets Putin - Al Jazeera",
    "source": "Al Jazeera",
    "published": "Thu, 22 Oct 2026 19:55:28 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran says 7 tankers damaged in Strait of Hormuz, and other Mideast news - chronicleonline.com",
-   "source": "chronicleonline.com",
-   "published": "Thu, 22 Oct 2026 19:38:58 GMT",
    "read": "escalation"
   },
   {
