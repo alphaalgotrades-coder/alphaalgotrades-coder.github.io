@@ -1,115 +1,142 @@
 {
- "generated_utc": "2026-10-22T03:55:03+00:00",
- "date_et": "2026-10-21",
+ "generated_utc": "2026-10-22T04:00:04+00:00",
+ "date_et": "2026-10-22",
  "build": "0d463cfe05",
  "tape": [
   {
-   "time": "02:00",
-   "ccy": "GBP",
-   "impact": "High",
-   "title": "CPI y/y",
-   "cons": "3.4%",
-   "prev": "3.1%",
-   "actual": "3.5%"
-  },
-  {
-   "time": "02:00",
-   "ccy": "GBP",
+   "time": "03:30",
+   "ccy": "CHF",
    "impact": "Low",
-   "title": "Core CPI y/y",
-   "cons": "2.8%",
-   "prev": "2.6%",
-   "actual": "2.8%"
-  },
-  {
-   "time": "02:00",
-   "ccy": "GBP",
-   "impact": "Low",
-   "title": "PPI Input m/m",
-   "cons": "1.3%",
-   "prev": "0.3%",
-   "actual": "1.5%"
-  },
-  {
-   "time": "02:00",
-   "ccy": "GBP",
-   "impact": "Low",
-   "title": "PPI Output m/m",
-   "cons": "0.7%",
-   "prev": "0.7%",
-   "actual": "0.8%"
-  },
-  {
-   "time": "02:00",
-   "ccy": "GBP",
-   "impact": "Low",
-   "title": "Public Sector Net Borrowing",
-   "cons": "23.8B",
-   "prev": "18.3B",
-   "actual": "24.5B"
-  },
-  {
-   "time": "02:00",
-   "ccy": "GBP",
-   "impact": "Low",
-   "title": "RPI y/y",
-   "cons": "3.9%",
-   "prev": "3.4%",
-   "actual": "3.9%"
-  },
-  {
-   "time": "03:15",
-   "ccy": "EUR",
-   "impact": "Low",
-   "title": "German Buba President Nagel Speaks",
+   "title": "Summary of Monetary Policy Discussions",
    "cons": "",
    "prev": "",
    "actual": ""
   },
   {
-   "time": "04:30",
-   "ccy": "GBP",
+   "time": "05:10",
+   "ccy": "CNY",
    "impact": "Low",
-   "title": "HPI y/y",
-   "cons": "1.2%",
-   "prev": "1.4%",
-   "actual": "0.9%"
+   "title": "Foreign Direct Investment ytd/y",
+   "cons": "",
+   "prev": "-5.3%",
+   "actual": ""
   },
   {
    "time": "06:00",
-   "ccy": "EUR",
+   "ccy": "GBP",
    "impact": "Low",
-   "title": "German Buba Monthly Report",
-   "cons": "",
-   "prev": "",
+   "title": "CBI Industrial Order Expectations",
+   "cons": "-20",
+   "prev": "-9",
    "actual": ""
   },
   {
-   "time": "09:00",
-   "ccy": "GBP",
-   "impact": "Medi",
-   "title": "BOE Gov Bailey Speaks",
-   "cons": "",
-   "prev": "",
+   "time": "08:30",
+   "ccy": "CAD",
+   "impact": "Low",
+   "title": "IPPI m/m",
+   "cons": "0.9%",
+   "prev": "1.3%",
+   "actual": ""
+  },
+  {
+   "time": "08:30",
+   "ccy": "CAD",
+   "impact": "Low",
+   "title": "NHPI m/m",
+   "cons": "-0.1%",
+   "prev": "-0.1%",
+   "actual": ""
+  },
+  {
+   "time": "08:30",
+   "ccy": "CAD",
+   "impact": "Low",
+   "title": "RMPI m/m",
+   "cons": "3.1%",
+   "prev": "3.1%",
+   "actual": ""
+  },
+  {
+   "time": "08:30",
+   "ccy": "USD",
+   "impact": "High",
+   "title": "Unemployment Claims",
+   "cons": "200K",
+   "prev": "199K",
+   "actual": ""
+  },
+  {
+   "time": "10:00",
+   "ccy": "EUR",
+   "impact": "Low",
+   "title": "Consumer Confidence",
+   "cons": "-17",
+   "prev": "-17",
+   "actual": ""
+  },
+  {
+   "time": "10:00",
+   "ccy": "USD",
+   "impact": "Low",
+   "title": "CB Leading Index m/m",
+   "cons": "-0.1%",
+   "prev": "-0.1%",
    "actual": ""
   },
   {
    "time": "10:30",
    "ccy": "USD",
    "impact": "Low",
-   "title": "Crude Oil Inventories",
-   "cons": "-0.1M",
-   "prev": "-8.6M",
-   "actual": "-3.1M"
+   "title": "Natural Gas Storage",
+   "cons": "80B",
+   "prev": "67B",
+   "actual": ""
   },
   {
-   "time": "17:45",
-   "ccy": "NZD",
-   "impact": "High",
-   "title": "CPI q/q",
-   "cons": "0.8%",
-   "prev": "1.5%",
-   "actual": "0.7%"
+   "time": "18:00",
+   "ccy": "AUD",
+   "impact": "Low",
+   "title": "Flash Manufacturing PMI",
+   "cons": "",
+   "prev": "49.3",
+   "actual": ""
+  },
+  {
+   "time": "18:00",
+   "ccy": "AUD",
+   "impact": "Low",
+   "title": "Flash Services PMI",
+   "cons": "",
+   "prev": "51.4",
+   "actual": ""
+  },
+  {
+   "time": "19:01",
+   "ccy": "GBP",
+   "impact": "Low",
+   "title": "GfK Consumer Confidence",
+   "cons": "-14",
+   "prev": "-13",
+   "actual": ""
+  },
+  {
+   "time": "19:30",
+   "ccy": "JPY",
+   "impact": "Low",
+   "title": "National Core CPI y/y",
+   "cons": "2.1%",
+   "prev": "1.7%",
+   "actual": ""
+  },
+  {
+   "time": "20:30",
+   "ccy": "JPY",
+   "impact": "Low",
+   "title": "Flash Manufacturing PMI",
+   "cons": "54.5",
+   "prev": "54.1",
+   "actual": ""
   }
  ],
  "rates": {
@@ -345,20 +372,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 98.33,
-    "pct": 1.21
+    "price": 98.36,
+    "pct": 1.25
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4109.8,
-    "pct": -0.97
+    "price": 4108.4,
+    "pct": -1.0
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.536,
-    "pct": -0.24
+    "price": 101.561,
+    "pct": -0.22
    },
    {
     "sym": "SPY",
@@ -379,9 +406,9 @@
     "pct": -3.64
    }
   ],
-  "as_of": "2026-10-22T03:54:05.824292+00:00",
+  "as_of": "2026-10-22T03:57:04.655611+00:00",
   "tone": "risk-on",
-  "age_min": 0.9621572333333333
+  "age_min": 2.9925927833333335
  },
  "stories": [
   {
