@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-22T03:10:04+00:00",
+ "generated_utc": "2026-10-22T03:15:04+00:00",
  "date_et": "2026-10-21",
  "build": "0d463cfe05",
  "tape": [
@@ -339,26 +339,26 @@
    {
     "sym": "MOVE",
     "name": "Bond-market volatility",
-    "price": 95.939,
+    "price": 95.94,
     "pct": -5.66
    },
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 98.36,
-    "pct": 1.25
+    "price": 98.47,
+    "pct": 1.36
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4133.1,
-    "pct": -0.41
+    "price": 4129.1,
+    "pct": -0.5
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.599,
-    "pct": -0.18
+    "price": 101.587,
+    "pct": -0.19
    },
    {
     "sym": "SPY",
@@ -379,9 +379,9 @@
     "pct": -3.64
    }
   ],
-  "as_of": "2026-10-22T03:09:05.927589+00:00",
+  "as_of": "2026-10-22T03:12:05.631920+00:00",
   "tone": "risk-on",
-  "age_min": 0.9752236166666666
+  "age_min": 2.9815551
  },
  "stories": [
   {
@@ -397,13 +397,6 @@
    "source": "BBC",
    "published": "Wed, 21 Oct 2026 21:27:41 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Oil is now flowing out of the Persian Gulf like before the Iran war. Why prices may still not come down anytime soon. - MarketWatch",
-   "source": "MarketWatch",
-   "published": "Wed, 21 Oct 2026 21:14:00 GMT",
-   "read": "unclear"
   },
   {
    "topic": "Saudi / Gulf supply",
@@ -424,6 +417,13 @@
    "title": "Saudi Crude Exports Hit Five-Month High as Production Falls to Record Low - Crude Oil Prices Today | OilPrice.com",
    "source": "Crude Oil Prices Today | OilPrice.com",
    "published": "Wed, 21 Oct 2026 17:30:00 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Taiwan / China",
+   "title": "Taiwan probes organised crime links to China\u2019s \u2018transnational repression\u2019 - KELO-AM",
+   "source": "KELO-AM",
+   "published": "Thu, 22 Oct 2026 03:03:48 GMT",
    "read": "unclear"
   }
  ],
