@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-22T07:55:03+00:00",
+ "generated_utc": "2026-10-22T08:00:04+00:00",
  "date_et": "2026-10-22",
  "build": "0d463cfe05",
  "tape": [
@@ -13,13 +13,13 @@
    "actual": ""
   },
   {
-   "time": "05:10",
+   "time": "03:41",
    "ccy": "CNY",
    "impact": "Low",
    "title": "Foreign Direct Investment ytd/y",
    "cons": "",
    "prev": "-5.3%",
-   "actual": ""
+   "actual": "-4.3%"
   },
   {
    "time": "06:00",
@@ -372,19 +372,19 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 99.71,
-    "pct": 2.64
+    "price": 99.73,
+    "pct": 2.66
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4106.2,
-    "pct": -1.06
+    "price": 4106.7,
+    "pct": -1.04
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.561,
+    "price": 101.56,
     "pct": -0.22
    },
    {
@@ -402,13 +402,13 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 18.2,
-    "pct": 9.11
+    "price": 18.23,
+    "pct": 9.29
    }
   ],
-  "as_of": "2026-10-22T07:54:05.877392+00:00",
+  "as_of": "2026-10-22T07:57:15.133323+00:00",
   "tone": "mixed",
-  "age_min": 0.9685036666666667
+  "age_min": 2.8299327
  },
  "stories": [
   {
