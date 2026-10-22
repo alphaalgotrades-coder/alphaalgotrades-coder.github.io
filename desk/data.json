@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-22T23:30:04+00:00",
+ "generated_utc": "2026-10-22T23:35:03+00:00",
  "date_et": "2026-10-22",
  "build": "0d463cfe05",
  "tape": [
@@ -372,14 +372,14 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 99.19,
-    "pct": -0.28
+    "price": 99.21,
+    "pct": -0.26
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4041.0,
-    "pct": -0.48
+    "price": 4043.3,
+    "pct": -0.42
    },
    {
     "sym": "DXY",
@@ -406,9 +406,9 @@
     "pct": 14.09
    }
   ],
-  "as_of": "2026-10-22T23:27:05.227254+00:00",
+  "as_of": "2026-10-22T23:33:05.396513+00:00",
   "tone": "risk-off",
-  "age_min": 2.9901422833333333
+  "age_min": 1.9784928333333334
  },
  "stories": [
   {
@@ -426,18 +426,18 @@
    "read": "unclear"
   },
   {
+   "topic": "Saudi / Gulf supply",
+   "title": "Saudi Strike Sends Oil Above $113; Gold Breaks Below $4,050 in Capitulation-Style Selloff - BigGo Finance",
+   "source": "BigGo Finance",
+   "published": "Thu, 22 Oct 2026 22:25:00 GMT",
+   "read": "unclear"
+  },
+  {
    "topic": "Russia / Ukraine",
    "title": "Witkoff faces backlash for praising Putin as a \u2018humanitarian\u2019 - The Washington Post",
    "source": "The Washington Post",
    "published": "Thu, 22 Oct 2026 22:15:00 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "October Marks Highest Number of Strait of Hormuz Attacks - USNI News",
-   "source": "USNI News",
-   "published": "Thu, 22 Oct 2026 21:23:00 GMT",
-   "read": "escalation"
   },
   {
    "topic": "Iran / Hormuz",
