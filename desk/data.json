@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-22T21:50:03+00:00",
+ "generated_utc": "2026-10-22T21:55:03+00:00",
  "date_et": "2026-10-22",
  "build": "0d463cfe05",
  "tape": [
@@ -373,18 +373,18 @@
     "sym": "CL",
     "name": "WTI crude futures",
     "price": 99.1,
-    "pct": 2.01
+    "pct": -0.37
    },
    {
     "sym": "GC",
     "name": "Gold futures",
     "price": 4039.8,
-    "pct": -2.66
+    "pct": -0.51
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.626,
+    "price": 101.625,
     "pct": -0.15
    },
    {
@@ -406,9 +406,9 @@
     "pct": 14.09
    }
   ],
-  "as_of": "2026-10-22T21:48:05.508659+00:00",
+  "as_of": "2026-10-22T21:54:05.537952+00:00",
   "tone": "risk-off",
-  "age_min": 1.9764583999999998
+  "age_min": 0.97559165
  },
  "stories": [
   {
@@ -426,6 +426,13 @@
    "read": "escalation"
   },
   {
+   "topic": "Russia / Ukraine",
+   "title": "Putin says talks must focus on security for Russia, Ukraine and Europe overall - Reuters",
+   "source": "Reuters",
+   "published": "Thu, 22 Oct 2026 21:28:26 GMT",
+   "read": "unclear"
+  },
+  {
    "topic": "Iran / Hormuz",
    "title": "October Marks Highest Number of Strait of Hormuz Attacks - USNI News",
    "source": "USNI News",
@@ -434,23 +441,16 @@
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Oil prices approach Iran-war highs as soaring tanker rates trigger a second energy squeeze - MarketWatch",
-   "source": "MarketWatch",
-   "published": "Thu, 22 Oct 2026 20:46:00 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Russian strikes hit Kyiv after Witkoff meets Putin - Al Jazeera",
-   "source": "Al Jazeera",
-   "published": "Thu, 22 Oct 2026 19:55:28 GMT",
+   "title": "Iran says 7 oil tankers attacked in the Strait of Hormuz as fears grow of a return to war - Los Angeles Times",
+   "source": "Los Angeles Times",
+   "published": "Thu, 22 Oct 2026 21:16:00 GMT",
    "read": "escalation"
   },
   {
-   "topic": "Saudi / Gulf supply",
-   "title": "Oil Futures Rise as Attacks on Saudi Arabia, U.S.-Iran Risks Persist - WSJ",
-   "source": "WSJ",
-   "published": "Thu, 22 Oct 2026 19:29:00 GMT",
+   "topic": "Iran / Hormuz",
+   "title": "Oil prices approach Iran-war highs as soaring tanker rates trigger a second energy squeeze - MarketWatch",
+   "source": "MarketWatch",
+   "published": "Thu, 22 Oct 2026 20:46:00 GMT",
    "read": "unclear"
   }
  ],
