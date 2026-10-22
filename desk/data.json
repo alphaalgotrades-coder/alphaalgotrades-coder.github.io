@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-22T07:30:04+00:00",
+ "generated_utc": "2026-10-22T07:35:04+00:00",
  "date_et": "2026-10-22",
  "build": "0d463cfe05",
  "tape": [
@@ -372,20 +372,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 99.57,
-    "pct": 2.49
+    "price": 99.56,
+    "pct": 2.48
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4115.9,
-    "pct": -0.82
+    "price": 4112.9,
+    "pct": -0.89
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.496,
-    "pct": -0.28
+    "price": 101.504,
+    "pct": -0.27
    },
    {
     "sym": "SPY",
@@ -402,13 +402,13 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 16.68,
-    "pct": null
+    "price": 18.3,
+    "pct": 9.71
    }
   ],
-  "as_of": "2026-10-22T07:27:05.839417+00:00",
-  "tone": "risk-on",
-  "age_min": 2.9792343666666667
+  "as_of": "2026-10-22T07:33:05.736508+00:00",
+  "tone": "mixed",
+  "age_min": 1.9747165333333332
  },
  "stories": [
   {
@@ -434,6 +434,13 @@
   },
   {
    "topic": "Iran / Hormuz",
+   "title": "Iran says 7 tankers on fire or damaged in the Strait of Hormuz, and other Mideast news - Union-Bulletin",
+   "source": "Union-Bulletin",
+   "published": "Thu, 22 Oct 2026 07:13:50 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
    "title": "Iran says 7 tankers on fire or damaged overnight in the Strait of Hormuz, and other Mideast news - News-Press NOW",
    "source": "News-Press NOW",
    "published": "Thu, 22 Oct 2026 06:40:19 GMT",
@@ -445,13 +452,6 @@
    "source": "Moneycontrol.com",
    "published": "Thu, 22 Oct 2026 06:30:15 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Saudi / Gulf supply",
-   "title": "Oil prices rise over 2% after attack on Saudi oil field fuels supply concerns - A News",
-   "source": "A News",
-   "published": "Thu, 22 Oct 2026 06:18:49 GMT",
-   "read": "escalation"
   }
  ],
  "ratings": [],
