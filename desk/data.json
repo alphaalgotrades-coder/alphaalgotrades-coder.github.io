@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-23T02:30:04+00:00",
+ "generated_utc": "2026-10-23T02:35:04+00:00",
  "date_et": "2026-10-22",
  "build": "0d463cfe05",
  "tape": [
@@ -372,20 +372,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 100.52,
-    "pct": 1.06
+    "price": 100.29,
+    "pct": 0.82
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4029.2,
-    "pct": -0.77
+    "price": 4028.6,
+    "pct": -0.78
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.663,
-    "pct": 0.06
+    "price": 101.662,
+    "pct": 0.05
    },
    {
     "sym": "SPY",
@@ -406,9 +406,9 @@
     "pct": 14.09
    }
   ],
-  "as_of": "2026-10-23T02:27:05.653864+00:00",
+  "as_of": "2026-10-23T02:33:05.500872+00:00",
   "tone": "risk-off",
-  "age_min": 2.9859148166666665
+  "age_min": 1.9869816
  },
  "stories": [
   {
@@ -447,10 +447,10 @@
    "read": "unclear"
   },
   {
-   "topic": "Iran / Hormuz",
-   "title": "Kharg Island is \u2018useless\u2019 to Iran as is: Navy SEAL veteran - Fox Business",
-   "source": "Fox Business",
-   "published": "Thu, 22 Oct 2026 21:11:55 GMT",
+   "topic": "Russia / Ukraine",
+   "title": "Trump Puts His Faith in Putin - Foreign Policy",
+   "source": "Foreign Policy",
+   "published": "Thu, 22 Oct 2026 20:55:46 GMT",
    "read": "unclear"
   }
  ],
