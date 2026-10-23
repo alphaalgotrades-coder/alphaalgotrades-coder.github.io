@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-23T23:10:03+00:00",
+ "generated_utc": "2026-10-23T23:15:03+00:00",
  "date_et": "2026-10-23",
  "build": "0d463cfe05",
  "tape": [
@@ -415,18 +415,11 @@
     "pct": 2.21
    }
   ],
-  "as_of": "2026-10-23T23:09:05.666568+00:00",
+  "as_of": "2026-10-23T23:12:05.560543+00:00",
   "tone": "risk-off",
-  "age_min": 0.97353975
+  "age_min": 2.9761406666666668
  },
  "stories": [
-  {
-   "topic": "Saudi / Gulf supply",
-   "title": "Oil Rises as Deadly Saudi Attacks Fan Middle East Supply Fears - Bloomberg",
-   "source": "Bloomberg",
-   "published": "Wed, 21 Oct 2026 22:05:54 GMT",
-   "read": "escalation"
-  },
   {
    "topic": "Russia / Ukraine",
    "title": "Russia, Ukraine agree on ceasefire in embattled town, to hold peace talks next month - Reuters",
@@ -460,6 +453,13 @@
    "title": "Russia and Ukraine say talks planned for November in UAE - Al Jazeera",
    "source": "Al Jazeera",
    "published": "Fri, 23 Oct 2026 19:18:45 GMT",
+   "read": "de-escalation"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Russia, Ukraine agree to ceasefire for one city brokered by Melania Trump, White House says - NBC News",
+   "source": "NBC News",
+   "published": "Fri, 23 Oct 2026 18:03:59 GMT",
    "read": "de-escalation"
   }
  ],
