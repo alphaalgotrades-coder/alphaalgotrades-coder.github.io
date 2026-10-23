@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-23T23:30:04+00:00",
+ "generated_utc": "2026-10-23T23:35:04+00:00",
  "date_et": "2026-10-23",
  "build": "0d463cfe05",
  "tape": [
@@ -415,9 +415,9 @@
     "pct": 2.21
    }
   ],
-  "as_of": "2026-10-23T23:27:05.875942+00:00",
+  "as_of": "2026-10-23T23:33:06.388975+00:00",
   "tone": "risk-off",
-  "age_min": 2.9749031
+  "age_min": 1.96310565
  },
  "stories": [
   {
@@ -433,6 +433,13 @@
    "source": "Iran International",
    "published": "Fri, 23 Oct 2026 20:35:54 GMT",
    "read": "unclear"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "UAE Confirms Approaching Oil Spill as Iran Claims Continued Attacks - The Maritime Executive",
+   "source": "The Maritime Executive",
+   "published": "Fri, 23 Oct 2026 20:29:47 GMT",
+   "read": "escalation"
   },
   {
    "topic": "Iran / Hormuz",
@@ -453,13 +460,6 @@
    "title": "Russia and Ukraine say talks planned for November in UAE - Al Jazeera",
    "source": "Al Jazeera",
    "published": "Fri, 23 Oct 2026 19:18:45 GMT",
-   "read": "de-escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Russia, Ukraine agree to ceasefire for one city brokered by Melania Trump, White House says - NBC News",
-   "source": "NBC News",
-   "published": "Fri, 23 Oct 2026 18:03:59 GMT",
    "read": "de-escalation"
   }
  ],
