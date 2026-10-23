@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-23T21:50:03+00:00",
+ "generated_utc": "2026-10-23T21:55:03+00:00",
  "date_et": "2026-10-23",
  "build": "0d463cfe05",
  "tape": [
@@ -415,9 +415,9 @@
     "pct": 2.21
    }
   ],
-  "as_of": "2026-10-23T21:48:05.275254+00:00",
+  "as_of": "2026-10-23T21:54:05.642273+00:00",
   "tone": "risk-off",
-  "age_min": 1.9758821666666668
+  "age_min": 0.9698412833333333
  },
  "stories": [
   {
@@ -449,17 +449,17 @@
    "read": "de-escalation"
   },
   {
+   "topic": "Russia / Ukraine",
+   "title": "Russia, Ukraine agree to ceasefire for one city brokered by Melania Trump, White House says - NBC News",
+   "source": "NBC News",
+   "published": "Fri, 23 Oct 2026 18:03:59 GMT",
+   "read": "de-escalation"
+  },
+  {
    "topic": "Iran / Hormuz",
    "title": "Qatar deal to buy U.S. natural gas shows how Iran war has redrawn global energy markets - CNBC",
    "source": "CNBC",
    "published": "Fri, 23 Oct 2026 17:25:29 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Putin, citing genetics, claims Ukrainian land \u2018is not their territory\u2019 - The Washington Post",
-   "source": "The Washington Post",
-   "published": "Fri, 23 Oct 2026 17:16:52 GMT",
    "read": "unclear"
   }
  ],
