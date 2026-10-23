@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-23T07:10:03+00:00",
+ "generated_utc": "2026-10-23T07:15:04+00:00",
  "date_et": "2026-10-23",
  "build": "0d463cfe05",
  "tape": [
@@ -381,20 +381,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 100.8,
-    "pct": 1.34
+    "price": 100.87,
+    "pct": 1.41
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4027.3,
-    "pct": -0.82
+    "price": 4028.0,
+    "pct": -0.8
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.727,
-    "pct": 0.12
+    "price": 101.704,
+    "pct": 0.1
    },
    {
     "sym": "SPY",
@@ -412,12 +412,12 @@
     "sym": "VIX",
     "name": "Volatility index",
     "price": 19.03,
-    "pct": 14.09
+    "pct": null
    }
   ],
-  "as_of": "2026-10-23T07:09:09.864433+00:00",
+  "as_of": "2026-10-23T07:12:05.240682+00:00",
   "tone": "risk-off",
-  "age_min": 0.90189985
+  "age_min": 2.9919011333333336
  },
  "stories": [
   {
@@ -433,13 +433,6 @@
    "source": "Simply Wall Street",
    "published": "Thu, 22 Oct 2026 23:56:17 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Vladimir Putin confirms Russia ready to resume US-mediated Ukraine peace talks next month - The Jerusalem Post",
-   "source": "The Jerusalem Post",
-   "published": "Thu, 22 Oct 2026 22:33:14 GMT",
-   "read": "de-escalation"
   },
   {
    "topic": "Russia / Ukraine",
@@ -460,6 +453,13 @@
    "title": "Analysts say Iran's floating oil tanker reserves fully exhausted - The Jerusalem Post",
    "source": "The Jerusalem Post",
    "published": "Thu, 22 Oct 2026 09:30:31 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Taiwan / China",
+   "title": "Is China Using Fishing Boats to Prepare for a Possible Taiwan Blockade? - Modern Diplomacy",
+   "source": "Modern Diplomacy",
+   "published": "Fri, 23 Oct 2026 06:40:23 GMT",
    "read": "unclear"
   }
  ],
