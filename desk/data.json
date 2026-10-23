@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-23T09:30:04+00:00",
+ "generated_utc": "2026-10-23T09:35:03+00:00",
  "date_et": "2026-10-23",
  "build": "0d463cfe05",
  "tape": [
@@ -381,19 +381,19 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 100.56,
-    "pct": 1.1
+    "price": 100.93,
+    "pct": 1.47
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4041.9,
-    "pct": -0.46
+    "price": 4043.9,
+    "pct": -0.41
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.774,
+    "price": 101.773,
     "pct": 0.16
    },
    {
@@ -411,13 +411,13 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 19.18,
-    "pct": 0.79
+    "price": 19.29,
+    "pct": 1.37
    }
   ],
-  "as_of": "2026-10-23T09:27:05.927254+00:00",
+  "as_of": "2026-10-23T09:33:08.011543+00:00",
   "tone": "risk-off",
-  "age_min": 2.9774622833333333
+  "age_min": 1.9354656333333333
  },
  "stories": [
   {
@@ -450,15 +450,15 @@
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Analysts say Iran's floating oil tanker reserves fully exhausted - The Jerusalem Post",
-   "source": "The Jerusalem Post",
-   "published": "Thu, 22 Oct 2026 09:30:31 GMT",
+   "title": "Hormuz, the June Memorandum and Rome\u2019s Role: Iran\u2019s Minister Speaks - Decode39",
+   "source": "Decode39",
+   "published": "Fri, 23 Oct 2026 09:15:38 GMT",
    "read": "unclear"
   },
   {
    "topic": "Saudi / Gulf supply",
-   "title": "Saudi Arabia Deficit Rises to SAR 245bn Despite $112 Oil - houseofsaud.com",
-   "source": "houseofsaud.com",
+   "title": "Saudi Arabia\u2019s 2026 Deficit Rises to SAR 245bn as War Halves Oil Export Volume - https://houseofsaud.com/",
+   "source": "https://houseofsaud.com/",
    "published": "Fri, 23 Oct 2026 08:41:27 GMT",
    "read": "unclear"
   }
