@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-23T01:30:04+00:00",
+ "generated_utc": "2026-10-23T01:35:04+00:00",
  "date_et": "2026-10-22",
  "build": "0d463cfe05",
  "tape": [
@@ -372,20 +372,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 100.03,
-    "pct": 0.56
+    "price": 99.87,
+    "pct": 0.4
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4029.2,
-    "pct": -0.77
+    "price": 4033.1,
+    "pct": -0.67
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.532,
-    "pct": -0.07
+    "price": 101.554,
+    "pct": -0.05
    },
    {
     "sym": "SPY",
@@ -406,9 +406,9 @@
     "pct": 14.09
    }
   ],
-  "as_of": "2026-10-23T01:27:06.713262+00:00",
+  "as_of": "2026-10-23T01:33:06.131065+00:00",
   "tone": "risk-off",
-  "age_min": 2.9651465166666666
+  "age_min": 1.9728732666666666
  },
  "stories": [
   {
@@ -448,10 +448,10 @@
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Iran says 7 oil tankers attacked in the Strait of Hormuz as fears grow of a return to war - Los Angeles Times",
-   "source": "Los Angeles Times",
-   "published": "Thu, 22 Oct 2026 21:16:00 GMT",
-   "read": "escalation"
+   "title": "Kharg Island is \u2018useless\u2019 to Iran as is: Navy SEAL veteran - Fox Business",
+   "source": "Fox Business",
+   "published": "Thu, 22 Oct 2026 21:11:55 GMT",
+   "read": "unclear"
   }
  ],
  "ratings": [],
