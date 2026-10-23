@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-23T04:50:03+00:00",
+ "generated_utc": "2026-10-23T04:55:03+00:00",
  "date_et": "2026-10-23",
  "build": "0d463cfe05",
  "tape": [
@@ -381,20 +381,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 100.13,
-    "pct": 0.66
+    "price": 100.12,
+    "pct": 0.65
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4021.4,
-    "pct": -0.96
+    "price": 4018.9,
+    "pct": -1.02
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.669,
-    "pct": 0.06
+    "price": 101.681,
+    "pct": 0.07
    },
    {
     "sym": "SPY",
@@ -415,16 +415,16 @@
     "pct": 14.09
    }
   ],
-  "as_of": "2026-10-23T04:48:05.983563+00:00",
+  "as_of": "2026-10-23T04:54:06.393030+00:00",
   "tone": "risk-off",
-  "age_min": 1.9625430166666669
+  "age_min": 0.9539837333333333
  },
  "stories": [
   {
    "topic": "Taiwan / China",
-   "title": "Japan, US launch drills focusing on islands near Taiwan - Taipei Times",
-   "source": "Taipei Times",
-   "published": "Tue, 20 Oct 2026 16:00:00 GMT",
+   "title": "China sends Navy after US warship as separate maritime standoff erupts near Taiwan - Heartlander News",
+   "source": "Heartlander News",
+   "published": "Wed, 21 Oct 2026 15:25:21 GMT",
    "read": "escalation"
   },
   {
