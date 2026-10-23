@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-23T07:30:04+00:00",
+ "generated_utc": "2026-10-23T07:35:03+00:00",
  "date_et": "2026-10-23",
  "build": "0d463cfe05",
  "tape": [
@@ -381,20 +381,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 100.68,
-    "pct": 1.22
+    "price": 100.73,
+    "pct": 1.27
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4029.7,
-    "pct": -0.76
+    "price": 4028.0,
+    "pct": -0.8
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.779,
-    "pct": 0.17
+    "price": 101.803,
+    "pct": 0.19
    },
    {
     "sym": "SPY",
@@ -411,15 +411,22 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 19.03,
-    "pct": null
+    "price": 19.16,
+    "pct": 0.68
    }
   ],
-  "as_of": "2026-10-23T07:27:11.981902+00:00",
+  "as_of": "2026-10-23T07:33:10.595829+00:00",
   "tone": "risk-off",
-  "age_min": 2.879535433333333
+  "age_min": 1.8889516333333334
  },
  "stories": [
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Russia agrees to resume three-way talks on Ukraine war with Kyiv and Washington, Kremlin says - WWNY",
+   "source": "WWNY",
+   "published": "Wed, 21 Oct 2026 15:50:00 GMT",
+   "read": "de-escalation"
+  },
   {
    "topic": "Taiwan / China",
    "title": "China sends Navy after US warship as separate maritime standoff erupts near Taiwan - Heartlander News",
@@ -428,18 +435,18 @@
    "read": "escalation"
   },
   {
+   "topic": "Russia / Ukraine",
+   "title": "Putin agrees to resume tri\u00adlateral talks on Ukraine war with Kyiv and Wash\u00adington, Kremlin says - Spectrum News",
+   "source": "Spectrum News",
+   "published": "Wed, 21 Oct 2026 12:17:00 GMT",
+   "read": "de-escalation"
+  },
+  {
    "topic": "Saudi / Gulf supply",
    "title": "Saudi Aramco Stock And 2 Oil Plays Exposed To Higher Crude Prices - Simply Wall Street",
    "source": "Simply Wall Street",
    "published": "Thu, 22 Oct 2026 23:56:17 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Putin says Russia ready for talks on plans for final Ukraine deal - Le Monde.fr",
-   "source": "Le Monde.fr",
-   "published": "Thu, 22 Oct 2026 20:11:11 GMT",
-   "read": "de-escalation"
   },
   {
    "topic": "Iran / Hormuz",
@@ -453,13 +460,6 @@
    "title": "Analysts say Iran's floating oil tanker reserves fully exhausted - The Jerusalem Post",
    "source": "The Jerusalem Post",
    "published": "Thu, 22 Oct 2026 09:30:31 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Taiwan / China",
-   "title": "Is China Using Fishing Boats to Prepare for a Possible Taiwan Blockade? - Modern Diplomacy",
-   "source": "Modern Diplomacy",
-   "published": "Fri, 23 Oct 2026 06:40:23 GMT",
    "read": "unclear"
   }
  ],
