@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-23T02:10:04+00:00",
+ "generated_utc": "2026-10-23T02:15:04+00:00",
  "date_et": "2026-10-22",
  "build": "0d463cfe05",
  "tape": [
@@ -372,20 +372,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 100.51,
-    "pct": 1.05
+    "price": 100.9,
+    "pct": 1.44
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4006.3,
-    "pct": -1.33
+    "price": 4004.4,
+    "pct": -1.38
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.666,
-    "pct": 0.06
+    "price": 101.677,
+    "pct": 0.07
    },
    {
     "sym": "SPY",
@@ -406,9 +406,9 @@
     "pct": 14.09
    }
   ],
-  "as_of": "2026-10-23T02:09:05.383237+00:00",
+  "as_of": "2026-10-23T02:12:05.391255+00:00",
   "tone": "risk-off",
-  "age_min": 0.9811245666666667
+  "age_min": 2.98502005
  },
  "stories": [
   {
@@ -417,6 +417,13 @@
    "source": "Taipei Times",
    "published": "Tue, 20 Oct 2026 16:00:00 GMT",
    "read": "escalation"
+  },
+  {
+   "topic": "Saudi / Gulf supply",
+   "title": "Saudi Aramco Stock And 2 Oil Plays Exposed To Higher Crude Prices - Simply Wall Street",
+   "source": "Simply Wall Street",
+   "published": "Thu, 22 Oct 2026 23:56:17 GMT",
+   "read": "unclear"
   },
   {
    "topic": "Russia / Ukraine",
@@ -431,13 +438,6 @@
    "source": "The Jerusalem Post",
    "published": "Thu, 22 Oct 2026 22:33:14 GMT",
    "read": "de-escalation"
-  },
-  {
-   "topic": "Saudi / Gulf supply",
-   "title": "Saudi Strike Sends Oil Above $113; Gold Breaks Below $4,050 in Capitulation-Style Selloff - BigGo Finance",
-   "source": "BigGo Finance",
-   "published": "Thu, 22 Oct 2026 22:25:00 GMT",
-   "read": "unclear"
   },
   {
    "topic": "Russia / Ukraine",
