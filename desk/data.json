@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-23T03:30:04+00:00",
+ "generated_utc": "2026-10-23T03:35:04+00:00",
  "date_et": "2026-10-22",
  "build": "0d463cfe05",
  "tape": [
@@ -372,19 +372,19 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 100.01,
-    "pct": 0.54
+    "price": 100.18,
+    "pct": 0.71
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4028.9,
-    "pct": -0.78
+    "price": 4028.5,
+    "pct": -0.79
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.656,
+    "price": 101.661,
     "pct": 0.05
    },
    {
@@ -406,9 +406,9 @@
     "pct": 14.09
    }
   ],
-  "as_of": "2026-10-23T03:27:05.616912+00:00",
+  "as_of": "2026-10-23T03:33:05.749517+00:00",
   "tone": "risk-off",
-  "age_min": 2.9795689166666666
+  "age_min": 1.9781074666666667
  },
  "stories": [
   {
@@ -447,11 +447,11 @@
    "read": "unclear"
   },
   {
-   "topic": "Russia / Ukraine",
-   "title": "Trump Puts His Faith in Putin - Foreign Policy",
-   "source": "Foreign Policy",
-   "published": "Thu, 22 Oct 2026 20:55:46 GMT",
-   "read": "unclear"
+   "topic": "Iran / Hormuz",
+   "title": "Iran Claims 7 Tankers Attacked in Strait of Hormuz - Newser",
+   "source": "Newser",
+   "published": "Thu, 22 Oct 2026 20:05:00 GMT",
+   "read": "escalation"
   }
  ],
  "ratings": [],
