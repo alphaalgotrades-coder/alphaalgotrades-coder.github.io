@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-23T03:50:04+00:00",
+ "generated_utc": "2026-10-23T03:55:04+00:00",
  "date_et": "2026-10-22",
  "build": "0d463cfe05",
  "tape": [
@@ -372,19 +372,19 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 100.05,
-    "pct": 0.58
+    "price": 100.06,
+    "pct": 0.59
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4032.5,
-    "pct": -0.69
+    "price": 4029.2,
+    "pct": -0.77
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.65,
+    "price": 101.646,
     "pct": 0.04
    },
    {
@@ -406,9 +406,9 @@
     "pct": 14.09
    }
   ],
-  "as_of": "2026-10-23T03:48:06.263322+00:00",
+  "as_of": "2026-10-23T03:54:06.155558+00:00",
   "tone": "risk-off",
-  "age_min": 1.9658936
+  "age_min": 0.9675655
  },
  "stories": [
   {
@@ -441,10 +441,10 @@
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "Witkoff faces backlash for praising Putin as a \u2018humanitarian\u2019 - The Washington Post",
-   "source": "The Washington Post",
-   "published": "Thu, 22 Oct 2026 22:15:00 GMT",
-   "read": "unclear"
+   "title": "Putin says Russia ready for talks on plans for final Ukraine deal - Le Monde.fr",
+   "source": "Le Monde.fr",
+   "published": "Thu, 22 Oct 2026 20:11:11 GMT",
+   "read": "de-escalation"
   },
   {
    "topic": "Iran / Hormuz",
