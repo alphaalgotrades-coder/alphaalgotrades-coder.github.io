@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-23T08:10:03+00:00",
+ "generated_utc": "2026-10-23T08:15:04+00:00",
  "date_et": "2026-10-23",
  "build": "0d463cfe05",
  "tape": [
@@ -55,7 +55,7 @@
    "title": "Flash Manufacturing PMI",
    "cons": "52.7",
    "prev": "52.7",
-   "actual": ""
+   "actual": "52.4"
   },
   {
    "time": "04:00",
@@ -64,7 +64,7 @@
    "title": "Flash Services PMI",
    "cons": "52.6",
    "prev": "53.0",
-   "actual": ""
+   "actual": "51.7"
   },
   {
    "time": "04:30",
@@ -381,19 +381,19 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 100.73,
-    "pct": 1.27
+    "price": 100.56,
+    "pct": 1.1
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4026.0,
-    "pct": -0.85
+    "price": 4027.4,
+    "pct": -0.81
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.782,
+    "price": 101.776,
     "pct": 0.17
    },
    {
@@ -411,13 +411,13 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 19.23,
-    "pct": 1.05
+    "price": 19.27,
+    "pct": 1.26
    }
   ],
-  "as_of": "2026-10-23T08:09:14.956067+00:00",
+  "as_of": "2026-10-23T08:12:05.528736+00:00",
   "tone": "risk-off",
-  "age_min": 0.8140168666666666
+  "age_min": 2.97927175
  },
  "stories": [
   {
