@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-23T22:10:03+00:00",
+ "generated_utc": "2026-10-23T22:15:03+00:00",
  "date_et": "2026-10-23",
  "build": "0d463cfe05",
  "tape": [
@@ -415,9 +415,9 @@
     "pct": 2.21
    }
   ],
-  "as_of": "2026-10-23T22:09:05.976127+00:00",
+  "as_of": "2026-10-23T22:12:09.139590+00:00",
   "tone": "risk-off",
-  "age_min": 0.9606144333333333
+  "age_min": 2.914216783333333
  },
  "stories": [
   {
@@ -426,6 +426,13 @@
    "source": "nippon.com",
    "published": "Fri, 23 Oct 2026 21:00:02 GMT",
    "read": "de-escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iran oil isn't doing well as the US put a blockade on the Strait of Hormuz - Fox Business",
+   "source": "Fox Business",
+   "published": "Fri, 23 Oct 2026 20:17:13 GMT",
+   "read": "escalation"
   },
   {
    "topic": "Russia / Ukraine",
@@ -454,13 +461,6 @@
    "source": "NBC News",
    "published": "Fri, 23 Oct 2026 18:03:59 GMT",
    "read": "de-escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Qatar deal to buy U.S. natural gas shows how Iran war has redrawn global energy markets - CNBC",
-   "source": "CNBC",
-   "published": "Fri, 23 Oct 2026 17:25:29 GMT",
-   "read": "unclear"
   }
  ],
  "ratings": [],
