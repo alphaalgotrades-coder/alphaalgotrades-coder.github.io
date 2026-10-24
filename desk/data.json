@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-24T12:10:04+00:00",
+ "generated_utc": "2026-10-24T12:15:04+00:00",
  "date_et": "2026-10-24",
  "build": "0d463cfe05",
  "tape": [
@@ -298,9 +298,9 @@
     "pct": 2.21
    }
   ],
-  "as_of": "2026-10-24T12:09:04.827958+00:00",
+  "as_of": "2026-10-24T12:15:04.784288+00:00",
   "tone": "risk-off",
-  "age_min": 0.9898328166666667
+  "age_min": 0.0018713999999999998
  },
  "stories": [
   {
@@ -308,6 +308,13 @@
    "title": "Taiwan closely monitoring China drills - Taipei Times",
    "source": "Taipei Times",
    "published": "Tue, 13 Oct 2026 07:00:00 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Taiwan / China",
+   "title": "Ukraine\u2019s Starlink woes should be a wake-up call for Taiwan, analysts say - South China Morning Post",
+   "source": "South China Morning Post",
+   "published": "Sat, 24 Oct 2026 12:00:14 GMT",
    "read": "unclear"
   },
   {
@@ -337,13 +344,6 @@
    "source": "Benzinga",
    "published": "Sat, 24 Oct 2026 02:11:19 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "European, Middle East ministers urge US-Iran diplomacy, not new attacks - Al Jazeera",
-   "source": "Al Jazeera",
-   "published": "Sat, 24 Oct 2026 01:11:26 GMT",
-   "read": "de-escalation"
   }
  ],
  "ratings": [],
