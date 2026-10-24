@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-24T17:10:03+00:00",
+ "generated_utc": "2026-10-24T17:15:04+00:00",
  "date_et": "2026-10-24",
  "build": "0d463cfe05",
  "tape": [
@@ -298,9 +298,9 @@
     "pct": 2.21
    }
   ],
-  "as_of": "2026-10-24T17:09:05.907514+00:00",
+  "as_of": "2026-10-24T17:12:05.532670+00:00",
   "tone": "risk-off",
-  "age_min": 0.9599459833333334
+  "age_min": 2.97822215
  },
  "stories": [
   {
@@ -319,8 +319,8 @@
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Iran remains open to talks with US under Pakistan-brokered deal, envoy says - Ottumwa Courier",
-   "source": "Ottumwa Courier",
+   "title": "Iran remains open to talks with US under Pakistan-brokered deal, envoy says - Bozeman Daily Chronicle",
+   "source": "Bozeman Daily Chronicle",
    "published": "Sat, 24 Oct 2026 15:50:32 GMT",
    "read": "de-escalation"
   },
