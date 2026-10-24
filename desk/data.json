@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-24T10:10:04+00:00",
+ "generated_utc": "2026-10-24T10:15:04+00:00",
  "date_et": "2026-10-24",
  "build": "0d463cfe05",
  "tape": [
@@ -298,9 +298,9 @@
     "pct": 2.21
    }
   ],
-  "as_of": "2026-10-24T10:09:06.117053+00:00",
+  "as_of": "2026-10-24T10:12:06.251040+00:00",
   "tone": "risk-off",
-  "age_min": 0.9671225999999999
+  "age_min": 2.9730566333333335
  },
  "stories": [
   {
@@ -312,9 +312,9 @@
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "Ukraine and Russia eye new peace talks \u2014 and Melania Trump's mission \u2014 but steep obstacles remain - Audacy",
-   "source": "Audacy",
-   "published": "Sat, 24 Oct 2026 09:29:00 GMT",
+   "title": "Ukraine and Russia eye new peace talks \u2014 and Melania Trump's mission \u2014 but steep obstacles remain - Bozeman Daily Chronicle",
+   "source": "Bozeman Daily Chronicle",
+   "published": "Sat, 24 Oct 2026 09:29:27 GMT",
    "read": "de-escalation"
   },
   {
@@ -322,13 +322,6 @@
    "title": "Putin's Iran diplomacy faces limits as Russia eyes Ukraine concessions - Al-Monitor",
    "source": "Al-Monitor",
    "published": "Sat, 24 Oct 2026 08:30:16 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Russian Offensive Campaign Assessment, October 23, 2026 - Institute for the Study of War",
-   "source": "Institute for the Study of War",
-   "published": "Sat, 24 Oct 2026 03:20:02 GMT",
    "read": "unclear"
   },
   {
@@ -344,6 +337,13 @@
    "source": "Al Jazeera",
    "published": "Sat, 24 Oct 2026 01:11:26 GMT",
    "read": "de-escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "UAE Confirms Approaching Oil Spill as Iran Claims Continued Attacks - The Maritime Executive",
+   "source": "The Maritime Executive",
+   "published": "Fri, 23 Oct 2026 20:29:47 GMT",
+   "read": "escalation"
   }
  ],
  "ratings": [],
