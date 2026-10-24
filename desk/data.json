@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-24T09:50:04+00:00",
+ "generated_utc": "2026-10-24T09:55:04+00:00",
  "date_et": "2026-10-24",
  "build": "0d463cfe05",
  "tape": [
@@ -298,9 +298,9 @@
     "pct": 2.21
    }
   ],
-  "as_of": "2026-10-24T09:48:15.447676+00:00",
+  "as_of": "2026-10-24T09:54:06.050516+00:00",
   "tone": "risk-off",
-  "age_min": 1.8126040166666668
+  "age_min": 0.9706797
  },
  "stories": [
   {
@@ -309,6 +309,13 @@
    "source": "Taipei Times",
    "published": "Tue, 13 Oct 2026 07:00:00 GMT",
    "read": "unclear"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Ukraine and Russia eye new peace talks \u2014 and Melania Trump's mission \u2014 but steep obstacles remain - Audacy",
+   "source": "Audacy",
+   "published": "Sat, 24 Oct 2026 09:29:00 GMT",
+   "read": "de-escalation"
   },
   {
    "topic": "Russia / Ukraine",
@@ -337,13 +344,6 @@
    "source": "Al Jazeera",
    "published": "Sat, 24 Oct 2026 01:11:26 GMT",
    "read": "de-escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "UAE Confirms Approaching Oil Spill as Iran Claims Continued Attacks - The Maritime Executive",
-   "source": "The Maritime Executive",
-   "published": "Fri, 23 Oct 2026 20:29:47 GMT",
-   "read": "escalation"
   }
  ],
  "ratings": [],
