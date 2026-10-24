@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-24T18:30:04+00:00",
+ "generated_utc": "2026-10-24T18:35:04+00:00",
  "date_et": "2026-10-24",
  "build": "0d463cfe05",
  "tape": [
@@ -298,9 +298,9 @@
     "pct": 2.21
    }
   ],
-  "as_of": "2026-10-24T18:27:05.085854+00:00",
+  "as_of": "2026-10-24T18:33:04.665277+00:00",
   "tone": "risk-off",
-  "age_min": 2.98590445
+  "age_min": 1.9916969
  },
  "stories": [
   {
@@ -339,11 +339,11 @@
    "read": "unclear"
   },
   {
-   "topic": "Taiwan / China",
-   "title": "Ukraine\u2019s Starlink woes should be a wake-up call for Taiwan, analysts say - South China Morning Post",
-   "source": "South China Morning Post",
-   "published": "Sat, 24 Oct 2026 12:00:14 GMT",
-   "read": "unclear"
+   "topic": "Iran / Hormuz",
+   "title": "Iran says won\u2019t allow US warships to get close as Trump ponders new attacks - Al Jazeera",
+   "source": "Al Jazeera",
+   "published": "Sat, 24 Oct 2026 13:15:07 GMT",
+   "read": "escalation"
   }
  ],
  "ratings": [],
