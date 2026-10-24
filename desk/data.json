@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-24T08:50:03+00:00",
+ "generated_utc": "2026-10-24T08:55:04+00:00",
  "date_et": "2026-10-24",
  "build": "0d463cfe05",
  "tape": [
@@ -298,9 +298,9 @@
     "pct": 2.21
    }
   ],
-  "as_of": "2026-10-24T08:48:05.073295+00:00",
+  "as_of": "2026-10-24T08:54:05.362497+00:00",
   "tone": "risk-off",
-  "age_min": 1.9820196
+  "age_min": 0.9800667166666667
  },
  "stories": [
   {
@@ -308,6 +308,13 @@
    "title": "Taiwan closely monitoring China drills - Taipei Times",
    "source": "Taipei Times",
    "published": "Tue, 13 Oct 2026 07:00:00 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Putin's Iran diplomacy faces limits as Russia eyes Ukraine concessions - Al-Monitor",
+   "source": "Al-Monitor",
+   "published": "Sat, 24 Oct 2026 08:30:16 GMT",
    "read": "unclear"
   },
   {
@@ -323,13 +330,6 @@
    "source": "Benzinga",
    "published": "Sat, 24 Oct 2026 02:11:19 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "In U.S. Gas Talks With Kremlin, Hidden Financing for Alaska Project Emerges - The New York Times",
-   "source": "The New York Times",
-   "published": "Sat, 24 Oct 2026 01:39:28 GMT",
-   "read": "unclear"
   },
   {
    "topic": "Iran / Hormuz",
