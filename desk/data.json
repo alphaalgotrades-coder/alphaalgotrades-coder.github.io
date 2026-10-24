@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-24T17:50:03+00:00",
+ "generated_utc": "2026-10-24T17:55:03+00:00",
  "date_et": "2026-10-24",
  "build": "0d463cfe05",
  "tape": [
@@ -298,9 +298,9 @@
     "pct": 2.21
    }
   ],
-  "as_of": "2026-10-24T17:48:05.647968+00:00",
+  "as_of": "2026-10-24T17:54:05.562166+00:00",
   "tone": "risk-off",
-  "age_min": 1.9708330833333332
+  "age_min": 0.9702323166666668
  },
  "stories": [
   {
@@ -315,6 +315,13 @@
    "title": "Zelensky says fresh strikes show 'no change' in Kremlin position - Le Monde.fr",
    "source": "Le Monde.fr",
    "published": "Thu, 22 Oct 2026 20:11:11 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iran\u2019s Armed Forces Say They Will Fire on U.S. Warships in Persian Gulf: how 7 outlets framed it - NewsCord",
+   "source": "NewsCord",
+   "published": "Sat, 24 Oct 2026 17:19:42 GMT",
    "read": "escalation"
   },
   {
@@ -336,13 +343,6 @@
    "title": "Ukraine\u2019s Starlink woes should be a wake-up call for Taiwan, analysts say - South China Morning Post",
    "source": "South China Morning Post",
    "published": "Sat, 24 Oct 2026 12:00:14 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran Strait of Hormuz - Post Register",
-   "source": "Post Register",
-   "published": "Sat, 24 Oct 2026 09:29:40 GMT",
    "read": "unclear"
   }
  ],
