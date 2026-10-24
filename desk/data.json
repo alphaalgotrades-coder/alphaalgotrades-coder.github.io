@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-24T10:30:05+00:00",
+ "generated_utc": "2026-10-24T10:35:03+00:00",
  "date_et": "2026-10-24",
  "build": "0d463cfe05",
  "tape": [
@@ -298,9 +298,9 @@
     "pct": 2.21
    }
   ],
-  "as_of": "2026-10-24T10:27:06.333935+00:00",
+  "as_of": "2026-10-24T10:33:05.604035+00:00",
   "tone": "risk-off",
-  "age_min": 2.9836804333333333
+  "age_min": 1.9741399166666667
  },
  "stories": [
   {
@@ -308,6 +308,13 @@
    "title": "Taiwan closely monitoring China drills - Taipei Times",
    "source": "Taipei Times",
    "published": "Tue, 13 Oct 2026 07:00:00 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "What Might Happen If Iran Makes Good on Threats to Sever Undersea Cables - Middle East Forum",
+   "source": "Middle East Forum",
+   "published": "Sat, 24 Oct 2026 10:00:32 GMT",
    "read": "unclear"
   },
   {
@@ -337,13 +344,6 @@
    "source": "Al Jazeera",
    "published": "Sat, 24 Oct 2026 01:11:26 GMT",
    "read": "de-escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "UAE Confirms Approaching Oil Spill as Iran Claims Continued Attacks - The Maritime Executive",
-   "source": "The Maritime Executive",
-   "published": "Fri, 23 Oct 2026 20:29:47 GMT",
-   "read": "escalation"
   }
  ],
  "ratings": [],
