@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-24T02:50:03+00:00",
+ "generated_utc": "2026-10-24T02:55:04+00:00",
  "date_et": "2026-10-23",
  "build": "0d463cfe05",
  "tape": [
@@ -415,11 +415,25 @@
     "pct": 2.21
    }
   ],
-  "as_of": "2026-10-24T02:48:04.985752+00:00",
+  "as_of": "2026-10-24T02:54:05.143050+00:00",
   "tone": "risk-off",
-  "age_min": 1.9852075166666665
+  "age_min": 0.98511455
  },
  "stories": [
+  {
+   "topic": "Russia / Ukraine",
+   "title": "In U.S. Gas Talks With Kremlin, Hidden Financing for Alaska Project Emerges - The New York Times",
+   "source": "The New York Times",
+   "published": "Sat, 24 Oct 2026 01:39:28 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "European, Middle East ministers urge US-Iran diplomacy, not new attacks - Al Jazeera",
+   "source": "Al Jazeera",
+   "published": "Sat, 24 Oct 2026 01:11:26 GMT",
+   "read": "de-escalation"
+  },
   {
    "topic": "Russia / Ukraine",
    "title": "Russia, Ukraine agree on ceasefire in embattled town, to hold peace talks next month - Reuters",
@@ -442,24 +456,10 @@
    "read": "escalation"
   },
   {
-   "topic": "Iran / Hormuz",
-   "title": "Iran oil isn't doing well as the US put a blockade on the Strait of Hormuz - Fox Business",
-   "source": "Fox Business",
-   "published": "Fri, 23 Oct 2026 20:17:13 GMT",
-   "read": "escalation"
-  },
-  {
    "topic": "Russia / Ukraine",
    "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster' - BBC",
    "source": "BBC",
    "published": "Fri, 23 Oct 2026 19:30:19 GMT",
-   "read": "de-escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Russia and Ukraine say talks planned for November in UAE - Al Jazeera",
-   "source": "Al Jazeera",
-   "published": "Fri, 23 Oct 2026 19:18:45 GMT",
    "read": "de-escalation"
   }
  ],
