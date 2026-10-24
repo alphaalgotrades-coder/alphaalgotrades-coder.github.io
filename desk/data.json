@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-24T22:30:04+00:00",
+ "generated_utc": "2026-10-24T22:35:04+00:00",
  "date_et": "2026-10-24",
  "build": "0d463cfe05",
  "tape": [
@@ -298,9 +298,9 @@
     "pct": 2.21
    }
   ],
-  "as_of": "2026-10-24T22:27:08.722190+00:00",
+  "as_of": "2026-10-24T22:33:05.356509+00:00",
   "tone": "risk-off",
-  "age_min": 2.938075566666667
+  "age_min": 1.9907278499999999
  },
  "stories": [
   {
@@ -318,6 +318,20 @@
    "read": "escalation"
   },
   {
+   "topic": "Russia / Ukraine",
+   "title": "Putin puts Trump ahead of Iran in bid to mediate war - Al-Monitor",
+   "source": "Al-Monitor",
+   "published": "Sat, 24 Oct 2026 22:21:29 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iran reportedly ready to target submarine cables if war resumes - Israel National News",
+   "source": "Israel National News",
+   "published": "Sat, 24 Oct 2026 20:00:55 GMT",
+   "read": "escalation"
+  },
+  {
    "topic": "Iran / Hormuz",
    "title": "Iran\u2019s Armed Forces Say They Will Fire on U.S. Warships in Persian Gulf: how 7 outlets framed it - NewsCord",
    "source": "NewsCord",
@@ -329,20 +343,6 @@
    "title": "Saudi Arabia reports crude output recovery from 30-year low as OPEC halves its 2026 demand growth forecast - Energies Media",
    "source": "Energies Media",
    "published": "Sat, 24 Oct 2026 17:06:49 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran remains open to talks with US under Pakistan-brokered deal, envoy says - Bozeman Daily Chronicle",
-   "source": "Bozeman Daily Chronicle",
-   "published": "Sat, 24 Oct 2026 15:50:32 GMT",
-   "read": "de-escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Bipartisan US Lawmakers Push Back On Trump's Russia Policy, Vow Support For Ukraine - Radio Free Europe/Radio Liberty",
-   "source": "Radio Free Europe/Radio Liberty",
-   "published": "Sat, 24 Oct 2026 14:51:22 GMT",
    "read": "unclear"
   }
  ],
