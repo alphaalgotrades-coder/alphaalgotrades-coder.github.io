@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-24T05:10:04+00:00",
+ "generated_utc": "2026-10-24T05:15:04+00:00",
  "date_et": "2026-10-24",
  "build": "0d463cfe05",
  "tape": [
@@ -298,9 +298,9 @@
     "pct": 2.21
    }
   ],
-  "as_of": "2026-10-24T05:09:06.024388+00:00",
+  "as_of": "2026-10-24T05:12:05.484400+00:00",
   "tone": "risk-off",
-  "age_min": 0.9701369666666667
+  "age_min": 3.00118325
  },
  "stories": [
   {
@@ -308,6 +308,13 @@
    "title": "Taiwan closely monitoring China drills - Taipei Times",
    "source": "Taipei Times",
    "published": "Tue, 13 Oct 2026 07:00:00 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Russian Offensive Campaign Assessment, October 23, 2026 - Institute for the Study of War",
+   "source": "Institute for the Study of War",
+   "published": "Sat, 24 Oct 2026 03:20:02 GMT",
    "read": "unclear"
   },
   {
@@ -337,13 +344,6 @@
    "source": "Reuters",
    "published": "Fri, 23 Oct 2026 21:19:02 GMT",
    "read": "de-escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "IRGC posts burning tanker graphic showing oil climbing to $117 - Iran International",
-   "source": "Iran International",
-   "published": "Fri, 23 Oct 2026 20:35:54 GMT",
-   "read": "unclear"
   }
  ],
  "ratings": [],
