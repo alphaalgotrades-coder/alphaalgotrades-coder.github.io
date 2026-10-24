@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-24T19:50:03+00:00",
+ "generated_utc": "2026-10-24T19:55:03+00:00",
  "date_et": "2026-10-24",
  "build": "0d463cfe05",
  "tape": [
@@ -298,9 +298,9 @@
     "pct": 2.21
    }
   ],
-  "as_of": "2026-10-24T19:48:05.649523+00:00",
+  "as_of": "2026-10-24T19:54:05.954599+00:00",
   "tone": "risk-off",
-  "age_min": 1.9692477833333333
+  "age_min": 0.9631748333333333
  },
  "stories": [
   {
@@ -325,6 +325,13 @@
    "read": "escalation"
   },
   {
+   "topic": "Saudi / Gulf supply",
+   "title": "Saudi Arabia reports crude output recovery from 30-year low as OPEC halves its 2026 demand growth forecast - Energies Media",
+   "source": "Energies Media",
+   "published": "Sat, 24 Oct 2026 17:06:49 GMT",
+   "read": "unclear"
+  },
+  {
    "topic": "Iran / Hormuz",
    "title": "Iran remains open to talks with US under Pakistan-brokered deal, envoy says - Bozeman Daily Chronicle",
    "source": "Bozeman Daily Chronicle",
@@ -337,13 +344,6 @@
    "source": "Radio Free Europe/Radio Liberty",
    "published": "Sat, 24 Oct 2026 14:51:22 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran says won\u2019t allow US warships to get close as Trump ponders new attacks - Al Jazeera",
-   "source": "Al Jazeera",
-   "published": "Sat, 24 Oct 2026 13:15:07 GMT",
-   "read": "escalation"
   }
  ],
  "ratings": [],
