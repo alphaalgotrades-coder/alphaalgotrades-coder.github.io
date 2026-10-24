@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-24T16:10:03+00:00",
+ "generated_utc": "2026-10-24T16:15:03+00:00",
  "date_et": "2026-10-24",
  "build": "0d463cfe05",
  "tape": [
@@ -298,9 +298,9 @@
     "pct": 2.21
    }
   ],
-  "as_of": "2026-10-24T16:09:05.889506+00:00",
+  "as_of": "2026-10-24T16:12:05.268355+00:00",
   "tone": "risk-off",
-  "age_min": 0.9632012333333333
+  "age_min": 2.978831516666667
  },
  "stories": [
   {
@@ -318,6 +318,13 @@
    "read": "escalation"
   },
   {
+   "topic": "Iran / Hormuz",
+   "title": "Iran remains open to talks with US under Pakistan-brokered deal, envoy says - Ottumwa Courier",
+   "source": "Ottumwa Courier",
+   "published": "Sat, 24 Oct 2026 15:50:32 GMT",
+   "read": "de-escalation"
+  },
+  {
    "topic": "Russia / Ukraine",
    "title": "Bipartisan US Lawmakers Push Back On Trump's Russia Policy, Vow Support For Ukraine - Radio Free Europe/Radio Liberty",
    "source": "Radio Free Europe/Radio Liberty",
@@ -333,17 +340,10 @@
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "What Might Happen If Iran Makes Good on Threats to Sever Undersea Cables - Middle East Forum",
-   "source": "Middle East Forum",
-   "published": "Sat, 24 Oct 2026 10:00:32 GMT",
+   "title": "Iran Strait of Hormuz - Post Register",
+   "source": "Post Register",
+   "published": "Sat, 24 Oct 2026 09:29:40 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran trying harder to target US personnel in Middle East, intelligence chief warns - BBC",
-   "source": "BBC",
-   "published": "Sat, 24 Oct 2026 07:36:02 GMT",
-   "read": "escalation"
   }
  ],
  "ratings": [],
