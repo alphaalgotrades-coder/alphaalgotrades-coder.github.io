@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-24T14:10:03+00:00",
+ "generated_utc": "2026-10-24T14:15:03+00:00",
  "date_et": "2026-10-24",
  "build": "0d463cfe05",
  "tape": [
@@ -298,9 +298,9 @@
     "pct": 2.21
    }
   ],
-  "as_of": "2026-10-24T14:09:05.490606+00:00",
+  "as_of": "2026-10-24T14:12:05.188173+00:00",
   "tone": "risk-off",
-  "age_min": 0.96850615
+  "age_min": 2.9693799833333334
  },
  "stories": [
   {
@@ -332,18 +332,18 @@
    "read": "de-escalation"
   },
   {
-   "topic": "Russia / Ukraine",
-   "title": "Putin's Iran diplomacy faces limits as Russia eyes Ukraine concessions - Al-Monitor",
-   "source": "Al-Monitor",
-   "published": "Sat, 24 Oct 2026 08:30:16 GMT",
-   "read": "unclear"
-  },
-  {
    "topic": "Iran / Hormuz",
    "title": "Iran trying harder to target US personnel in Middle East, intelligence chief warns - BBC",
    "source": "BBC",
    "published": "Sat, 24 Oct 2026 07:36:02 GMT",
    "read": "escalation"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Russia, Ukraine Agree on Ceasefire in Embattled Oleshky, Plan New Peace Talks Next Month - The Moscow Times",
+   "source": "The Moscow Times",
+   "published": "Sat, 24 Oct 2026 06:13:00 GMT",
+   "read": "de-escalation"
   }
  ],
  "ratings": [],
