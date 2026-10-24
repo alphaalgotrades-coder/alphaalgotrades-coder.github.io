@@ -1,36 +1,28 @@
 {
- "week": 14,
- "from": "2026-10-12",
- "to": "2026-10-16",
- "realized": 594,
- "fills": 6,
- "green_days": 1,
+ "week": 15,
+ "from": "2026-10-19",
+ "to": "2026-10-23",
+ "realized": 0,
+ "fills": 5,
+ "green_days": 0,
  "red_days": 0,
- "closed": [
-  {
-   "symbol": "DLO",
-   "legs": [],
-   "realized": 594,
-   "assigned": false,
-   "recovered": false
-  }
- ],
- "spotlight": "DLO",
+ "closed": [],
+ "spotlight": null,
  "cycle": {
-  "sold_puts": [],
+  "sold_puts": [
+   "MCHP"
+  ],
   "kept": [],
-  "expired": [
-   "DLO",
-   "AS"
-  ],
+  "expired": [],
   "assigned": [],
-  "calls": [],
-  "rolled": [],
-  "called_away": [
-   "DLO"
+  "calls": [
+   "Z",
+   "BLDR"
   ],
+  "rolled": [],
+  "called_away": [],
   "calls_closed": [],
   "kept_pct": {}
  },
- "generated": "2026-10-17 08:32"
+ "generated": "2026-10-24 08:32"
 }
