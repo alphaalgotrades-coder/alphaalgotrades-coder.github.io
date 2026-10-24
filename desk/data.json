@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-24T15:50:03+00:00",
+ "generated_utc": "2026-10-24T15:55:03+00:00",
  "date_et": "2026-10-24",
  "build": "0d463cfe05",
  "tape": [
@@ -298,9 +298,9 @@
     "pct": 2.21
    }
   ],
-  "as_of": "2026-10-24T15:48:06.082914+00:00",
+  "as_of": "2026-10-24T15:54:06.150977+00:00",
   "tone": "risk-off",
-  "age_min": 1.9637704833333334
+  "age_min": 0.9643865166666666
  },
  "stories": [
   {
@@ -318,6 +318,13 @@
    "read": "escalation"
   },
   {
+   "topic": "Russia / Ukraine",
+   "title": "Bipartisan US Lawmakers Push Back On Trump's Russia Policy, Vow Support For Ukraine - Radio Free Europe/Radio Liberty",
+   "source": "Radio Free Europe/Radio Liberty",
+   "published": "Sat, 24 Oct 2026 14:51:22 GMT",
+   "read": "unclear"
+  },
+  {
    "topic": "Taiwan / China",
    "title": "Ukraine\u2019s Starlink woes should be a wake-up call for Taiwan, analysts say - South China Morning Post",
    "source": "South China Morning Post",
@@ -330,13 +337,6 @@
    "source": "Middle East Forum",
    "published": "Sat, 24 Oct 2026 10:00:32 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Ukraine and Russia eye new peace talks \u2014 and Melania Trump's mission \u2014 but steep obstacles remain - Bozeman Daily Chronicle",
-   "source": "Bozeman Daily Chronicle",
-   "published": "Sat, 24 Oct 2026 09:29:27 GMT",
-   "read": "de-escalation"
   },
   {
    "topic": "Iran / Hormuz",
