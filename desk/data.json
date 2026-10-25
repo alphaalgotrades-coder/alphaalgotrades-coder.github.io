@@ -1,36 +1,8 @@
 {
- "generated_utc": "2026-10-25T03:55:03+00:00",
- "date_et": "2026-10-24",
+ "generated_utc": "2026-10-25T04:00:04+00:00",
+ "date_et": "2026-10-25",
  "build": "0d463cfe05",
- "tape": [
-  {
-   "time": "21:00",
-   "ccy": "CHF",
-   "impact": "Holi",
-   "title": "Daylight Saving Time Shift",
-   "cons": "",
-   "prev": "",
-   "actual": ""
-  },
-  {
-   "time": "21:00",
-   "ccy": "EUR",
-   "impact": "Holi",
-   "title": "Daylight Saving Time Shift",
-   "cons": "",
-   "prev": "",
-   "actual": ""
-  },
-  {
-   "time": "21:00",
-   "ccy": "GBP",
-   "impact": "Holi",
-   "title": "Daylight Saving Time Shift",
-   "cons": "",
-   "prev": "",
-   "actual": ""
-  }
- ],
+ "tape": [],
  "rates": {
   "rows": [
    {
@@ -298,9 +270,9 @@
     "pct": 2.21
    }
   ],
-  "as_of": "2026-10-25T03:54:05.259859+00:00",
+  "as_of": "2026-10-25T03:57:05.135833+00:00",
   "tone": "risk-off",
-  "age_min": 0.9771827500000001
+  "age_min": 2.9878075666666666
  },
  "stories": [
   {
