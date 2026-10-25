@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-25T16:50:03+00:00",
+ "generated_utc": "2026-10-25T16:55:05+00:00",
  "date_et": "2026-10-25",
  "build": "0d463cfe05",
  "tape": [
@@ -289,9 +289,9 @@
     "pct": 2.21
    }
   ],
-  "as_of": "2026-10-25T16:48:05.139868+00:00",
+  "as_of": "2026-10-25T16:54:05.378663+00:00",
   "tone": "risk-off",
-  "age_min": 1.9947522666666666
+  "age_min": 1.0233384333333333
  },
  "stories": [
   {
@@ -300,13 +300,6 @@
    "source": "South China Morning Post",
    "published": "Wed, 21 Oct 2026 01:30:08 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Why Trump Is Furious at Ukraine - The Atlantic",
-   "source": "The Atlantic",
-   "published": "Wed, 21 Oct 2026 00:19:02 GMT",
-   "read": "unclear"
   },
   {
    "topic": "Saudi / Gulf supply",
@@ -335,6 +328,13 @@
    "source": "Washington Times",
    "published": "Sun, 25 Oct 2026 14:51:07 GMT",
    "read": "unclear"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iran says Strait of Hormuz will change after war with US - Latest news from Azerbaijan",
+   "source": "Latest news from Azerbaijan",
+   "published": "Sun, 25 Oct 2026 13:35:40 GMT",
+   "read": "escalation"
   }
  ],
  "ratings": [],
