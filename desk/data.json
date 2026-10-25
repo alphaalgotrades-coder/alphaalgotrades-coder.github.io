@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-25T05:30:03+00:00",
+ "generated_utc": "2026-10-25T05:35:04+00:00",
  "date_et": "2026-10-25",
  "build": "0d463cfe05",
  "tape": [],
@@ -270,9 +270,9 @@
     "pct": 2.21
    }
   ],
-  "as_of": "2026-10-25T05:27:15.674429+00:00",
+  "as_of": "2026-10-25T05:33:06.042785+00:00",
   "tone": "risk-off",
-  "age_min": 2.805746683333333
+  "age_min": 1.9754903166666666
  },
  "stories": [
   {
@@ -312,10 +312,10 @@
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Strike Iran \u2018Maybe Tomorrow\u2019 or Reach a \u2018Big, Beautiful\u2019 Deal? Trump Keeps Both Options Open - Open Magazine",
-   "source": "Open Magazine",
-   "published": "Sun, 25 Oct 2026 03:02:01 GMT",
-   "read": "unclear"
+   "title": "\u2018Maybe tomorrow\u2019: Trump hints at fresh Iran strikes as Tehran denies Hormuz deal offer - The Times of India",
+   "source": "The Times of India",
+   "published": "Sun, 25 Oct 2026 02:44:00 GMT",
+   "read": "escalation"
   }
  ],
  "ratings": [],
