@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-25T06:50:04+00:00",
+ "generated_utc": "2026-10-25T06:55:04+00:00",
  "date_et": "2026-10-25",
  "build": "0d463cfe05",
  "tape": [
@@ -289,11 +289,18 @@
     "pct": 2.21
    }
   ],
-  "as_of": "2026-10-25T06:48:06.083799+00:00",
+  "as_of": "2026-10-25T06:54:06.280950+00:00",
   "tone": "risk-off",
-  "age_min": 1.9838591166666668
+  "age_min": 0.9828516500000001
  },
  "stories": [
+  {
+   "topic": "Taiwan / China",
+   "title": "Taiwan admits paying for retired US general to observe largest annual war games - South China Morning Post",
+   "source": "South China Morning Post",
+   "published": "Wed, 21 Oct 2026 01:30:08 GMT",
+   "read": "escalation"
+  },
   {
    "topic": "Taiwan / China",
    "title": "Taiwan closely monitoring China drills - Taipei Times",
@@ -309,6 +316,13 @@
    "read": "escalation"
   },
   {
+   "topic": "Iran / Hormuz",
+   "title": "Russian \u201cshadow fleet\u201d tanker linked to Iranian leadership sends distress signal in the North Atlantic - https://theins.press/en",
+   "source": "https://theins.press/en",
+   "published": "Sun, 25 Oct 2026 05:09:21 GMT",
+   "read": "unclear"
+  },
+  {
    "topic": "Russia / Ukraine",
    "title": "Ukraine, at an impasse: Besieged by Putin and abandoned by Trump - EL PA\u00cdS English",
    "source": "EL PA\u00cdS English",
@@ -321,20 +335,6 @@
    "source": "Vatican News",
    "published": "Sun, 25 Oct 2026 03:57:11 GMT",
    "read": "de-escalation"
-  },
-  {
-   "topic": "Saudi / Gulf supply",
-   "title": "Houthis Claim Strikes on Rabigh Refinery and East-West Pipeline - https://houseofsaud.com/",
-   "source": "https://houseofsaud.com/",
-   "published": "Sun, 25 Oct 2026 03:52:25 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "\u2018Maybe tomorrow\u2019: Trump hints at fresh Iran strikes as Tehran denies Hormuz deal offer - The Times of India",
-   "source": "The Times of India",
-   "published": "Sun, 25 Oct 2026 02:44:00 GMT",
-   "read": "escalation"
   }
  ],
  "ratings": [],
