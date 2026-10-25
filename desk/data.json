@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-25T12:10:03+00:00",
+ "generated_utc": "2026-10-25T12:15:04+00:00",
  "date_et": "2026-10-25",
  "build": "0d463cfe05",
  "tape": [
@@ -289,9 +289,9 @@
     "pct": 2.21
    }
   ],
-  "as_of": "2026-10-25T12:09:05.403218+00:00",
+  "as_of": "2026-10-25T12:12:05.109822+00:00",
   "tone": "risk-off",
-  "age_min": 0.9752894
+  "age_min": 2.9876985
  },
  "stories": [
   {
@@ -323,18 +323,18 @@
    "read": "escalation"
   },
   {
+   "topic": "Russia / Ukraine",
+   "title": "Moscow says Europe should be included in Russia-Ukraine peace discussions - The Jerusalem Post",
+   "source": "The Jerusalem Post",
+   "published": "Sun, 25 Oct 2026 12:06:40 GMT",
+   "read": "unclear"
+  },
+  {
    "topic": "Taiwan / China",
    "title": "Beijing pledges to back Taiwan\u2019s pro-unification \u2018patriots\u2019 on key anniversary - South China Morning Post",
    "source": "South China Morning Post",
    "published": "Sun, 25 Oct 2026 11:37:06 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Obama Questions Trump\u2019s Iran War Victory After 6 Months, Cites Higher Prices And Hormuz Disruptions - NewsCord",
-   "source": "NewsCord",
-   "published": "Sun, 25 Oct 2026 11:26:45 GMT",
-   "read": "unclear"
   }
  ],
  "ratings": [],
