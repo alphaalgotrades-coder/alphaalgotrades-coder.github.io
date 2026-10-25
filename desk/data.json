@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-25T12:30:04+00:00",
+ "generated_utc": "2026-10-25T12:35:03+00:00",
  "date_et": "2026-10-25",
  "build": "0d463cfe05",
  "tape": [
@@ -289,18 +289,11 @@
     "pct": 2.21
    }
   ],
-  "as_of": "2026-10-25T12:27:05.438975+00:00",
+  "as_of": "2026-10-25T12:33:05.776364+00:00",
   "tone": "risk-off",
-  "age_min": 2.9835346166666668
+  "age_min": 1.9702109
  },
  "stories": [
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Trump accuses Iran of making up fake strikes on ships to drive up oil prices - CBS News",
-   "source": "CBS News",
-   "published": "Wed, 21 Oct 2026 13:45:00 GMT",
-   "read": "unclear"
-  },
   {
    "topic": "Taiwan / China",
    "title": "Taiwan admits paying for retired US general to observe largest annual war games - South China Morning Post",
@@ -320,6 +313,13 @@
    "title": "Oil prices jumped after new Houthi strikes on Saudi Arabia - KTVN",
    "source": "KTVN",
    "published": "Thu, 22 Oct 2026 23:43:00 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iran says 'nothing will be same' in region after war with US - Anadolu Ajans\u0131",
+   "source": "Anadolu Ajans\u0131",
+   "published": "Sun, 25 Oct 2026 12:21:13 GMT",
    "read": "escalation"
   },
   {
