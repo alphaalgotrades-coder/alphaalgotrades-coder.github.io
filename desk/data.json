@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-25T11:50:03+00:00",
+ "generated_utc": "2026-10-25T11:55:03+00:00",
  "date_et": "2026-10-25",
  "build": "0d463cfe05",
  "tape": [
@@ -289,9 +289,9 @@
     "pct": 2.21
    }
   ],
-  "as_of": "2026-10-25T11:48:05.114835+00:00",
+  "as_of": "2026-10-25T11:54:05.648038+00:00",
   "tone": "risk-off",
-  "age_min": 1.9810497666666669
+  "age_min": 0.97029255
  },
  "stories": [
   {
@@ -324,17 +324,17 @@
   },
   {
    "topic": "Taiwan / China",
-   "title": "Why the U.S. Should Rethink a Freeze on Taiwan Arms Sales - National Review",
-   "source": "National Review",
-   "published": "Sun, 25 Oct 2026 10:30:09 GMT",
-   "read": "unclear"
+   "title": "Beijing pledges to back Taiwan\u2019s pro-unification \u2018patriots\u2019 on key anniversary - South China Morning Post",
+   "source": "South China Morning Post",
+   "published": "Sun, 25 Oct 2026 11:37:06 GMT",
+   "read": "escalation"
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Iran Ready for US Talks, but Hormuz Reopening Hinges on Blockade Lift - WANA News Agency",
-   "source": "WANA News Agency",
-   "published": "Sun, 25 Oct 2026 09:43:35 GMT",
-   "read": "de-escalation"
+   "title": "Obama Questions Trump\u2019s Iran War Victory After 6 Months, Cites Higher Prices And Hormuz Disruptions - NewsCord",
+   "source": "NewsCord",
+   "published": "Sun, 25 Oct 2026 11:26:45 GMT",
+   "read": "unclear"
   }
  ],
  "ratings": [],
