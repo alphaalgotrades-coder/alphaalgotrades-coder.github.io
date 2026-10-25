@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-25T13:30:04+00:00",
+ "generated_utc": "2026-10-25T13:35:04+00:00",
  "date_et": "2026-10-25",
  "build": "0d463cfe05",
  "tape": [
@@ -289,9 +289,9 @@
     "pct": 2.21
    }
   ],
-  "as_of": "2026-10-25T13:27:06.158245+00:00",
+  "as_of": "2026-10-25T13:33:06.515615+00:00",
   "tone": "risk-off",
-  "age_min": 2.9768539
+  "age_min": 1.9686346166666666
  },
  "stories": [
   {
@@ -324,17 +324,17 @@
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "Moscow says Europe should be included in Russia-Ukraine peace discussions - The Jerusalem Post",
+   "title": "Europe should be included in Ukraine peace discussions, Kremlin aide says - The Jerusalem Post",
    "source": "The Jerusalem Post",
    "published": "Sun, 25 Oct 2026 12:06:40 GMT",
    "read": "unclear"
   },
   {
-   "topic": "Taiwan / China",
-   "title": "Beijing pledges to back Taiwan\u2019s pro-unification \u2018patriots\u2019 on key anniversary - South China Morning Post",
-   "source": "South China Morning Post",
-   "published": "Sun, 25 Oct 2026 11:37:06 GMT",
-   "read": "escalation"
+   "topic": "Russia / Ukraine",
+   "title": "Moscow says Europe should be included in Russia-Ukraine peace discussions - The Jerusalem Post",
+   "source": "The Jerusalem Post",
+   "published": "Sun, 25 Oct 2026 12:06:40 GMT",
+   "read": "unclear"
   }
  ],
  "ratings": [],
