@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-25T15:10:04+00:00",
+ "generated_utc": "2026-10-25T15:15:04+00:00",
  "date_et": "2026-10-25",
  "build": "0d463cfe05",
  "tape": [
@@ -289,9 +289,9 @@
     "pct": 2.21
    }
   ],
-  "as_of": "2026-10-25T15:09:05.222353+00:00",
+  "as_of": "2026-10-25T15:12:04.969302+00:00",
   "tone": "risk-off",
-  "age_min": 0.9836847166666666
+  "age_min": 2.9990392166666666
  },
  "stories": [
   {
@@ -317,6 +317,13 @@
   },
   {
    "topic": "Iran / Hormuz",
+   "title": "Iran warns of \u2018unimaginable\u2019 response to US aggression as tensions rise over Hormuz - Middle East Eye",
+   "source": "Middle East Eye",
+   "published": "Sun, 25 Oct 2026 14:52:00 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
    "title": "Iran says Strait of Hormuz will change after war with US - Latest news from Azerbaijan",
    "source": "Latest news from Azerbaijan",
    "published": "Sun, 25 Oct 2026 13:35:40 GMT",
@@ -328,13 +335,6 @@
    "source": "Anadolu Ajans\u0131",
    "published": "Sun, 25 Oct 2026 12:21:13 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Europe should be included in Ukraine peace discussions, Kremlin aide says - The Jerusalem Post",
-   "source": "The Jerusalem Post",
-   "published": "Sun, 25 Oct 2026 12:06:40 GMT",
-   "read": "unclear"
   }
  ],
  "ratings": [],
