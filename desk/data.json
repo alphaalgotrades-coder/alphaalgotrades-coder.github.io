@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-25T09:50:03+00:00",
+ "generated_utc": "2026-10-25T09:55:03+00:00",
  "date_et": "2026-10-25",
  "build": "0d463cfe05",
  "tape": [
@@ -289,9 +289,9 @@
     "pct": 2.21
    }
   ],
-  "as_of": "2026-10-25T09:48:05.574135+00:00",
+  "as_of": "2026-10-25T09:54:05.535924+00:00",
   "tone": "risk-off",
-  "age_min": 1.97203665
+  "age_min": 0.97465155
  },
  "stories": [
   {
@@ -317,6 +317,13 @@
   },
   {
    "topic": "Iran / Hormuz",
+   "title": "Iran Ready for US Talks, but Hormuz Reopening Hinges on Blockade Lift - WANA News Agency",
+   "source": "WANA News Agency",
+   "published": "Sun, 25 Oct 2026 09:43:35 GMT",
+   "read": "de-escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
    "title": "Iran ready to open the Strait of Hormuz after the lifting of the U.S. blockade - AP - \u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u041d\u043e\u0432\u0438\u043d\u0438 (\u0423\u041d\u041d)",
    "source": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u041d\u043e\u0432\u0438\u043d\u0438 (\u0423\u041d\u041d)",
    "published": "Sun, 25 Oct 2026 08:27:50 GMT",
@@ -328,13 +335,6 @@
    "source": "DD India",
    "published": "Sun, 25 Oct 2026 05:46:00 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Russian \u201cshadow fleet\u201d tanker linked to Iranian leadership sends distress signal in the North Atlantic - https://theins.press/en",
-   "source": "https://theins.press/en",
-   "published": "Sun, 25 Oct 2026 05:09:21 GMT",
-   "read": "unclear"
   }
  ],
  "ratings": [],
