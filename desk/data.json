@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-25T11:10:03+00:00",
+ "generated_utc": "2026-10-25T11:15:03+00:00",
  "date_et": "2026-10-25",
  "build": "0d463cfe05",
  "tape": [
@@ -289,9 +289,9 @@
     "pct": 2.21
    }
   ],
-  "as_of": "2026-10-25T11:09:05.639722+00:00",
+  "as_of": "2026-10-25T11:12:05.855543+00:00",
   "tone": "risk-off",
-  "age_min": 0.9682426
+  "age_min": 2.9827489333333332
  },
  "stories": [
   {
@@ -316,6 +316,13 @@
    "read": "escalation"
   },
   {
+   "topic": "Taiwan / China",
+   "title": "Why the U.S. Should Rethink a Freeze on Taiwan Arms Sales - National Review",
+   "source": "National Review",
+   "published": "Sun, 25 Oct 2026 10:30:09 GMT",
+   "read": "unclear"
+  },
+  {
    "topic": "Iran / Hormuz",
    "title": "Iran Ready for US Talks, but Hormuz Reopening Hinges on Blockade Lift - WANA News Agency",
    "source": "WANA News Agency",
@@ -324,16 +331,9 @@
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Iran ready to open the Strait of Hormuz after the lifting of the U.S. blockade - AP - \u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u041d\u043e\u0432\u0438\u043d\u0438 (\u0423\u041d\u041d)",
-   "source": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u041d\u043e\u0432\u0438\u043d\u0438 (\u0423\u041d\u041d)",
-   "published": "Sun, 25 Oct 2026 08:27:50 GMT",
-   "read": "de-escalation"
-  },
-  {
-   "topic": "Taiwan / China",
-   "title": "Keen Sword 27: China shadows biggest Japan\u2013US military drills near Taiwan - DD India",
-   "source": "DD India",
-   "published": "Sun, 25 Oct 2026 05:46:00 GMT",
+   "title": "Iran plans to cut Gulf internet cables and block repairs if war resumes, officials say - Ynetnews",
+   "source": "Ynetnews",
+   "published": "Sun, 25 Oct 2026 09:01:22 GMT",
    "read": "escalation"
   }
  ],
