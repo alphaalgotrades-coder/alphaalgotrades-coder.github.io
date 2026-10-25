@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-25T04:50:03+00:00",
+ "generated_utc": "2026-10-25T04:55:04+00:00",
  "date_et": "2026-10-25",
  "build": "0d463cfe05",
  "tape": [],
@@ -270,9 +270,9 @@
     "pct": 2.21
    }
   ],
-  "as_of": "2026-10-25T04:48:05.230618+00:00",
+  "as_of": "2026-10-25T04:54:05.213373+00:00",
   "tone": "risk-off",
-  "age_min": 1.98114775
+  "age_min": 0.982443
  },
  "stories": [
   {
@@ -281,6 +281,13 @@
    "source": "Taipei Times",
    "published": "Tue, 13 Oct 2026 07:00:00 GMT",
    "read": "unclear"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iran says 7 oil tankers damaged in Strait of Hormuz, and other Middle East news - PBS",
+   "source": "PBS",
+   "published": "Thu, 22 Oct 2026 22:48:30 GMT",
+   "read": "escalation"
   },
   {
    "topic": "Russia / Ukraine",
@@ -309,13 +316,6 @@
    "source": "The Times of India",
    "published": "Sun, 25 Oct 2026 02:44:00 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "'Lie and fabrication': Iran denies Hormuz deal offer to US through Pakistan - The Times of India",
-   "source": "The Times of India",
-   "published": "Sun, 25 Oct 2026 01:14:00 GMT",
-   "read": "unclear"
   }
  ],
  "ratings": [],
