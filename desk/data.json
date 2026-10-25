@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-25T05:10:04+00:00",
+ "generated_utc": "2026-10-25T05:15:04+00:00",
  "date_et": "2026-10-25",
  "build": "0d463cfe05",
  "tape": [],
@@ -270,9 +270,9 @@
     "pct": 2.21
    }
   ],
-  "as_of": "2026-10-25T05:09:05.655092+00:00",
+  "as_of": "2026-10-25T05:12:05.530375+00:00",
   "tone": "risk-off",
-  "age_min": 0.9756603166666667
+  "age_min": 2.9928626166666663
  },
  "stories": [
   {
@@ -288,6 +288,13 @@
    "source": "PBS",
    "published": "Thu, 22 Oct 2026 22:48:30 GMT",
    "read": "escalation"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Ukraine, at an impasse: Besieged by Putin and abandoned by Trump - EL PA\u00cdS English",
+   "source": "EL PA\u00cdS English",
+   "published": "Sun, 25 Oct 2026 04:00:00 GMT",
+   "read": "unclear"
   },
   {
    "topic": "Russia / Ukraine",
@@ -309,13 +316,6 @@
    "source": "Open Magazine",
    "published": "Sun, 25 Oct 2026 03:02:01 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "\u2018Maybe tomorrow\u2019: Trump hints at fresh Iran strikes as Tehran denies Hormuz deal offer - The Times of India",
-   "source": "The Times of India",
-   "published": "Sun, 25 Oct 2026 02:44:00 GMT",
-   "read": "escalation"
   }
  ],
  "ratings": [],
