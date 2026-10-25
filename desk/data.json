@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-25T08:50:04+00:00",
+ "generated_utc": "2026-10-25T08:55:04+00:00",
  "date_et": "2026-10-25",
  "build": "0d463cfe05",
  "tape": [
@@ -289,9 +289,9 @@
     "pct": 2.21
    }
   ],
-  "as_of": "2026-10-25T08:48:05.340669+00:00",
+  "as_of": "2026-10-25T08:54:05.097584+00:00",
   "tone": "risk-off",
-  "age_min": 1.9856340333333333
+  "age_min": 0.9859554833333333
  },
  "stories": [
   {
@@ -302,11 +302,25 @@
    "read": "escalation"
   },
   {
+   "topic": "Saudi / Gulf supply",
+   "title": "Oil prices jumped after new Houthi strikes on Saudi Arabia - KTVN",
+   "source": "KTVN",
+   "published": "Thu, 22 Oct 2026 23:43:00 GMT",
+   "read": "escalation"
+  },
+  {
    "topic": "Iran / Hormuz",
    "title": "Iran says 7 oil tankers damaged in Strait of Hormuz, and other Middle East news - PBS",
    "source": "PBS",
    "published": "Thu, 22 Oct 2026 22:48:30 GMT",
    "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iran ready to open the Strait of Hormuz after the lifting of the U.S. blockade - AP - \u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u041d\u043e\u0432\u0438\u043d\u0438 (\u0423\u041d\u041d)",
+   "source": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u041d\u043e\u0432\u0438\u043d\u0438 (\u0423\u041d\u041d)",
+   "published": "Sun, 25 Oct 2026 08:27:50 GMT",
+   "read": "de-escalation"
   },
   {
    "topic": "Taiwan / China",
@@ -321,20 +335,6 @@
    "source": "https://theins.press/en",
    "published": "Sun, 25 Oct 2026 05:09:21 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Ukraine, at an impasse: Besieged by Putin and abandoned by Trump - EL PA\u00cdS English",
-   "source": "EL PA\u00cdS English",
-   "published": "Sun, 25 Oct 2026 04:00:00 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Humanitarian truce announced for Ukrainian city of Oleshky - Vatican News",
-   "source": "Vatican News",
-   "published": "Sun, 25 Oct 2026 03:57:11 GMT",
-   "read": "de-escalation"
   }
  ],
  "ratings": [],
