@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-25T08:30:04+00:00",
+ "generated_utc": "2026-10-25T08:35:04+00:00",
  "date_et": "2026-10-25",
  "build": "0d463cfe05",
  "tape": [
@@ -289,9 +289,9 @@
     "pct": 2.21
    }
   ],
-  "as_of": "2026-10-25T08:27:15.090650+00:00",
+  "as_of": "2026-10-25T08:33:05.518811+00:00",
   "tone": "risk-off",
-  "age_min": 2.8294109
+  "age_min": 1.9810221333333333
  },
  "stories": [
   {
@@ -302,17 +302,17 @@
    "read": "escalation"
   },
   {
-   "topic": "Taiwan / China",
-   "title": "Taiwan closely monitoring China drills - Taipei Times",
-   "source": "Taipei Times",
-   "published": "Tue, 13 Oct 2026 07:00:00 GMT",
-   "read": "unclear"
-  },
-  {
    "topic": "Iran / Hormuz",
    "title": "Iran says 7 oil tankers damaged in Strait of Hormuz, and other Middle East news - PBS",
    "source": "PBS",
    "published": "Thu, 22 Oct 2026 22:48:30 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Taiwan / China",
+   "title": "Keen Sword 27: China shadows biggest Japan\u2013US military drills near Taiwan - DD India",
+   "source": "DD India",
+   "published": "Sun, 25 Oct 2026 05:46:00 GMT",
    "read": "escalation"
   },
   {
