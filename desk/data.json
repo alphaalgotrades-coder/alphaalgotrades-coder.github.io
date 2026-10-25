@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-25T03:10:04+00:00",
+ "generated_utc": "2026-10-25T03:15:03+00:00",
  "date_et": "2026-10-24",
  "build": "0d463cfe05",
  "tape": [
@@ -298,9 +298,9 @@
     "pct": 2.21
    }
   ],
-  "as_of": "2026-10-25T03:09:04.869354+00:00",
+  "as_of": "2026-10-25T03:12:04.852184+00:00",
   "tone": "risk-off",
-  "age_min": 0.9884027166666667
+  "age_min": 2.9873297166666664
  },
  "stories": [
   {
@@ -316,6 +316,13 @@
    "source": "Le Monde.fr",
    "published": "Thu, 22 Oct 2026 20:11:11 GMT",
    "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Strike Iran \u2018Maybe Tomorrow\u2019 or Reach a \u2018Big, Beautiful\u2019 Deal? Trump Keeps Both Options Open - Open Magazine",
+   "source": "Open Magazine",
+   "published": "Sun, 25 Oct 2026 03:02:01 GMT",
+   "read": "unclear"
   },
   {
    "topic": "Iran / Hormuz",
@@ -337,13 +344,6 @@
    "source": "The Washington Post",
    "published": "Sat, 24 Oct 2026 22:51:21 GMT",
    "read": "de-escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Putin puts Trump ahead of Iran in bid to mediate war - Al-Monitor",
-   "source": "Al-Monitor",
-   "published": "Sat, 24 Oct 2026 22:21:29 GMT",
-   "read": "unclear"
   }
  ],
  "ratings": [],
