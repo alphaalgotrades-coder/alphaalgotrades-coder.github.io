@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-25T04:10:03+00:00",
+ "generated_utc": "2026-10-25T04:15:04+00:00",
  "date_et": "2026-10-25",
  "build": "0d463cfe05",
  "tape": [],
@@ -270,9 +270,9 @@
     "pct": 2.21
    }
   ],
-  "as_of": "2026-10-25T04:09:05.442716+00:00",
+  "as_of": "2026-10-25T04:12:05.073784+00:00",
   "tone": "risk-off",
-  "age_min": 0.97459345
+  "age_min": 2.989873316666667
  },
  "stories": [
   {
@@ -284,9 +284,16 @@
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "Zelensky says fresh strikes show 'no change' in Kremlin position - Le Monde.fr",
-   "source": "Le Monde.fr",
-   "published": "Thu, 22 Oct 2026 20:11:11 GMT",
+   "title": "Humanitarian truce announced for Ukrainian city of Oleshky - Vatican News",
+   "source": "Vatican News",
+   "published": "Sun, 25 Oct 2026 03:57:11 GMT",
+   "read": "de-escalation"
+  },
+  {
+   "topic": "Saudi / Gulf supply",
+   "title": "Houthis Claim Strikes on Rabigh Refinery and East-West Pipeline - https://houseofsaud.com/",
+   "source": "https://houseofsaud.com/",
+   "published": "Sun, 25 Oct 2026 03:52:25 GMT",
    "read": "escalation"
   },
   {
@@ -298,9 +305,9 @@
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Iran sends conflicting signals on US deal as Trump raises prospect of strikes - Iran International",
-   "source": "Iran International",
-   "published": "Sun, 25 Oct 2026 01:35:00 GMT",
+   "title": "\u2018Maybe tomorrow\u2019: Trump hints at fresh Iran strikes as Tehran denies Hormuz deal offer - The Times of India",
+   "source": "The Times of India",
+   "published": "Sun, 25 Oct 2026 02:44:00 GMT",
    "read": "escalation"
   },
   {
@@ -309,13 +316,6 @@
    "source": "The Times of India",
    "published": "Sun, 25 Oct 2026 01:14:00 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran remains open to talks with US under Pakistan-brokered deal, envoy says - The Washington Post",
-   "source": "The Washington Post",
-   "published": "Sat, 24 Oct 2026 22:51:21 GMT",
-   "read": "de-escalation"
   }
  ],
  "ratings": [],
