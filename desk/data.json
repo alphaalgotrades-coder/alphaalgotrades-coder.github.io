@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-25T01:50:03+00:00",
+ "generated_utc": "2026-10-25T01:55:03+00:00",
  "date_et": "2026-10-24",
  "build": "0d463cfe05",
  "tape": [
@@ -298,9 +298,9 @@
     "pct": 2.21
    }
   ],
-  "as_of": "2026-10-25T01:48:04.603683+00:00",
+  "as_of": "2026-10-25T01:54:04.828065+00:00",
   "tone": "risk-off",
-  "age_min": 1.9816004833333334
+  "age_min": 0.9844848166666667
  },
  "stories": [
   {
@@ -315,6 +315,13 @@
    "title": "Zelensky says fresh strikes show 'no change' in Kremlin position - Le Monde.fr",
    "source": "Le Monde.fr",
    "published": "Thu, 22 Oct 2026 20:11:11 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iran sends conflicting signals on US deal as Trump raises prospect of strikes - Iran International",
+   "source": "Iran International",
+   "published": "Sun, 25 Oct 2026 01:35:00 GMT",
    "read": "escalation"
   },
   {
@@ -337,13 +344,6 @@
    "source": "TelegraphHerald.com",
    "published": "Sat, 24 Oct 2026 22:15:42 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran reportedly ready to target submarine cables if war resumes - Israel National News",
-   "source": "Israel National News",
-   "published": "Sat, 24 Oct 2026 20:00:55 GMT",
-   "read": "escalation"
   }
  ],
  "ratings": [],
