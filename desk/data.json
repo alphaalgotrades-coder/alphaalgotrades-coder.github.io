@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-25T11:30:04+00:00",
+ "generated_utc": "2026-10-25T11:35:04+00:00",
  "date_et": "2026-10-25",
  "build": "0d463cfe05",
  "tape": [
@@ -289,9 +289,9 @@
     "pct": 2.21
    }
   ],
-  "as_of": "2026-10-25T11:27:05.647184+00:00",
+  "as_of": "2026-10-25T11:33:05.861529+00:00",
   "tone": "risk-off",
-  "age_min": 2.9819265833333333
+  "age_min": 1.9721971666666667
  },
  "stories": [
   {
@@ -307,6 +307,13 @@
    "source": "South China Morning Post",
    "published": "Wed, 21 Oct 2026 01:30:08 GMT",
    "read": "escalation"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Why Trump Is Furious at Ukraine - The Atlantic",
+   "source": "The Atlantic",
+   "published": "Wed, 21 Oct 2026 00:19:02 GMT",
+   "read": "unclear"
   },
   {
    "topic": "Saudi / Gulf supply",
@@ -328,13 +335,6 @@
    "source": "WANA News Agency",
    "published": "Sun, 25 Oct 2026 09:43:35 GMT",
    "read": "de-escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran plans to cut Gulf internet cables and block repairs if war resumes, officials say - Ynetnews",
-   "source": "Ynetnews",
-   "published": "Sun, 25 Oct 2026 09:01:22 GMT",
-   "read": "escalation"
   }
  ],
  "ratings": [],
