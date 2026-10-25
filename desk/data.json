@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-25T19:30:05+00:00",
+ "generated_utc": "2026-10-25T19:35:04+00:00",
  "date_et": "2026-10-25",
  "build": "0d463cfe05",
  "tape": [
@@ -289,9 +289,9 @@
     "pct": 2.21
    }
   ],
-  "as_of": "2026-10-25T19:27:05.973155+00:00",
+  "as_of": "2026-10-25T19:33:06.419771+00:00",
   "tone": "risk-off",
-  "age_min": 2.9941683333333335
+  "age_min": 1.9696908166666667
  },
  "stories": [
   {
@@ -310,6 +310,20 @@
   },
   {
    "topic": "Iran / Hormuz",
+   "title": "Iran says 7 oil tankers attacked in the Strait of Hormuz as fears of a return to war grow - NBC News",
+   "source": "NBC News",
+   "published": "Thu, 22 Oct 2026 21:33:09 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "More than 95% of ships navigate Strait of Hormuz safely despite Iranian 'aggression,' US military says - Anadolu Ajans\u0131",
+   "source": "Anadolu Ajans\u0131",
+   "published": "Sun, 25 Oct 2026 19:13:58 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Iran / Hormuz",
    "title": "Iran Hormuz Talks Stall as Oil Tops $116 - Energi.Media",
    "source": "Energi.Media",
    "published": "Sun, 25 Oct 2026 17:17:20 GMT",
@@ -320,20 +334,6 @@
    "title": "Iran\u2019s army says it struck US drone - NewsNation",
    "source": "NewsNation",
    "published": "Sun, 25 Oct 2026 16:11:12 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "How Trump\u2019s Hero Winston Churchill Would Handle Putin and Ukraine - Newsweek",
-   "source": "Newsweek",
-   "published": "Sun, 25 Oct 2026 16:00:00 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Trump poses ultimatum on Iran, questions whether to reach deal or 'finish them off' - Anadolu Ajans\u0131",
-   "source": "Anadolu Ajans\u0131",
-   "published": "Sun, 25 Oct 2026 15:35:15 GMT",
    "read": "escalation"
   }
  ],
