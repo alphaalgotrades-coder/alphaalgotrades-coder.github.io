@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-25T14:50:03+00:00",
+ "generated_utc": "2026-10-25T14:55:03+00:00",
  "date_et": "2026-10-25",
  "build": "0d463cfe05",
  "tape": [
@@ -289,9 +289,9 @@
     "pct": 2.21
    }
   ],
-  "as_of": "2026-10-25T14:48:05.454543+00:00",
+  "as_of": "2026-10-25T14:54:05.621210+00:00",
   "tone": "risk-off",
-  "age_min": 1.9741144333333334
+  "age_min": 0.9750396
  },
  "stories": [
   {
@@ -317,6 +317,13 @@
   },
   {
    "topic": "Iran / Hormuz",
+   "title": "Iran says Strait of Hormuz will change after war with US - Latest news from Azerbaijan",
+   "source": "Latest news from Azerbaijan",
+   "published": "Sun, 25 Oct 2026 13:35:40 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
    "title": "Iran says 'nothing will be same' in region after war with US - Anadolu Ajans\u0131",
    "source": "Anadolu Ajans\u0131",
    "published": "Sun, 25 Oct 2026 12:21:13 GMT",
@@ -325,13 +332,6 @@
   {
    "topic": "Russia / Ukraine",
    "title": "Europe should be included in Ukraine peace discussions, Kremlin aide says - The Jerusalem Post",
-   "source": "The Jerusalem Post",
-   "published": "Sun, 25 Oct 2026 12:06:40 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Moscow says Europe should be included in Russia-Ukraine peace discussions - The Jerusalem Post",
    "source": "The Jerusalem Post",
    "published": "Sun, 25 Oct 2026 12:06:40 GMT",
    "read": "unclear"
