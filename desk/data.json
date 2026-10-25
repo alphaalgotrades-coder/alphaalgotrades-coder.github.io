@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-25T17:50:03+00:00",
+ "generated_utc": "2026-10-25T17:55:04+00:00",
  "date_et": "2026-10-25",
  "build": "0d463cfe05",
  "tape": [
@@ -289,9 +289,9 @@
     "pct": 2.21
    }
   ],
-  "as_of": "2026-10-25T17:48:05.300759+00:00",
+  "as_of": "2026-10-25T17:54:05.268748+00:00",
   "tone": "risk-off",
-  "age_min": 1.97977275
+  "age_min": 0.9868930666666667
  },
  "stories": [
   {
@@ -317,24 +317,24 @@
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Trump poses ultimatum on Iran, questions whether to reach deal or 'finish them off' - Anadolu Ajans\u0131",
-   "source": "Anadolu Ajans\u0131",
-   "published": "Sun, 25 Oct 2026 15:35:15 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran warns of \u2018unimaginable\u2019 response to US aggression as tensions rise over Hormuz - Middle East Eye",
-   "source": "Middle East Eye",
-   "published": "Sun, 25 Oct 2026 14:52:00 GMT",
+   "title": "Iran\u2019s army says it struck US drone - NewsNation",
+   "source": "NewsNation",
+   "published": "Sun, 25 Oct 2026 16:11:12 GMT",
    "read": "escalation"
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "Europe\u2019s growing support for Ukraine earns it larger role in upcoming negotiations, Kremlin says - Washington Times",
-   "source": "Washington Times",
-   "published": "Sun, 25 Oct 2026 14:51:07 GMT",
+   "title": "How Trump\u2019s Hero Winston Churchill Would Handle Putin and Ukraine - Newsweek",
+   "source": "Newsweek",
+   "published": "Sun, 25 Oct 2026 16:00:00 GMT",
    "read": "unclear"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Trump poses ultimatum on Iran, questions whether to reach deal or 'finish them off' - Anadolu Ajans\u0131",
+   "source": "Anadolu Ajans\u0131",
+   "published": "Sun, 25 Oct 2026 15:35:15 GMT",
+   "read": "escalation"
   }
  ],
  "ratings": [],
