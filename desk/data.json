@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-26T10:30:02+00:00",
+ "generated_utc": "2026-10-26T10:35:02+00:00",
  "date_et": "2026-10-26",
  "build": "0d463cfe05",
  "tape": [
@@ -49,7 +49,7 @@
     "lean": "hawkish",
     "source": "YAHOO_TSY_FUT_ZT",
     "latency": "after-hours-futures-proxy",
-    "snapshot_ts": "2026-10-26T10:17:00+00:00",
+    "snapshot_ts": "2026-10-26T10:20:00+00:00",
     "snapshot_date": "2026-10-26",
     "prior_day": "2026-10-22",
     "prior_day_close": 4.65,
@@ -68,12 +68,12 @@
      4.634,
      4.636,
      4.632,
-     4.634,
      4.636,
      4.636,
-     4.634,
-     4.64,
+     4.636,
+     4.636,
      4.642,
+     4.64,
      4.646,
      4.65,
      4.652,
@@ -81,29 +81,29 @@
      4.658,
      4.658,
      4.658,
-     4.662,
      4.664,
-     4.66,
+     4.664,
      4.662,
      4.662,
      4.66,
      4.66,
      4.66,
+     4.66,
+     4.662,
      4.662,
      4.666,
      4.664,
-     4.664,
-     4.664
+     4.66
     ]
    },
    {
     "series": "5Y",
-    "level": 4.775,
-    "d_day_bps": 0.7,
+    "level": 4.777,
+    "d_day_bps": 0.9,
     "lean": "flat",
     "source": "YAHOO_TSY_FUT_ZF",
     "latency": "after-hours-futures-proxy",
-    "snapshot_ts": "2026-10-26T10:17:00+00:00",
+    "snapshot_ts": "2026-10-26T10:21:00+00:00",
     "snapshot_date": "2026-10-26",
     "prior_day": "2026-10-22",
     "prior_day_close": 4.768,
@@ -116,38 +116,38 @@
      4.751,
      4.751,
      4.751,
-     4.751,
-     4.752,
      4.754,
      4.752,
+     4.754,
      4.751,
      4.754,
+     4.752,
      4.749,
      4.752,
      4.752,
-     4.754,
      4.752,
-     4.759,
      4.758,
-     4.763,
-     4.766,
-     4.771,
-     4.775,
-     4.777,
+     4.759,
+     4.759,
+     4.761,
+     4.773,
      4.773,
      4.777,
+     4.773,
+     4.773,
+     4.778,
      4.78,
-     4.78,
+     4.777,
      4.777,
      4.778,
-     4.777,
      4.777,
      4.777,
      4.777,
      4.782,
      4.78,
      4.78,
-     4.778
+     4.778,
+     4.775
     ]
    },
    {
@@ -157,7 +157,7 @@
     "lean": "flat",
     "source": "YAHOO_TSY_FUT_ZN",
     "latency": "after-hours-futures-proxy",
-    "snapshot_ts": "2026-10-26T10:18:00+00:00",
+    "snapshot_ts": "2026-10-26T10:21:00+00:00",
     "snapshot_date": "2026-10-26",
     "prior_day": "2026-10-22",
     "prior_day_close": 4.953,
@@ -170,30 +170,29 @@
      4.937,
      4.935,
      4.935,
-     4.935,
-     4.937,
-     4.937,
-     4.935,
-     4.935,
-     4.937,
-     4.935,
-     4.937,
-     4.937,
      4.939,
-     4.939,
+     4.937,
+     4.937,
+     4.937,
+     4.937,
+     4.935,
+     4.935,
+     4.937,
+     4.937,
+     4.937,
      4.942,
      4.942,
-     4.948,
-     4.948,
+     4.942,
+     4.944,
+     4.958,
      4.958,
      4.96,
+     4.958,
+     4.955,
      4.96,
-     4.958,
-     4.958,
      4.962,
-     4.962,
      4.96,
-     4.96,
+     4.958,
      4.96,
      4.96,
      4.958,
@@ -201,7 +200,8 @@
      4.964,
      4.962,
      4.962,
-     4.96
+     4.96,
+     4.958
     ]
    },
    {
@@ -211,7 +211,7 @@
     "lean": "flat",
     "source": "YAHOO_TSY_FUT_ZB",
     "latency": "after-hours-futures-proxy",
-    "snapshot_ts": "2026-10-26T10:17:00+00:00",
+    "snapshot_ts": "2026-10-26T10:22:00+00:00",
     "snapshot_date": "2026-10-26",
     "prior_day": "2026-10-22",
     "prior_day_close": 5.287,
@@ -230,19 +230,18 @@
      5.272,
      5.269,
      5.274,
-     5.271,
-     5.271,
+     5.269,
+     5.272,
+     5.272,
      5.272,
      5.274,
-     5.271,
      5.276,
      5.276,
-     5.276,
-     5.274,
+     5.278,
+     5.278,
      5.285,
-     5.283,
+     5.285,
      5.287,
-     5.282,
      5.282,
      5.283,
      5.283,
@@ -255,11 +254,12 @@
      5.282,
      5.285,
      5.283,
-     5.282
+     5.282,
+     5.28
     ]
    }
   ],
-  "as_of": "2026-10-26T10:17:00+00:00",
+  "as_of": "2026-10-26T10:20:00+00:00",
   "note": "after-hours-futures-proxy"
  },
  "strip": {
@@ -273,14 +273,14 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 101.23,
-    "pct": -1.98
+    "price": 101.26,
+    "pct": -1.95
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4030.8,
-    "pct": 0.57
+    "price": 4030.3,
+    "pct": 0.56
    },
    {
     "sym": "DXY",
@@ -303,22 +303,15 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 19.29,
-    "pct": -0.82
+    "price": 19.44,
+    "pct": -0.05
    }
   ],
-  "as_of": "2026-10-26T10:27:04.859571+00:00",
+  "as_of": "2026-10-26T10:33:05.035636+00:00",
   "tone": "risk-off",
-  "age_min": 2.964857883333333
+  "age_min": 1.9631724833333335
  },
  "stories": [
-  {
-   "topic": "Saudi / Gulf supply",
-   "title": "Saudi Aramco seeks alliances to expand its oil reserves - Inspenet",
-   "source": "Inspenet",
-   "published": "Thu, 22 Oct 2026 14:45:29 GMT",
-   "read": "unclear"
-  },
   {
    "topic": "Taiwan / China",
    "title": "How Chinese Scholars View U.S. Think Tanks on Taiwan - The East is Read",
@@ -353,6 +346,13 @@
    "source": "EnergyNow.com",
    "published": "Sun, 25 Oct 2026 08:12:54 GMT",
    "read": "unclear"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Russian President Vladimir Putin\u2019s Desperate Hunt for Ukraine War Recruits Hits Sickening New Low - The Daily Beast",
+   "source": "The Daily Beast",
+   "published": "Mon, 26 Oct 2026 10:27:58 GMT",
+   "read": "escalation"
   }
  ],
  "ratings": [],
@@ -457,29 +457,29 @@
    {
     "code": "FR",
     "name": "France",
-    "level": 4.9588,
+    "level": 4.9639,
     "as_of": "2026-10-26",
-    "spread_bp": 159.0,
-    "d_day_bps": -6.1
+    "spread_bp": 159.2,
+    "d_day_bps": -5.6
    },
    {
     "code": "DE",
     "name": "Germany",
-    "level": 3.3688,
+    "level": 3.3714,
     "as_of": "2026-10-26",
     "spread_bp": null,
-    "d_day_bps": 1.4
+    "d_day_bps": 1.7
    },
    {
     "code": "IT",
     "name": "Italy",
-    "level": 4.5722,
+    "level": 4.5704,
     "as_of": "2026-10-26",
-    "spread_bp": 120.3,
-    "d_day_bps": -1.5
+    "spread_bp": 119.9,
+    "d_day_bps": -1.6
    }
   ],
-  "bund": 3.3688,
+  "bund": 3.3714,
   "note": "10-year government bonds; spread measured over Germany"
  },
  "auctions": {
