@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-26T22:10:03+00:00",
+ "generated_utc": "2026-10-26T22:15:04+00:00",
  "date_et": "2026-10-26",
  "build": "0d463cfe05",
  "tape": [
@@ -273,20 +273,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 101.25,
-    "pct": -0.5
+    "price": 101.44,
+    "pct": -0.31
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4031.0,
-    "pct": -0.18
+    "price": 4030.0,
+    "pct": -0.21
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.004,
-    "pct": 0.19
+    "price": 102.015,
+    "pct": 0.2
    },
    {
     "sym": "SPY",
@@ -307,9 +307,9 @@
     "pct": -5.45
    }
   ],
-  "as_of": "2026-10-26T22:09:05.755137+00:00",
+  "as_of": "2026-10-26T22:12:05.194214+00:00",
   "tone": "risk-on",
-  "age_min": 0.9661128333333333
+  "age_min": 2.9832922
  },
  "stories": [
   {
@@ -317,6 +317,13 @@
    "title": "Not Just an Island: Why Geography Should Not Drive U.S. Taiwan Policy - CSIS | Center for Strategic and International Studies",
    "source": "CSIS | Center for Strategic and International Studies",
    "published": "Wed, 21 Oct 2026 16:52:37 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Opinion | Coddling Putin Won\u2019t Bring Peace to Ukraine - WSJ",
+   "source": "WSJ",
+   "published": "Sun, 25 Oct 2026 17:33:00 GMT",
    "read": "unclear"
   },
   {
@@ -345,13 +352,6 @@
    "title": "Delegations meet in Iran with Mideast region on edge over potential for renewed fighting - KTVN",
    "source": "KTVN",
    "published": "Mon, 26 Oct 2026 18:34:42 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "McConnell rips recent Trump Russia-Ukraine moves as 'certain to fail' - The Courier-Journal",
-   "source": "The Courier-Journal",
-   "published": "Mon, 26 Oct 2026 17:52:34 GMT",
    "read": "unclear"
   }
  ],
