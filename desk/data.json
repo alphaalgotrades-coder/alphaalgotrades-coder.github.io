@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-26T21:50:03+00:00",
+ "generated_utc": "2026-10-26T21:55:03+00:00",
  "date_et": "2026-10-26",
  "build": "0d463cfe05",
  "tape": [
@@ -274,18 +274,18 @@
     "sym": "CL",
     "name": "WTI crude futures",
     "price": 101.25,
-    "pct": -1.96
+    "pct": -0.5
    },
    {
     "sym": "GC",
     "name": "Gold futures",
     "price": 4031.0,
-    "pct": 0.58
+    "pct": -0.18
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.002,
+    "price": 102.001,
     "pct": 0.19
    },
    {
@@ -307,9 +307,9 @@
     "pct": -5.45
    }
   ],
-  "as_of": "2026-10-26T21:48:08.653214+00:00",
+  "as_of": "2026-10-26T21:54:05.443043+00:00",
   "tone": "risk-on",
-  "age_min": 1.9170004
+  "age_min": 0.97217365
  },
  "stories": [
   {
@@ -317,13 +317,6 @@
    "title": "Not Just an Island: Why Geography Should Not Drive U.S. Taiwan Policy - CSIS | Center for Strategic and International Studies",
    "source": "CSIS | Center for Strategic and International Studies",
    "published": "Wed, 21 Oct 2026 16:52:37 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Saudi / Gulf supply",
-   "title": "Oil inches higher, stays near six-month highs on Saudi attacks - Reuters",
-   "source": "Reuters",
-   "published": "Sun, 25 Oct 2026 23:24:00 GMT",
    "read": "unclear"
   },
   {
@@ -339,6 +332,13 @@
    "source": "Anadolu Ajans\u0131",
    "published": "Mon, 26 Oct 2026 19:35:14 GMT",
    "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Kayhan opens fire on diplomacy, warns Iran risks losing leverage - Iran International",
+   "source": "Iran International",
+   "published": "Mon, 26 Oct 2026 19:06:00 GMT",
+   "read": "unclear"
   },
   {
    "topic": "Iran / Hormuz",
