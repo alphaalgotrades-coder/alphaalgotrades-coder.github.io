@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-26T22:30:04+00:00",
+ "generated_utc": "2026-10-26T22:35:03+00:00",
  "date_et": "2026-10-26",
  "build": "0d463cfe05",
  "tape": [
@@ -273,14 +273,14 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 101.35,
-    "pct": -0.4
+    "price": 101.4,
+    "pct": -0.35
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4029.3,
-    "pct": -0.23
+    "price": 4029.5,
+    "pct": -0.22
    },
    {
     "sym": "DXY",
@@ -307,9 +307,9 @@
     "pct": -5.45
    }
   ],
-  "as_of": "2026-10-26T22:27:05.373429+00:00",
+  "as_of": "2026-10-26T22:33:05.314616+00:00",
   "tone": "risk-on",
-  "age_min": 2.9887320833333333
+  "age_min": 1.9787135166666665
  },
  "stories": [
   {
@@ -335,23 +335,23 @@
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "German defense minister says Russia not interested in peace with Ukraine - Anadolu Ajans\u0131",
-   "source": "Anadolu Ajans\u0131",
-   "published": "Mon, 26 Oct 2026 19:35:14 GMT",
-   "read": "escalation"
+   "title": "Pandering to Vladimir Putin won\u2019t bring peace to Ukraine - The Daily World",
+   "source": "The Daily World",
+   "published": "Mon, 26 Oct 2026 21:12:07 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Saudi / Gulf supply",
+   "title": "Oil Settles Lower Amid Middle East Diplomatic Efforts - WSJ",
+   "source": "WSJ",
+   "published": "Mon, 26 Oct 2026 19:57:00 GMT",
+   "read": "unclear"
   },
   {
    "topic": "Iran / Hormuz",
    "title": "Kayhan opens fire on diplomacy, warns Iran risks losing leverage - Iran International",
    "source": "Iran International",
    "published": "Mon, 26 Oct 2026 19:06:00 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Delegations meet in Iran with Mideast region on edge over potential for renewed fighting - KTVN",
-   "source": "KTVN",
-   "published": "Mon, 26 Oct 2026 18:34:42 GMT",
    "read": "unclear"
   }
  ],
