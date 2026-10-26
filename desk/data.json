@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-26T09:50:02+00:00",
+ "generated_utc": "2026-10-26T09:55:02+00:00",
  "date_et": "2026-10-26",
  "build": "0d463cfe05",
  "tape": [
@@ -273,19 +273,19 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 101.1,
-    "pct": -2.1
+    "price": 101.11,
+    "pct": -2.09
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4031.6,
-    "pct": 0.59
+    "price": 4033.1,
+    "pct": 0.63
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.783,
+    "price": 101.775,
     "pct": -0.03
    },
    {
@@ -303,56 +303,56 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 19.24,
-    "pct": -1.08
+    "price": 19.25,
+    "pct": -1.03
    }
   ],
-  "as_of": "2026-10-26T09:48:05.271271+00:00",
+  "as_of": "2026-10-26T09:54:05.436295+00:00",
   "tone": "risk-off",
-  "age_min": 1.9509460333333335
+  "age_min": 0.9522912166666667
  },
  "stories": [
   {
-   "topic": "Taiwan / China",
-   "title": "Taiwan admits paying for retired US general to observe largest annual war games - South China Morning Post",
-   "source": "South China Morning Post",
-   "published": "Wed, 21 Oct 2026 01:30:08 GMT",
-   "read": "escalation"
-  },
-  {
    "topic": "Saudi / Gulf supply",
-   "title": "Oil prices jumped after new Houthi strikes on Saudi Arabia - KTVN",
-   "source": "KTVN",
-   "published": "Thu, 22 Oct 2026 23:43:00 GMT",
-   "read": "escalation"
+   "title": "Saudi Aramco seeks alliances to expand its oil reserves - Inspenet",
+   "source": "Inspenet",
+   "published": "Thu, 22 Oct 2026 14:45:29 GMT",
+   "read": "unclear"
   },
   {
-   "topic": "Iran / Hormuz",
-   "title": "Iran says 7 oil tankers attacked in the Strait of Hormuz as fears of a return to war grow - NBC News",
-   "source": "NBC News",
-   "published": "Thu, 22 Oct 2026 21:33:09 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran says it has never left negotiating table, accuses US of imposing unilateral demands - Anadolu Ajans\u0131",
-   "source": "Anadolu Ajans\u0131",
-   "published": "Sun, 25 Oct 2026 19:44:56 GMT",
+   "topic": "Russia / Ukraine",
+   "title": "Zelenskyy: Trilateral talks with US and Russia set for November - Euronews.com",
+   "source": "Euronews.com",
+   "published": "Sun, 25 Oct 2026 21:26:06 GMT",
    "read": "unclear"
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "More than 95% of ships navigate Strait of Hormuz safely despite Iranian 'aggression,' US military says - Anadolu Ajans\u0131",
-   "source": "Anadolu Ajans\u0131",
-   "published": "Sun, 25 Oct 2026 19:13:58 GMT",
+   "title": "Trump rules out Iran strike Sunday as tensions mount across Middle East - Ynetnews",
+   "source": "Ynetnews",
+   "published": "Sun, 25 Oct 2026 19:39:24 GMT",
+   "read": "de-escalation"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Russia hopes to weaken Nato with Ukraine peace talks - The Telegraph",
+   "source": "The Telegraph",
+   "published": "Sun, 25 Oct 2026 18:30:00 GMT",
+   "read": "de-escalation"
+  },
+  {
+   "topic": "Taiwan / China",
+   "title": "How Chinese Scholars View U.S. Think Tanks on Taiwan - The East is Read",
+   "source": "The East is Read",
+   "published": "Sun, 25 Oct 2026 17:08:47 GMT",
    "read": "unclear"
   },
   {
-   "topic": "Iran / Hormuz",
-   "title": "Iran\u2019s army says it struck US drone - NewsNation",
-   "source": "NewsNation",
-   "published": "Sun, 25 Oct 2026 16:11:12 GMT",
-   "read": "escalation"
+   "topic": "Russia / Ukraine",
+   "title": "On GPS: Is President Trump Abandoning Ukraine? - CNN",
+   "source": "CNN",
+   "published": "Sun, 25 Oct 2026 15:59:27 GMT",
+   "read": "unclear"
   }
  ],
  "ratings": [],
