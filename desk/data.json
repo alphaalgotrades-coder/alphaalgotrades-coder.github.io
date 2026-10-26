@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-26T23:30:04+00:00",
+ "generated_utc": "2026-10-26T23:35:03+00:00",
  "date_et": "2026-10-26",
  "build": "0d463cfe05",
  "tape": [
@@ -273,14 +273,14 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 101.38,
-    "pct": -0.37
+    "price": 101.4,
+    "pct": -0.35
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4025.3,
-    "pct": -0.32
+    "price": 4024.5,
+    "pct": -0.34
    },
    {
     "sym": "DXY",
@@ -307,9 +307,9 @@
     "pct": -5.45
    }
   ],
-  "as_of": "2026-10-26T23:27:05.403948+00:00",
+  "as_of": "2026-10-26T23:33:05.235355+00:00",
   "tone": "risk-on",
-  "age_min": 2.9831455166666667
+  "age_min": 1.9770108499999999
  },
  "stories": [
   {
@@ -342,16 +342,16 @@
   },
   {
    "topic": "Saudi / Gulf supply",
-   "title": "Oil Settles Lower Amid Middle East Diplomatic Efforts - WSJ",
-   "source": "WSJ",
-   "published": "Mon, 26 Oct 2026 19:57:00 GMT",
+   "title": "Saudi Aramco to store crude at Singapore's Jurong Rock Caverns from 2027 under energy security pact - Pipeline and Gas Journal",
+   "source": "Pipeline and Gas Journal",
+   "published": "Mon, 26 Oct 2026 20:51:38 GMT",
    "read": "unclear"
   },
   {
-   "topic": "Iran / Hormuz",
-   "title": "Kayhan opens fire on diplomacy, warns Iran risks losing leverage - Iran International",
-   "source": "Iran International",
-   "published": "Mon, 26 Oct 2026 19:06:00 GMT",
+   "topic": "Saudi / Gulf supply",
+   "title": "Oil Settles Lower Amid Middle East Diplomatic Efforts - WSJ",
+   "source": "WSJ",
+   "published": "Mon, 26 Oct 2026 19:57:00 GMT",
    "read": "unclear"
   }
  ],
