@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-26T10:10:02+00:00",
+ "generated_utc": "2026-10-26T10:15:02+00:00",
  "date_et": "2026-10-26",
  "build": "0d463cfe05",
  "tape": [
@@ -49,7 +49,7 @@
     "lean": "hawkish",
     "source": "YAHOO_TSY_FUT_ZT",
     "latency": "after-hours-futures-proxy",
-    "snapshot_ts": "2026-10-26T09:57:00+00:00",
+    "snapshot_ts": "2026-10-26T10:01:00+00:00",
     "snapshot_date": "2026-10-26",
     "prior_day": "2026-10-22",
     "prior_day_close": 4.65,
@@ -60,30 +60,29 @@
      4.634,
      4.632,
      4.634,
-     4.632,
-     4.632,
+     4.634,
+     4.634,
      4.634,
      4.636,
      4.636,
      4.638,
-     4.636,
      4.634,
      4.636,
      4.632,
-     4.636,
-     4.636,
-     4.636,
      4.634,
+     4.636,
+     4.636,
+     4.636,
+     4.636,
+     4.642,
      4.64,
-     4.642,
-     4.642,
      4.646,
      4.65,
      4.652,
+     4.654,
+     4.658,
      4.656,
      4.658,
-     4.658,
-     4.658,
      4.66,
      4.664,
      4.664,
@@ -93,7 +92,8 @@
      4.66,
      4.66,
      4.66,
-     4.662
+     4.662,
+     4.666
     ]
    },
    {
@@ -103,7 +103,7 @@
     "lean": "flat",
     "source": "YAHOO_TSY_FUT_ZF",
     "latency": "after-hours-futures-proxy",
-    "snapshot_ts": "2026-10-26T09:57:00+00:00",
+    "snapshot_ts": "2026-10-26T10:01:00+00:00",
     "snapshot_date": "2026-10-26",
     "prior_day": "2026-10-22",
     "prior_day_close": 4.768,
@@ -117,47 +117,47 @@
      4.751,
      4.751,
      4.751,
-     4.751,
+     4.754,
      4.752,
      4.754,
      4.752,
      4.751,
      4.754,
+     4.751,
+     4.751,
      4.752,
-     4.749,
      4.752,
-     4.752,
-     4.754,
      4.752,
      4.758,
      4.759,
-     4.759,
-     4.761,
-     4.773,
-     4.773,
+     4.758,
+     4.763,
+     4.766,
+     4.771,
      4.775,
      4.777,
      4.773,
      4.773,
      4.778,
      4.78,
-     4.777,
+     4.78,
      4.777,
      4.778,
      4.777,
      4.777,
      4.777,
-     4.777
+     4.777,
+     4.782
     ]
    },
    {
     "series": "10Y",
-    "level": 4.958,
-    "d_day_bps": 0.5,
+    "level": 4.96,
+    "d_day_bps": 0.7,
     "lean": "flat",
     "source": "YAHOO_TSY_FUT_ZN",
     "latency": "after-hours-futures-proxy",
-    "snapshot_ts": "2026-10-26T09:57:00+00:00",
+    "snapshot_ts": "2026-10-26T10:01:00+00:00",
     "snapshot_date": "2026-10-26",
     "prior_day": "2026-10-22",
     "prior_day_close": 4.953,
@@ -170,24 +170,23 @@
      4.933,
      4.935,
      4.935,
-     4.935,
-     4.935,
-     4.937,
-     4.937,
-     4.935,
-     4.935,
-     4.937,
-     4.935,
-     4.935,
-     4.937,
-     4.937,
+     4.933,
      4.939,
-     4.939,
+     4.937,
+     4.937,
+     4.935,
+     4.935,
+     4.937,
+     4.935,
+     4.937,
+     4.937,
+     4.937,
+     4.937,
      4.942,
      4.942,
      4.942,
-     4.944,
-     4.958,
+     4.948,
+     4.948,
      4.958,
      4.96,
      4.96,
@@ -195,23 +194,24 @@
      4.955,
      4.96,
      4.962,
-     4.96,
+     4.962,
      4.96,
      4.96,
      4.96,
      4.96,
      4.958,
-     4.958
+     4.958,
+     4.964
     ]
    },
    {
     "series": "30Y",
-    "level": 5.283,
-    "d_day_bps": -0.4,
+    "level": 5.282,
+    "d_day_bps": -0.5,
     "lean": "flat",
     "source": "YAHOO_TSY_FUT_ZB",
     "latency": "after-hours-futures-proxy",
-    "snapshot_ts": "2026-10-26T09:58:00+00:00",
+    "snapshot_ts": "2026-10-26T10:01:00+00:00",
     "snapshot_date": "2026-10-26",
     "prior_day": "2026-10-22",
     "prior_day_close": 5.287,
@@ -223,43 +223,43 @@
      5.271,
      5.271,
      5.271,
-     5.272,
      5.271,
      5.271,
      5.272,
+     5.271,
      5.271,
      5.272,
      5.269,
-     5.272,
+     5.274,
      5.271,
-     5.269,
-     5.272,
-     5.272,
+     5.271,
      5.272,
      5.274,
+     5.271,
      5.276,
      5.276,
      5.276,
-     5.274,
+     5.278,
+     5.278,
      5.285,
-     5.283,
      5.285,
      5.287,
      5.282,
      5.282,
      5.283,
-     5.285,
      5.283,
+     5.285,
      5.283,
      5.282,
      5.283,
      5.282,
      5.28,
-     5.282
+     5.282,
+     5.285
     ]
    }
   ],
-  "as_of": "2026-10-26T09:57:00+00:00",
+  "as_of": "2026-10-26T10:01:00+00:00",
   "note": "after-hours-futures-proxy"
  },
  "strip": {
@@ -273,20 +273,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 101.2,
-    "pct": -2.0
+    "price": 101.55,
+    "pct": -1.67
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4031.1,
-    "pct": 0.58
+    "price": 4029.0,
+    "pct": 0.53
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.829,
-    "pct": 0.02
+    "price": 101.822,
+    "pct": 0.01
    },
    {
     "sym": "SPY",
@@ -303,13 +303,13 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 19.19,
-    "pct": -1.34
+    "price": 19.18,
+    "pct": -1.39
    }
   ],
-  "as_of": "2026-10-26T10:09:05.551766+00:00",
+  "as_of": "2026-10-26T10:12:05.384464+00:00",
   "tone": "risk-off",
-  "age_min": 0.9502875
+  "age_min": 2.950434233333333
  },
  "stories": [
   {
@@ -318,27 +318,6 @@
    "source": "Inspenet",
    "published": "Thu, 22 Oct 2026 14:45:29 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Zelenskyy: Trilateral talks with US and Russia set for November - Euronews.com",
-   "source": "Euronews.com",
-   "published": "Sun, 25 Oct 2026 21:26:06 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Trump rules out Iran strike Sunday as tensions mount across Middle East - Ynetnews",
-   "source": "Ynetnews",
-   "published": "Sun, 25 Oct 2026 19:39:24 GMT",
-   "read": "de-escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Russia hopes to weaken Nato with Ukraine peace talks - The Telegraph",
-   "source": "The Telegraph",
-   "published": "Sun, 25 Oct 2026 18:30:00 GMT",
-   "read": "de-escalation"
   },
   {
    "topic": "Taiwan / China",
@@ -352,6 +331,27 @@
    "title": "On GPS: Is President Trump Abandoning Ukraine? - CNN",
    "source": "CNN",
    "published": "Sun, 25 Oct 2026 15:59:27 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Taiwan / China",
+   "title": "Beijing pledges to back Taiwan\u2019s pro-unification \u2018patriots\u2019 on key anniversary - South China Morning Post",
+   "source": "South China Morning Post",
+   "published": "Sun, 25 Oct 2026 11:37:06 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Taiwan / China",
+   "title": "Why the U.S. Should Rethink a Freeze on Taiwan Arms Sales - National Review",
+   "source": "National Review",
+   "published": "Sun, 25 Oct 2026 10:30:09 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Saudi / Gulf supply",
+   "title": "Saudi June Crude Exports Climb From Record May Low, Data Shows - EnergyNow.com",
+   "source": "EnergyNow.com",
+   "published": "Sun, 25 Oct 2026 08:12:54 GMT",
    "read": "unclear"
   }
  ],
@@ -457,29 +457,29 @@
    {
     "code": "FR",
     "name": "France",
-    "level": 4.9529,
+    "level": 4.9474,
     "as_of": "2026-10-26",
-    "spread_bp": 157.9,
-    "d_day_bps": -6.7
+    "spread_bp": 158.2,
+    "d_day_bps": -7.2
    },
    {
     "code": "DE",
     "name": "Germany",
-    "level": 3.374,
+    "level": 3.3658,
     "as_of": "2026-10-26",
     "spread_bp": null,
-    "d_day_bps": 2.0
+    "d_day_bps": 1.1
    },
    {
     "code": "IT",
     "name": "Italy",
-    "level": 4.5606,
+    "level": 4.5555,
     "as_of": "2026-10-26",
-    "spread_bp": 118.7,
-    "d_day_bps": -2.6
+    "spread_bp": 119.0,
+    "d_day_bps": -3.1
    }
   ],
-  "bund": 3.374,
+  "bund": 3.3658,
   "note": "10-year government bonds; spread measured over Germany"
  },
  "auctions": {
