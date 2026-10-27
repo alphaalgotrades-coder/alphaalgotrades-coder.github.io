@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-27T09:10:04+00:00",
+ "generated_utc": "2026-10-27T09:15:04+00:00",
  "date_et": "2026-10-27",
  "build": "0d463cfe05",
  "tape": [
@@ -28,7 +28,7 @@
    "title": "M3 Money Supply y/y",
    "cons": "3.5%",
    "prev": "3.5%",
-   "actual": ""
+   "actual": "3.5%"
   },
   {
    "time": "05:00",
@@ -37,7 +37,7 @@
    "title": "Private Loans y/y",
    "cons": "3.1%",
    "prev": "3.1%",
-   "actual": ""
+   "actual": "3.1%"
   },
   {
    "time": "08:15",
@@ -417,20 +417,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 102.32,
-    "pct": 0.55
+    "price": 102.36,
+    "pct": 0.59
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4005.9,
-    "pct": -0.8
+    "price": 4007.9,
+    "pct": -0.76
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.152,
-    "pct": 0.19
+    "price": 102.168,
+    "pct": 0.2
    },
    {
     "sym": "SPY",
@@ -447,13 +447,13 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 18.43,
-    "pct": 0.22
+    "price": 18.4,
+    "pct": 0.05
    }
   ],
-  "as_of": "2026-10-27T09:09:05.197461+00:00",
+  "as_of": "2026-10-27T09:12:05.260811+00:00",
   "tone": "risk-on",
-  "age_min": 0.98795645
+  "age_min": 2.982316
  },
  "stories": [
   {
