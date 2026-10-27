@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-27T03:50:02+00:00",
+ "generated_utc": "2026-10-27T03:55:02+00:00",
  "date_et": "2026-10-26",
  "build": "0d463cfe05",
  "tape": [
@@ -273,20 +273,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 100.99,
-    "pct": -0.76
+    "price": 101.0,
+    "pct": -0.75
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4029.9,
-    "pct": -0.21
+    "price": 4032.8,
+    "pct": -0.14
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.04,
-    "pct": 0.08
+    "price": 102.023,
+    "pct": 0.06
    },
    {
     "sym": "SPY",
@@ -307,11 +307,18 @@
     "pct": -5.45
    }
   ],
-  "as_of": "2026-10-27T03:48:14.346121+00:00",
+  "as_of": "2026-10-27T03:54:05.607655+00:00",
   "tone": "risk-on",
-  "age_min": 1.8028047333333332
+  "age_min": 0.9574606333333333
  },
  "stories": [
+  {
+   "topic": "Taiwan / China",
+   "title": "Taiwan rebuffs China\u2019s commemorations for post-World War Two \u2018restoration\u2019 of island - Internazionale",
+   "source": "Internazionale",
+   "published": "Tue, 27 Oct 2026 03:42:14 GMT",
+   "read": "escalation"
+  },
   {
    "topic": "Iran / Hormuz",
    "title": "Report: US prepared for fresh Iran strikes after midterms - chinadailyhk",
@@ -346,13 +353,6 @@
    "source": "UA.NEWS",
    "published": "Tue, 27 Oct 2026 00:50:55 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "This Oil Tanker Tycoon's WhatsApp Messages Drive Big Market Moves - Bloomberg.com",
-   "source": "Bloomberg.com",
-   "published": "Tue, 27 Oct 2026 00:01:00 GMT",
-   "read": "unclear"
   }
  ],
  "ratings": [],
