@@ -1,12 +1,12 @@
 {
- "generated_utc": "2026-10-27T15:05:04.470637+00:00",
+ "generated_utc": "2026-10-27T16:05:04.638076+00:00",
  "paper": true,
  "strategy": "the wheel (cash-secured puts -> covered calls)",
  "since": "2026-07-13",
- "trading_days": 54,
+ "trading_days": 55,
  "green_days": 28,
  "red_days": 2,
- "total_fills": 157,
+ "total_fills": 159,
  "symbols_traded": 23,
  "cumulative_realized": 8973.89,
  "days": [
@@ -387,20 +387,27 @@
    "realized": 0.0,
    "commission": 0.0,
    "cumulative": 8973.89
+  },
+  {
+   "date": "2026-10-27",
+   "fills": 2,
+   "realized": 0.0,
+   "commission": 0.0,
+   "cumulative": 8973.89
   }
  ],
  "open_legs": [
   {
-   "instrument": "AS 10/30 C30",
-   "raw": "AS261030C00030000",
+   "instrument": "AS 11/13 C30",
+   "raw": "AS261113C00030000",
    "strategy": "HT_WHEEL",
    "side": "short 6",
    "broker": true,
    "db": true,
    "engine": true,
    "agree": true,
-   "entry": 0.35,
-   "upnl": 30.0,
+   "entry": 0.4,
+   "upnl": -90.0,
    "lane": "OPTIONS"
   },
   {
@@ -413,7 +420,7 @@
    "engine": true,
    "agree": true,
    "entry": 32.5,
-   "upnl": -1221.0,
+   "upnl": -1176.0,
    "lane": "OPTIONS"
   },
   {
@@ -426,7 +433,7 @@
    "engine": true,
    "agree": true,
    "entry": 0.95,
-   "upnl": -190.0,
+   "upnl": -140.0,
    "lane": "OPTIONS"
   },
   {
@@ -439,7 +446,7 @@
    "engine": true,
    "agree": true,
    "entry": 1.05,
-   "upnl": -10.0,
+   "upnl": 30.0,
    "lane": "OPTIONS"
   },
   {
@@ -452,7 +459,7 @@
    "engine": true,
    "agree": true,
    "entry": 70.0,
-   "upnl": -1823.0,
+   "upnl": -1693.0,
    "lane": "OPTIONS"
   },
   {
@@ -504,11 +511,11 @@
    "engine": true,
    "agree": true,
    "entry": 35.0,
-   "upnl": -206.0,
+   "upnl": -152.0,
    "lane": "OPTIONS"
   }
  ],
- "open_upnl": -3345.0,
+ "open_upnl": -3146.0,
  "reconciliation": "9/9 open legs reconciled against the broker statement and our own database",
  "stats": {
   "closed_trades": 44,
@@ -517,19 +524,19 @@
   "avg_loss": -197.83,
   "profit_factor": 8.56,
   "expectancy": 203.95,
-  "sharpe_daily_ann": 5.89,
+  "sharpe_daily_ann": 5.83,
   "capital_at_risk": 68550.0,
   "period_return_pct": 13.09,
-  "ann_pace_pct": 46.8,
-  "elapsed_days": 102
+  "ann_pace_pct": 44.7,
+  "elapsed_days": 107
  },
  "assigned": [
   {
    "symbol": "AS",
    "shares": 600,
    "entry": 31.25,
-   "basis": 29.65,
-   "reduced_pct": 5.1
+   "basis": 29.35,
+   "reduced_pct": 6.1
   },
   {
    "symbol": "BLDR",
