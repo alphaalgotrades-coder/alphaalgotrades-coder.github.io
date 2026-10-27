@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-27T22:50:03+00:00",
+ "generated_utc": "2026-10-27T22:55:03+00:00",
  "date_et": "2026-10-27",
  "build": "0d463cfe05",
  "tape": [
@@ -417,20 +417,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 99.98,
-    "pct": 0.08
+    "price": 99.87,
+    "pct": -0.03
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4075.2,
-    "pct": 0.01
+    "price": 4077.0,
+    "pct": 0.06
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
     "price": 102.365,
-    "pct": 0.4
+    "pct": 0.04
    },
    {
     "sym": "SPY",
@@ -451,9 +451,9 @@
     "pct": -4.73
    }
   ],
-  "as_of": "2026-10-27T22:48:05.073823+00:00",
+  "as_of": "2026-10-27T22:54:05.245602+00:00",
   "tone": "risk-on",
-  "age_min": 1.97366175
+  "age_min": 0.9729552333333333
  },
  "stories": [
   {
@@ -492,11 +492,11 @@
    "read": "unclear"
   },
   {
-   "topic": "Iran / Hormuz",
-   "title": "America\u2019s Military Presence Reshapes Hormuz - Foundation for Defense of Democracies",
-   "source": "Foundation for Defense of Democracies",
-   "published": "Tue, 27 Oct 2026 18:54:03 GMT",
-   "read": "unclear"
+   "topic": "Russia / Ukraine",
+   "title": "Putin Insists on Moscow for Zelensky Meeting as Kyiv Seeks Neutral Venue - Kyiv Post",
+   "source": "Kyiv Post",
+   "published": "Tue, 27 Oct 2026 18:57:24 GMT",
+   "read": "escalation"
   }
  ],
  "ratings": [],
