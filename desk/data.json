@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-27T02:50:02+00:00",
+ "generated_utc": "2026-10-27T02:55:02+00:00",
  "date_et": "2026-10-26",
  "build": "0d463cfe05",
  "tape": [
@@ -273,20 +273,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 100.81,
-    "pct": -0.93
+    "price": 100.85,
+    "pct": -0.89
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4029.4,
-    "pct": -0.22
+    "price": 4025.5,
+    "pct": -0.32
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.023,
-    "pct": 0.06
+    "price": 102.044,
+    "pct": 0.08
    },
    {
     "sym": "SPY",
@@ -307,11 +307,18 @@
     "pct": -5.45
    }
   ],
-  "as_of": "2026-10-27T02:48:05.260395+00:00",
+  "as_of": "2026-10-27T02:54:05.112035+00:00",
   "tone": "risk-on",
-  "age_min": 1.96016135
+  "age_min": 0.9614456333333333
  },
  "stories": [
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Report: US prepared for fresh Iran strikes after midterms - chinadailyhk",
+   "source": "chinadailyhk",
+   "published": "Tue, 27 Oct 2026 02:37:49 GMT",
+   "read": "escalation"
+  },
   {
    "topic": "Taiwan / China",
    "title": "Taiwan tracks 12 Chinese ships, 3 military aircraft - Taiwan News",
@@ -343,13 +350,6 @@
   {
    "topic": "Iran / Hormuz",
    "title": "This Oil Tanker Tycoon's WhatsApp Messages Drive Big Market Moves - Bloomberg.com",
-   "source": "Bloomberg.com",
-   "published": "Tue, 27 Oct 2026 00:01:00 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "The Tanker Tycoon's WhatsApps Driving a Disputed Oil Benchmark - Bloomberg.com",
    "source": "Bloomberg.com",
    "published": "Tue, 27 Oct 2026 00:01:00 GMT",
    "read": "unclear"
