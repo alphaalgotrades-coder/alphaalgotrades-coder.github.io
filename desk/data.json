@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-27T01:10:02+00:00",
+ "generated_utc": "2026-10-27T01:15:02+00:00",
  "date_et": "2026-10-26",
  "build": "0d463cfe05",
  "tape": [
@@ -273,20 +273,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 101.04,
-    "pct": -0.71
+    "price": 100.98,
+    "pct": -0.77
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4022.5,
-    "pct": -0.39
+    "price": 4021.0,
+    "pct": -0.43
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.032,
-    "pct": 0.07
+    "price": 102.048,
+    "pct": 0.09
    },
    {
     "sym": "SPY",
@@ -307,9 +307,9 @@
     "pct": -5.45
    }
   ],
-  "as_of": "2026-10-27T01:09:06.264719+00:00",
+  "as_of": "2026-10-27T01:12:06.344762+00:00",
   "tone": "risk-on",
-  "age_min": 0.9329000666666667
+  "age_min": 2.935093
  },
  "stories": [
   {
@@ -318,6 +318,20 @@
    "source": "CSIS | Center for Strategic and International Studies",
    "published": "Wed, 21 Oct 2026 16:52:37 GMT",
    "read": "unclear"
+  },
+  {
+   "topic": "Taiwan / China",
+   "title": "Taiwan looks to autonomous swarms to counter Beijing\u2019s grey-zone pressure - South China Morning Post",
+   "source": "South China Morning Post",
+   "published": "Tue, 27 Oct 2026 01:00:10 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Taiwan / China",
+   "title": "China shows footage of missile launch without warning military \u2014 South China Morning Post - UA.NEWS",
+   "source": "UA.NEWS",
+   "published": "Tue, 27 Oct 2026 00:50:55 GMT",
+   "read": "escalation"
   },
   {
    "topic": "Iran / Hormuz",
@@ -334,24 +348,10 @@
    "read": "unclear"
   },
   {
-   "topic": "Taiwan / China",
-   "title": "Keen Sword 27: China shadows biggest Japan\u2013US military drills near Taiwan - DD News",
-   "source": "DD News",
-   "published": "Sun, 25 Oct 2026 05:45:26 GMT",
-   "read": "escalation"
-  },
-  {
    "topic": "Russia / Ukraine",
-   "title": "Pandering to Vladimir Putin won\u2019t bring peace to Ukraine - The Daily World",
-   "source": "The Daily World",
-   "published": "Mon, 26 Oct 2026 21:12:07 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Saudi / Gulf supply",
-   "title": "Saudi Aramco to store crude at Singapore's Jurong Rock Caverns from 2027 under energy security pact - Pipeline and Gas Journal",
-   "source": "Pipeline and Gas Journal",
-   "published": "Mon, 26 Oct 2026 20:51:38 GMT",
+   "title": "Opinion | Elon Musk, Starlink and Vladimir Putin - WSJ",
+   "source": "WSJ",
+   "published": "Mon, 26 Oct 2026 21:41:00 GMT",
    "read": "unclear"
   }
  ],
