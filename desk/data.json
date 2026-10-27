@@ -1,43 +1,187 @@
 {
- "generated_utc": "2026-10-27T03:55:02+00:00",
- "date_et": "2026-10-26",
+ "generated_utc": "2026-10-27T04:00:04+00:00",
+ "date_et": "2026-10-27",
  "build": "0d463cfe05",
  "tape": [
+  {
+   "time": "01:00",
+   "ccy": "JPY",
+   "impact": "Low",
+   "title": "BOJ Core CPI y/y",
+   "cons": "1.9%",
+   "prev": "1.8%",
+   "actual": ""
+  },
+  {
+   "time": "04:00",
+   "ccy": "EUR",
+   "impact": "Low",
+   "title": "Spanish Unemployment Rate",
+   "cons": "9.9%",
+   "prev": "9.9%",
+   "actual": ""
+  },
   {
    "time": "05:00",
    "ccy": "EUR",
    "impact": "Low",
-   "title": "German ifo Business Climate",
-   "cons": "90.0",
-   "prev": "89.9",
-   "actual": "90.2"
+   "title": "M3 Money Supply y/y",
+   "cons": "3.5%",
+   "prev": "3.5%",
+   "actual": ""
   },
   {
-   "time": "07:00",
-   "ccy": "GBP",
+   "time": "05:00",
+   "ccy": "EUR",
    "impact": "Low",
-   "title": "CBI Realized Sales",
-   "cons": "-47",
-   "prev": "-55",
-   "actual": "-10"
+   "title": "Private Loans y/y",
+   "cons": "3.1%",
+   "prev": "3.1%",
+   "actual": ""
   },
   {
-   "time": "19:50",
-   "ccy": "JPY",
+   "time": "08:15",
+   "ccy": "USD",
    "impact": "Low",
-   "title": "SPPI y/y",
-   "cons": "3.7%",
-   "prev": "3.7%",
-   "actual": "3.7%"
+   "title": "ADP Weekly Employment Change",
+   "cons": "",
+   "prev": "18.5K",
+   "actual": ""
   },
   {
-   "time": "20:01",
-   "ccy": "GBP",
+   "time": "08:30",
+   "ccy": "USD",
    "impact": "Low",
-   "title": "BRC Shop Price Index y/y",
-   "cons": "1.6%",
-   "prev": "1.4%",
-   "actual": "2.1%"
+   "title": "Core Durable Goods Orders m/m",
+   "cons": "0.6%",
+   "prev": "0.3%",
+   "actual": ""
+  },
+  {
+   "time": "08:30",
+   "ccy": "USD",
+   "impact": "Low",
+   "title": "Durable Goods Orders m/m",
+   "cons": "2.0%",
+   "prev": "0.0%",
+   "actual": ""
+  },
+  {
+   "time": "09:00",
+   "ccy": "USD",
+   "impact": "Low",
+   "title": "HPI m/m",
+   "cons": "0.2%",
+   "prev": "0.3%",
+   "actual": ""
+  },
+  {
+   "time": "09:00",
+   "ccy": "USD",
+   "impact": "Low",
+   "title": "S&P/CS Composite-20 HPI y/y",
+   "cons": "2.6%",
+   "prev": "2.5%",
+   "actual": ""
+  },
+  {
+   "time": "10:00",
+   "ccy": "USD",
+   "impact": "Medi",
+   "title": "CB Consumer Confidence",
+   "cons": "81.2",
+   "prev": "81.9",
+   "actual": ""
+  },
+  {
+   "time": "10:00",
+   "ccy": "USD",
+   "impact": "Low",
+   "title": "New Home Sales",
+   "cons": "651K",
+   "prev": "684K",
+   "actual": ""
+  },
+  {
+   "time": "10:00",
+   "ccy": "USD",
+   "impact": "Low",
+   "title": "Richmond Manufacturing Index",
+   "cons": "0",
+   "prev": "-2",
+   "actual": ""
+  },
+  {
+   "time": "16:30",
+   "ccy": "USD",
+   "impact": "Low",
+   "title": "API Weekly Statistical Bulletin",
+   "cons": "",
+   "prev": "",
+   "actual": ""
+  },
+  {
+   "time": "20:15",
+   "ccy": "AUD",
+   "impact": "Medi",
+   "title": "RBA Gov Bullock Speaks",
+   "cons": "",
+   "prev": "",
+   "actual": ""
+  },
+  {
+   "time": "20:30",
+   "ccy": "AUD",
+   "impact": "High",
+   "title": "CPI m/m",
+   "cons": "0.7%",
+   "prev": "0.4%",
+   "actual": ""
+  },
+  {
+   "time": "20:30",
+   "ccy": "AUD",
+   "impact": "High",
+   "title": "CPI y/y",
+   "cons": "4.2%",
+   "prev": "4.0%",
+   "actual": ""
+  },
+  {
+   "time": "20:30",
+   "ccy": "AUD",
+   "impact": "High",
+   "title": "Trimmed Mean CPI m/m",
+   "cons": "0.3%",
+   "prev": "0.2%",
+   "actual": ""
+  },
+  {
+   "time": "21:00",
+   "ccy": "NZD",
+   "impact": "High",
+   "title": "Official Cash Rate",
+   "cons": "3.00%",
+   "prev": "2.75%",
+   "actual": ""
+  },
+  {
+   "time": "21:00",
+   "ccy": "NZD",
+   "impact": "High",
+   "title": "RBNZ Rate Statement",
+   "cons": "",
+   "prev": "",
+   "actual": ""
+  },
+  {
+   "time": "22:00",
+   "ccy": "NZD",
+   "impact": "High",
+   "title": "RBNZ Press Conference",
+   "cons": "",
+   "prev": "",
+   "actual": ""
   }
  ],
  "rates": {
@@ -273,19 +417,19 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 101.0,
-    "pct": -0.75
+    "price": 100.97,
+    "pct": -0.78
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4032.8,
-    "pct": -0.14
+    "price": 4031.2,
+    "pct": -0.18
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.023,
+    "price": 102.025,
     "pct": 0.06
    },
    {
@@ -307,9 +451,9 @@
     "pct": -5.45
    }
   ],
-  "as_of": "2026-10-27T03:54:05.607655+00:00",
+  "as_of": "2026-10-27T03:57:05.756314+00:00",
   "tone": "risk-on",
-  "age_min": 0.9574606333333333
+  "age_min": 2.9738155333333336
  },
  "stories": [
   {
