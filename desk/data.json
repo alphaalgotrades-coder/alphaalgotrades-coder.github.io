@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-27T23:30:03+00:00",
+ "generated_utc": "2026-10-27T23:35:03+00:00",
  "date_et": "2026-10-27",
  "build": "0d463cfe05",
  "tape": [
@@ -417,14 +417,14 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 99.89,
-    "pct": -0.01
+    "price": 99.92,
+    "pct": 0.02
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4075.7,
-    "pct": 0.03
+    "price": 4074.1,
+    "pct": -0.01
    },
    {
     "sym": "DXY",
@@ -451,9 +451,9 @@
     "pct": -4.73
    }
   ],
-  "as_of": "2026-10-27T23:27:05.643219+00:00",
+  "as_of": "2026-10-27T23:33:05.982223+00:00",
   "tone": "risk-on",
-  "age_min": 2.9641648
+  "age_min": 1.9655951833333334
  },
  "stories": [
   {
@@ -469,13 +469,6 @@
    "source": "Al Jazeera",
    "published": "Tue, 27 Oct 2026 21:11:15 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "European infrastructure is vulnerable as Putin escalates Russia\u2019s hybrid war - Atlantic Council",
-   "source": "Atlantic Council",
-   "published": "Tue, 27 Oct 2026 20:29:16 GMT",
-   "read": "escalation"
   },
   {
    "topic": "Iran / Hormuz",
@@ -497,6 +490,13 @@
    "source": "Kyiv Post",
    "published": "Tue, 27 Oct 2026 18:57:24 GMT",
    "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "America\u2019s Military Presence Reshapes Hormuz - Foundation for Defense of Democracies",
+   "source": "Foundation for Defense of Democracies",
+   "published": "Tue, 27 Oct 2026 18:54:03 GMT",
+   "read": "unclear"
   }
  ],
  "ratings": [],
