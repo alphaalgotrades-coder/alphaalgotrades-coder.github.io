@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-27T04:10:02+00:00",
+ "generated_utc": "2026-10-27T04:15:03+00:00",
  "date_et": "2026-10-27",
  "build": "0d463cfe05",
  "tape": [
@@ -417,20 +417,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 100.79,
-    "pct": -0.95
+    "price": 100.85,
+    "pct": -0.89
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4029.6,
-    "pct": -0.22
+    "price": 4030.0,
+    "pct": -0.21
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.035,
-    "pct": 0.07
+    "price": 102.039,
+    "pct": 0.08
    },
    {
     "sym": "SPY",
@@ -451,11 +451,18 @@
     "pct": -5.45
    }
   ],
-  "as_of": "2026-10-27T04:09:05.844188+00:00",
+  "as_of": "2026-10-27T04:12:05.635763+00:00",
   "tone": "risk-on",
-  "age_min": 0.9493044166666667
+  "age_min": 2.9684263
  },
  "stories": [
+  {
+   "topic": "Taiwan / China",
+   "title": "Taiwan rebuffs China's commemorations for post-World War Two 'restoration' of island - The Straits Times",
+   "source": "The Straits Times",
+   "published": "Tue, 27 Oct 2026 03:50:00 GMT",
+   "read": "escalation"
+  },
   {
    "topic": "Taiwan / China",
    "title": "Taiwan rebuffs China\u2019s commemorations for post-World War Two \u2018restoration\u2019 of island - Internazionale",
@@ -483,13 +490,6 @@
    "source": "https://houseofsaud.com/",
    "published": "Tue, 27 Oct 2026 01:29:53 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Taiwan / China",
-   "title": "Taiwan looks to autonomous swarms to counter Beijing\u2019s grey-zone pressure - South China Morning Post",
-   "source": "South China Morning Post",
-   "published": "Tue, 27 Oct 2026 01:00:10 GMT",
-   "read": "unclear"
   },
   {
    "topic": "Taiwan / China",
