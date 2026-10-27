@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-27T04:50:02+00:00",
+ "generated_utc": "2026-10-27T04:55:02+00:00",
  "date_et": "2026-10-27",
  "build": "0d463cfe05",
  "tape": [
@@ -417,19 +417,19 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 100.77,
-    "pct": -0.97
+    "price": 100.76,
+    "pct": -0.98
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4031.5,
-    "pct": -0.17
+    "price": 4026.8,
+    "pct": -0.29
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.038,
+    "price": 102.039,
     "pct": 0.08
    },
    {
@@ -451,9 +451,9 @@
     "pct": -5.45
    }
   ],
-  "as_of": "2026-10-27T04:48:05.088111+00:00",
+  "as_of": "2026-10-27T04:54:05.200427+00:00",
   "tone": "risk-on",
-  "age_min": 1.96075345
+  "age_min": 0.9610772333333333
  },
  "stories": [
   {
@@ -464,6 +464,13 @@
    "read": "escalation"
   },
   {
+   "topic": "Iran / Hormuz",
+   "title": "How Trump\u2019s \u2018little detour\u2019 to Iran became a roadblock in the midterm elections - Springfield News-Sun",
+   "source": "Springfield News-Sun",
+   "published": "Tue, 27 Oct 2026 04:04:26 GMT",
+   "read": "unclear"
+  },
+  {
    "topic": "Taiwan / China",
    "title": "Taiwan rebuffs China\u2019s commemorations for post-World War Two \u2018restoration\u2019 of island - KELO-AM",
    "source": "KELO-AM",
@@ -472,9 +479,9 @@
   },
   {
    "topic": "Taiwan / China",
-   "title": "Taiwan rebuffs China's commemorations for post-World War Two 'restoration' of island - The Straits Times",
-   "source": "The Straits Times",
-   "published": "Tue, 27 Oct 2026 03:50:00 GMT",
+   "title": "Taiwan rebuffs China's commemorations for post-World War Two 'restoration' of island - Reuters",
+   "source": "Reuters",
+   "published": "Tue, 27 Oct 2026 03:42:00 GMT",
    "read": "escalation"
   },
   {
@@ -482,13 +489,6 @@
    "title": "Report: US prepared for fresh Iran strikes after midterms - chinadailyhk",
    "source": "chinadailyhk",
    "published": "Tue, 27 Oct 2026 02:37:49 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Taiwan / China",
-   "title": "Taiwan tracks 12 Chinese ships, 3 military aircraft - Taiwan News",
-   "source": "Taiwan News",
-   "published": "Tue, 27 Oct 2026 02:09:45 GMT",
    "read": "escalation"
   },
   {
