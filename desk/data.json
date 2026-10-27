@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-27T11:30:03+00:00",
+ "generated_utc": "2026-10-27T11:35:03+00:00",
  "date_et": "2026-10-27",
  "build": "0d463cfe05",
  "tape": [
@@ -193,7 +193,7 @@
     "lean": "dovish",
     "source": "YAHOO_TSY_FUT_ZT",
     "latency": "after-hours-futures-proxy",
-    "snapshot_ts": "2026-10-27T11:17:00+00:00",
+    "snapshot_ts": "2026-10-27T11:22:00+00:00",
     "snapshot_date": "2026-10-27",
     "prior_day": "2026-10-23",
     "prior_day_close": 4.69,
@@ -212,32 +212,32 @@
      4.684,
      4.686,
      4.686,
+     4.688,
+     4.688,
      4.69,
-     4.688,
-     4.688,
      4.694,
      4.696,
-     4.694,
+     4.7,
      4.696,
      4.692,
-     4.69,
+     4.686,
      4.684,
-     4.69,
      4.692,
-     4.692,
-     4.696,
-     4.692,
+     4.694,
      4.692,
      4.694,
      4.692,
      4.692,
+     4.694,
+     4.692,
      4.69,
-     4.688,
      4.68,
-     4.678,
+     4.68,
      4.676,
-     4.672,
-     4.676
+     4.676,
+     4.676,
+     4.678,
+     4.68
     ]
    },
    {
@@ -247,7 +247,7 @@
     "lean": "dovish",
     "source": "YAHOO_TSY_FUT_ZF",
     "latency": "after-hours-futures-proxy",
-    "snapshot_ts": "2026-10-27T11:17:00+00:00",
+    "snapshot_ts": "2026-10-27T11:22:00+00:00",
     "snapshot_date": "2026-10-27",
     "prior_day": "2026-10-23",
     "prior_day_close": 4.805,
@@ -260,48 +260,48 @@
      4.788,
      4.789,
      4.788,
-     4.788,
+     4.789,
      4.788,
      4.791,
-     4.791,
+     4.793,
      4.796,
      4.795,
      4.8,
      4.8,
-     4.798,
-     4.805,
-     4.807,
-     4.808,
-     4.814,
-     4.808,
-     4.807,
      4.802,
-     4.796,
-     4.803,
-     4.803,
      4.805,
      4.808,
      4.807,
-     4.805,
-     4.807,
-     4.805,
+     4.81,
+     4.808,
      4.803,
      4.8,
+     4.8,
+     4.802,
+     4.805,
+     4.803,
+     4.807,
+     4.803,
+     4.808,
+     4.807,
+     4.805,
+     4.793,
+     4.791,
+     4.781,
      4.791,
      4.789,
-     4.789,
-     4.789,
-     4.789
+     4.791,
+     4.793
     ]
    },
    {
     "series": "10Y",
-    "level": 4.977,
-    "d_day_bps": -1.1,
+    "level": 4.974,
+    "d_day_bps": -1.4,
     "lean": "dovish",
     "source": "YAHOO_TSY_FUT_ZN",
     "latency": "after-hours-futures-proxy",
-    "snapshot_ts": "2026-10-27T11:17:00+00:00",
+    "snapshot_ts": "2026-10-27T11:22:00+00:00",
     "snapshot_date": "2026-10-27",
     "prior_day": "2026-10-23",
     "prior_day_close": 4.988,
@@ -317,35 +317,35 @@
      4.972,
      4.97,
      4.974,
-     4.974,
+     4.977,
      4.979,
      4.979,
      4.983,
      4.981,
      4.986,
-     4.988,
+     4.99,
      4.99,
      4.99,
      4.993,
      4.99,
-     4.99,
+     4.983,
      4.977,
-     4.981,
      4.986,
+     4.986,
+     4.986,
+     4.99,
+     4.99,
      4.988,
-     4.986,
-     4.99,
-     4.988,
-     4.99,
+     4.993,
      4.99,
      4.986,
-     4.974,
-     4.974,
-     4.963,
-     4.977,
+     4.97,
      4.974,
      4.972,
-     4.972
+     4.972,
+     4.97,
+     4.977,
+     4.977
     ]
    },
    {
@@ -355,7 +355,7 @@
     "lean": "flat",
     "source": "YAHOO_TSY_FUT_ZB",
     "latency": "after-hours-futures-proxy",
-    "snapshot_ts": "2026-10-27T11:17:00+00:00",
+    "snapshot_ts": "2026-10-27T11:21:00+00:00",
     "snapshot_date": "2026-10-27",
     "prior_day": "2026-10-23",
     "prior_day_close": 5.315,
@@ -376,34 +376,34 @@
      5.306,
      5.308,
      5.308,
-     5.311,
+     5.313,
      5.313,
      5.317,
      5.317,
      5.32,
      5.32,
-     5.32,
+     5.315,
+     5.308,
      5.311,
-     5.31,
-     5.313,
-     5.317,
      5.315,
+     5.315,
+     5.315,
+     5.319,
      5.317,
-     5.319,
-     5.319,
      5.32,
      5.319,
-     5.317,
-     5.315,
-     5.31,
+     5.319,
      5.31,
      5.308,
+     5.308,
      5.31,
-     5.31
+     5.31,
+     5.311,
+     5.311
     ]
    }
   ],
-  "as_of": "2026-10-27T11:17:00+00:00",
+  "as_of": "2026-10-27T11:22:00+00:00",
   "note": "after-hours-futures-proxy"
  },
  "strip": {
@@ -417,19 +417,19 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 100.83,
-    "pct": -0.91
+    "price": 100.96,
+    "pct": -0.79
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4025.0,
-    "pct": -0.33
+    "price": 4023.6,
+    "pct": -0.37
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.185,
+    "price": 102.184,
     "pct": 0.22
    },
    {
@@ -447,13 +447,13 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 17.78,
-    "pct": -3.32
+    "price": 17.82,
+    "pct": -3.1
    }
   ],
-  "as_of": "2026-10-27T11:27:05.250367+00:00",
+  "as_of": "2026-10-27T11:33:04.897328+00:00",
   "tone": "risk-on",
-  "age_min": 2.9742694166666666
+  "age_min": 1.9772857
  },
  "stories": [
   {
@@ -471,6 +471,13 @@
    "read": "unclear"
   },
   {
+   "topic": "Russia / Ukraine",
+   "title": "Putin discusses Ukraine settlement with Finnish counterpart, Norwegian premier - Anadolu Ajans\u0131",
+   "source": "Anadolu Ajans\u0131",
+   "published": "Tue, 27 Oct 2026 11:27:44 GMT",
+   "read": "unclear"
+  },
+  {
    "topic": "Saudi / Gulf supply",
    "title": "Fire contained at Saudi's Ras Tanura oil terminal after latest attack - Quantum Commodity Intelligence",
    "source": "Quantum Commodity Intelligence",
@@ -479,23 +486,16 @@
   },
   {
    "topic": "Russia / Ukraine",
+   "title": "Leaders of Norway, Finland hold calls with Putin then Zelenskiy - Reuters",
+   "source": "Reuters",
+   "published": "Tue, 27 Oct 2026 10:37:15 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Russia / Ukraine",
    "title": "Finnish, Norwegian Leaders Call Putin Ahead of Ukraine Peace Talks - The Moscow Times",
    "source": "The Moscow Times",
    "published": "Tue, 27 Oct 2026 10:36:39 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Leaders of Finland and Norway talk to Putin - POLITICO.eu",
-   "source": "POLITICO.eu",
-   "published": "Tue, 27 Oct 2026 09:59:00 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Finland and Norway Hold \u2018Frank\u2019 Call With Putin on Ukraine - Bloomberg.com",
-   "source": "Bloomberg.com",
-   "published": "Tue, 27 Oct 2026 09:56:12 GMT",
    "read": "unclear"
   }
  ],
@@ -601,29 +601,29 @@
    {
     "code": "FR",
     "name": "France",
-    "level": 4.9461,
+    "level": 4.9453,
     "as_of": "2026-10-27",
     "spread_bp": 161.1,
-    "d_day_bps": 4.3
+    "d_day_bps": 4.2
    },
    {
     "code": "DE",
     "name": "Germany",
-    "level": 3.3349,
+    "level": 3.3341,
     "as_of": "2026-10-27",
     "spread_bp": null,
-    "d_day_bps": -3.5
+    "d_day_bps": -3.6
    },
    {
     "code": "IT",
     "name": "Italy",
-    "level": 4.5157,
+    "level": 4.5144,
     "as_of": "2026-10-27",
-    "spread_bp": 118.1,
-    "d_day_bps": 1.5
+    "spread_bp": 118.0,
+    "d_day_bps": 1.4
    }
   ],
-  "bund": 3.3349,
+  "bund": 3.3341,
   "note": "10-year government bonds; spread measured over Germany"
  },
  "auctions": {
