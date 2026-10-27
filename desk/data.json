@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-27T01:50:02+00:00",
+ "generated_utc": "2026-10-27T01:55:02+00:00",
  "date_et": "2026-10-26",
  "build": "0d463cfe05",
  "tape": [
@@ -273,20 +273,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 100.8,
-    "pct": -0.94
+    "price": 100.99,
+    "pct": -0.76
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4028.1,
-    "pct": -0.26
+    "price": 4029.2,
+    "pct": -0.23
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.026,
-    "pct": 0.07
+    "price": 102.071,
+    "pct": 0.11
    },
    {
     "sym": "SPY",
@@ -307,9 +307,9 @@
     "pct": -5.45
    }
   ],
-  "as_of": "2026-10-27T01:48:06.301405+00:00",
+  "as_of": "2026-10-27T01:54:06.401657+00:00",
   "tone": "risk-on",
-  "age_min": 1.9396930333333333
+  "age_min": 0.9327645
  },
  "stories": [
   {
@@ -318,6 +318,13 @@
    "source": "CSIS | Center for Strategic and International Studies",
    "published": "Wed, 21 Oct 2026 16:52:37 GMT",
    "read": "unclear"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iran Expands Tanker Blockade Beyond Hormuz - https://houseofsaud.com/",
+   "source": "https://houseofsaud.com/",
+   "published": "Tue, 27 Oct 2026 01:29:53 GMT",
+   "read": "escalation"
   },
   {
    "topic": "Taiwan / China",
@@ -335,23 +342,16 @@
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "The Tanker Tycoon's WhatsApps Driving a Disputed Oil Benchmark - Bloomberg.com",
+   "title": "This Oil Tanker Tycoon's WhatsApp Messages Drive Big Market Moves - Bloomberg.com",
    "source": "Bloomberg.com",
    "published": "Tue, 27 Oct 2026 00:01:00 GMT",
    "read": "unclear"
   },
   {
-   "topic": "Russia / Ukraine",
-   "title": "Opinion | Coddling Putin Won\u2019t Bring Peace to Ukraine - WSJ",
-   "source": "WSJ",
-   "published": "Sun, 25 Oct 2026 17:33:00 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Opinion | Elon Musk, Starlink and Vladimir Putin - WSJ",
-   "source": "WSJ",
-   "published": "Mon, 26 Oct 2026 21:41:00 GMT",
+   "topic": "Iran / Hormuz",
+   "title": "The Tanker Tycoon's WhatsApps Driving a Disputed Oil Benchmark - Bloomberg.com",
+   "source": "Bloomberg.com",
+   "published": "Tue, 27 Oct 2026 00:01:00 GMT",
    "read": "unclear"
   }
  ],
