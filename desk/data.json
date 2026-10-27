@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-27T09:30:04+00:00",
+ "generated_utc": "2026-10-27T09:35:04+00:00",
  "date_et": "2026-10-27",
  "build": "0d463cfe05",
  "tape": [
@@ -417,20 +417,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 102.13,
-    "pct": 0.36
+    "price": 102.1,
+    "pct": 0.33
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4007.9,
-    "pct": -0.76
+    "price": 4009.2,
+    "pct": -0.72
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.229,
-    "pct": 0.26
+    "price": 102.263,
+    "pct": 0.3
    },
    {
     "sym": "SPY",
@@ -447,13 +447,13 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 18.21,
-    "pct": -0.98
+    "price": 18.27,
+    "pct": -0.65
    }
   ],
-  "as_of": "2026-10-27T09:27:14.218606+00:00",
+  "as_of": "2026-10-27T09:33:05.804904+00:00",
   "tone": "risk-on",
-  "age_min": 2.8442334666666667
+  "age_min": 1.9745751666666667
  },
  "stories": [
   {
@@ -471,6 +471,13 @@
    "read": "unclear"
   },
   {
+   "topic": "Russia / Ukraine",
+   "title": "Putin Plans Talks With Finland, Norway Leaders on Ukraine - Bloomberg.com",
+   "source": "Bloomberg.com",
+   "published": "Tue, 27 Oct 2026 08:58:47 GMT",
+   "read": "unclear"
+  },
+  {
    "topic": "Saudi / Gulf supply",
    "title": "Saudi Arabia taps Singapore for crude storage to outmanoeuvre shipping disruptions - Lloyd's List",
    "source": "Lloyd's List",
@@ -478,25 +485,18 @@
    "read": "unclear"
   },
   {
+   "topic": "Iran / Hormuz",
+   "title": "No Safety for Violating Vessels in Strait of Hormuz: Top Iranian General - \u062a\u0633\u0646\u06cc\u0645",
+   "source": "\u062a\u0633\u0646\u06cc\u0645",
+   "published": "Tue, 27 Oct 2026 07:09:19 GMT",
+   "read": "escalation"
+  },
+  {
    "topic": "Taiwan / China",
    "title": "China Conducts Unannounced Missile Drills Amid Taiwan Tensions - \uc870\uc120\uc77c\ubcf4",
    "source": "\uc870\uc120\uc77c\ubcf4",
    "published": "Tue, 27 Oct 2026 06:56:15 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Kremlin: Resumption of Ukraine talks doesn't restrict military operations - chinadailyhk",
-   "source": "chinadailyhk",
-   "published": "Tue, 27 Oct 2026 05:11:56 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Trump: Iran Was Two Weeks From A Nuclear Missile - Kurdistan24",
-   "source": "Kurdistan24",
-   "published": "Tue, 27 Oct 2026 04:56:56 GMT",
-   "read": "unclear"
   }
  ],
  "ratings": [],
