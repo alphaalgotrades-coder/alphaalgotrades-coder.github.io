@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-27T05:50:02+00:00",
+ "generated_utc": "2026-10-27T05:55:02+00:00",
  "date_et": "2026-10-27",
  "build": "0d463cfe05",
  "tape": [
@@ -417,19 +417,19 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 100.9,
-    "pct": -0.85
+    "price": 100.96,
+    "pct": -0.79
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4021.2,
+    "price": 4020.9,
     "pct": -0.43
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.085,
+    "price": 102.079,
     "pct": 0.12
    },
    {
@@ -451,11 +451,18 @@
     "pct": -5.45
    }
   ],
-  "as_of": "2026-10-27T05:48:05.547128+00:00",
+  "as_of": "2026-10-27T05:54:14.259276+00:00",
   "tone": "risk-on",
-  "age_min": 1.9554207333333333
+  "age_min": 0.8121664166666667
  },
  "stories": [
+  {
+   "topic": "Taiwan / China",
+   "title": "China Demonstrates Rapid Missile Response Amid US-Japan Drills Near Taiwan - \uc870\uc120\uc77c\ubcf4",
+   "source": "\uc870\uc120\uc77c\ubcf4",
+   "published": "Tue, 27 Oct 2026 05:34:39 GMT",
+   "read": "escalation"
+  },
   {
    "topic": "Iran / Hormuz",
    "title": "Trump: Iran Was Two Weeks From A Nuclear Missile - Kurdistan24",
@@ -490,13 +497,6 @@
    "source": "KELO-AM",
    "published": "Tue, 27 Oct 2026 03:55:49 GMT",
    "read": "de-escalation"
-  },
-  {
-   "topic": "Taiwan / China",
-   "title": "Taiwan rebuffs China's commemorations for post-World War Two 'restoration' of island - Reuters",
-   "source": "Reuters",
-   "published": "Tue, 27 Oct 2026 03:42:00 GMT",
-   "read": "escalation"
   }
  ],
  "ratings": [],
