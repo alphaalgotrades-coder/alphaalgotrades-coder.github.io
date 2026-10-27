@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-27T05:30:03+00:00",
+ "generated_utc": "2026-10-27T05:35:02+00:00",
  "date_et": "2026-10-27",
  "build": "0d463cfe05",
  "tape": [
@@ -417,20 +417,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 100.69,
-    "pct": -1.05
+    "price": 100.77,
+    "pct": -0.97
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4019.6,
-    "pct": -0.47
+    "price": 4020.7,
+    "pct": -0.44
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.074,
-    "pct": 0.11
+    "price": 102.088,
+    "pct": 0.13
    },
    {
     "sym": "SPY",
@@ -451,9 +451,9 @@
     "pct": -5.45
    }
   ],
-  "as_of": "2026-10-27T05:27:05.440920+00:00",
+  "as_of": "2026-10-27T05:33:08.816271+00:00",
   "tone": "risk-on",
-  "age_min": 2.9659831333333333
+  "age_min": 1.9033595666666665
  },
  "stories": [
   {
@@ -462,6 +462,13 @@
    "source": "Kurdistan24",
    "published": "Tue, 27 Oct 2026 04:56:56 GMT",
    "read": "unclear"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iranian Military Official Threatens Vessels Transiting the Strait of Hormuz - 8AM Media",
+   "source": "8AM Media",
+   "published": "Tue, 27 Oct 2026 04:49:25 GMT",
+   "read": "escalation"
   },
   {
    "topic": "Iran / Hormuz",
@@ -489,13 +496,6 @@
    "title": "Taiwan rebuffs China's commemorations for post-World War Two 'restoration' of island - Reuters",
    "source": "Reuters",
    "published": "Tue, 27 Oct 2026 03:42:00 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Report: US prepared for fresh Iran strikes after midterms - chinadailyhk",
-   "source": "chinadailyhk",
-   "published": "Tue, 27 Oct 2026 02:37:49 GMT",
    "read": "escalation"
   }
  ],
