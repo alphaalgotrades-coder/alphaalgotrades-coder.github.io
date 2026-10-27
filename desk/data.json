@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-27T06:10:02+00:00",
+ "generated_utc": "2026-10-27T06:15:04+00:00",
  "date_et": "2026-10-27",
  "build": "0d463cfe05",
  "tape": [
@@ -417,19 +417,19 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 100.9,
-    "pct": -0.85
+    "price": 100.98,
+    "pct": -0.77
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4023.1,
-    "pct": -0.38
+    "price": 4018.3,
+    "pct": -0.5
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.089,
+    "price": 102.094,
     "pct": 0.13
    },
    {
@@ -451,16 +451,30 @@
     "pct": -5.45
    }
   ],
-  "as_of": "2026-10-27T06:09:05.956485+00:00",
+  "as_of": "2026-10-27T06:12:05.722744+00:00",
   "tone": "risk-on",
-  "age_min": 0.9494946333333334
+  "age_min": 2.9780762
  },
  "stories": [
+  {
+   "topic": "Taiwan / China",
+   "title": "Former US official says Taiwan\u2019s value goes beyond strategic location - Taiwan News",
+   "source": "Taiwan News",
+   "published": "Tue, 27 Oct 2026 05:57:00 GMT",
+   "read": "unclear"
+  },
   {
    "topic": "Taiwan / China",
    "title": "China Demonstrates Rapid Missile Response Amid US-Japan Drills Near Taiwan - \uc870\uc120\uc77c\ubcf4",
    "source": "\uc870\uc120\uc77c\ubcf4",
    "published": "Tue, 27 Oct 2026 05:34:39 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Kremlin: Resumption of Ukraine talks doesn't restrict military operations - chinadailyhk",
+   "source": "chinadailyhk",
+   "published": "Tue, 27 Oct 2026 05:11:56 GMT",
    "read": "escalation"
   },
   {
@@ -483,20 +497,6 @@
    "source": "World Socialist Web Site",
    "published": "Tue, 27 Oct 2026 04:19:37 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "How Trump\u2019s \u2018little detour\u2019 to Iran became a roadblock in the midterm elections - Springfield News-Sun",
-   "source": "Springfield News-Sun",
-   "published": "Tue, 27 Oct 2026 04:04:26 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Taiwan / China",
-   "title": "Taiwan rebuffs China\u2019s commemorations for post-World War Two \u2018restoration\u2019 of island - KELO-AM",
-   "source": "KELO-AM",
-   "published": "Tue, 27 Oct 2026 03:55:49 GMT",
-   "read": "de-escalation"
   }
  ],
  "ratings": [],
