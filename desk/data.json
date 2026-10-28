@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-28T02:50:03+00:00",
+ "generated_utc": "2026-10-28T02:55:03+00:00",
  "date_et": "2026-10-27",
  "build": "0d463cfe05",
  "tape": [
@@ -417,20 +417,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 101.15,
-    "pct": 1.25
+    "price": 101.19,
+    "pct": 1.29
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4060.9,
-    "pct": -0.34
+    "price": 4062.8,
+    "pct": -0.29
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.394,
-    "pct": 0.07
+    "price": 102.376,
+    "pct": 0.06
    },
    {
     "sym": "SPY",
@@ -451,9 +451,9 @@
     "pct": -4.73
    }
   ],
-  "as_of": "2026-10-28T02:48:05.500914+00:00",
+  "as_of": "2026-10-28T02:54:05.618654+00:00",
   "tone": "risk-on",
-  "age_min": 1.9775508
+  "age_min": 0.9704735166666667
  },
  "stories": [
   {
@@ -461,6 +461,13 @@
    "title": "Taiwan tracks 8 Chinese ships, 6 military aircraft - Taiwan News",
    "source": "Taiwan News",
    "published": "Wed, 28 Oct 2026 02:30:05 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Saudi / Gulf supply",
+   "title": "Oil prices rise after attack on Saudi Arabian refinery reignites supply concerns - Yahoo Finance",
+   "source": "Yahoo Finance",
+   "published": "Wed, 28 Oct 2026 02:14:00 GMT",
    "read": "escalation"
   },
   {
@@ -479,9 +486,9 @@
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Oil Futures Fall as Market Holds Out Hope for Middle East Diplomacy - WSJ",
-   "source": "WSJ",
-   "published": "Tue, 27 Oct 2026 19:23:00 GMT",
+   "title": "After Months of Threats by Trump, Resumption of Iran War Now Seems Inevitable - Middle East Forum",
+   "source": "Middle East Forum",
+   "published": "Tue, 27 Oct 2026 22:24:42 GMT",
    "read": "unclear"
   },
   {
@@ -490,13 +497,6 @@
    "source": "Financial Times",
    "published": "Tue, 27 Oct 2026 19:06:02 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Putin Insists on Moscow for Zelensky Meeting as Kyiv Seeks Neutral Venue - Kyiv Post",
-   "source": "Kyiv Post",
-   "published": "Tue, 27 Oct 2026 18:57:24 GMT",
-   "read": "escalation"
   }
  ],
  "ratings": [],
