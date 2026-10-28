@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-28T07:50:03+00:00",
+ "generated_utc": "2026-10-28T07:55:04+00:00",
  "date_et": "2026-10-28",
  "build": "0d463cfe05",
  "tape": [
@@ -399,20 +399,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 101.94,
-    "pct": 2.04
+    "price": 102.15,
+    "pct": 2.25
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4051.2,
-    "pct": -0.57
+    "price": 4052.4,
+    "pct": -0.54
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.429,
-    "pct": 0.11
+    "price": 102.413,
+    "pct": 0.09
    },
    {
     "sym": "SPY",
@@ -429,20 +429,20 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 17.49,
-    "pct": -0.17
+    "price": 17.5,
+    "pct": -0.11
    }
   ],
-  "as_of": "2026-10-28T07:48:05.336568+00:00",
+  "as_of": "2026-10-28T07:54:05.446875+00:00",
   "tone": "risk-on",
-  "age_min": 1.97118875
+  "age_min": 0.9815452333333333
  },
  "stories": [
   {
    "topic": "Taiwan / China",
-   "title": "Mainland condemns DPP's use of public funds for US observers at Taiwan drills - chinadailyhk",
-   "source": "chinadailyhk",
-   "published": "Wed, 28 Oct 2026 07:14:34 GMT",
+   "title": "Mainland condemns DPP's use of public funds for US observers at Taiwan drills - China Daily",
+   "source": "China Daily",
+   "published": "Wed, 28 Oct 2026 06:47:00 GMT",
    "read": "unclear"
   },
   {
@@ -474,10 +474,10 @@
    "read": "escalation"
   },
   {
-   "topic": "Taiwan / China",
-   "title": "Taiwan says China escalating election interference with \u2018military-level\u2019 intimidation - Taiwan News",
-   "source": "Taiwan News",
-   "published": "Wed, 28 Oct 2026 03:23:08 GMT",
+   "topic": "Saudi / Gulf supply",
+   "title": "Oil prices rise after attack on Saudi Arabian refinery reignites supply concerns - Reuters",
+   "source": "Reuters",
+   "published": "Wed, 28 Oct 2026 01:49:00 GMT",
    "read": "escalation"
   }
  ],
