@@ -1,12 +1,12 @@
 {
- "generated_utc": "2026-10-28T16:05:05.027484+00:00",
+ "generated_utc": "2026-10-28T17:05:05.000240+00:00",
  "paper": true,
  "strategy": "the wheel (cash-secured puts -> covered calls)",
  "since": "2026-07-13",
- "trading_days": 55,
+ "trading_days": 56,
  "green_days": 29,
  "red_days": 2,
- "total_fills": 160,
+ "total_fills": 162,
  "symbols_traded": 23,
  "cumulative_realized": 9118.89,
  "days": [
@@ -394,6 +394,13 @@
    "realized": 145.0,
    "commission": 0.0,
    "cumulative": 9118.89
+  },
+  {
+   "date": "2026-10-28",
+   "fills": 2,
+   "realized": 0.0,
+   "commission": 0.0,
+   "cumulative": 9118.89
   }
  ],
  "open_legs": [
@@ -407,7 +414,7 @@
    "engine": true,
    "agree": true,
    "entry": 0.4,
-   "upnl": -150.0,
+   "upnl": -90.0,
    "lane": "OPTIONS"
   },
   {
@@ -420,7 +427,7 @@
    "engine": true,
    "agree": true,
    "entry": 32.5,
-   "upnl": -1278.0,
+   "upnl": -1311.0,
    "lane": "OPTIONS"
   },
   {
@@ -459,7 +466,20 @@
    "engine": true,
    "agree": true,
    "entry": 70.0,
-   "upnl": -1520.0,
+   "upnl": -1557.0,
+   "lane": "OPTIONS"
+  },
+  {
+   "instrument": "CELH 11/06 P26",
+   "raw": "CELH261106P00026500",
+   "strategy": "HT_WHEEL",
+   "side": "short 4",
+   "broker": true,
+   "db": true,
+   "engine": true,
+   "agree": true,
+   "entry": 0.75,
+   "upnl": -100.0,
    "lane": "OPTIONS"
   },
   {
@@ -472,7 +492,7 @@
    "engine": true,
    "agree": true,
    "entry": 1.25,
-   "upnl": 60.0,
+   "upnl": 80.0,
    "lane": "OPTIONS"
   },
   {
@@ -485,7 +505,7 @@
    "engine": true,
    "agree": true,
    "entry": 0.65,
-   "upnl": -20.0,
+   "upnl": -40.0,
    "lane": "OPTIONS"
   },
   {
@@ -498,12 +518,12 @@
    "engine": true,
    "agree": true,
    "entry": 35.0,
-   "upnl": -454.0,
+   "upnl": -506.0,
    "lane": "OPTIONS"
   }
  ],
- "open_upnl": -3532.0,
- "reconciliation": "8/8 open legs reconciled against the broker statement and our own database",
+ "open_upnl": -3694.0,
+ "reconciliation": "9/9 open legs reconciled against the broker statement and our own database",
  "stats": {
   "closed_trades": 45,
   "win_rate": 86.7,
@@ -511,11 +531,11 @@
   "avg_loss": -197.83,
   "profit_factor": 8.68,
   "expectancy": 202.64,
-  "sharpe_daily_ann": 5.93,
-  "capital_at_risk": 61250.0,
-  "period_return_pct": 14.89,
-  "ann_pace_pct": 50.8,
-  "elapsed_days": 107
+  "sharpe_daily_ann": 5.87,
+  "capital_at_risk": 71850.0,
+  "period_return_pct": 12.69,
+  "ann_pace_pct": 42.9,
+  "elapsed_days": 108
  },
  "assigned": [
   {
