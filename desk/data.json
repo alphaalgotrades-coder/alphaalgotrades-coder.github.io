@@ -1,186 +1,168 @@
 {
- "generated_utc": "2026-10-28T03:55:03+00:00",
- "date_et": "2026-10-27",
+ "generated_utc": "2026-10-28T04:00:04+00:00",
+ "date_et": "2026-10-28",
  "build": "0d463cfe05",
  "tape": [
   {
-   "time": "01:00",
-   "ccy": "JPY",
-   "impact": "Low",
-   "title": "BOJ Core CPI y/y",
-   "cons": "1.9%",
-   "prev": "1.8%",
-   "actual": "2.4%"
-  },
-  {
-   "time": "04:00",
+   "time": "03:00",
    "ccy": "EUR",
    "impact": "Low",
-   "title": "Spanish Unemployment Rate",
-   "cons": "9.9%",
-   "prev": "9.9%",
-   "actual": "10.2%"
+   "title": "German GfK Consumer Climate",
+   "cons": "-30.1",
+   "prev": "-30.6",
+   "actual": ""
   },
   {
    "time": "05:00",
-   "ccy": "EUR",
+   "ccy": "CHF",
    "impact": "Low",
-   "title": "M3 Money Supply y/y",
-   "cons": "3.5%",
-   "prev": "3.5%",
-   "actual": "3.5%"
-  },
-  {
-   "time": "05:00",
-   "ccy": "EUR",
-   "impact": "Low",
-   "title": "Private Loans y/y",
-   "cons": "3.1%",
-   "prev": "3.1%",
-   "actual": "3.1%"
-  },
-  {
-   "time": "08:15",
-   "ccy": "USD",
-   "impact": "Low",
-   "title": "ADP Weekly Employment Change",
+   "title": "UBS Economic Expectations",
    "cons": "",
-   "prev": "18.5K",
-   "actual": "16.8K"
+   "prev": "2.6",
+   "actual": ""
+  },
+  {
+   "time": "05:42",
+   "ccy": "EUR",
+   "impact": "Low",
+   "title": "German 10-y Bond Auction",
+   "cons": "",
+   "prev": "3.58|1.2",
+   "actual": ""
+  },
+  {
+   "time": "08:30",
+   "ccy": "GBP",
+   "impact": "High",
+   "title": "Annual Budget Release",
+   "cons": "",
+   "prev": "",
+   "actual": ""
+  },
+  {
+   "time": "08:30",
+   "ccy": "GBP",
+   "impact": "Medi",
+   "title": "Autumn Forecast Statement",
+   "cons": "",
+   "prev": "",
+   "actual": ""
   },
   {
    "time": "08:30",
    "ccy": "USD",
    "impact": "Low",
-   "title": "Core Durable Goods Orders m/m",
-   "cons": "0.6%",
-   "prev": "0.3%",
-   "actual": "0.5%"
+   "title": "Goods Trade Balance",
+   "cons": "-130.4B",
+   "prev": "-132.6B",
+   "actual": ""
   },
   {
    "time": "08:30",
    "ccy": "USD",
    "impact": "Low",
-   "title": "Durable Goods Orders m/m",
-   "cons": "2.0%",
-   "prev": "0.0%",
-   "actual": "1.8%"
+   "title": "Prelim Wholesale Inventories m/m",
+   "cons": "0.5%",
+   "prev": "0.7%",
+   "actual": ""
   },
   {
    "time": "09:00",
-   "ccy": "USD",
+   "ccy": "CNY",
    "impact": "Low",
-   "title": "HPI m/m",
-   "cons": "0.2%",
-   "prev": "0.3%",
-   "actual": "0.3%"
+   "title": "CB Leading Index m/m",
+   "cons": "",
+   "prev": "-0.2%",
+   "actual": ""
   },
   {
-   "time": "09:00",
-   "ccy": "USD",
-   "impact": "Low",
-   "title": "S&P/CS Composite-20 HPI y/y",
-   "cons": "2.6%",
-   "prev": "2.5%",
-   "actual": "2.7%"
-  },
-  {
-   "time": "10:00",
-   "ccy": "USD",
-   "impact": "Medi",
-   "title": "CB Consumer Confidence",
-   "cons": "81.2",
-   "prev": "81.9",
-   "actual": "91.7"
-  },
-  {
-   "time": "10:00",
-   "ccy": "USD",
-   "impact": "Low",
-   "title": "New Home Sales",
-   "cons": "651K",
-   "prev": "684K",
-   "actual": "676K"
-  },
-  {
-   "time": "10:00",
-   "ccy": "USD",
-   "impact": "Low",
-   "title": "Richmond Manufacturing Index",
-   "cons": "0",
-   "prev": "-2",
-   "actual": "-2"
-  },
-  {
-   "time": "16:30",
-   "ccy": "USD",
-   "impact": "Low",
-   "title": "API Weekly Statistical Bulletin",
+   "time": "09:45",
+   "ccy": "CAD",
+   "impact": "High",
+   "title": "BOC Monetary Policy Report",
    "cons": "",
    "prev": "",
    "actual": ""
   },
   {
-   "time": "20:15",
-   "ccy": "AUD",
-   "impact": "Medi",
-   "title": "RBA Gov Bullock Speaks",
+   "time": "09:45",
+   "ccy": "CAD",
+   "impact": "High",
+   "title": "BOC Rate Statement",
    "cons": "",
    "prev": "",
    "actual": ""
   },
   {
-   "time": "20:30",
-   "ccy": "AUD",
+   "time": "09:45",
+   "ccy": "CAD",
    "impact": "High",
-   "title": "CPI m/m",
-   "cons": "0.7%",
-   "prev": "0.4%",
-   "actual": "0.8%"
+   "title": "Overnight Rate",
+   "cons": "2.50%",
+   "prev": "2.25%",
+   "actual": ""
   },
   {
-   "time": "20:30",
-   "ccy": "AUD",
+   "time": "10:30",
+   "ccy": "CAD",
    "impact": "High",
-   "title": "CPI y/y",
-   "cons": "4.2%",
-   "prev": "4.0%",
-   "actual": "4.3%"
-  },
-  {
-   "time": "20:30",
-   "ccy": "AUD",
-   "impact": "High",
-   "title": "Trimmed Mean CPI m/m",
-   "cons": "0.3%",
-   "prev": "0.2%",
-   "actual": "0.3%"
-  },
-  {
-   "time": "21:00",
-   "ccy": "NZD",
-   "impact": "High",
-   "title": "Official Cash Rate",
-   "cons": "3.00%",
-   "prev": "2.75%",
-   "actual": "2.75%"
-  },
-  {
-   "time": "21:00",
-   "ccy": "NZD",
-   "impact": "High",
-   "title": "RBNZ Rate Statement",
+   "title": "BOC Press Conference",
    "cons": "",
    "prev": "",
    "actual": ""
   },
   {
-   "time": "22:00",
-   "ccy": "NZD",
+   "time": "10:30",
+   "ccy": "USD",
+   "impact": "Low",
+   "title": "Crude Oil Inventories",
+   "cons": "0.1M",
+   "prev": "-3.1M",
+   "actual": ""
+  },
+  {
+   "time": "14:00",
+   "ccy": "USD",
    "impact": "High",
-   "title": "RBNZ Press Conference",
+   "title": "Federal Funds Rate",
+   "cons": "4.00%",
+   "prev": "4.00%",
+   "actual": ""
+  },
+  {
+   "time": "14:00",
+   "ccy": "USD",
+   "impact": "High",
+   "title": "FOMC Statement",
    "cons": "",
    "prev": "",
+   "actual": ""
+  },
+  {
+   "time": "14:30",
+   "ccy": "USD",
+   "impact": "High",
+   "title": "FOMC Press Conference",
+   "cons": "",
+   "prev": "",
+   "actual": ""
+  },
+  {
+   "time": "20:00",
+   "ccy": "NZD",
+   "impact": "Low",
+   "title": "ANZ Business Confidence",
+   "cons": "",
+   "prev": "51.9",
+   "actual": ""
+  },
+  {
+   "time": "20:30",
+   "ccy": "AUD",
+   "impact": "Low",
+   "title": "Import Prices q/q",
+   "cons": "1.3%",
+   "prev": "5.7%",
    "actual": ""
   }
  ],
@@ -451,9 +433,9 @@
     "pct": -4.73
    }
   ],
-  "as_of": "2026-10-28T03:54:05.291800+00:00",
+  "as_of": "2026-10-28T03:57:05.230757+00:00",
   "tone": "risk-on",
-  "age_min": 0.9749710500000001
+  "age_min": 2.9916163166666667
  },
  "stories": [
   {
