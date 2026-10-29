@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-29T04:30:04+00:00",
+ "generated_utc": "2026-10-29T04:35:03+00:00",
  "date_et": "2026-10-29",
  "build": "0d463cfe05",
  "tape": [
@@ -489,20 +489,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 101.45,
-    "pct": -1.29
+    "price": 101.41,
+    "pct": -1.33
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4048.1,
-    "pct": -0.09
+    "price": 4049.2,
+    "pct": -0.06
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.15,
-    "pct": -0.04
+    "price": 102.171,
+    "pct": -0.02
    },
    {
     "sym": "SPY",
@@ -523,21 +523,14 @@
     "pct": -3.48
    }
   ],
-  "as_of": "2026-10-29T04:27:06.558058+00:00",
+  "as_of": "2026-10-29T04:33:06.367907+00:00",
   "tone": "risk-on",
-  "age_min": 2.9652079166666665
+  "age_min": 1.9623292833333332
  },
  "stories": [
   {
    "topic": "Russia / Ukraine",
    "title": "U.S. Is Discussing Sanctions Relief for Russian Fund, Official Acknowledges - The New York Times",
-   "source": "The New York Times",
-   "published": "Wed, 28 Oct 2026 23:35:02 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Trump Officials Discussing Sanctions Relief for Russian Fund, Russia Acknowledges - The New York Times",
    "source": "The New York Times",
    "published": "Wed, 28 Oct 2026 23:35:02 GMT",
    "read": "unclear"
@@ -557,17 +550,24 @@
    "read": "escalation"
   },
   {
-   "topic": "Saudi / Gulf supply",
-   "title": "Aramco Offers European Buyers Spot Oil as Yanbu Exports Near 2.5 mb/d - https://houseofsaud.com/",
-   "source": "https://houseofsaud.com/",
-   "published": "Wed, 28 Oct 2026 19:42:27 GMT",
-   "read": "unclear"
-  },
-  {
    "topic": "Taiwan / China",
    "title": "The Evolution of Taiwan\u2019s Military - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
    "source": "The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
    "published": "Wed, 28 Oct 2026 17:16:38 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Taiwan / China",
+   "title": "Taiwan working on autonomous drone swarms to counter China\u2019s increasingly aggressive grey-zone military tactics \u2014 island has already completed flight simulations, now working towar",
+   "source": "Tom's Hardware",
+   "published": "Wed, 28 Oct 2026 11:30:00 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Taiwan / China",
+   "title": "Mainland condemns DPP's use of public funds for US observers at Taiwan drills - China Daily",
+   "source": "China Daily",
+   "published": "Wed, 28 Oct 2026 06:47:00 GMT",
    "read": "unclear"
   }
  ],
