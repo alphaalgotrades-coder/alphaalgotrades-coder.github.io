@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-29T23:35:03+00:00",
+ "generated_utc": "2026-10-29T23:40:03+00:00",
  "date_et": "2026-10-29",
  "build": "0d463cfe05",
  "tape": [
@@ -181,7 +181,7 @@
    "title": "Tokyo Core CPI y/y",
    "cons": "2.6%",
    "prev": "2.7%",
-   "actual": ""
+   "actual": "2.6%"
   },
   {
    "time": "19:30",
@@ -489,14 +489,14 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 102.72,
-    "pct": 0.71
+    "price": 102.7,
+    "pct": 0.69
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4025.2,
-    "pct": -0.15
+    "price": 4027.0,
+    "pct": -0.11
    },
    {
     "sym": "DXY",
@@ -523,9 +523,9 @@
     "pct": 1.71
    }
   ],
-  "as_of": "2026-10-29T23:33:06.003367+00:00",
+  "as_of": "2026-10-29T23:39:05.667054+00:00",
   "tone": "risk-off",
-  "age_min": 1.9690613
+  "age_min": 0.9712627166666666
  },
  "stories": [
   {
