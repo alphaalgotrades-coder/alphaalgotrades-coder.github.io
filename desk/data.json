@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-29T23:30:04+00:00",
+ "generated_utc": "2026-10-29T23:35:03+00:00",
  "date_et": "2026-10-29",
  "build": "0d463cfe05",
  "tape": [
@@ -489,14 +489,14 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 102.8,
-    "pct": 0.78
+    "price": 102.72,
+    "pct": 0.71
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4023.8,
-    "pct": -0.19
+    "price": 4025.2,
+    "pct": -0.15
    },
    {
     "sym": "DXY",
@@ -523,9 +523,9 @@
     "pct": 1.71
    }
   ],
-  "as_of": "2026-10-29T23:27:05.445683+00:00",
+  "as_of": "2026-10-29T23:33:06.003367+00:00",
   "tone": "risk-off",
-  "age_min": 2.992533
+  "age_min": 1.9690613
  },
  "stories": [
   {
@@ -550,6 +550,13 @@
    "read": "escalation"
   },
   {
+   "topic": "Russia / Ukraine",
+   "title": "Kremlin: Trilateral Ukraine talks depend on battlefield situation - Santa Clarita Valley Signal",
+   "source": "Santa Clarita Valley Signal",
+   "published": "Thu, 29 Oct 2026 21:13:14 GMT",
+   "read": "unclear"
+  },
+  {
    "topic": "Taiwan / China",
    "title": "Xi Jinping purges dozens of Chinese officials ahead of Taiwan deadline - AFR",
    "source": "AFR",
@@ -561,13 +568,6 @@
    "title": "Putin Has Shown No Willingness To End Ukraine War, Says Mike Pompeo - Radio Free Europe/Radio Liberty",
    "source": "Radio Free Europe/Radio Liberty",
    "published": "Thu, 29 Oct 2026 20:54:12 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Putin\u2019s quest to reclaim \u2018historical Russian lands\u2019 is a recipe for endless war - Atlantic Council",
-   "source": "Atlantic Council",
-   "published": "Thu, 29 Oct 2026 20:34:18 GMT",
    "read": "unclear"
   }
  ],
