@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-29T07:10:03+00:00",
+ "generated_utc": "2026-10-29T07:15:04+00:00",
  "date_et": "2026-10-29",
  "build": "0d463cfe05",
  "tape": [
@@ -489,20 +489,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 101.39,
-    "pct": -1.35
+    "price": 101.43,
+    "pct": -1.31
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4046.2,
-    "pct": -0.13
+    "price": 4047.6,
+    "pct": -0.1
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.24,
-    "pct": 0.05
+    "price": 102.232,
+    "pct": 0.04
    },
    {
     "sym": "SPY",
@@ -520,12 +520,12 @@
     "sym": "VIX",
     "name": "Volatility index",
     "price": 16.91,
-    "pct": null
+    "pct": -3.48
    }
   ],
-  "as_of": "2026-10-29T07:09:05.688733+00:00",
+  "as_of": "2026-10-29T07:12:05.577816+00:00",
   "tone": "risk-on",
-  "age_min": 0.9720826
+  "age_min": 2.9803878000000004
  },
  "stories": [
   {
@@ -534,13 +534,6 @@
    "source": "The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
    "published": "Wed, 28 Oct 2026 17:16:38 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Taiwan / China",
-   "title": "Taiwan working on autonomous drone swarms to counter China\u2019s increasingly aggressive grey-zone military tactics \u2014 island has already completed flight simulations, now working towar",
-   "source": "Tom's Hardware",
-   "published": "Wed, 28 Oct 2026 11:30:00 GMT",
-   "read": "escalation"
   },
   {
    "topic": "Saudi / Gulf supply",
@@ -569,6 +562,13 @@
    "source": "Anadolu Ajans\u0131",
    "published": "Thu, 29 Oct 2026 06:37:16 GMT",
    "read": "escalation"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Russia and US discussing sanctions relief for Moscow\u2019s sovereign wealth fund, Kremlin aide says - CNN",
+   "source": "CNN",
+   "published": "Thu, 29 Oct 2026 06:26:29 GMT",
+   "read": "unclear"
   }
  ],
  "ratings": [],
