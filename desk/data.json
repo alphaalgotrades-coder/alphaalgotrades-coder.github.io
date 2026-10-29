@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-29T09:10:02+00:00",
+ "generated_utc": "2026-10-29T09:15:03+00:00",
  "date_et": "2026-10-29",
  "build": "0d463cfe05",
  "tape": [
@@ -19,7 +19,7 @@
    "title": "Italian Monthly Unemployment Rate",
    "cons": "6.2%",
    "prev": "6.2%",
-   "actual": ""
+   "actual": "6.3%"
   },
   {
    "time": "05:30",
@@ -489,20 +489,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 101.08,
-    "pct": -1.65
+    "price": 101.17,
+    "pct": -1.57
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4036.7,
-    "pct": -0.37
+    "price": 4035.5,
+    "pct": -0.4
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.211,
-    "pct": 0.02
+    "price": 102.239,
+    "pct": 0.04
    },
    {
     "sym": "SPY",
@@ -519,13 +519,13 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 17.35,
-    "pct": 2.6
+    "price": 17.12,
+    "pct": 1.24
    }
   ],
-  "as_of": "2026-10-29T09:09:06.221418+00:00",
+  "as_of": "2026-10-29T09:12:05.797099+00:00",
   "tone": "risk-on",
-  "age_min": 0.94607325
+  "age_min": 2.95636105
  },
  "stories": [
   {
@@ -543,6 +543,20 @@
    "read": "escalation"
   },
   {
+   "topic": "Iran / Hormuz",
+   "title": "Iran\u2019s Revolutionary Guards say three oil tankers hit mines in Strait of Hormuz - Arab News",
+   "source": "Arab News",
+   "published": "Thu, 29 Oct 2026 08:58:12 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Taiwan / China",
+   "title": "Taiwan says vast Chinese armada of 50 vessels spotted near island - AOL.com",
+   "source": "AOL.com",
+   "published": "Thu, 29 Oct 2026 08:52:54 GMT",
+   "read": "escalation"
+  },
+  {
    "topic": "Russia / Ukraine",
    "title": "EA-Ukraine VideoCast: Why Kremlin Won\u2019t Re-Enter Meaningful Talks to End Invasion - EA WorldView",
    "source": "EA WorldView",
@@ -550,25 +564,11 @@
    "read": "escalation"
   },
   {
-   "topic": "Iran / Hormuz",
-   "title": "Iran\u2019s IRGC Says It Downed US-Made Drone Near Strait of Hormuz - Kurdistan24",
-   "source": "Kurdistan24",
-   "published": "Thu, 29 Oct 2026 07:40:00 GMT",
-   "read": "escalation"
-  },
-  {
    "topic": "Russia / Ukraine",
-   "title": "What 'Putin's strikes' tell us about Russia\u2019s war in Ukraine - The Kyiv Independent",
-   "source": "The Kyiv Independent",
-   "published": "Thu, 29 Oct 2026 06:53:44 GMT",
+   "title": "\u2018We Haven\u2019t Sent Any Signals Yet\u2019: Kremlin Says Ukraine Peace Talks Depend on Battlefield, Rules Out European Role - Kyiv Post",
+   "source": "Kyiv Post",
+   "published": "Thu, 29 Oct 2026 08:26:46 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Ukraine War, Day 1,708: Kremlin Puts Resumption of Talks in Doubt - EA WorldView",
-   "source": "EA WorldView",
-   "published": "Thu, 29 Oct 2026 06:43:03 GMT",
-   "read": "escalation"
   }
  ],
  "ratings": [],
