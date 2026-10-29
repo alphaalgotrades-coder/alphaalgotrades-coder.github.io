@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-29T02:40:03+00:00",
+ "generated_utc": "2026-10-29T02:45:05+00:00",
  "date_et": "2026-10-28",
  "build": "0d463cfe05",
  "tape": [
@@ -399,20 +399,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 101.52,
-    "pct": -1.23
+    "price": 101.7,
+    "pct": -1.05
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4059.8,
-    "pct": 0.2
+    "price": 4052.5,
+    "pct": 0.02
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.089,
-    "pct": -0.1
+    "price": 102.101,
+    "pct": -0.09
    },
    {
     "sym": "SPY",
@@ -433,18 +433,11 @@
     "pct": -3.48
    }
   ],
-  "as_of": "2026-10-29T02:39:05.811601+00:00",
+  "as_of": "2026-10-29T02:42:05.378030+00:00",
   "tone": "risk-on",
-  "age_min": 1.11186735
+  "age_min": 2.997558666666667
  },
  "stories": [
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Next round of Ukraine talks depends on Middle East, other factors, Kremlin aide says - Reuters",
-   "source": "Reuters",
-   "published": "Wed, 28 Oct 2026 23:59:43 GMT",
-   "read": "unclear"
-  },
   {
    "topic": "Russia / Ukraine",
    "title": "U.S. Is Discussing Sanctions Relief for Russian Fund, Official Acknowledges - The New York Times",
@@ -478,6 +471,13 @@
    "title": "Aramco Offers European Buyers Spot Oil as Yanbu Exports Near 2.5 mb/d - https://houseofsaud.com/",
    "source": "https://houseofsaud.com/",
    "published": "Wed, 28 Oct 2026 19:42:27 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Taiwan / China",
+   "title": "The Evolution of Taiwan\u2019s Military - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+   "source": "The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+   "published": "Wed, 28 Oct 2026 17:16:38 GMT",
    "read": "unclear"
   }
  ],
