@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-29T12:10:03+00:00",
+ "generated_utc": "2026-10-29T12:15:05+00:00",
  "date_et": "2026-10-29",
  "build": "0d463cfe05",
  "tape": [
@@ -260,12 +260,12 @@
   "rows": [
    {
     "series": "2Y",
-    "level": 4.674,
-    "d_day_bps": -2.6,
+    "level": 4.682,
+    "d_day_bps": -1.8,
     "lean": "dovish",
     "source": "YAHOO_TSY_FUT_ZT",
     "latency": "after-hours-futures-proxy",
-    "snapshot_ts": "2026-10-29T11:58:00+00:00",
+    "snapshot_ts": "2026-10-29T12:02:00+00:00",
     "snapshot_date": "2026-10-29",
     "prior_day": "2026-10-27",
     "prior_day_close": 4.7,
@@ -278,48 +278,48 @@
      4.662,
      4.662,
      4.664,
-     4.662,
-     4.67,
+     4.668,
+     4.668,
      4.666,
-     4.664,
-     4.664,
      4.662,
+     4.664,
+     4.66,
      4.662,
      4.652,
+     4.648,
+     4.648,
+     4.648,
      4.646,
-     4.644,
      4.65,
-     4.658,
-     4.644,
-     4.652,
+     4.656,
      4.654,
      4.656,
      4.658,
      4.658,
      4.658,
-     4.66,
-     4.668,
-     4.666,
-     4.668,
-     4.67,
      4.668,
      4.666,
      4.668,
      4.668,
+     4.668,
+     4.666,
+     4.668,
+     4.668,
      4.67,
      4.67,
-     4.67,
-     4.67
+     4.668,
+     4.668,
+     4.676
     ]
    },
    {
     "series": "5Y",
-    "level": 4.816,
-    "d_day_bps": -2.4,
+    "level": 4.823,
+    "d_day_bps": -1.7,
     "lean": "dovish",
     "source": "YAHOO_TSY_FUT_ZF",
     "latency": "after-hours-futures-proxy",
-    "snapshot_ts": "2026-10-29T11:58:00+00:00",
+    "snapshot_ts": "2026-10-29T12:02:00+00:00",
     "snapshot_date": "2026-10-29",
     "prior_day": "2026-10-27",
     "prior_day_close": 4.84,
@@ -344,36 +344,36 @@
      4.783,
      4.786,
      4.793,
-     4.779,
+     4.781,
+     4.788,
+     4.791,
      4.791,
      4.795,
      4.793,
-     4.795,
-     4.793,
-     4.795,
-     4.802,
-     4.802,
-     4.805,
-     4.805,
+     4.798,
+     4.798,
      4.805,
      4.803,
+     4.807,
+     4.803,
+     4.798,
+     4.798,
      4.802,
      4.805,
-     4.805,
+     4.814,
+     4.809,
      4.807,
-     4.812,
-     4.807,
-     4.809
+     4.814
     ]
    },
    {
     "series": "10Y",
-    "level": 4.973,
-    "d_day_bps": -2.0,
+    "level": 4.977,
+    "d_day_bps": -1.6,
     "lean": "dovish",
     "source": "YAHOO_TSY_FUT_ZN",
     "latency": "after-hours-futures-proxy",
-    "snapshot_ts": "2026-10-29T11:58:00+00:00",
+    "snapshot_ts": "2026-10-29T12:02:00+00:00",
     "snapshot_date": "2026-10-29",
     "prior_day": "2026-10-27",
     "prior_day_close": 4.993,
@@ -398,26 +398,26 @@
      4.938,
      4.943,
      4.95,
-     4.936,
+     4.938,
+     4.945,
      4.948,
      4.95,
+     4.948,
+     4.948,
+     4.945,
      4.95,
-     4.948,
-     4.948,
-     4.948,
-     4.95,
-     4.952,
-     4.959,
-     4.959,
+     4.957,
+     4.957,
+     4.961,
      4.961,
      4.957,
-     4.952,
+     4.954,
      4.959,
-     4.961,
-     4.963,
+     4.959,
+     4.968,
      4.973,
-     4.97,
-     4.968
+     4.966,
+     4.97
     ]
    },
    {
@@ -427,7 +427,7 @@
     "lean": "dovish",
     "source": "YAHOO_TSY_FUT_ZB",
     "latency": "after-hours-futures-proxy",
-    "snapshot_ts": "2026-10-29T11:58:00+00:00",
+    "snapshot_ts": "2026-10-29T12:02:00+00:00",
     "snapshot_date": "2026-10-29",
     "prior_day": "2026-10-27",
     "prior_day_close": 5.305,
@@ -452,30 +452,30 @@
      5.27,
      5.274,
      5.278,
-     5.268,
-     5.278,
+     5.27,
+     5.272,
+     5.274,
      5.276,
      5.276,
+     5.274,
+     5.272,
+     5.272,
      5.276,
-     5.274,
-     5.274,
-     5.274,
-     5.274,
-     5.281,
-     5.278,
-     5.279,
-     5.274,
-     5.274,
-     5.279,
      5.279,
      5.281,
-     5.296,
-     5.292,
-     5.29
+     5.274,
+     5.274,
+     5.276,
+     5.279,
+     5.279,
+     5.294,
+     5.294,
+     5.289,
+     5.292
     ]
    }
   ],
-  "as_of": "2026-10-29T11:58:00+00:00",
+  "as_of": "2026-10-29T12:02:00+00:00",
   "note": "after-hours-futures-proxy"
  },
  "strip": {
@@ -489,20 +489,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 102.01,
-    "pct": -0.75
+    "price": 101.94,
+    "pct": -0.82
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4030.2,
-    "pct": -0.53
+    "price": 4030.7,
+    "pct": -0.52
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.198,
-    "pct": 0.0
+    "price": 102.218,
+    "pct": 0.02
    },
    {
     "sym": "SPY",
@@ -519,13 +519,13 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 17.15,
-    "pct": 1.42
+    "price": 17.14,
+    "pct": 1.36
    }
   ],
-  "as_of": "2026-10-29T12:09:05.458069+00:00",
+  "as_of": "2026-10-29T12:12:05.793600+00:00",
   "tone": "risk-on",
-  "age_min": 0.9747173166666666
+  "age_min": 2.9908259
  },
  "stories": [
   {
@@ -540,6 +540,13 @@
    "title": "Saudi Arabia Contains Fire Near Ras Tanura Oil Hub After Attack - Bloomberg.com",
    "source": "Bloomberg.com",
    "published": "Tue, 27 Oct 2026 09:14:45 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iran says 3 oil tankers struck mines, and other Mideast news - Ottumwa Courier",
+   "source": "Ottumwa Courier",
+   "published": "Thu, 29 Oct 2026 11:35:43 GMT",
    "read": "escalation"
   },
   {
@@ -562,13 +569,6 @@
    "source": "Radio Free Europe/Radio Liberty",
    "published": "Thu, 29 Oct 2026 10:55:34 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran\u2019s IRGC says three tankers on fire after hitting mines in Hormuz - Al Arabiya English",
-   "source": "Al Arabiya English",
-   "published": "Thu, 29 Oct 2026 10:31:00 GMT",
-   "read": "escalation"
   }
  ],
  "ratings": [],
@@ -673,29 +673,29 @@
    {
     "code": "FR",
     "name": "France",
-    "level": 4.9319,
+    "level": 4.9279,
     "as_of": "2026-10-29",
     "spread_bp": 154.9,
-    "d_day_bps": 1.5
+    "d_day_bps": 1.1
    },
    {
     "code": "DE",
     "name": "Germany",
-    "level": 3.3832,
+    "level": 3.379,
     "as_of": "2026-10-29",
     "spread_bp": null,
-    "d_day_bps": 2.1
+    "d_day_bps": 1.7
    },
    {
     "code": "IT",
     "name": "Italy",
-    "level": 4.5298,
+    "level": 4.5234,
     "as_of": "2026-10-29",
-    "spread_bp": 114.7,
-    "d_day_bps": 1.7
+    "spread_bp": 114.4,
+    "d_day_bps": 1.1
    }
   ],
-  "bund": 3.3832,
+  "bund": 3.379,
   "note": "10-year government bonds; spread measured over Germany"
  },
  "auctions": {
