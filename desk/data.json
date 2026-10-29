@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-29T01:10:03+00:00",
+ "generated_utc": "2026-10-29T01:15:04+00:00",
  "date_et": "2026-10-28",
  "build": "0d463cfe05",
  "tape": [
@@ -399,20 +399,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 101.92,
-    "pct": -0.84
+    "price": 101.97,
+    "pct": -0.79
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4049.3,
-    "pct": -0.06
+    "price": 4056.1,
+    "pct": 0.11
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.24,
-    "pct": 0.05
+    "price": 102.262,
+    "pct": 0.07
    },
    {
     "sym": "SPY",
@@ -433,9 +433,9 @@
     "pct": -3.48
    }
   ],
-  "as_of": "2026-10-29T01:09:07.258538+00:00",
+  "as_of": "2026-10-29T01:12:05.747345+00:00",
   "tone": "risk-on",
-  "age_min": 0.9440373833333333
+  "age_min": 2.9773494166666667
  },
  "stories": [
   {
@@ -451,6 +451,13 @@
    "source": "The Washington Post",
    "published": "Wed, 28 Oct 2026 23:46:54 GMT",
    "read": "escalation"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "U.S. Is Discussing Sanctions Relief for Russian Fund, Official Acknowledges - The New York Times",
+   "source": "The New York Times",
+   "published": "Wed, 28 Oct 2026 23:35:02 GMT",
+   "read": "unclear"
   },
   {
    "topic": "Russia / Ukraine",
@@ -472,13 +479,6 @@
    "source": "Energies Media",
    "published": "Wed, 28 Oct 2026 22:15:15 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Saudi / Gulf supply",
-   "title": "Aramco Offers European Buyers Spot Oil as Yanbu Exports Near 2.5 mb/d - https://houseofsaud.com/",
-   "source": "https://houseofsaud.com/",
-   "published": "Wed, 28 Oct 2026 19:42:27 GMT",
-   "read": "unclear"
   }
  ],
  "ratings": [],
