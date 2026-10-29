@@ -1,112 +1,148 @@
 {
- "generated_utc": "2026-10-29T03:55:03+00:00",
- "date_et": "2026-10-28",
+ "generated_utc": "2026-10-29T04:00:04+00:00",
+ "date_et": "2026-10-29",
  "build": "0d463cfe05",
  "tape": [
   {
-   "time": "03:00",
-   "ccy": "EUR",
+   "time": "01:00",
+   "ccy": "JPY",
    "impact": "Low",
-   "title": "German GfK Consumer Climate",
-   "cons": "-30.1",
-   "prev": "-30.6",
-   "actual": "-30.8"
+   "title": "Consumer Confidence",
+   "cons": "35.1",
+   "prev": "35.4",
+   "actual": ""
   },
   {
    "time": "05:00",
-   "ccy": "CHF",
-   "impact": "Low",
-   "title": "UBS Economic Expectations",
-   "cons": "",
-   "prev": "2.6",
-   "actual": "-15.3"
-  },
-  {
-   "time": "06:32",
    "ccy": "EUR",
    "impact": "Low",
-   "title": "German 10-y Bond Auction",
-   "cons": "",
-   "prev": "3.58|1.2",
-   "actual": "3.37|1.1"
+   "title": "Italian Monthly Unemployment Rate",
+   "cons": "6.2%",
+   "prev": "6.2%",
+   "actual": ""
   },
   {
-   "time": "08:30",
+   "time": "05:30",
    "ccy": "GBP",
-   "impact": "High",
-   "title": "Annual Budget Release",
+   "impact": "Low",
+   "title": "M4 Money Supply m/m",
+   "cons": "0.3%",
+   "prev": "0.4%",
+   "actual": ""
+  },
+  {
+   "time": "05:30",
+   "ccy": "GBP",
+   "impact": "Low",
+   "title": "Mortgage Approvals",
+   "cons": "54K",
+   "prev": "55K",
+   "actual": ""
+  },
+  {
+   "time": "05:30",
+   "ccy": "GBP",
+   "impact": "Low",
+   "title": "Net Lending to Individuals m/m",
+   "cons": "6.2B",
+   "prev": "6.9B",
+   "actual": ""
+  },
+  {
+   "time": "05:33",
+   "ccy": "EUR",
+   "impact": "Low",
+   "title": "Italian 10-y Bond Auction",
    "cons": "",
-   "prev": "",
+   "prev": "4.58|1.6",
    "actual": ""
   },
   {
    "time": "08:30",
-   "ccy": "GBP",
+   "ccy": "USD",
+   "impact": "High",
+   "title": "Advance GDP q/q",
+   "cons": "3.2%",
+   "prev": "1.5%",
+   "actual": ""
+  },
+  {
+   "time": "08:30",
+   "ccy": "USD",
+   "impact": "High",
+   "title": "Core PCE Price Index m/m",
+   "cons": "0.3%",
+   "prev": "0.2%",
+   "actual": ""
+  },
+  {
+   "time": "08:30",
+   "ccy": "USD",
    "impact": "Medi",
-   "title": "Autumn Forecast Statement",
-   "cons": "",
-   "prev": "",
+   "title": "Advance GDP Price Index q/q",
+   "cons": "3.2%",
+   "prev": "6.2%",
+   "actual": ""
+  },
+  {
+   "time": "08:30",
+   "ccy": "USD",
+   "impact": "High",
+   "title": "Unemployment Claims",
+   "cons": "198K",
+   "prev": "194K",
    "actual": ""
   },
   {
    "time": "08:30",
    "ccy": "USD",
    "impact": "Low",
-   "title": "Goods Trade Balance",
-   "cons": "-130.4B",
-   "prev": "-132.6B",
-   "actual": "-134.9B"
+   "title": "Personal Income m/m",
+   "cons": "0.3%",
+   "prev": "0.2%",
+   "actual": ""
   },
   {
    "time": "08:30",
    "ccy": "USD",
    "impact": "Low",
-   "title": "Prelim Wholesale Inventories m/m",
-   "cons": "0.5%",
-   "prev": "0.7%",
-   "actual": "0.6%"
+   "title": "Personal Spending m/m",
+   "cons": "0.6%",
+   "prev": "0.9%",
+   "actual": ""
   },
   {
-   "time": "09:00",
-   "ccy": "CNY",
+   "time": "08:50",
+   "ccy": "CAD",
    "impact": "Low",
-   "title": "CB Leading Index m/m",
+   "title": "Gov Council Member Gravelle Speaks",
    "cons": "",
-   "prev": "-0.2%",
-   "actual": "-0.1%"
+   "prev": "",
+   "actual": ""
   },
   {
-   "time": "09:45",
-   "ccy": "CAD",
+   "time": "09:15",
+   "ccy": "EUR",
    "impact": "High",
-   "title": "BOC Monetary Policy Report",
+   "title": "Main Refinancing Rate",
+   "cons": "2.65%",
+   "prev": "2.65%",
+   "actual": ""
+  },
+  {
+   "time": "09:15",
+   "ccy": "EUR",
+   "impact": "High",
+   "title": "Monetary Policy Statement",
    "cons": "",
    "prev": "",
    "actual": ""
   },
   {
    "time": "09:45",
-   "ccy": "CAD",
+   "ccy": "EUR",
    "impact": "High",
-   "title": "BOC Rate Statement",
-   "cons": "",
-   "prev": "",
-   "actual": ""
-  },
-  {
-   "time": "09:45",
-   "ccy": "CAD",
-   "impact": "High",
-   "title": "Overnight Rate",
-   "cons": "2.50%",
-   "prev": "2.25%",
-   "actual": "2.50%"
-  },
-  {
-   "time": "10:30",
-   "ccy": "CAD",
-   "impact": "High",
-   "title": "BOC Press Conference",
+   "title": "ECB Press Conference",
    "cons": "",
    "prev": "",
    "actual": ""
@@ -115,55 +151,109 @@
    "time": "10:30",
    "ccy": "USD",
    "impact": "Low",
-   "title": "Crude Oil Inventories",
-   "cons": "0.1M",
-   "prev": "-3.1M",
-   "actual": "-1.9M"
-  },
-  {
-   "time": "14:00",
-   "ccy": "USD",
-   "impact": "High",
-   "title": "Federal Funds Rate",
-   "cons": "4.00%",
-   "prev": "4.00%",
-   "actual": "4.00%"
-  },
-  {
-   "time": "14:00",
-   "ccy": "USD",
-   "impact": "High",
-   "title": "FOMC Statement",
-   "cons": "",
-   "prev": "",
+   "title": "Natural Gas Storage",
+   "cons": "75B",
+   "prev": "77B",
    "actual": ""
   },
   {
-   "time": "14:30",
-   "ccy": "USD",
-   "impact": "High",
-   "title": "FOMC Press Conference",
-   "cons": "",
-   "prev": "",
-   "actual": ""
-  },
-  {
-   "time": "20:00",
-   "ccy": "NZD",
+   "time": "11:30",
+   "ccy": "CAD",
    "impact": "Low",
-   "title": "ANZ Business Confidence",
+   "title": "Gov Council Member Vincent Speaks",
    "cons": "",
-   "prev": "51.9",
-   "actual": "52.5"
+   "prev": "",
+   "actual": ""
+  },
+  {
+   "time": "13:30",
+   "ccy": "CHF",
+   "impact": "Low",
+   "title": "Gov Board Member Tschudin Speaks",
+   "cons": "",
+   "prev": "",
+   "actual": ""
+  },
+  {
+   "time": "19:30",
+   "ccy": "JPY",
+   "impact": "Medi",
+   "title": "Tokyo Core CPI y/y",
+   "cons": "2.6%",
+   "prev": "2.7%",
+   "actual": ""
+  },
+  {
+   "time": "19:30",
+   "ccy": "JPY",
+   "impact": "Low",
+   "title": "Unemployment Rate",
+   "cons": "2.5%",
+   "prev": "2.5%",
+   "actual": ""
+  },
+  {
+   "time": "19:50",
+   "ccy": "JPY",
+   "impact": "Low",
+   "title": "Prelim Industrial Production m/m",
+   "cons": "1.2%",
+   "prev": "-1.7%",
+   "actual": ""
+  },
+  {
+   "time": "19:50",
+   "ccy": "JPY",
+   "impact": "Low",
+   "title": "Retail Sales y/y",
+   "cons": "3.3%",
+   "prev": "2.7%",
+   "actual": ""
   },
   {
    "time": "20:30",
    "ccy": "AUD",
    "impact": "Low",
-   "title": "Import Prices q/q",
-   "cons": "1.3%",
-   "prev": "5.7%",
-   "actual": "-1.1%"
+   "title": "PPI q/q",
+   "cons": "1.0%",
+   "prev": "1.3%",
+   "actual": ""
+  },
+  {
+   "time": "20:30",
+   "ccy": "AUD",
+   "impact": "Low",
+   "title": "Private Sector Credit m/m",
+   "cons": "0.5%",
+   "prev": "0.6%",
+   "actual": ""
+  },
+  {
+   "time": "22:30",
+   "ccy": "JPY",
+   "impact": "High",
+   "title": "BOJ Policy Rate",
+   "cons": "<1.25%",
+   "prev": "<1.25%",
+   "actual": ""
+  },
+  {
+   "time": "22:30",
+   "ccy": "JPY",
+   "impact": "High",
+   "title": "Monetary Policy Statement",
+   "cons": "",
+   "prev": "",
+   "actual": ""
+  },
+  {
+   "time": "22:31",
+   "ccy": "JPY",
+   "impact": "High",
+   "title": "BOJ Outlook Report",
+   "cons": "",
+   "prev": "",
+   "actual": ""
   }
  ],
  "rates": {
@@ -399,19 +489,19 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 101.41,
-    "pct": -1.33
+    "price": 101.44,
+    "pct": -1.3
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4055.5,
-    "pct": 0.1
+    "price": 4054.3,
+    "pct": 0.07
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.162,
+    "price": 102.164,
     "pct": -0.03
    },
    {
@@ -433,9 +523,9 @@
     "pct": -3.48
    }
   ],
-  "as_of": "2026-10-29T03:54:05.859710+00:00",
+  "as_of": "2026-10-29T03:57:05.829746+00:00",
   "tone": "risk-on",
-  "age_min": 0.9690847333333333
+  "age_min": 2.9771115166666666
  },
  "stories": [
   {
