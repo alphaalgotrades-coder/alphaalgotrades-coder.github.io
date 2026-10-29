@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-29T02:10:03+00:00",
+ "generated_utc": "2026-10-29T02:15:04+00:00",
  "date_et": "2026-10-28",
  "build": "0d463cfe05",
  "tape": [
@@ -399,19 +399,19 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 101.83,
-    "pct": -0.92
+    "price": 101.78,
+    "pct": -0.97
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4074.4,
-    "pct": 0.56
+    "price": 4075.4,
+    "pct": 0.59
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.121,
+    "price": 102.12,
     "pct": -0.07
    },
    {
@@ -433,9 +433,9 @@
     "pct": -3.48
    }
   ],
-  "as_of": "2026-10-29T02:09:14.639560+00:00",
+  "as_of": "2026-10-29T02:12:05.985755+00:00",
   "tone": "risk-on",
-  "age_min": 0.8220826333333334
+  "age_min": 2.9753115833333337
  },
  "stories": [
   {
@@ -444,13 +444,6 @@
    "source": "Reuters",
    "published": "Wed, 28 Oct 2026 23:59:43 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Vance makes Tehran outreach as Middle East braces for resumption of Iran war - The Washington Post",
-   "source": "The Washington Post",
-   "published": "Wed, 28 Oct 2026 23:46:54 GMT",
-   "read": "escalation"
   },
   {
    "topic": "Russia / Ukraine",
@@ -479,6 +472,13 @@
    "source": "Energies Media",
    "published": "Wed, 28 Oct 2026 22:15:15 GMT",
    "read": "escalation"
+  },
+  {
+   "topic": "Saudi / Gulf supply",
+   "title": "Aramco Offers European Buyers Spot Oil as Yanbu Exports Near 2.5 mb/d - https://houseofsaud.com/",
+   "source": "https://houseofsaud.com/",
+   "published": "Wed, 28 Oct 2026 19:42:27 GMT",
+   "read": "unclear"
   }
  ],
  "ratings": [],
