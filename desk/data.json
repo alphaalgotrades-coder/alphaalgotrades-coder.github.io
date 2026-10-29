@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-29T06:50:03+00:00",
+ "generated_utc": "2026-10-29T06:55:03+00:00",
  "date_et": "2026-10-29",
  "build": "0d463cfe05",
  "tape": [
@@ -489,20 +489,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 101.67,
-    "pct": -1.08
+    "price": 101.57,
+    "pct": -1.18
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4038.2,
-    "pct": -0.33
+    "price": 4042.8,
+    "pct": -0.22
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.233,
-    "pct": 0.04
+    "price": 102.229,
+    "pct": 0.03
    },
    {
     "sym": "SPY",
@@ -523,25 +523,11 @@
     "pct": -3.48
    }
   ],
-  "as_of": "2026-10-29T06:48:05.303003+00:00",
+  "as_of": "2026-10-29T06:54:05.247919+00:00",
   "tone": "risk-on",
-  "age_min": 1.9808305
+  "age_min": 0.97961525
  },
  "stories": [
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Abbas Araghchi Says Iran Reviews Plan to Reopen Strait of Hormuz Within Days: 14 outlets compared - NewsCord",
-   "source": "NewsCord",
-   "published": "Wed, 28 Oct 2026 23:24:39 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Putin Calls Musk a \u2018Genius,\u2019 Claims Close Cooperation as Ukraine Faces Starlink Disruptions - Kyiv Post",
-   "source": "Kyiv Post",
-   "published": "Wed, 28 Oct 2026 23:18:59 GMT",
-   "read": "unclear"
-  },
   {
    "topic": "Taiwan / China",
    "title": "The Evolution of Taiwan\u2019s Military - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
@@ -568,6 +554,20 @@
    "title": "Iran\u2019s Hormuz authority to take 'legal action' against Sinokor fleet - Seatrade Maritime News",
    "source": "Seatrade Maritime News",
    "published": "Tue, 27 Oct 2026 13:41:40 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Saudi / Gulf supply",
+   "title": "Saudi Arabia Contains Fire Near Ras Tanura Oil Hub After Attack - Bloomberg.com",
+   "source": "Bloomberg.com",
+   "published": "Tue, 27 Oct 2026 09:14:45 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iran\u2019s army says it downed MQ-1 drone east of Strait of Hormuz - Anadolu Ajans\u0131",
+   "source": "Anadolu Ajans\u0131",
+   "published": "Thu, 29 Oct 2026 06:37:16 GMT",
    "read": "escalation"
   }
  ],
