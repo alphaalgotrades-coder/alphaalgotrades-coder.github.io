@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-29T08:50:02+00:00",
+ "generated_utc": "2026-10-29T08:55:02+00:00",
  "date_et": "2026-10-29",
  "build": "0d463cfe05",
  "tape": [
@@ -489,20 +489,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 101.55,
-    "pct": -1.2
+    "price": 101.56,
+    "pct": -1.19
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4041.2,
-    "pct": -0.26
+    "price": 4036.3,
+    "pct": -0.38
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 102.239,
-    "pct": 0.04
+    "price": 102.245,
+    "pct": 0.05
    },
    {
     "sym": "SPY",
@@ -519,13 +519,13 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 17.14,
-    "pct": 1.36
+    "price": 17.19,
+    "pct": 1.66
    }
   ],
-  "as_of": "2026-10-29T08:48:05.777775+00:00",
+  "as_of": "2026-10-29T08:54:05.719771+00:00",
   "tone": "risk-on",
-  "age_min": 1.9555787166666667
+  "age_min": 0.9565055333333333
  },
  "stories": [
   {
@@ -540,6 +540,13 @@
    "title": "Saudi Arabia Contains Fire Near Ras Tanura Oil Hub After Attack - Bloomberg.com",
    "source": "Bloomberg.com",
    "published": "Tue, 27 Oct 2026 09:14:45 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "EA-Ukraine VideoCast: Why Kremlin Won\u2019t Re-Enter Meaningful Talks to End Invasion - EA WorldView",
+   "source": "EA WorldView",
+   "published": "Thu, 29 Oct 2026 08:42:45 GMT",
    "read": "escalation"
   },
   {
@@ -561,13 +568,6 @@
    "title": "Ukraine War, Day 1,708: Kremlin Puts Resumption of Talks in Doubt - EA WorldView",
    "source": "EA WorldView",
    "published": "Thu, 29 Oct 2026 06:43:03 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran\u2019s army says it downed MQ-1 drone east of Strait of Hormuz - Anadolu Ajans\u0131",
-   "source": "Anadolu Ajans\u0131",
-   "published": "Thu, 29 Oct 2026 06:37:16 GMT",
    "read": "escalation"
   }
  ],
