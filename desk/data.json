@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-30T09:30:04+00:00",
+ "generated_utc": "2026-10-30T09:35:04+00:00",
  "date_et": "2026-10-30",
  "build": "0d463cfe05",
  "tape": [
@@ -462,20 +462,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 103.5,
-    "pct": 1.47
+    "price": 103.52,
+    "pct": 1.49
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4003.1,
-    "pct": -0.7
+    "price": 4001.3,
+    "pct": -0.75
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.705,
-    "pct": -0.33
+    "price": 101.69,
+    "pct": -0.34
    },
    {
     "sym": "SPY",
@@ -492,13 +492,13 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 18.13,
-    "pct": 5.41
+    "price": 18.17,
+    "pct": 5.64
    }
   ],
-  "as_of": "2026-10-30T09:27:05.972735+00:00",
+  "as_of": "2026-10-30T09:33:05.995831+00:00",
   "tone": "risk-off",
-  "age_min": 2.9799982666666667
+  "age_min": 1.9738853666666667
  },
  "stories": [
   {
@@ -513,13 +513,6 @@
    "title": "Putin Claims Readiness for European War While Claiming It Seeks Avoidance - UNITED24 Media",
    "source": "UNITED24 Media",
    "published": "Thu, 29 Oct 2026 19:50:37 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran says four tankers on fire after hitting mines in Hormuz - The New Arab",
-   "source": "The New Arab",
-   "published": "Thu, 29 Oct 2026 18:30:39 GMT",
    "read": "escalation"
   },
   {
@@ -542,6 +535,13 @@
    "source": "The Independent",
    "published": "Thu, 29 Oct 2026 08:52:00 GMT",
    "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "IDF fears U.S. may seek short Iran war that ends before Israel meets goals - Haaretz",
+   "source": "Haaretz",
+   "published": "Fri, 30 Oct 2026 09:00:00 GMT",
+   "read": "unclear"
   }
  ],
  "ratings": [],
