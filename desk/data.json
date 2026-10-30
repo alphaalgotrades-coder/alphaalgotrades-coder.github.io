@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-30T23:50:04+00:00",
+ "generated_utc": "2026-10-30T23:55:04+00:00",
  "date_et": "2026-10-30",
  "build": "0d463cfe05",
  "tape": [
@@ -505,17 +505,24 @@
     "pct": 12.91
    }
   ],
-  "as_of": "2026-10-30T23:48:05.366128+00:00",
+  "as_of": "2026-10-30T23:54:05.412145+00:00",
   "tone": "risk-off",
-  "age_min": 1.98227325
+  "age_min": 0.9813685
  },
  "stories": [
   {
    "topic": "Taiwan / China",
-   "title": "Taiwan vows vigilance as Beijing releases satellite imagery of island landmarks - South China Morning Post",
-   "source": "South China Morning Post",
-   "published": "Tue, 27 Oct 2026 14:00:17 GMT",
-   "read": "escalation"
+   "title": "China &amp; Taiwan Update, October 27, 2026 - Institute for the Study of War",
+   "source": "Institute for the Study of War",
+   "published": "Tue, 27 Oct 2026 23:46:40 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Saudi / Gulf supply",
+   "title": "Saudi Arabia to store crude oil in Singapore from the second half of 2027 - Capmad",
+   "source": "Capmad",
+   "published": "Tue, 27 Oct 2026 00:27:00 GMT",
+   "read": "unclear"
   },
   {
    "topic": "Taiwan / China",
@@ -544,13 +551,6 @@
    "source": "New York Post",
    "published": "Fri, 30 Oct 2026 20:53:00 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Oleshky evacuation begins as former U.S. Ambassador to Ukraine calls Vladimir Putin an \u201cobstacle\u201d to talks - VOA - Voice of America English News",
-   "source": "VOA - Voice of America English News",
-   "published": "Fri, 30 Oct 2026 20:46:17 GMT",
-   "read": "unclear"
   }
  ],
  "ratings": [],
