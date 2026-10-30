@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-30T04:10:03+00:00",
+ "generated_utc": "2026-10-30T04:15:04+00:00",
  "date_et": "2026-10-30",
  "build": "0d463cfe05",
  "tape": [
@@ -462,20 +462,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 103.17,
-    "pct": 1.15
+    "price": 103.25,
+    "pct": 1.23
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4003.7,
-    "pct": -0.69
+    "price": 4002.0,
+    "pct": -0.73
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.764,
-    "pct": -0.27
+    "price": 101.755,
+    "pct": -0.28
    },
    {
     "sym": "SPY",
@@ -496,9 +496,9 @@
     "pct": 1.71
    }
   ],
-  "as_of": "2026-10-30T04:09:05.589519+00:00",
+  "as_of": "2026-10-30T04:12:05.695461+00:00",
   "tone": "risk-off",
-  "age_min": 0.9684672
+  "age_min": 2.9746679
  },
  "stories": [
   {
@@ -509,20 +509,6 @@
    "read": "unclear"
   },
   {
-   "topic": "Taiwan / China",
-   "title": "Army commander: China invasion of Taiwan by April remains real threat - Washington Times",
-   "source": "Washington Times",
-   "published": "Thu, 29 Oct 2026 23:29:46 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Russian Offensive Campaign Assessment, October 29, 2026 - Critical Threats",
-   "source": "Critical Threats",
-   "published": "Thu, 29 Oct 2026 22:50:44 GMT",
-   "read": "unclear"
-  },
-  {
    "topic": "Russia / Ukraine",
    "title": "Putin says Russia is \u2018ready for war\u2019 with Europe in chilling threat - The Independent",
    "source": "The Independent",
@@ -530,18 +516,32 @@
    "read": "escalation"
   },
   {
-   "topic": "Russia / Ukraine",
-   "title": "Kremlin: Trilateral Ukraine talks depend on battlefield situation - Santa Clarita Valley Signal",
-   "source": "Santa Clarita Valley Signal",
-   "published": "Thu, 29 Oct 2026 21:13:14 GMT",
-   "read": "unclear"
-  },
-  {
    "topic": "Iran / Hormuz",
    "title": "Iran says 3 oil tankers struck mines, and other Mideast news - Marietta Daily Journal",
    "source": "Marietta Daily Journal",
    "published": "Thu, 29 Oct 2026 21:10:10 GMT",
    "read": "escalation"
+  },
+  {
+   "topic": "Taiwan / China",
+   "title": "Taiwan 2027 conflict window remains valid, Army Pacific commander says - Breaking Defense",
+   "source": "Breaking Defense",
+   "published": "Thu, 29 Oct 2026 17:59:37 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Taiwan / China",
+   "title": "Chinese warships and aircraft operate around Taiwan overnight - The Defence Blog",
+   "source": "The Defence Blog",
+   "published": "Thu, 29 Oct 2026 06:51:39 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Taiwan / China",
+   "title": "Xi Jinping expels dozens of top officials as purge deepens - AFR",
+   "source": "AFR",
+   "published": "Fri, 30 Oct 2026 03:04:00 GMT",
+   "read": "unclear"
   }
  ],
  "ratings": [],
