@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-30T21:30:05+00:00",
+ "generated_utc": "2026-10-30T21:35:04+00:00",
  "date_et": "2026-10-30",
  "build": "0d463cfe05",
  "tape": [
@@ -505,9 +505,9 @@
     "pct": 12.91
    }
   ],
-  "as_of": "2026-10-30T21:27:05.557609+00:00",
+  "as_of": "2026-10-30T21:33:05.668771+00:00",
   "tone": "risk-off",
-  "age_min": 3.006064883333333
+  "age_min": 1.9812173
  },
  "stories": [
   {
@@ -547,10 +547,10 @@
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Trump says Iran war will end soon, US military insists Hormuz is secure - \u30a2\u30e9\u30d6\u30cb\u30e5\u30fc\u30b9",
-   "source": "\u30a2\u30e9\u30d6\u30cb\u30e5\u30fc\u30b9",
-   "published": "Fri, 30 Oct 2026 20:12:41 GMT",
-   "read": "unclear"
+   "title": "Oman Evacuates Tanker Crew as Iran Claims Spate of New Attacks - The Maritime Executive",
+   "source": "The Maritime Executive",
+   "published": "Fri, 30 Oct 2026 20:16:28 GMT",
+   "read": "escalation"
   }
  ],
  "ratings": [],
