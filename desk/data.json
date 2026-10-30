@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-30T06:40:04+00:00",
+ "generated_utc": "2026-10-30T06:45:04+00:00",
  "date_et": "2026-10-30",
  "build": "0d463cfe05",
  "tape": [
@@ -37,7 +37,7 @@
    "title": "French Flash GDP q/q",
    "cons": "0.1%",
    "prev": "0.2%",
-   "actual": ""
+   "actual": "-0.1%"
   },
   {
    "time": "03:00",
@@ -462,20 +462,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 102.87,
-    "pct": 0.85
+    "price": 102.63,
+    "pct": 0.62
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4002.9,
-    "pct": -0.71
+    "price": 3998.5,
+    "pct": -0.82
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.78,
-    "pct": -0.25
+    "price": 101.809,
+    "pct": -0.22
    },
    {
     "sym": "SPY",
@@ -496,9 +496,9 @@
     "pct": 1.71
    }
   ],
-  "as_of": "2026-10-30T06:39:06.468339+00:00",
+  "as_of": "2026-10-30T06:42:14.502704+00:00",
   "tone": "risk-off",
-  "age_min": 0.9680206333333333
+  "age_min": 2.8393118
  },
  "stories": [
   {
