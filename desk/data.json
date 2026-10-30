@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-30T08:05:04+00:00",
+ "generated_utc": "2026-10-30T08:10:04+00:00",
  "date_et": "2026-10-30",
  "build": "0d463cfe05",
  "tape": [
@@ -91,7 +91,7 @@
    "title": "KOF Economic Barometer",
    "cons": "108.1",
    "prev": "109.1",
-   "actual": ""
+   "actual": "107.6"
   },
   {
    "time": "04:00",
@@ -100,7 +100,7 @@
    "title": "Spanish Flash CPI y/y",
    "cons": "4.9%",
    "prev": "4.9%",
-   "actual": ""
+   "actual": "4.9%"
   },
   {
    "time": "04:00",
@@ -109,7 +109,7 @@
    "title": "Spanish Flash GDP q/q",
    "cons": "0.6%",
    "prev": "0.7%",
-   "actual": ""
+   "actual": "0.6%"
   },
   {
    "time": "04:55",
@@ -462,20 +462,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 103.99,
-    "pct": 1.95
+    "price": 103.89,
+    "pct": 1.85
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 3977.0,
-    "pct": -1.35
+    "price": 3982.3,
+    "pct": -1.22
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.805,
-    "pct": -0.23
+    "price": 101.77,
+    "pct": -0.26
    },
    {
     "sym": "SPY",
@@ -492,13 +492,13 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 18.43,
-    "pct": 7.15
+    "price": 18.54,
+    "pct": 7.79
    }
   ],
-  "as_of": "2026-10-30T08:03:05.167692+00:00",
+  "as_of": "2026-10-30T08:09:05.497972+00:00",
   "tone": "risk-off",
-  "age_min": 1.9932228666666667
+  "age_min": 0.9774519500000001
  },
  "stories": [
   {
