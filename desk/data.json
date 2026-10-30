@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-30T05:10:03+00:00",
+ "generated_utc": "2026-10-30T05:15:04+00:00",
  "date_et": "2026-10-30",
  "build": "0d463cfe05",
  "tape": [
@@ -462,20 +462,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 102.96,
-    "pct": 0.94
+    "price": 102.99,
+    "pct": 0.97
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4006.2,
-    "pct": -0.63
+    "price": 4009.4,
+    "pct": -0.55
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.784,
-    "pct": -0.25
+    "price": 101.793,
+    "pct": -0.24
    },
    {
     "sym": "SPY",
@@ -496,9 +496,9 @@
     "pct": 1.71
    }
   ],
-  "as_of": "2026-10-30T05:09:04.419324+00:00",
+  "as_of": "2026-10-30T05:12:04.487438+00:00",
   "tone": "risk-off",
-  "age_min": 0.9924072666666667
+  "age_min": 2.99816175
  },
  "stories": [
   {
@@ -514,6 +514,13 @@
    "source": "Breaking Defense",
    "published": "Thu, 29 Oct 2026 17:59:37 GMT",
    "read": "unclear"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Oil spills from Iran\u2019s tanker attacks wash up on UAE beaches - Financial Times",
+   "source": "Financial Times",
+   "published": "Fri, 30 Oct 2026 05:03:45 GMT",
+   "read": "escalation"
   },
   {
    "topic": "Iran / Hormuz",
@@ -534,13 +541,6 @@
    "title": "Crude Oil Extends Gains as Houthi Attacks on Saudi Refineries Tighten Supply Chain; Brent Headed for 14% Monthly Rise - BigGo Finance",
    "source": "BigGo Finance",
    "published": "Fri, 30 Oct 2026 03:25:00 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Saudi / Gulf supply",
-   "title": "Oil prices rise on supply concerns as Houthis attack Saudi Arabia - Business Standard",
-   "source": "Business Standard",
-   "published": "Fri, 30 Oct 2026 03:15:40 GMT",
    "read": "escalation"
   }
  ],
