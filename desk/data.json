@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-30T01:50:04+00:00",
+ "generated_utc": "2026-10-30T01:55:04+00:00",
  "date_et": "2026-10-29",
  "build": "0d463cfe05",
  "tape": [
@@ -489,20 +489,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 103.39,
-    "pct": 1.36
+    "price": 104.39,
+    "pct": 2.34
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4014.5,
-    "pct": -0.42
+    "price": 4009.6,
+    "pct": -0.54
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.689,
-    "pct": -0.34
+    "price": 101.726,
+    "pct": -0.3
    },
    {
     "sym": "SPY",
@@ -523,17 +523,17 @@
     "pct": 1.71
    }
   ],
-  "as_of": "2026-10-30T01:48:05.747446+00:00",
+  "as_of": "2026-10-30T01:54:05.964849+00:00",
   "tone": "risk-off",
-  "age_min": 1.9750770666666668
+  "age_min": 0.9710327666666667
  },
  "stories": [
   {
    "topic": "Saudi / Gulf supply",
-   "title": "Oil Prices Rise on Worries of Middle East Conflict Escalation - WSJ",
-   "source": "WSJ",
-   "published": "Wed, 28 Oct 2026 19:24:37 GMT",
-   "read": "escalation"
+   "title": "Gulf equities mixed as Ras Tanura strike unnerves investors - Reuters",
+   "source": "Reuters",
+   "published": "Wed, 28 Oct 2026 13:04:50 GMT",
+   "read": "unclear"
   },
   {
    "topic": "Taiwan / China",
