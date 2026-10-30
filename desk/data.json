@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-30T21:50:04+00:00",
+ "generated_utc": "2026-10-30T21:55:04+00:00",
  "date_et": "2026-10-30",
  "build": "0d463cfe05",
  "tape": [
@@ -505,9 +505,9 @@
     "pct": 12.91
    }
   ],
-  "as_of": "2026-10-30T21:48:05.508830+00:00",
+  "as_of": "2026-10-30T21:54:06.274294+00:00",
   "tone": "risk-off",
-  "age_min": 1.9795752666666668
+  "age_min": 0.96785105
  },
  "stories": [
   {
@@ -532,18 +532,18 @@
    "read": "unclear"
   },
   {
+   "topic": "Iran / Hormuz",
+   "title": "Iran says 4 tankers strike mines and catch fire in Strait of Hormuz, and other Mideast news - AP News",
+   "source": "AP News",
+   "published": "Fri, 30 Oct 2026 21:10:00 GMT",
+   "read": "escalation"
+  },
+  {
    "topic": "Russia / Ukraine",
    "title": "Oleshky evacuation begins as former U.S. Ambassador to Ukraine calls Vladimir Putin an \u201cobstacle\u201d to talks - VOA - Voice of America English News",
    "source": "VOA - Voice of America English News",
    "published": "Fri, 30 Oct 2026 20:46:17 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran's IRGC Navy says four tankers catch fire in Strait of Hormuz - Reuters",
-   "source": "Reuters",
-   "published": "Fri, 30 Oct 2026 20:40:06 GMT",
-   "read": "escalation"
   },
   {
    "topic": "Iran / Hormuz",
