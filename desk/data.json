@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-30T02:30:04+00:00",
+ "generated_utc": "2026-10-30T02:35:04+00:00",
  "date_et": "2026-10-29",
  "build": "0d463cfe05",
  "tape": [
@@ -489,20 +489,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 104.13,
-    "pct": 2.09
+    "price": 103.93,
+    "pct": 1.89
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4023.7,
-    "pct": -0.19
+    "price": 4018.8,
+    "pct": -0.31
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.723,
-    "pct": -0.31
+    "price": 101.748,
+    "pct": -0.28
    },
    {
     "sym": "SPY",
@@ -523,9 +523,9 @@
     "pct": 1.71
    }
   ],
-  "as_of": "2026-10-30T02:27:05.657376+00:00",
+  "as_of": "2026-10-30T02:33:06.348828+00:00",
   "tone": "risk-off",
-  "age_min": 2.9895408833333335
+  "age_min": 1.9646586833333333
  },
  "stories": [
   {
@@ -540,6 +540,13 @@
    "title": "Army commander: China invasion of Taiwan by April remains real threat - Washington Times",
    "source": "Washington Times",
    "published": "Thu, 29 Oct 2026 23:29:46 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Russian Offensive Campaign Assessment, October 29, 2026 - Critical Threats",
+   "source": "Critical Threats",
+   "published": "Thu, 29 Oct 2026 22:50:44 GMT",
    "read": "unclear"
   },
   {
@@ -562,13 +569,6 @@
    "source": "Marietta Daily Journal",
    "published": "Thu, 29 Oct 2026 21:10:10 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Putin Has Shown No Willingness To End Ukraine War, Says Mike Pompeo - Radio Free Europe/Radio Liberty",
-   "source": "Radio Free Europe/Radio Liberty",
-   "published": "Thu, 29 Oct 2026 20:54:12 GMT",
-   "read": "unclear"
   }
  ],
  "ratings": [],
