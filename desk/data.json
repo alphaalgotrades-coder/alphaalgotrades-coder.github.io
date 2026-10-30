@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-30T07:50:04+00:00",
+ "generated_utc": "2026-10-30T07:55:03+00:00",
  "date_et": "2026-10-30",
  "build": "0d463cfe05",
  "tape": [
@@ -73,7 +73,7 @@
    "title": "French Prelim CPI m/m",
    "cons": "0.2%",
    "prev": "-0.3%",
-   "actual": ""
+   "actual": "0.4%"
   },
   {
    "time": "03:45",
@@ -82,7 +82,7 @@
    "title": "French Prelim Private Payrolls q/q",
    "cons": "-0.1%",
    "prev": "-0.1%",
-   "actual": ""
+   "actual": "-0.1%"
   },
   {
    "time": "04:00",
@@ -462,20 +462,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 103.59,
-    "pct": 1.56
+    "price": 103.78,
+    "pct": 1.75
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 3991.0,
+    "price": 3991.1,
     "pct": -1.0
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.796,
-    "pct": -0.24
+    "price": 101.798,
+    "pct": -0.23
    },
    {
     "sym": "SPY",
@@ -496,9 +496,9 @@
     "pct": 7.27
    }
   ],
-  "as_of": "2026-10-30T07:48:05.497933+00:00",
+  "as_of": "2026-10-30T07:54:05.341766+00:00",
   "tone": "risk-off",
-  "age_min": 1.9816234833333333
+  "age_min": 0.9791968
  },
  "stories": [
   {
@@ -506,6 +506,13 @@
    "title": "Putin Claims Readiness for European War While Claiming It Seeks Avoidance - UNITED24 Media",
    "source": "UNITED24 Media",
    "published": "Thu, 29 Oct 2026 19:50:37 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iran says four tankers on fire after hitting mines in Hormuz - The New Arab",
+   "source": "The New Arab",
+   "published": "Thu, 29 Oct 2026 18:30:39 GMT",
    "read": "escalation"
   },
   {
@@ -530,17 +537,10 @@
    "read": "escalation"
   },
   {
-   "topic": "Iran / Hormuz",
-   "title": "Iran claims four tankers struck mines in Hormuz as strike fears grow after U.S. midterms - CNBC",
-   "source": "CNBC",
-   "published": "Fri, 30 Oct 2026 06:33:52 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "IRGC Air Force intercepts foreign fighter jet over Qeshm Island, reports say - The Jerusalem Post",
-   "source": "The Jerusalem Post",
-   "published": "Fri, 30 Oct 2026 06:10:16 GMT",
+   "topic": "Saudi / Gulf supply",
+   "title": "Houthis Claim Fresh Strikes on Saudi Oil Refineries and Aramco Facilities - Crude Oil Prices Today | OilPrice.com",
+   "source": "Crude Oil Prices Today | OilPrice.com",
+   "published": "Fri, 30 Oct 2026 07:30:00 GMT",
    "read": "escalation"
   }
  ],
