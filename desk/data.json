@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-30T00:50:04+00:00",
+ "generated_utc": "2026-10-30T00:55:03+00:00",
  "date_et": "2026-10-29",
  "build": "0d463cfe05",
  "tape": [
@@ -489,20 +489,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 102.79,
-    "pct": 0.77
+    "price": 102.68,
+    "pct": 0.67
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4020.0,
-    "pct": -0.28
+    "price": 4027.6,
+    "pct": -0.09
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.842,
-    "pct": -0.19
+    "price": 101.777,
+    "pct": -0.25
    },
    {
     "sym": "SPY",
@@ -523,9 +523,9 @@
     "pct": 1.71
    }
   ],
-  "as_of": "2026-10-30T00:48:05.540264+00:00",
+  "as_of": "2026-10-30T00:54:05.471531+00:00",
   "tone": "risk-off",
-  "age_min": 1.9846249666666667
+  "age_min": 0.9775179833333334
  },
  "stories": [
   {
@@ -536,11 +536,11 @@
    "read": "escalation"
   },
   {
-   "topic": "Saudi / Gulf supply",
-   "title": "Saudi Arabia Contains Fire Near Ras Tanura Oil Hub After Attack - Bloomberg.com",
-   "source": "Bloomberg.com",
-   "published": "Tue, 27 Oct 2026 09:14:45 GMT",
-   "read": "de-escalation"
+   "topic": "Taiwan / China",
+   "title": "Army commander: China invasion of Taiwan by April remains real threat - Washington Times",
+   "source": "Washington Times",
+   "published": "Thu, 29 Oct 2026 23:29:46 GMT",
+   "read": "unclear"
   },
   {
    "topic": "Russia / Ukraine",
