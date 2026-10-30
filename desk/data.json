@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-30T06:50:04+00:00",
+ "generated_utc": "2026-10-30T06:55:04+00:00",
  "date_et": "2026-10-30",
  "build": "0d463cfe05",
  "tape": [
@@ -462,20 +462,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 102.68,
-    "pct": 0.67
+    "price": 102.85,
+    "pct": 0.83
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 3997.8,
-    "pct": -0.83
+    "price": 3996.3,
+    "pct": -0.87
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.811,
-    "pct": -0.22
+    "price": 101.822,
+    "pct": -0.21
    },
    {
     "sym": "SPY",
@@ -496,9 +496,9 @@
     "pct": 1.71
    }
   ],
-  "as_of": "2026-10-30T06:48:05.719585+00:00",
+  "as_of": "2026-10-30T06:54:06.048511+00:00",
   "tone": "risk-off",
-  "age_min": 1.9797024333333333
+  "age_min": 0.9717598833333334
  },
  "stories": [
   {
@@ -524,23 +524,23 @@
   },
   {
    "topic": "Iran / Hormuz",
+   "title": "Iran claims four tankers struck mines in Hormuz as strike fears grow after U.S. midterms - CNBC",
+   "source": "CNBC",
+   "published": "Fri, 30 Oct 2026 06:33:52 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "IRGC Air Force intercepts foreign fighter jet over Qeshm Island, reports say - The Jerusalem Post",
+   "source": "The Jerusalem Post",
+   "published": "Fri, 30 Oct 2026 06:10:16 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
    "title": "Iran deploys new small-boat tactics in attack on tanker in the Strait of Hormuz - TradeWinds News",
    "source": "TradeWinds News",
    "published": "Fri, 30 Oct 2026 05:29:12 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran\u2019s Darzi Rejects Western Blame, Says US Blockade Threatens Navigation in Strait of Hormuz: 5 outlets compared - NewsCord",
-   "source": "NewsCord",
-   "published": "Fri, 30 Oct 2026 05:19:39 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Oil spills from Iran\u2019s tanker attacks wash up on UAE beaches - Financial Times",
-   "source": "Financial Times",
-   "published": "Fri, 30 Oct 2026 05:03:45 GMT",
    "read": "escalation"
   }
  ],
