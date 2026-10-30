@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-30T04:30:04+00:00",
+ "generated_utc": "2026-10-30T04:35:03+00:00",
  "date_et": "2026-10-30",
  "build": "0d463cfe05",
  "tape": [
@@ -462,20 +462,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 103.19,
-    "pct": 1.17
+    "price": 103.18,
+    "pct": 1.16
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4001.5,
-    "pct": -0.74
+    "price": 4001.9,
+    "pct": -0.73
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.755,
-    "pct": -0.28
+    "price": 101.761,
+    "pct": -0.27
    },
    {
     "sym": "SPY",
@@ -496,9 +496,9 @@
     "pct": 1.71
    }
   ],
-  "as_of": "2026-10-30T04:27:05.776122+00:00",
+  "as_of": "2026-10-30T04:33:05.978484+00:00",
   "tone": "risk-off",
-  "age_min": 2.979442816666667
+  "age_min": 1.9663297833333333
  },
  "stories": [
   {
@@ -516,13 +516,6 @@
    "read": "escalation"
   },
   {
-   "topic": "Iran / Hormuz",
-   "title": "Iran says 3 oil tankers struck mines, and other Mideast news - Marietta Daily Journal",
-   "source": "Marietta Daily Journal",
-   "published": "Thu, 29 Oct 2026 21:10:10 GMT",
-   "read": "escalation"
-  },
-  {
    "topic": "Taiwan / China",
    "title": "Taiwan 2027 conflict window remains valid, Army Pacific commander says - Breaking Defense",
    "source": "Breaking Defense",
@@ -530,10 +523,17 @@
    "read": "unclear"
   },
   {
-   "topic": "Taiwan / China",
-   "title": "Chinese warships and aircraft operate around Taiwan overnight - The Defence Blog",
-   "source": "The Defence Blog",
-   "published": "Thu, 29 Oct 2026 06:51:39 GMT",
+   "topic": "Iran / Hormuz",
+   "title": "Iran Says Four Tankers Struck Mines in Strait of Hormuz on Route U.S. Calls Mine-Free - The SOFX Report",
+   "source": "The SOFX Report",
+   "published": "Fri, 30 Oct 2026 04:21:45 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Saudi / Gulf supply",
+   "title": "Oil prices rise on supply concerns as Houthis attack Saudi Arabia - Business Standard",
+   "source": "Business Standard",
+   "published": "Fri, 30 Oct 2026 03:15:40 GMT",
    "read": "escalation"
   },
   {
