@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-30T08:55:04+00:00",
+ "generated_utc": "2026-10-30T09:00:05+00:00",
  "date_et": "2026-10-30",
  "build": "0d463cfe05",
  "tape": [
@@ -118,7 +118,7 @@
    "title": "German Unemployment Change",
    "cons": "5K",
    "prev": "12K",
-   "actual": ""
+   "actual": "4K"
   },
   {
    "time": "05:00",
@@ -462,20 +462,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 103.77,
-    "pct": 1.74
+    "price": 103.72,
+    "pct": 1.69
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 3997.6,
-    "pct": -0.84
+    "price": 4003.5,
+    "pct": -0.69
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.703,
-    "pct": -0.33
+    "price": 101.71,
+    "pct": -0.32
    },
    {
     "sym": "SPY",
@@ -492,13 +492,13 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 18.38,
-    "pct": 6.86
+    "price": 18.34,
+    "pct": 6.63
    }
   ],
-  "as_of": "2026-10-30T08:54:05.870695+00:00",
+  "as_of": "2026-10-30T08:57:06.107641+00:00",
   "tone": "risk-off",
-  "age_min": 0.9737427666666666
+  "age_min": 2.9960180666666667
  },
  "stories": [
   {
