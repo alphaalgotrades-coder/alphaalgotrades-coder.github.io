@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-30T07:30:05+00:00",
+ "generated_utc": "2026-10-30T07:35:04+00:00",
  "date_et": "2026-10-30",
  "build": "0d463cfe05",
  "tape": [
@@ -462,20 +462,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 103.13,
-    "pct": 1.11
+    "price": 103.34,
+    "pct": 1.31
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 3994.8,
-    "pct": -0.91
+    "price": 3993.5,
+    "pct": -0.94
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.811,
-    "pct": -0.22
+    "price": 101.78,
+    "pct": -0.25
    },
    {
     "sym": "SPY",
@@ -492,13 +492,13 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 17.2,
-    "pct": null
+    "price": 18.44,
+    "pct": 7.21
    }
   ],
-  "as_of": "2026-10-30T07:27:08.505838+00:00",
+  "as_of": "2026-10-30T07:33:05.329805+00:00",
   "tone": "risk-off",
-  "age_min": 2.9464892666666667
+  "age_min": 1.9859226833333332
  },
  "stories": [
   {
@@ -523,6 +523,13 @@
    "read": "unclear"
   },
   {
+   "topic": "Taiwan / China",
+   "title": "Taiwan says vast Chinese armada of 50 vessels spotted near island - The Independent",
+   "source": "The Independent",
+   "published": "Thu, 29 Oct 2026 08:52:00 GMT",
+   "read": "escalation"
+  },
+  {
    "topic": "Iran / Hormuz",
    "title": "Iran claims four tankers struck mines in Hormuz as strike fears grow after U.S. midterms - CNBC",
    "source": "CNBC",
@@ -534,13 +541,6 @@
    "title": "IRGC Air Force intercepts foreign fighter jet over Qeshm Island, reports say - The Jerusalem Post",
    "source": "The Jerusalem Post",
    "published": "Fri, 30 Oct 2026 06:10:16 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran deploys new small-boat tactics in attack on tanker in the Strait of Hormuz - TradeWinds News",
-   "source": "TradeWinds News",
-   "published": "Fri, 30 Oct 2026 05:29:12 GMT",
    "read": "escalation"
   }
  ],
