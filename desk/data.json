@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-30T04:50:03+00:00",
+ "generated_utc": "2026-10-30T04:55:03+00:00",
  "date_et": "2026-10-30",
  "build": "0d463cfe05",
  "tape": [
@@ -462,19 +462,19 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 103.23,
-    "pct": 1.21
+    "price": 103.17,
+    "pct": 1.15
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4001.5,
-    "pct": -0.74
+    "price": 4000.8,
+    "pct": -0.76
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.767,
+    "price": 101.77,
     "pct": -0.26
    },
    {
@@ -496,18 +496,11 @@
     "pct": 1.71
    }
   ],
-  "as_of": "2026-10-30T04:48:05.391507+00:00",
+  "as_of": "2026-10-30T04:54:05.575628+00:00",
   "tone": "risk-off",
-  "age_min": 1.9724089166666665
+  "age_min": 0.9695353333333333
  },
  "stories": [
-  {
-   "topic": "Saudi / Gulf supply",
-   "title": "Gulf equities mixed as Ras Tanura strike unnerves investors - Reuters",
-   "source": "Reuters",
-   "published": "Wed, 28 Oct 2026 13:04:50 GMT",
-   "read": "unclear"
-  },
   {
    "topic": "Russia / Ukraine",
    "title": "Putin says Russia is \u2018ready for war\u2019 with Europe in chilling threat - The Independent",
@@ -524,9 +517,23 @@
   },
   {
    "topic": "Iran / Hormuz",
+   "title": "Iran pushes 7-day peace plan - chinadailyhk",
+   "source": "chinadailyhk",
+   "published": "Fri, 30 Oct 2026 04:42:10 GMT",
+   "read": "de-escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
    "title": "Iran Says Four Tankers Struck Mines in Strait of Hormuz on Route U.S. Calls Mine-Free - The SOFX Report",
    "source": "The SOFX Report",
    "published": "Fri, 30 Oct 2026 04:21:45 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Saudi / Gulf supply",
+   "title": "Crude Oil Extends Gains as Houthi Attacks on Saudi Refineries Tighten Supply Chain; Brent Headed for 14% Monthly Rise - BigGo Finance",
+   "source": "BigGo Finance",
+   "published": "Fri, 30 Oct 2026 03:25:00 GMT",
    "read": "escalation"
   },
   {
@@ -535,13 +542,6 @@
    "source": "Business Standard",
    "published": "Fri, 30 Oct 2026 03:15:40 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Taiwan / China",
-   "title": "Xi Jinping expels dozens of top officials as purge deepens - AFR",
-   "source": "AFR",
-   "published": "Fri, 30 Oct 2026 03:04:00 GMT",
-   "read": "unclear"
   }
  ],
  "ratings": [],
