@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-30T01:03:02+00:00",
+ "generated_utc": "2026-10-30T01:05:04+00:00",
  "date_et": "2026-10-29",
  "build": "0d463cfe05",
  "tape": [
@@ -489,20 +489,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 102.71,
-    "pct": 0.7
+    "price": 102.63,
+    "pct": 0.62
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4027.1,
-    "pct": -0.11
+    "price": 4024.5,
+    "pct": -0.17
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.783,
-    "pct": -0.25
+    "price": 101.764,
+    "pct": -0.27
    },
    {
     "sym": "SPY",
@@ -523,9 +523,9 @@
     "pct": 1.71
    }
   ],
-  "as_of": "2026-10-30T01:00:08.364860+00:00",
+  "as_of": "2026-10-30T01:03:06.031043+00:00",
   "tone": "risk-off",
-  "age_min": 2.9082446
+  "age_min": 1.9791264666666666
  },
  "stories": [
   {
@@ -723,14 +723,14 @@
   "note": "TreasuryDirect, announced offerings"
  },
  "book": {
-  "as_of_et": "20:05",
+  "as_of_et": "21:05",
   "since": "2026-07-13",
   "trading_days": 56,
   "green_days": 29,
   "red_days": 2,
   "total_fills": 162,
   "realized": 9118.89,
-  "open_upnl": -2801.4,
+  "open_upnl": -2745.4,
   "legs": [
    {
     "id": "AS261113C00030000",
