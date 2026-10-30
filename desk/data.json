@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-30T06:10:03+00:00",
+ "generated_utc": "2026-10-30T06:15:04+00:00",
  "date_et": "2026-10-30",
  "build": "0d463cfe05",
  "tape": [
@@ -462,19 +462,19 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 103.38,
-    "pct": 1.35
+    "price": 103.21,
+    "pct": 1.19
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4000.7,
-    "pct": -0.76
+    "price": 3999.5,
+    "pct": -0.79
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.827,
+    "price": 101.82,
     "pct": -0.21
    },
    {
@@ -496,9 +496,9 @@
     "pct": 1.71
    }
   ],
-  "as_of": "2026-10-30T06:09:04.348393+00:00",
+  "as_of": "2026-10-30T06:12:04.501102+00:00",
   "tone": "risk-off",
-  "age_min": 0.994239
+  "age_min": 2.9980219333333333
  },
  "stories": [
   {
@@ -513,6 +513,13 @@
    "title": "Taiwan 2027 conflict window remains valid, Army Pacific commander says - Breaking Defense",
    "source": "Breaking Defense",
    "published": "Thu, 29 Oct 2026 17:59:37 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Taiwan / China",
+   "title": "ANALYSIS China's naval moves beyond first island chain show reach: analysts - Focus Taiwan",
+   "source": "Focus Taiwan",
+   "published": "Thu, 29 Oct 2026 10:42:00 GMT",
    "read": "unclear"
   },
   {
@@ -535,13 +542,6 @@
    "source": "Financial Times",
    "published": "Fri, 30 Oct 2026 05:03:45 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran pushes 7-day peace plan - chinadailyhk",
-   "source": "chinadailyhk",
-   "published": "Fri, 30 Oct 2026 04:42:10 GMT",
-   "read": "de-escalation"
   }
  ],
  "ratings": [],
