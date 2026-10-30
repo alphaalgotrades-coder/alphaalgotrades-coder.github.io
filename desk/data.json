@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-30T09:05:04+00:00",
+ "generated_utc": "2026-10-30T09:10:04+00:00",
  "date_et": "2026-10-30",
  "build": "0d463cfe05",
  "tape": [
@@ -127,7 +127,7 @@
    "title": "German Prelim GDP q/q",
    "cons": "0.1%",
    "prev": "0.2%",
-   "actual": ""
+   "actual": "0.2%"
   },
   {
    "time": "05:00",
@@ -136,7 +136,7 @@
    "title": "Italian Prelim GDP q/q",
    "cons": "0.1%",
    "prev": "0.2%",
-   "actual": ""
+   "actual": "0.0%"
   },
   {
    "time": "06:00",
@@ -468,13 +468,13 @@
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4006.1,
-    "pct": -0.63
+    "price": 4008.1,
+    "pct": -0.58
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.691,
+    "price": 101.695,
     "pct": -0.34
    },
    {
@@ -492,13 +492,13 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 18.2,
-    "pct": 5.81
+    "price": 18.15,
+    "pct": 5.52
    }
   ],
-  "as_of": "2026-10-30T09:03:05.787851+00:00",
+  "as_of": "2026-10-30T09:09:06.132106+00:00",
   "tone": "risk-off",
-  "age_min": 1.9834713000000002
+  "age_min": 0.96749525
  },
  "stories": [
   {
