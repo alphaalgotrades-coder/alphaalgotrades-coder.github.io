@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-30T09:10:04+00:00",
+ "generated_utc": "2026-10-30T09:15:04+00:00",
  "date_et": "2026-10-30",
  "build": "0d463cfe05",
  "tape": [
@@ -462,20 +462,20 @@
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 103.6,
-    "pct": 1.57
+    "price": 103.57,
+    "pct": 1.54
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 4008.1,
-    "pct": -0.58
+    "price": 4005.9,
+    "pct": -0.63
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.695,
-    "pct": -0.34
+    "price": 101.726,
+    "pct": -0.3
    },
    {
     "sym": "SPY",
@@ -492,15 +492,22 @@
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 18.15,
-    "pct": 5.52
+    "price": 18.12,
+    "pct": 5.35
    }
   ],
-  "as_of": "2026-10-30T09:09:06.132106+00:00",
+  "as_of": "2026-10-30T09:12:05.675280+00:00",
   "tone": "risk-off",
-  "age_min": 0.96749525
+  "age_min": 2.9791977666666667
  },
  "stories": [
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Ukraine: Time to End the War - Quincy Institute for Responsible Statecraft",
+   "source": "Quincy Institute for Responsible Statecraft",
+   "published": "Wed, 28 Oct 2026 16:33:12 GMT",
+   "read": "unclear"
+  },
   {
    "topic": "Russia / Ukraine",
    "title": "Putin Claims Readiness for European War While Claiming It Seeks Avoidance - UNITED24 Media",
@@ -534,13 +541,6 @@
    "title": "Taiwan says vast Chinese armada of 50 vessels spotted near island - The Independent",
    "source": "The Independent",
    "published": "Thu, 29 Oct 2026 08:52:00 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Saudi / Gulf supply",
-   "title": "Houthis Claim Fresh Strikes on Saudi Oil Refineries and Aramco Facilities - Crude Oil Prices Today | OilPrice.com",
-   "source": "Crude Oil Prices Today | OilPrice.com",
-   "published": "Fri, 30 Oct 2026 07:30:00 GMT",
    "read": "escalation"
   }
  ],
