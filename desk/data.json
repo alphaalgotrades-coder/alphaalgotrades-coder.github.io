@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-31T12:50:03+00:00",
+ "generated_utc": "2026-10-31T12:55:03+00:00",
  "date_et": "2026-10-31",
  "build": "0d463cfe05",
  "tape": [],
@@ -270,9 +270,9 @@
     "pct": 12.91
    }
   ],
-  "as_of": "2026-10-31T12:48:05.209897+00:00",
+  "as_of": "2026-10-31T12:54:05.313932+00:00",
   "tone": "risk-off",
-  "age_min": 1.9739179166666667
+  "age_min": 0.9683779333333333
  },
  "stories": [
   {
@@ -287,6 +287,13 @@
    "title": "China Deploys Recon Drones and Aircraft to Monitor U.S. and Japan\u2019s Taiwan War Drills - Military Watch Magazine",
    "source": "Military Watch Magazine",
    "published": "Tue, 20 Oct 2026 07:00:00 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iranian leader threatens response to potential attack as fears of war mount, and other Mideast news - Springfield News-Sun",
+   "source": "Springfield News-Sun",
+   "published": "Sat, 31 Oct 2026 12:35:57 GMT",
    "read": "escalation"
   },
   {
@@ -308,13 +315,6 @@
    "title": "Trump says Iran war will end soon, US military insists Hormuz is secure - Arab News",
    "source": "Arab News",
    "published": "Sat, 31 Oct 2026 10:10:18 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Rash: Ukraine and Russia in the context of the midterms - Star Tribune",
-   "source": "Star Tribune",
-   "published": "Sat, 31 Oct 2026 10:00:00 GMT",
    "read": "unclear"
   }
  ],
