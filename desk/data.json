@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-31T03:50:03+00:00",
+ "generated_utc": "2026-10-31T03:55:03+00:00",
  "date_et": "2026-10-30",
  "build": "0d463cfe05",
  "tape": [
@@ -505,9 +505,9 @@
     "pct": 12.91
    }
   ],
-  "as_of": "2026-10-31T03:48:05.182092+00:00",
+  "as_of": "2026-10-31T03:54:05.392073+00:00",
   "tone": "risk-off",
-  "age_min": 1.9828344833333333
+  "age_min": 0.9774803666666667
  },
  "stories": [
   {
@@ -523,6 +523,13 @@
    "source": "Capmad",
    "published": "Tue, 27 Oct 2026 00:27:00 GMT",
    "read": "unclear"
+  },
+  {
+   "topic": "Taiwan / China",
+   "title": "Slow squeeze on Taiwan? China\u2019s aircraft &amp; warships keep Trump's Asian ally on their toes | Xi, war | Videos - Hindustan Times",
+   "source": "Hindustan Times",
+   "published": "Sat, 31 Oct 2026 03:22:48 GMT",
+   "read": "escalation"
   },
   {
    "topic": "Taiwan / China",
@@ -543,13 +550,6 @@
    "title": "Russian Offensive Campaign Assessment, October 30, 2026 - Critical Threats",
    "source": "Critical Threats",
    "published": "Sat, 31 Oct 2026 01:35:37 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran Update, October 30, 2026 - Critical Threats",
-   "source": "Critical Threats",
-   "published": "Sat, 31 Oct 2026 00:53:21 GMT",
    "read": "unclear"
   }
  ],
