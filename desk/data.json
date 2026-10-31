@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-31T14:10:02+00:00",
+ "generated_utc": "2026-10-31T14:15:03+00:00",
  "date_et": "2026-10-31",
  "build": "0d463cfe05",
  "tape": [],
@@ -270,9 +270,9 @@
     "pct": 12.91
    }
   ],
-  "as_of": "2026-10-31T14:09:05.265368+00:00",
+  "as_of": "2026-10-31T14:12:05.680244+00:00",
   "tone": "risk-off",
-  "age_min": 0.9641876666666668
+  "age_min": 2.972623683333333
  },
  "stories": [
   {
@@ -291,6 +291,13 @@
   },
   {
    "topic": "Iran / Hormuz",
+   "title": "Iran\u2019s supreme leader orders \u2018immediate and effective\u2019 response to any threat - Vatican News",
+   "source": "Vatican News",
+   "published": "Sat, 31 Oct 2026 13:52:36 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
    "title": "Iranian leader threatens response to potential attack as fears of war mount, and other Mideast news - Springfield News-Sun",
    "source": "Springfield News-Sun",
    "published": "Sat, 31 Oct 2026 12:35:57 GMT",
@@ -301,13 +308,6 @@
    "title": "Is Beijing\u2019s 2027 military milestone now a US readiness deadline over Taiwan? - South China Morning Post",
    "source": "South China Morning Post",
    "published": "Sat, 31 Oct 2026 12:00:09 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Shipping Strikes In Hormuz Leave Both Sides With Economic Pain - Bloomberg",
-   "source": "Bloomberg",
-   "published": "Sat, 31 Oct 2026 10:30:00 GMT",
    "read": "unclear"
   },
   {
