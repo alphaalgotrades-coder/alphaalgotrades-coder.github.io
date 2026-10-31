@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-31T21:33:32+00:00",
+ "generated_utc": "2026-10-31T21:56:45+00:00",
  "date_et": "2026-10-31",
  "build": "0d463cfe05",
  "tape": [],
@@ -252,6 +252,12 @@
     "pct": 0.08
    },
    {
+    "sym": "SPY",
+    "name": "S&P 500 ETF",
+    "price": 755.72,
+    "pct": -1.77
+   },
+   {
     "sym": "QQQ",
     "name": "Nasdaq 100 ETF",
     "price": 690.49,
@@ -264,9 +270,9 @@
     "pct": 12.91
    }
   ],
-  "as_of": "2026-10-31T21:27:26.859212+00:00",
+  "as_of": "2026-10-31T21:53:52.305117+00:00",
   "tone": "risk-off",
-  "age_min": 10.085413566666666
+  "age_min": 2.8812934833333332
  },
  "stories": [
   {
@@ -299,17 +305,17 @@
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Shafaq News..Iranian Navy reports tanker fire in Hormuz - \u0634\u0641\u0642 \u0646\u064a\u0648\u0632",
-   "source": "\u0634\u0641\u0642 \u0646\u064a\u0648\u0632",
-   "published": "Sat, 31 Oct 2026 20:09:27 GMT",
+   "title": "Supertanker hits mine, catches fire east of Hormuz: Iran\u2019s Revolutionary Guard - Anadolu Ajans\u0131",
+   "source": "Anadolu Ajans\u0131",
+   "published": "Sat, 31 Oct 2026 21:27:03 GMT",
    "read": "escalation"
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Live - Iran hails positive shift in US tone amid renewed Doha diplomacy - Iran International",
-   "source": "Iran International",
-   "published": "Sat, 31 Oct 2026 20:08:31 GMT",
-   "read": "de-escalation"
+   "title": "Iranian envoys meet Qatari mediators as threat looms of US strikes after midterms - Reuters",
+   "source": "Reuters",
+   "published": "Sat, 31 Oct 2026 20:00:36 GMT",
+   "read": "escalation"
   }
  ],
  "ratings": [],
