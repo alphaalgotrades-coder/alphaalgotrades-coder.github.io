@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-31T22:50:04+00:00",
+ "generated_utc": "2026-10-31T22:55:04+00:00",
  "date_et": "2026-10-31",
  "build": "0d463cfe05",
  "tape": [],
@@ -270,9 +270,9 @@
     "pct": 12.91
    }
   ],
-  "as_of": "2026-10-31T22:48:15.031807+00:00",
+  "as_of": "2026-10-31T22:54:06.449620+00:00",
   "tone": "risk-off",
-  "age_min": 1.8232479833333335
+  "age_min": 0.96866345
  },
  "stories": [
   {
@@ -305,17 +305,17 @@
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Supertanker hits mine, catches fire east of Hormuz: Iran\u2019s Revolutionary Guard - Anadolu Ajans\u0131",
-   "source": "Anadolu Ajans\u0131",
-   "published": "Sat, 31 Oct 2026 21:27:03 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
    "title": "Iran\u2019s leader says response to attack would have no \u2018geographic limits,\u2019 and other Mideast news - WTOP News",
    "source": "WTOP News",
    "published": "Sat, 31 Oct 2026 21:25:49 GMT",
    "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iran FM says US outreach a \u2018positive step\u2019 as delegation in Qatar for talks - Al Jazeera",
+   "source": "Al Jazeera",
+   "published": "Sat, 31 Oct 2026 20:57:41 GMT",
+   "read": "de-escalation"
   }
  ],
  "ratings": [],
