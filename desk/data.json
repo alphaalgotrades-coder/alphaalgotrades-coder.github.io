@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-31T22:30:16+00:00",
+ "generated_utc": "2026-10-31T22:35:09+00:00",
  "date_et": "2026-10-31",
  "build": "0d463cfe05",
  "tape": [],
@@ -270,9 +270,9 @@
     "pct": 12.91
    }
   ],
-  "as_of": "2026-10-31T22:27:15.680135+00:00",
+  "as_of": "2026-10-31T22:33:15.826805+00:00",
   "tone": "risk-off",
-  "age_min": 3.01453705
+  "age_min": 1.9014690166666666
  },
  "stories": [
   {
@@ -312,9 +312,9 @@
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Iranian envoys meet Qatari mediators as threat looms of US strikes after midterms - Reuters",
-   "source": "Reuters",
-   "published": "Sat, 31 Oct 2026 20:00:36 GMT",
+   "title": "Iran\u2019s leader says response to attack would have no \u2018geographic limits,\u2019 and other Mideast news - WTOP News",
+   "source": "WTOP News",
+   "published": "Sat, 31 Oct 2026 21:25:49 GMT",
    "read": "escalation"
   }
  ],
