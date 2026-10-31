@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-31T14:00:04+00:00",
+ "generated_utc": "2026-10-31T14:05:04+00:00",
  "date_et": "2026-10-31",
  "build": "0d463cfe05",
  "tape": [],
@@ -270,9 +270,9 @@
     "pct": 12.91
    }
   ],
-  "as_of": "2026-10-31T13:57:05.290474+00:00",
+  "as_of": "2026-10-31T14:03:08.931883+00:00",
   "tone": "risk-off",
-  "age_min": 2.9878781833333337
+  "age_min": 1.9261237
  },
  "stories": [
   {
@@ -488,7 +488,7 @@
   "note": "TreasuryDirect, announced offerings"
  },
  "book": {
-  "as_of_et": "09:05",
+  "as_of_et": "10:05",
   "since": "2026-07-13",
   "trading_days": 57,
   "green_days": 29,
