@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-31T18:10:03+00:00",
+ "generated_utc": "2026-10-31T18:15:04+00:00",
  "date_et": "2026-10-31",
  "build": "0d463cfe05",
  "tape": [],
@@ -270,9 +270,9 @@
     "pct": 12.91
    }
   ],
-  "as_of": "2026-10-31T18:09:05.118184+00:00",
+  "as_of": "2026-10-31T18:12:05.155825+00:00",
   "tone": "risk-off",
-  "age_min": 0.9827501166666667
+  "age_min": 2.9836624499999997
  },
  "stories": [
   {
@@ -298,6 +298,13 @@
   },
   {
    "topic": "Iran / Hormuz",
+   "title": "US Delegation Expected in Doha as Iran, Qatar Discuss Nuclear Program, Strait of Hormuz - The Media Line",
+   "source": "The Media Line",
+   "published": "Sat, 31 Oct 2026 17:59:25 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Iran / Hormuz",
    "title": "Live - Tehran threatens wider strikes if attacked as talks continue in Doha - Iran International",
    "source": "Iran International",
    "published": "Sat, 31 Oct 2026 17:30:16 GMT",
@@ -309,13 +316,6 @@
    "source": "Taipei Times",
    "published": "Sat, 31 Oct 2026 16:00:00 GMT",
    "read": "de-escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Araghchi says Iran prepared for war as Tehran sets conditions for Hormuz reopening - Middle East Eye",
-   "source": "Middle East Eye",
-   "published": "Sat, 31 Oct 2026 15:35:00 GMT",
-   "read": "escalation"
   }
  ],
  "ratings": [],
