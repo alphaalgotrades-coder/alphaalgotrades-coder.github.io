@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-31T09:50:04+00:00",
+ "generated_utc": "2026-10-31T09:55:04+00:00",
  "date_et": "2026-10-31",
  "build": "0d463cfe05",
  "tape": [],
@@ -270,9 +270,9 @@
     "pct": 12.91
    }
   ],
-  "as_of": "2026-10-31T09:48:09.200150+00:00",
+  "as_of": "2026-10-31T09:54:05.368581+00:00",
   "tone": "risk-off",
-  "age_min": 1.9197255166666667
+  "age_min": 0.9814464166666668
  },
  "stories": [
   {
@@ -305,17 +305,17 @@
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "India news: Oil tanker carrying 27 Indians attacked with limpet mines in Strait of Hormuz - DW.com",
-   "source": "DW.com",
-   "published": "Sat, 31 Oct 2026 05:11:42 GMT",
-   "read": "escalation"
+   "title": "Report: Draft US-Iran framework outlines possible transfer of enriched uranium to 3rd country | LIVE BLOG - i24NEWS",
+   "source": "i24NEWS",
+   "published": "Sat, 31 Oct 2026 08:51:21 GMT",
+   "read": "de-escalation"
   },
   {
-   "topic": "Taiwan / China",
-   "title": "UK historian says Taiwan can learn from Ukraine to defend itself against China - Taiwan News",
-   "source": "Taiwan News",
-   "published": "Sat, 31 Oct 2026 04:18:00 GMT",
-   "read": "unclear"
+   "topic": "Iran / Hormuz",
+   "title": "Oil spills from tankers attacked by Iran in Hormuz reach UAE coastline, report says - Middle East Eye",
+   "source": "Middle East Eye",
+   "published": "Sat, 31 Oct 2026 07:58:00 GMT",
+   "read": "escalation"
   }
  ],
  "ratings": [],
