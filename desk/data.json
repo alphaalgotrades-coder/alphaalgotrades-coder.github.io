@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-31T19:10:03+00:00",
+ "generated_utc": "2026-10-31T19:15:05+00:00",
  "date_et": "2026-10-31",
  "build": "0d463cfe05",
  "tape": [],
@@ -270,9 +270,9 @@
     "pct": 12.91
    }
   ],
-  "as_of": "2026-10-31T19:09:05.171108+00:00",
+  "as_of": "2026-10-31T19:12:05.126837+00:00",
   "tone": "risk-off",
-  "age_min": 0.98062845
+  "age_min": 3.0112322333333332
  },
  "stories": [
   {
@@ -298,17 +298,17 @@
   },
   {
    "topic": "Iran / Hormuz",
+   "title": "Iran's leader says response to attack would have no 'geographic limits,' and other Mideast news - Oskaloosa Herald",
+   "source": "Oskaloosa Herald",
+   "published": "Sat, 31 Oct 2026 18:32:36 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
    "title": "US Delegation Expected in Doha as Iran, Qatar Discuss Nuclear Program, Strait of Hormuz - The Media Line",
    "source": "The Media Line",
    "published": "Sat, 31 Oct 2026 17:59:25 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Live - Tehran threatens wider strikes if attacked as talks continue in Doha - Iran International",
-   "source": "Iran International",
-   "published": "Sat, 31 Oct 2026 17:30:16 GMT",
-   "read": "escalation"
   },
   {
    "topic": "Taiwan / China",
