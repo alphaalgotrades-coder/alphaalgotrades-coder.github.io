@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-31T16:30:04+00:00",
+ "generated_utc": "2026-10-31T16:35:03+00:00",
  "date_et": "2026-10-31",
  "build": "0d463cfe05",
  "tape": [],
@@ -270,9 +270,9 @@
     "pct": 12.91
    }
   ],
-  "as_of": "2026-10-31T16:30:04.707616+00:00",
+  "as_of": "2026-10-31T16:33:04.550579+00:00",
   "tone": "risk-off",
-  "age_min": 0.0012321333333333332
+  "age_min": 1.9906702833333334
  },
  "stories": [
   {
@@ -287,6 +287,13 @@
    "title": "China Deploys Recon Drones and Aircraft to Monitor U.S. and Japan\u2019s Taiwan War Drills - Military Watch Magazine",
    "source": "Military Watch Magazine",
    "published": "Tue, 20 Oct 2026 07:00:00 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iranian leader threatens immediate response to potential attack, and other Mideast news - WTOP News",
+   "source": "WTOP News",
+   "published": "Sat, 31 Oct 2026 15:12:59 GMT",
    "read": "escalation"
   },
   {
@@ -309,13 +316,6 @@
    "source": "Springfield News-Sun",
    "published": "Sat, 31 Oct 2026 12:35:57 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Taiwan / China",
-   "title": "Is Beijing\u2019s 2027 military milestone now a US readiness deadline over Taiwan? - South China Morning Post",
-   "source": "South China Morning Post",
-   "published": "Sat, 31 Oct 2026 12:00:09 GMT",
-   "read": "unclear"
   }
  ],
  "ratings": [],
