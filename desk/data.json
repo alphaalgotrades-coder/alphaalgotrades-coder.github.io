@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-31T10:50:04+00:00",
+ "generated_utc": "2026-10-31T10:55:04+00:00",
  "date_et": "2026-10-31",
  "build": "0d463cfe05",
  "tape": [],
@@ -270,9 +270,9 @@
     "pct": 12.91
    }
   ],
-  "as_of": "2026-10-31T10:48:04.849995+00:00",
+  "as_of": "2026-10-31T10:54:04.811458+00:00",
   "tone": "risk-off",
-  "age_min": 1.9889197166666668
+  "age_min": 0.98992695
  },
  "stories": [
   {
@@ -281,6 +281,27 @@
    "source": "WSJ",
    "published": "Wed, 28 Oct 2026 19:22:00 GMT",
    "read": "escalation"
+  },
+  {
+   "topic": "Taiwan / China",
+   "title": "China Deploys Recon Drones and Aircraft to Monitor U.S. and Japan\u2019s Taiwan War Drills - Military Watch Magazine",
+   "source": "Military Watch Magazine",
+   "published": "Tue, 20 Oct 2026 07:00:00 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Shipping Strikes In Hormuz Leave Both Sides With Economic Pain - Bloomberg",
+   "source": "Bloomberg",
+   "published": "Sat, 31 Oct 2026 10:30:00 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Rash: Ukraine and Russia in the context of the midterms - Star Tribune",
+   "source": "Star Tribune",
+   "published": "Sat, 31 Oct 2026 10:00:00 GMT",
+   "read": "unclear"
   },
   {
    "topic": "Taiwan / China",
@@ -295,27 +316,6 @@
    "source": "Las Vegas Sun",
    "published": "Sat, 31 Oct 2026 09:00:00 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Anxiety grips Russian men over fears Putin will launch a stealthy draft - NBC News",
-   "source": "NBC News",
-   "published": "Sat, 31 Oct 2026 09:00:00 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Report: Draft US-Iran framework outlines possible transfer of enriched uranium to 3rd country | LIVE BLOG - i24NEWS",
-   "source": "i24NEWS",
-   "published": "Sat, 31 Oct 2026 08:51:21 GMT",
-   "read": "de-escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Oil spills from tankers attacked by Iran in Hormuz reach UAE coastline, report says - Middle East Eye",
-   "source": "Middle East Eye",
-   "published": "Sat, 31 Oct 2026 07:58:00 GMT",
-   "read": "escalation"
   }
  ],
  "ratings": [],
