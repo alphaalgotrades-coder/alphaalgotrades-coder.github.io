@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-31T17:50:03+00:00",
+ "generated_utc": "2026-10-31T17:55:03+00:00",
  "date_et": "2026-10-31",
  "build": "0d463cfe05",
  "tape": [],
@@ -270,9 +270,9 @@
     "pct": 12.91
    }
   ],
-  "as_of": "2026-10-31T17:48:04.751253+00:00",
+  "as_of": "2026-10-31T17:54:04.957168+00:00",
   "tone": "risk-off",
-  "age_min": 1.9876391833333333
+  "age_min": 0.98210375
  },
  "stories": [
   {
@@ -297,6 +297,13 @@
    "read": "escalation"
   },
   {
+   "topic": "Iran / Hormuz",
+   "title": "Live - Tehran threatens wider strikes if attacked as talks continue in Doha - Iran International",
+   "source": "Iran International",
+   "published": "Sat, 31 Oct 2026 17:30:16 GMT",
+   "read": "escalation"
+  },
+  {
    "topic": "Taiwan / China",
    "title": "China\u2019s military purge reduces war risk: experts - Taipei Times",
    "source": "Taipei Times",
@@ -305,16 +312,9 @@
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Iranian leader threatens immediate response to potential attack, and other Mideast news - WTOP News",
-   "source": "WTOP News",
-   "published": "Sat, 31 Oct 2026 15:12:59 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "EA-Frontline VideoCast: Ukraine Resumes Refinery Strikes as Russia Refuses Ceasefire Beyond Oleshky - EA WorldView",
-   "source": "EA WorldView",
-   "published": "Sat, 31 Oct 2026 14:13:08 GMT",
+   "title": "Araghchi says Iran prepared for war as Tehran sets conditions for Hormuz reopening - Middle East Eye",
+   "source": "Middle East Eye",
+   "published": "Sat, 31 Oct 2026 15:35:00 GMT",
    "read": "escalation"
   }
  ],
