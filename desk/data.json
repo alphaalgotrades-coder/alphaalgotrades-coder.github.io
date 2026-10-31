@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-31T14:30:03+00:00",
+ "generated_utc": "2026-10-31T14:35:03+00:00",
  "date_et": "2026-10-31",
  "build": "0d463cfe05",
  "tape": [],
@@ -270,9 +270,9 @@
     "pct": 12.91
    }
   ],
-  "as_of": "2026-10-31T14:27:14.428387+00:00",
+  "as_of": "2026-10-31T14:33:14.343624+00:00",
   "tone": "risk-off",
-  "age_min": 2.828449866666667
+  "age_min": 1.8284436666666666
  },
  "stories": [
   {
@@ -287,6 +287,13 @@
    "title": "China Deploys Recon Drones and Aircraft to Monitor U.S. and Japan\u2019s Taiwan War Drills - Military Watch Magazine",
    "source": "Military Watch Magazine",
    "published": "Tue, 20 Oct 2026 07:00:00 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "EA-Frontline VideoCast: Ukraine Resumes Refinery Strikes as Russia Refuses Ceasefire Beyond Oleshky - EA WorldView",
+   "source": "EA WorldView",
+   "published": "Sat, 31 Oct 2026 14:13:08 GMT",
    "read": "escalation"
   },
   {
@@ -308,13 +315,6 @@
    "title": "Is Beijing\u2019s 2027 military milestone now a US readiness deadline over Taiwan? - South China Morning Post",
    "source": "South China Morning Post",
    "published": "Sat, 31 Oct 2026 12:00:09 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Trump says Iran war will end soon, US military insists Hormuz is secure - Arab News",
-   "source": "Arab News",
-   "published": "Sat, 31 Oct 2026 10:10:18 GMT",
    "read": "unclear"
   }
  ],
