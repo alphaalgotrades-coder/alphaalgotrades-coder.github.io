@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-31T09:30:04+00:00",
+ "generated_utc": "2026-10-31T09:35:04+00:00",
  "date_et": "2026-10-31",
  "build": "0d463cfe05",
  "tape": [],
@@ -270,11 +270,18 @@
     "pct": 12.91
    }
   ],
-  "as_of": "2026-10-31T09:27:06.127384+00:00",
+  "as_of": "2026-10-31T09:33:05.981159+00:00",
   "tone": "risk-off",
-  "age_min": 2.9825712166666665
+  "age_min": 1.9720020833333334
  },
  "stories": [
+  {
+   "topic": "Saudi / Gulf supply",
+   "title": "Oil Prices Rise on Worries of Middle East Conflict Escalation - WSJ",
+   "source": "WSJ",
+   "published": "Wed, 28 Oct 2026 19:22:00 GMT",
+   "read": "escalation"
+  },
   {
    "topic": "Taiwan / China",
    "title": "It\u2019s Not Just Taiwan: China Plots Indian Land Grab - freebeacon.com",
@@ -308,13 +315,6 @@
    "title": "UK historian says Taiwan can learn from Ukraine to defend itself against China - Taiwan News",
    "source": "Taiwan News",
    "published": "Sat, 31 Oct 2026 04:18:00 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Russian Offensive Campaign Assessment, October 30, 2026 - Institute for the Study of War",
-   "source": "Institute for the Study of War",
-   "published": "Sat, 31 Oct 2026 04:12:09 GMT",
    "read": "unclear"
   }
  ],
