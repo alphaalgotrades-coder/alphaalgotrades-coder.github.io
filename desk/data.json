@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-31T09:10:04+00:00",
+ "generated_utc": "2026-10-31T09:15:04+00:00",
  "date_et": "2026-10-31",
  "build": "0d463cfe05",
  "tape": [],
@@ -270,16 +270,30 @@
     "pct": 12.91
    }
   ],
-  "as_of": "2026-10-31T09:09:14.440692+00:00",
+  "as_of": "2026-10-31T09:12:14.570198+00:00",
   "tone": "risk-off",
-  "age_min": 0.8304372666666667
+  "age_min": 2.8287258499999997
  },
  "stories": [
   {
    "topic": "Taiwan / China",
-   "title": "China &amp; Taiwan Update, October 27, 2026 - Institute for the Study of War",
-   "source": "Institute for the Study of War",
-   "published": "Tue, 27 Oct 2026 23:46:40 GMT",
+   "title": "It\u2019s Not Just Taiwan: China Plots Indian Land Grab - freebeacon.com",
+   "source": "freebeacon.com",
+   "published": "Sat, 31 Oct 2026 09:02:59 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Pandering to Vladimir Putin won\u2019t bring peace to Ukraine - Las Vegas Sun",
+   "source": "Las Vegas Sun",
+   "published": "Sat, 31 Oct 2026 09:00:00 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Anxiety grips Russian men over fears Putin will launch a stealthy draft - NBC News",
+   "source": "NBC News",
+   "published": "Sat, 31 Oct 2026 09:00:00 GMT",
    "read": "unclear"
   },
   {
@@ -290,32 +304,18 @@
    "read": "escalation"
   },
   {
+   "topic": "Taiwan / China",
+   "title": "UK historian says Taiwan can learn from Ukraine to defend itself against China - Taiwan News",
+   "source": "Taiwan News",
+   "published": "Sat, 31 Oct 2026 04:18:00 GMT",
+   "read": "unclear"
+  },
+  {
    "topic": "Russia / Ukraine",
    "title": "Russian Offensive Campaign Assessment, October 30, 2026 - Institute for the Study of War",
    "source": "Institute for the Study of War",
    "published": "Sat, 31 Oct 2026 04:12:09 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Taiwan / China",
-   "title": "Slow squeeze on Taiwan? China\u2019s aircraft &amp; warships keep Trump's Asian ally on their toes | Xi, war | Videos - Hindustan Times",
-   "source": "Hindustan Times",
-   "published": "Sat, 31 Oct 2026 03:22:48 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Taiwan / China",
-   "title": "Taiwan tracks 13 Chinese military aircraft and 9 ships - Taiwan News",
-   "source": "Taiwan News",
-   "published": "Sat, 31 Oct 2026 03:03:00 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Explosions in Hormuz as Trump says Iran \u2018wants to talk\u2019 - Ynetnews",
-   "source": "Ynetnews",
-   "published": "Sat, 31 Oct 2026 01:38:04 GMT",
-   "read": "escalation"
   }
  ],
  "ratings": [],
