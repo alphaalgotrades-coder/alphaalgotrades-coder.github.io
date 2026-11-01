@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-01T01:30:04+00:00",
+ "generated_utc": "2026-11-01T01:35:03+00:00",
  "date_et": "2026-10-31",
  "build": "0d463cfe05",
  "tape": [],
@@ -270,9 +270,9 @@
     "pct": 12.91
    }
   ],
-  "as_of": "2026-11-01T01:27:05.729257+00:00",
+  "as_of": "2026-11-01T01:33:05.720014+00:00",
   "tone": "risk-off",
-  "age_min": 2.9791562
+  "age_min": 1.9657807666666665
  },
  "stories": [
   {
@@ -298,17 +298,17 @@
   },
   {
    "topic": "Taiwan / China",
-   "title": "China Deploys Recon Drones and Aircraft to Monitor U.S. and Japan\u2019s Taiwan War Drills - Military Watch Magazine",
-   "source": "Military Watch Magazine",
-   "published": "Tue, 20 Oct 2026 07:00:00 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Taiwan / China",
    "title": "ANALYSIS China's naval moves beyond first island chain show reach: Analysts - Focus Taiwan",
    "source": "Focus Taiwan",
    "published": "Thu, 29 Oct 2026 10:42:00 GMT",
    "read": "unclear"
+  },
+  {
+   "topic": "Taiwan / China",
+   "title": "Taiwan says China harassing shipping with east coast patrol - The Straits Times",
+   "source": "The Straits Times",
+   "published": "Sun, 01 Nov 2026 01:21:00 GMT",
+   "read": "escalation"
   },
   {
    "topic": "Iran / Hormuz",
