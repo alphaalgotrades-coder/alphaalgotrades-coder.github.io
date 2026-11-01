@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-01T01:50:03+00:00",
+ "generated_utc": "2026-11-01T01:55:03+00:00",
  "date_et": "2026-10-31",
  "build": "0d463cfe05",
  "tape": [],
@@ -270,9 +270,9 @@
     "pct": 12.91
    }
   ],
-  "as_of": "2026-11-01T01:48:07.064669+00:00",
+  "as_of": "2026-11-01T01:54:05.774905+00:00",
   "tone": "risk-off",
-  "age_min": 1.9452788
+  "age_min": 0.9642708833333333
  },
  "stories": [
   {
@@ -305,9 +305,9 @@
   },
   {
    "topic": "Taiwan / China",
-   "title": "Taiwan says China harassing shipping with east coast patrol - The Straits Times",
-   "source": "The Straits Times",
-   "published": "Sun, 01 Nov 2026 01:21:00 GMT",
+   "title": "Taiwan says China harassing shipping with east coast patrol - WSAU",
+   "source": "WSAU",
+   "published": "Sun, 01 Nov 2026 01:44:08 GMT",
    "read": "escalation"
   },
   {
