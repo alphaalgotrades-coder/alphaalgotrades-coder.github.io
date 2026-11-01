@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-01T10:10:04+00:00",
+ "generated_utc": "2026-11-01T10:15:04+00:00",
  "date_et": "2026-11-01",
  "build": "0d463cfe05",
  "tape": [
@@ -334,9 +334,9 @@
     "pct": 12.91
    }
   ],
-  "as_of": "2026-11-01T10:09:05.154500+00:00",
+  "as_of": "2026-11-01T10:12:09.388911+00:00",
   "tone": "risk-off",
-  "age_min": 0.9851198833333333
+  "age_min": 2.9142234
  },
  "stories": [
   {
@@ -362,24 +362,24 @@
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Live - Trump, Netanyahu speak, US weighs renewed Iran strikes - Iran International",
-   "source": "Iran International",
-   "published": "Sun, 01 Nov 2026 08:29:07 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "The Myth of Inevitable Russian Victory over Ukraine - American Enterprise Institute - AEI",
-   "source": "American Enterprise Institute - AEI",
-   "published": "Sun, 01 Nov 2026 08:16:41 GMT",
+   "title": "How a Little-Known Company Dominated the Persian Gulf Oil Trade - The New York Times",
+   "source": "The New York Times",
+   "published": "Sun, 01 Nov 2026 10:02:29 GMT",
    "read": "unclear"
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Iran's Araghchi offers to reopen Strait of Hormuz in 2 days if US meets its demands - The Times of India",
-   "source": "The Times of India",
-   "published": "Sun, 01 Nov 2026 07:11:00 GMT",
-   "read": "de-escalation"
+   "title": "Pakistan LNG Cargo Attacked Near Hormuz Had Iranian Approval - Bloomberg",
+   "source": "Bloomberg",
+   "published": "Sun, 01 Nov 2026 09:23:14 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Live - Trump, Netanyahu speak, US weighs renewed Iran strikes - Iran International",
+   "source": "Iran International",
+   "published": "Sun, 01 Nov 2026 08:29:07 GMT",
+   "read": "escalation"
   }
  ],
  "ratings": [],
@@ -510,9 +510,46 @@
   "note": "10-year government bonds; spread measured over Germany"
  },
  "auctions": {
-  "rows": [],
-  "total": null,
-  "note": "unavailable (URLError)"
+  "rows": [
+   {
+    "date": "",
+    "type": "Bill",
+    "term": "6-Week",
+    "amount_bn": 100.0
+   },
+   {
+    "date": "",
+    "type": "Bill",
+    "term": "13-Week",
+    "amount_bn": 95.0
+   },
+   {
+    "date": "",
+    "type": "Bill",
+    "term": "26-Week",
+    "amount_bn": 82.0
+   },
+   {
+    "date": "",
+    "type": "Bill",
+    "term": "17-Week",
+    "amount_bn": null
+   },
+   {
+    "date": "",
+    "type": "Bill",
+    "term": "4-Week",
+    "amount_bn": null
+   },
+   {
+    "date": "",
+    "type": "Bill",
+    "term": "8-Week",
+    "amount_bn": null
+   }
+  ],
+  "total_bn": 277.0,
+  "note": "TreasuryDirect, announced offerings"
  },
  "book": {
   "as_of_et": "05:05",
