@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-01T08:10:03+00:00",
+ "generated_utc": "2026-11-01T08:15:03+00:00",
  "date_et": "2026-11-01",
  "build": "0d463cfe05",
  "tape": [
@@ -334,9 +334,9 @@
     "pct": 12.91
    }
   ],
-  "as_of": "2026-11-01T08:09:05.503056+00:00",
+  "as_of": "2026-11-01T08:12:13.750746+00:00",
   "tone": "risk-off",
-  "age_min": 0.9683051833333334
+  "age_min": 2.83861775
  },
  "stories": [
   {
@@ -376,10 +376,10 @@
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Iran says US tone shifts but demands still block talks - Iran International",
-   "source": "Iran International",
-   "published": "Sat, 31 Oct 2026 23:26:13 GMT",
-   "read": "unclear"
+   "title": "Iran warns U.S. and Israel against new attacks after Trump and Netanyahu threats - The Japan Times",
+   "source": "The Japan Times",
+   "published": "Sun, 01 Nov 2026 00:55:00 GMT",
+   "read": "escalation"
   }
  ],
  "ratings": [],
