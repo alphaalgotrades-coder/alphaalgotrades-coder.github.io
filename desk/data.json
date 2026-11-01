@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-01T15:00:33+00:00",
+ "generated_utc": "2026-11-01T15:05:05+00:00",
  "date_et": "2026-11-01",
  "build": "0d463cfe05",
  "tape": [
@@ -316,6 +316,12 @@
     "pct": 0.08
    },
    {
+    "sym": "SPY",
+    "name": "S&P 500 ETF",
+    "price": 755.72,
+    "pct": -1.77
+   },
+   {
     "sym": "QQQ",
     "name": "Nasdaq 100 ETF",
     "price": 690.49,
@@ -328,9 +334,9 @@
     "pct": 12.91
    }
   ],
-  "as_of": "2026-11-01T14:56:49.502071+00:00",
+  "as_of": "2026-11-01T15:03:05.855283+00:00",
   "tone": "risk-off",
-  "age_min": 3.7381255999999996
+  "age_min": 1.99714575
  },
  "stories": [
   {
@@ -546,7 +552,7 @@
   "note": "TreasuryDirect, announced offerings"
  },
  "book": {
-  "as_of_et": "09:05",
+  "as_of_et": "10:05",
   "since": "2026-07-13",
   "trading_days": 57,
   "green_days": 29,
