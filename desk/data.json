@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-01T09:10:03+00:00",
+ "generated_utc": "2026-11-01T09:15:03+00:00",
  "date_et": "2026-11-01",
  "build": "0d463cfe05",
  "tape": [
@@ -334,9 +334,9 @@
     "pct": 12.91
    }
   ],
-  "as_of": "2026-11-01T09:09:14.428489+00:00",
+  "as_of": "2026-11-01T09:12:06.024197+00:00",
   "tone": "risk-off",
-  "age_min": 0.8270214833333333
+  "age_min": 2.9666954666666667
  },
  "stories": [
   {
@@ -361,6 +361,13 @@
    "read": "escalation"
   },
   {
+   "topic": "Iran / Hormuz",
+   "title": "Live - Trump, Netanyahu speak, US weighs renewed Iran strikes - Iran International",
+   "source": "Iran International",
+   "published": "Sun, 01 Nov 2026 08:29:07 GMT",
+   "read": "escalation"
+  },
+  {
    "topic": "Russia / Ukraine",
    "title": "The Myth of Inevitable Russian Victory over Ukraine - American Enterprise Institute - AEI",
    "source": "American Enterprise Institute - AEI",
@@ -372,13 +379,6 @@
    "title": "Taiwan says China harassing shipping with east coast patrol - Internazionale",
    "source": "Internazionale",
    "published": "Sun, 01 Nov 2026 01:21:20 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Taiwan / China",
-   "title": "Taiwan Says China Harassing Shipping With East Coast Patrol - U.S. News &amp; World Report",
-   "source": "U.S. News &amp; World Report",
-   "published": "Sun, 01 Nov 2026 01:19:00 GMT",
    "read": "escalation"
   }
  ],
