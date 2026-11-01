@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-01T02:30:04+00:00",
+ "generated_utc": "2026-11-01T02:35:43+00:00",
  "date_et": "2026-10-31",
  "build": "0d463cfe05",
  "tape": [],
@@ -270,9 +270,9 @@
     "pct": 12.91
    }
   ],
-  "as_of": "2026-11-01T02:27:05.928273+00:00",
+  "as_of": "2026-11-01T02:30:06.905006+00:00",
   "tone": "risk-off",
-  "age_min": 2.97188165
+  "age_min": 5.6082921
  },
  "stories": [
   {
@@ -298,16 +298,9 @@
   },
   {
    "topic": "Taiwan / China",
-   "title": "ANALYSIS China's naval moves beyond first island chain show reach: Analysts - Focus Taiwan",
-   "source": "Focus Taiwan",
-   "published": "Thu, 29 Oct 2026 10:42:00 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Taiwan / China",
-   "title": "Taiwan says China harassing shipping with east coast patrol - WSAU",
-   "source": "WSAU",
-   "published": "Sun, 01 Nov 2026 01:44:08 GMT",
+   "title": "Taiwan says China harassing shipping with east coast patrol - The Japan Times",
+   "source": "The Japan Times",
+   "published": "Sun, 01 Nov 2026 01:31:00 GMT",
    "read": "escalation"
   },
   {
@@ -315,6 +308,13 @@
    "title": "Taiwan Says China Harassing Shipping With East Coast Patrol - U.S. News &amp; World Report",
    "source": "U.S. News &amp; World Report",
    "published": "Sun, 01 Nov 2026 01:19:00 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Iran\u2019s IRGC Says Four Tankers Hit Mines, Catch Fire in Strait of Hormuz: who 21 outlets blamed - NewsCord",
+   "source": "NewsCord",
+   "published": "Sat, 31 Oct 2026 23:23:28 GMT",
    "read": "escalation"
   }
  ],
@@ -446,46 +446,9 @@
   "note": "10-year government bonds; spread measured over Germany"
  },
  "auctions": {
-  "rows": [
-   {
-    "date": "",
-    "type": "Bill",
-    "term": "6-Week",
-    "amount_bn": 100.0
-   },
-   {
-    "date": "",
-    "type": "Bill",
-    "term": "13-Week",
-    "amount_bn": 95.0
-   },
-   {
-    "date": "",
-    "type": "Bill",
-    "term": "26-Week",
-    "amount_bn": 82.0
-   },
-   {
-    "date": "",
-    "type": "Bill",
-    "term": "17-Week",
-    "amount_bn": null
-   },
-   {
-    "date": "",
-    "type": "Bill",
-    "term": "4-Week",
-    "amount_bn": null
-   },
-   {
-    "date": "",
-    "type": "Bill",
-    "term": "8-Week",
-    "amount_bn": null
-   }
-  ],
-  "total_bn": 277.0,
-  "note": "TreasuryDirect, announced offerings"
+  "rows": [],
+  "total": null,
+  "note": "unavailable (URLError)"
  },
  "book": {
   "as_of_et": "22:05",
