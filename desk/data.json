@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-01T11:25:04+00:00",
+ "generated_utc": "2026-11-01T11:30:04+00:00",
  "date_et": "2026-11-01",
  "build": "0d463cfe05",
  "tape": [
@@ -336,7 +336,7 @@
   ],
   "as_of": "2026-11-01T11:18:06.125085+00:00",
   "tone": "risk-off",
-  "age_min": 6.969657
+  "age_min": 11.98252665
  },
  "stories": [
   {
@@ -510,9 +510,46 @@
   "note": "10-year government bonds; spread measured over Germany"
  },
  "auctions": {
-  "rows": [],
-  "total": null,
-  "note": "unavailable (URLError)"
+  "rows": [
+   {
+    "date": "",
+    "type": "Bill",
+    "term": "6-Week",
+    "amount_bn": 100.0
+   },
+   {
+    "date": "",
+    "type": "Bill",
+    "term": "13-Week",
+    "amount_bn": 95.0
+   },
+   {
+    "date": "",
+    "type": "Bill",
+    "term": "26-Week",
+    "amount_bn": 82.0
+   },
+   {
+    "date": "",
+    "type": "Bill",
+    "term": "17-Week",
+    "amount_bn": null
+   },
+   {
+    "date": "",
+    "type": "Bill",
+    "term": "4-Week",
+    "amount_bn": null
+   },
+   {
+    "date": "",
+    "type": "Bill",
+    "term": "8-Week",
+    "amount_bn": null
+   }
+  ],
+  "total_bn": 277.0,
+  "note": "TreasuryDirect, announced offerings"
  },
  "book": {
   "as_of_et": "06:05",
