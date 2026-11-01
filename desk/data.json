@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-01T08:30:04+00:00",
+ "generated_utc": "2026-11-01T08:35:03+00:00",
  "date_et": "2026-11-01",
  "build": "0d463cfe05",
  "tape": [
@@ -334,9 +334,9 @@
     "pct": 12.91
    }
   ],
-  "as_of": "2026-11-01T08:27:05.639477+00:00",
+  "as_of": "2026-11-01T08:33:05.785711+00:00",
   "tone": "risk-off",
-  "age_min": 2.9844543666666667
+  "age_min": 1.9684009166666667
  },
  "stories": [
   {
@@ -361,6 +361,13 @@
    "read": "escalation"
   },
   {
+   "topic": "Russia / Ukraine",
+   "title": "The Myth of Inevitable Russian Victory over Ukraine - American Enterprise Institute - AEI",
+   "source": "American Enterprise Institute - AEI",
+   "published": "Sun, 01 Nov 2026 08:16:41 GMT",
+   "read": "unclear"
+  },
+  {
    "topic": "Taiwan / China",
    "title": "Taiwan says China harassing shipping with east coast patrol - Internazionale",
    "source": "Internazionale",
@@ -372,13 +379,6 @@
    "title": "Taiwan Says China Harassing Shipping With East Coast Patrol - U.S. News &amp; World Report",
    "source": "U.S. News &amp; World Report",
    "published": "Sun, 01 Nov 2026 01:19:00 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran warns U.S. and Israel against new attacks after Trump and Netanyahu threats - The Japan Times",
-   "source": "The Japan Times",
-   "published": "Sun, 01 Nov 2026 00:55:00 GMT",
    "read": "escalation"
   }
  ],
