@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-01T13:10:02+00:00",
+ "generated_utc": "2026-11-01T13:15:02+00:00",
  "date_et": "2026-11-01",
  "build": "0d463cfe05",
  "tape": [
@@ -334,9 +334,9 @@
     "pct": 12.91
    }
   ],
-  "as_of": "2026-11-01T13:09:05.399150+00:00",
+  "as_of": "2026-11-01T13:12:04.642708+00:00",
   "tone": "risk-off",
-  "age_min": 0.9547541
+  "age_min": 2.97212225
  },
  "stories": [
   {
@@ -376,10 +376,10 @@
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Abbas Araghchi Says Iran Will Reopen Strait of Hormuz in Two Days With Qatar Mediators: how 6 outlets framed it - NewsCord",
-   "source": "NewsCord",
-   "published": "Sun, 01 Nov 2026 11:22:31 GMT",
-   "read": "unclear"
+   "title": "Iran offers to reopen Hormuz in two days as Trump points to Pickaxe Mountain: where the talks stand - Nacionale",
+   "source": "Nacionale",
+   "published": "Sun, 01 Nov 2026 11:53:54 GMT",
+   "read": "de-escalation"
   }
  ],
  "ratings": [],
