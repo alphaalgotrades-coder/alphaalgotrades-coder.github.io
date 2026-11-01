@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-01T11:50:05+00:00",
+ "generated_utc": "2026-11-01T12:00:06+00:00",
  "date_et": "2026-11-01",
  "build": "0d463cfe05",
  "tape": [
@@ -334,9 +334,9 @@
     "pct": 12.91
    }
   ],
-  "as_of": "2026-11-01T11:48:05.446408+00:00",
+  "as_of": "2026-11-01T11:57:05.264300+00:00",
   "tone": "risk-off",
-  "age_min": 2.0100022666666666
+  "age_min": 3.04095595
  },
  "stories": [
   {
@@ -352,6 +352,13 @@
    "source": "https://houseofsaud.com/",
    "published": "Tue, 27 Oct 2026 11:50:33 GMT",
    "read": "escalation"
+  },
+  {
+   "topic": "Iran / Hormuz",
+   "title": "Abbas Araghchi Says Iran Will Reopen Strait of Hormuz in Two Days With Qatar Mediators: how 6 outlets framed it - NewsCord",
+   "source": "NewsCord",
+   "published": "Sun, 01 Nov 2026 11:22:31 GMT",
+   "read": "unclear"
   },
   {
    "topic": "Iran / Hormuz",
@@ -372,13 +379,6 @@
    "title": "Kremlin aide says initial Ukraine talks should include only US, Russia, Ukraine - Arab News",
    "source": "Arab News",
    "published": "Sun, 01 Nov 2026 10:03:56 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "How a Little-Known Company Dominated the Persian Gulf Oil Trade - The New York Times",
-   "source": "The New York Times",
-   "published": "Sun, 01 Nov 2026 10:02:29 GMT",
    "read": "unclear"
   }
  ],
