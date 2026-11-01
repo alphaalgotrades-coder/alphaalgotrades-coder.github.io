@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-01T13:30:03+00:00",
+ "generated_utc": "2026-11-01T13:35:02+00:00",
  "date_et": "2026-11-01",
  "build": "0d463cfe05",
  "tape": [
@@ -334,9 +334,9 @@
     "pct": 12.91
    }
   ],
-  "as_of": "2026-11-01T13:27:05.191147+00:00",
+  "as_of": "2026-11-01T13:33:14.045504+00:00",
   "tone": "risk-off",
-  "age_min": 2.9705138166666667
+  "age_min": 1.8149909833333333
  },
  "stories": [
   {
@@ -361,6 +361,13 @@
    "read": "unclear"
   },
   {
+   "topic": "Iran / Hormuz",
+   "title": "Iran and US explore diplomacy amid rising threats of war - Al Jazeera",
+   "source": "Al Jazeera",
+   "published": "Sun, 01 Nov 2026 13:12:36 GMT",
+   "read": "de-escalation"
+  },
+  {
    "topic": "Russia / Ukraine",
    "title": "Putin has never refused talks with Ukraine's Zelenskyy, would answer his call: Kremlin - Anadolu Ajans\u0131",
    "source": "Anadolu Ajans\u0131",
@@ -373,13 +380,6 @@
    "source": "Newsweek",
    "published": "Sun, 01 Nov 2026 12:00:00 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran offers to reopen Hormuz in two days as Trump points to Pickaxe Mountain: where the talks stand - Nacionale",
-   "source": "Nacionale",
-   "published": "Sun, 01 Nov 2026 11:53:54 GMT",
-   "read": "de-escalation"
   }
  ],
  "ratings": [],
