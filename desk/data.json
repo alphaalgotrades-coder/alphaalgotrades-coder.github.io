@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-01T12:50:02+00:00",
+ "generated_utc": "2026-11-01T12:55:02+00:00",
  "date_et": "2026-11-01",
  "build": "0d463cfe05",
  "tape": [
@@ -334,9 +334,9 @@
     "pct": 12.91
    }
   ],
-  "as_of": "2026-11-01T12:48:05.245189+00:00",
+  "as_of": "2026-11-01T12:54:13.838794+00:00",
   "tone": "risk-off",
-  "age_min": 1.9600223333333333
+  "age_min": 0.8134876
  },
  "stories": [
   {
@@ -354,6 +354,20 @@
    "read": "escalation"
   },
   {
+   "topic": "Saudi / Gulf supply",
+   "title": "Saudi Aramco seeks alliances to expand crude oil reserves - Inspenet",
+   "source": "Inspenet",
+   "published": "Thu, 22 Oct 2026 07:00:00 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Putin has never refused talks with Ukraine's Zelenskyy, would answer his call: Kremlin - Anadolu Ajans\u0131",
+   "source": "Anadolu Ajans\u0131",
+   "published": "Sun, 01 Nov 2026 12:34:05 GMT",
+   "read": "de-escalation"
+  },
+  {
    "topic": "Russia / Ukraine",
    "title": "Vladimir Putin the Reluctant Humanitarian Warlord: Dissected - Newsweek",
    "source": "Newsweek",
@@ -365,20 +379,6 @@
    "title": "Abbas Araghchi Says Iran Will Reopen Strait of Hormuz in Two Days With Qatar Mediators: how 6 outlets framed it - NewsCord",
    "source": "NewsCord",
    "published": "Sun, 01 Nov 2026 11:22:31 GMT",
-   "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Qatar LNG carrier struck by \u2018unidentified objects\u2019 in Gulf - Al Jazeera",
-   "source": "Al Jazeera",
-   "published": "Sun, 01 Nov 2026 10:22:12 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Kremlin aide says initial Ukraine talks should include only US, Russia, Ukraine - Arab News",
-   "source": "Arab News",
-   "published": "Sun, 01 Nov 2026 10:03:56 GMT",
    "read": "unclear"
   }
  ],
