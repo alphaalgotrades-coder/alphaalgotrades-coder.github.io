@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-01T12:30:04+00:00",
+ "generated_utc": "2026-11-01T12:35:03+00:00",
  "date_et": "2026-11-01",
  "build": "0d463cfe05",
  "tape": [
@@ -334,9 +334,9 @@
     "pct": 12.91
    }
   ],
-  "as_of": "2026-11-01T12:27:04.567188+00:00",
+  "as_of": "2026-11-01T12:33:05.383652+00:00",
   "tone": "risk-off",
-  "age_min": 3.0084137333333336
+  "age_min": 1.9722299833333332
  },
  "stories": [
   {
@@ -354,6 +354,13 @@
    "read": "escalation"
   },
   {
+   "topic": "Russia / Ukraine",
+   "title": "Vladimir Putin the Reluctant Humanitarian Warlord: Dissected - Newsweek",
+   "source": "Newsweek",
+   "published": "Sun, 01 Nov 2026 12:00:00 GMT",
+   "read": "unclear"
+  },
+  {
    "topic": "Iran / Hormuz",
    "title": "Abbas Araghchi Says Iran Will Reopen Strait of Hormuz in Two Days With Qatar Mediators: how 6 outlets framed it - NewsCord",
    "source": "NewsCord",
@@ -366,13 +373,6 @@
    "source": "Al Jazeera",
    "published": "Sun, 01 Nov 2026 10:22:12 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Putin Breaks Down His Isolation, With a Big Assist From Trump - The New York Times",
-   "source": "The New York Times",
-   "published": "Sun, 01 Nov 2026 10:04:00 GMT",
-   "read": "unclear"
   },
   {
    "topic": "Russia / Ukraine",
