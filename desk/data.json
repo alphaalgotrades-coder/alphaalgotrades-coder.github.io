@@ -1,8 +1,72 @@
 {
- "generated_utc": "2026-11-01T05:55:03+00:00",
+ "generated_utc": "2026-11-01T06:05:06+00:00",
  "date_et": "2026-11-01",
  "build": "0d463cfe05",
- "tape": [],
+ "tape": [
+  {
+   "time": "02:00",
+   "ccy": "CAD",
+   "impact": "Holi",
+   "title": "Daylight Saving Time Shift",
+   "cons": "",
+   "prev": "",
+   "actual": ""
+  },
+  {
+   "time": "02:00",
+   "ccy": "USD",
+   "impact": "Holi",
+   "title": "Daylight Saving Time Shift",
+   "cons": "",
+   "prev": "",
+   "actual": ""
+  },
+  {
+   "time": "19:00",
+   "ccy": "AUD",
+   "impact": "Low",
+   "title": "MI Inflation Gauge m/m",
+   "cons": "",
+   "prev": "0.3%",
+   "actual": ""
+  },
+  {
+   "time": "19:30",
+   "ccy": "AUD",
+   "impact": "Low",
+   "title": "Building Approvals m/m",
+   "cons": "1.8%",
+   "prev": "-6.1%",
+   "actual": ""
+  },
+  {
+   "time": "19:30",
+   "ccy": "JPY",
+   "impact": "Low",
+   "title": "Final Manufacturing PMI",
+   "cons": "53.3",
+   "prev": "53.3",
+   "actual": ""
+  },
+  {
+   "time": "19:45",
+   "ccy": "AUD",
+   "impact": "Low",
+   "title": "ANZ Job Advertisements m/m",
+   "cons": "",
+   "prev": "2.2%",
+   "actual": ""
+  },
+  {
+   "time": "20:45",
+   "ccy": "CNY",
+   "impact": "Low",
+   "title": "RatingDog Manufacturing PMI",
+   "cons": "52.0",
+   "prev": "52.1",
+   "actual": ""
+  }
+ ],
  "rates": {
   "rows": [
    {
@@ -270,9 +334,9 @@
     "pct": 12.91
    }
   ],
-  "as_of": "2026-11-01T05:54:05.224071+00:00",
+  "as_of": "2026-11-01T06:03:04.981552+00:00",
   "tone": "risk-off",
-  "age_min": 0.9739090166666667
+  "age_min": 2.0286592333333333
  },
  "stories": [
   {
