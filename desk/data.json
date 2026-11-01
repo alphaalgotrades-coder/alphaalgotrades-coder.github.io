@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-01T02:10:03+00:00",
+ "generated_utc": "2026-11-01T02:15:03+00:00",
  "date_et": "2026-10-31",
  "build": "0d463cfe05",
  "tape": [],
@@ -270,9 +270,9 @@
     "pct": 12.91
    }
   ],
-  "as_of": "2026-11-01T02:09:06.241923+00:00",
+  "as_of": "2026-11-01T02:12:05.944138+00:00",
   "tone": "risk-off",
-  "age_min": 0.95488795
+  "age_min": 2.9648169666666666
  },
  "stories": [
   {
@@ -311,10 +311,10 @@
    "read": "escalation"
   },
   {
-   "topic": "Iran / Hormuz",
-   "title": "Iran\u2019s IRGC Says Four Tankers Hit Mines, Catch Fire in Strait of Hormuz: who 21 outlets blamed - NewsCord",
-   "source": "NewsCord",
-   "published": "Sat, 31 Oct 2026 23:23:28 GMT",
+   "topic": "Taiwan / China",
+   "title": "Taiwan Says China Harassing Shipping With East Coast Patrol - U.S. News &amp; World Report",
+   "source": "U.S. News &amp; World Report",
+   "published": "Sun, 01 Nov 2026 01:19:00 GMT",
    "read": "escalation"
   }
  ],
