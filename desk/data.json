@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-01T10:30:04+00:00",
+ "generated_utc": "2026-11-01T10:35:04+00:00",
  "date_et": "2026-11-01",
  "build": "0d463cfe05",
  "tape": [
@@ -334,9 +334,9 @@
     "pct": 12.91
    }
   ],
-  "as_of": "2026-11-01T10:24:05.766930+00:00",
+  "as_of": "2026-11-01T10:33:05.188274+00:00",
   "tone": "risk-off",
-  "age_min": 5.9856811
+  "age_min": 1.9854488333333333
  },
  "stories": [
   {
@@ -347,13 +347,6 @@
    "read": "escalation"
   },
   {
-   "topic": "Russia / Ukraine",
-   "title": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss - BBC",
-   "source": "BBC",
-   "published": "Wed, 28 Oct 2026 19:15:58 GMT",
-   "read": "unclear"
-  },
-  {
    "topic": "Saudi / Gulf supply",
    "title": "Ras Tanura Oil Terminal Fire Reported as Coalition Intercepts 3 Missiles - https://houseofsaud.com/",
    "source": "https://houseofsaud.com/",
@@ -362,24 +355,31 @@
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "How a Little-Known Company Dominated the Persian Gulf Oil Trade - The New York Times",
+   "title": "Qatar LNG carrier struck by \u2018unidentified objects\u2019 in Gulf - Al Jazeera",
+   "source": "Al Jazeera",
+   "published": "Sun, 01 Nov 2026 10:22:12 GMT",
+   "read": "escalation"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Putin Breaks Down His Isolation, With a Big Assist From Trump - The New York Times",
    "source": "The New York Times",
-   "published": "Sun, 01 Nov 2026 10:02:29 GMT",
+   "published": "Sun, 01 Nov 2026 10:04:00 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Russia / Ukraine",
+   "title": "Kremlin aide says initial Ukraine talks should include only US, Russia, Ukraine - Arab News",
+   "source": "Arab News",
+   "published": "Sun, 01 Nov 2026 10:03:56 GMT",
    "read": "unclear"
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Pakistan LNG Cargo Attacked Near Hormuz Had Iranian Approval - Bloomberg",
-   "source": "Bloomberg",
-   "published": "Sun, 01 Nov 2026 09:23:14 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Live - Trump, Netanyahu speak, US weighs renewed Iran strikes - Iran International",
-   "source": "Iran International",
-   "published": "Sun, 01 Nov 2026 08:29:07 GMT",
-   "read": "escalation"
+   "title": "How a Little-Known Company Dominated the Persian Gulf Oil Trade - The New York Times",
+   "source": "The New York Times",
+   "published": "Sun, 01 Nov 2026 10:02:29 GMT",
+   "read": "unclear"
   }
  ],
  "ratings": [],
