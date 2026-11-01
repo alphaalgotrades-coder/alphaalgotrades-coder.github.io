@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-01T16:10:03+00:00",
+ "generated_utc": "2026-11-01T16:15:03+00:00",
  "date_et": "2026-11-01",
  "build": "0d463cfe05",
  "tape": [
@@ -334,9 +334,9 @@
     "pct": 12.91
    }
   ],
-  "as_of": "2026-11-01T16:09:05.987431+00:00",
+  "as_of": "2026-11-01T16:12:05.786976+00:00",
   "tone": "risk-off",
-  "age_min": 0.9634937
+  "age_min": 2.961338683333333
  },
  "stories": [
   {
@@ -361,6 +361,13 @@
    "read": "unclear"
   },
   {
+   "topic": "Taiwan / China",
+   "title": "China is stepping up pressure on Taiwan: Taipei has warned of the threat of a naval blockade - UkrMedia News",
+   "source": "UkrMedia News",
+   "published": "Sun, 01 Nov 2026 15:42:30 GMT",
+   "read": "escalation"
+  },
+  {
    "topic": "Russia / Ukraine",
    "title": "Russia Agrees to Halt Recruitment of Ghanaians for Ukraine War - Bloomberg.com",
    "source": "Bloomberg.com",
@@ -373,13 +380,6 @@
    "source": "T\u00fcrkiye Today",
    "published": "Sun, 01 Nov 2026 13:51:00 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Iran / Hormuz",
-   "title": "Iran and US explore diplomacy amid rising threats of war - Al Jazeera",
-   "source": "Al Jazeera",
-   "published": "Sun, 01 Nov 2026 13:12:36 GMT",
-   "read": "de-escalation"
   }
  ],
  "ratings": [],
