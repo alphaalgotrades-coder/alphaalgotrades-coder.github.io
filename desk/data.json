@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-01T03:10:04+00:00",
+ "generated_utc": "2026-11-01T03:15:04+00:00",
  "date_et": "2026-10-31",
  "build": "0d463cfe05",
  "tape": [],
@@ -270,9 +270,9 @@
     "pct": 12.91
    }
   ],
-  "as_of": "2026-11-01T03:09:08.756441+00:00",
+  "as_of": "2026-11-01T03:12:05.607817+00:00",
   "tone": "risk-off",
-  "age_min": 0.9270825333333333
+  "age_min": 2.9839354333333334
  },
  "stories": [
   {
@@ -284,10 +284,10 @@
   },
   {
    "topic": "Russia / Ukraine",
-   "title": "Putin tells Witkoff he is ready to resume direct peace talks, Russia releases U.S. detainee - Axios",
-   "source": "Axios",
-   "published": "Wed, 21 Oct 2026 07:00:00 GMT",
-   "read": "de-escalation"
+   "title": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss - BBC",
+   "source": "BBC",
+   "published": "Wed, 28 Oct 2026 19:15:58 GMT",
+   "read": "unclear"
   },
   {
    "topic": "Saudi / Gulf supply",
@@ -312,10 +312,10 @@
   },
   {
    "topic": "Iran / Hormuz",
-   "title": "Iran\u2019s IRGC Says Four Tankers Hit Mines, Catch Fire in Strait of Hormuz: who 21 outlets blamed - NewsCord",
-   "source": "NewsCord",
-   "published": "Sat, 31 Oct 2026 23:23:28 GMT",
-   "read": "escalation"
+   "title": "Iran says US tone shifts but demands still block talks - Iran International",
+   "source": "Iran International",
+   "published": "Sat, 31 Oct 2026 23:26:13 GMT",
+   "read": "unclear"
   }
  ],
  "ratings": [],
