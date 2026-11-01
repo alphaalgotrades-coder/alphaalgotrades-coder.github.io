@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-01T00:30:04+00:00",
+ "generated_utc": "2026-11-01T00:35:03+00:00",
  "date_et": "2026-10-31",
  "build": "0d463cfe05",
  "tape": [],
@@ -270,9 +270,9 @@
     "pct": 12.91
    }
   ],
-  "as_of": "2026-11-01T00:27:05.466774+00:00",
+  "as_of": "2026-11-01T00:33:14.038168+00:00",
   "tone": "risk-off",
-  "age_min": 2.9855452666666666
+  "age_min": 1.8249332333333332
  },
  "stories": [
   {
@@ -304,18 +304,18 @@
    "read": "escalation"
   },
   {
+   "topic": "Taiwan / China",
+   "title": "ANALYSIS China's naval moves beyond first island chain show reach: Analysts - Focus Taiwan",
+   "source": "Focus Taiwan",
+   "published": "Thu, 29 Oct 2026 10:42:00 GMT",
+   "read": "unclear"
+  },
+  {
    "topic": "Iran / Hormuz",
    "title": "Iran\u2019s IRGC Says Four Tankers Hit Mines, Catch Fire in Strait of Hormuz: who 21 outlets blamed - NewsCord",
    "source": "NewsCord",
    "published": "Sat, 31 Oct 2026 23:23:28 GMT",
    "read": "escalation"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Rubio Casts Doubts On Quick Deal To End War In Ukraine, Defends Russian Contacts - Radio Free Europe/Radio Liberty",
-   "source": "Radio Free Europe/Radio Liberty",
-   "published": "Sat, 31 Oct 2026 23:02:01 GMT",
-   "read": "unclear"
   }
  ],
  "ratings": [],
