@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-02T14:50:03+00:00",
+ "generated_utc": "2026-11-02T14:55:03+00:00",
  "date_et": "2026-11-02",
  "build": "0d463cfe05",
  "tape": [
@@ -118,7 +118,7 @@
    "title": "Final Manufacturing PMI",
    "cons": "56.0",
    "prev": "56.0",
-   "actual": ""
+   "actual": "54.9"
   },
   {
    "time": "10:00",
@@ -215,12 +215,12 @@
   "rows": [
    {
     "series": "2Y",
-    "level": 4.616,
-    "d_day_bps": 0.6,
+    "level": 4.614,
+    "d_day_bps": 0.4,
     "lean": "flat",
     "source": "YAHOO_TSY_FUT_ZT",
     "latency": "after-hours-futures-proxy",
-    "snapshot_ts": "2026-11-02T14:37:00+00:00",
+    "snapshot_ts": "2026-11-02T14:38:00+00:00",
     "snapshot_date": "2026-11-02",
     "prior_day": "2026-10-29",
     "prior_day_close": 4.61,
@@ -232,39 +232,39 @@
      4.628,
      4.63,
      4.632,
-     4.622,
+     4.626,
      4.624,
      4.61,
-     4.624,
+     4.628,
      4.624,
      4.628,
      4.612,
-     4.61,
+     4.616,
      4.616,
      4.62,
-     4.622,
-     4.622,
-     4.622,
-     4.628,
      4.624,
+     4.62,
+     4.622,
+     4.626,
+     4.622,
      4.622,
      4.62,
      4.608,
-     4.618,
+     4.63,
      4.634,
      4.624,
-     4.626,
-     4.616,
-     4.622,
+     4.618,
+     4.632,
+     4.624,
      4.636,
-     4.628,
+     4.632,
      4.626,
-     4.628,
+     4.632,
+     4.636,
+     4.632,
+     4.632,
      4.63,
-     4.634,
-     4.63,
-     4.62,
-     4.618
+     4.624
     ]
    },
    {
@@ -274,7 +274,7 @@
     "lean": "dovish",
     "source": "YAHOO_TSY_FUT_ZF",
     "latency": "after-hours-futures-proxy",
-    "snapshot_ts": "2026-11-02T14:37:00+00:00",
+    "snapshot_ts": "2026-11-02T14:38:00+00:00",
     "snapshot_date": "2026-11-02",
     "prior_day": "2026-10-29",
     "prior_day_close": 4.721,
@@ -299,36 +299,36 @@
      4.718,
      4.724,
      4.723,
-     4.723,
+     4.719,
      4.709,
-     4.728,
      4.73,
      4.724,
-     4.712,
+     4.723,
+     4.724,
      4.716,
-     4.728,
+     4.716,
      4.718,
-     4.714,
+     4.716,
      4.713,
-     4.713,
-     4.709,
      4.714,
-     4.721,
-     4.714,
+     4.723,
+     4.723,
      4.719,
-     4.718,
-     4.707,
-     4.709
+     4.719,
+     4.716,
+     4.714,
+     4.702,
+     4.697
     ]
    },
    {
     "series": "10Y",
-    "level": 4.9,
-    "d_day_bps": -2.9,
+    "level": 4.897,
+    "d_day_bps": -3.2,
     "lean": "dovish",
     "source": "YAHOO_TSY_FUT_ZN",
     "latency": "after-hours-futures-proxy",
-    "snapshot_ts": "2026-11-02T14:37:00+00:00",
+    "snapshot_ts": "2026-11-02T14:38:00+00:00",
     "snapshot_date": "2026-11-02",
     "prior_day": "2026-10-29",
     "prior_day_close": 4.929,
@@ -354,24 +354,24 @@
      4.927,
      4.922,
      4.924,
-     4.92,
-     4.92,
-     4.934,
-     4.922,
      4.913,
-     4.918,
-     4.922,
-     4.915,
-     4.904,
-     4.911,
-     4.915,
-     4.902,
-     4.906,
+     4.931,
+     4.929,
+     4.924,
+     4.913,
+     4.913,
+     4.927,
      4.913,
      4.911,
-     4.906,
      4.904,
-     4.896,
+     4.904,
+     4.906,
+     4.908,
+     4.908,
+     4.913,
+     4.904,
+     4.904,
+     4.906,
      4.89
     ]
    },
@@ -382,55 +382,55 @@
     "lean": "dovish",
     "source": "YAHOO_TSY_FUT_ZB",
     "latency": "after-hours-futures-proxy",
-    "snapshot_ts": "2026-11-02T14:37:00+00:00",
+    "snapshot_ts": "2026-11-02T14:38:00+00:00",
     "snapshot_date": "2026-11-02",
     "prior_day": "2026-10-29",
     "prior_day_close": 5.309,
     "spark": [
      5.278,
-     5.275,
+     5.271,
      5.305,
      5.304,
-     5.304,
+     5.302,
      5.304,
      5.307,
-     5.304,
-     5.304,
-     5.294,
-     5.304,
+     5.3,
+     5.305,
+     5.3,
+     5.305,
      5.302,
-     5.298,
+     5.293,
+     5.293,
      5.289,
-     5.287,
+     5.294,
      5.289,
-     5.287,
-     5.289,
+     5.291,
      5.293,
      5.296,
-     5.298,
+     5.291,
+     5.287,
+     5.302,
+     5.294,
      5.294,
      5.293,
-     5.298,
-     5.293,
-     5.285,
-     5.289,
-     5.285,
      5.282,
-     5.271,
-     5.271,
-     5.28,
-     5.28,
      5.282,
-     5.273,
-     5.273,
      5.278,
+     5.278,
+     5.271,
+     5.278,
+     5.273,
+     5.282,
+     5.28,
      5.278,
      5.275,
-     5.266
+     5.273,
+     5.275,
+     5.271
     ]
    }
   ],
-  "as_of": "2026-11-02T14:37:00+00:00",
+  "as_of": "2026-11-02T14:38:00+00:00",
   "note": "after-hours-futures-proxy"
  },
  "strip": {
@@ -438,49 +438,49 @@
    {
     "sym": "MOVE",
     "name": "Bond-market volatility",
-    "price": 101.1169,
-    "pct": 0.92
+    "price": 101.0093,
+    "pct": 0.81
    },
    {
     "sym": "CL",
     "name": "WTI crude futures",
-    "price": 97.27,
-    "pct": -6.58
+    "price": 97.4,
+    "pct": -6.45
    },
    {
     "sym": "GC",
     "name": "Gold futures",
-    "price": 3971.8,
-    "pct": 1.87
+    "price": 3971.1,
+    "pct": 1.85
    },
    {
     "sym": "DXY",
     "name": "Dollar index",
-    "price": 101.58,
-    "pct": -0.29
+    "price": 101.602,
+    "pct": -0.27
    },
    {
     "sym": "SPY",
     "name": "S&P 500 ETF",
-    "price": 760.22,
-    "pct": 0.59
+    "price": 759.95,
+    "pct": 0.55
    },
    {
     "sym": "QQQ",
     "name": "Nasdaq 100 ETF",
-    "price": 695.301,
-    "pct": 0.7
+    "price": 694.75,
+    "pct": 0.62
    },
    {
     "sym": "VIX",
     "name": "Volatility index",
-    "price": 18.97,
-    "pct": -2.32
+    "price": 19.02,
+    "pct": -2.06
    }
   ],
-  "as_of": "2026-11-02T14:48:05.690709+00:00",
+  "as_of": "2026-11-02T14:54:05.375546+00:00",
   "tone": "risk-on",
-  "age_min": 1.96961895
+  "age_min": 0.9697625
  },
  "stories": [
   {
@@ -505,25 +505,25 @@
    "read": "de-escalation"
   },
   {
+   "topic": "Saudi / Gulf supply",
+   "title": "Saudis Tell Asian Refiners They Can Soon Pick Up Oil on Red Sea - Bloomberg",
+   "source": "Bloomberg",
+   "published": "Mon, 21 Sep 2026 07:00:00 GMT",
+   "read": "unclear"
+  },
+  {
+   "topic": "Taiwan / China",
+   "title": "China is Flouting Maritime Rules \u2013 Democracies Must Fight Back - Daily Sun",
+   "source": "Daily Sun",
+   "published": "Mon, 02 Nov 2026 14:29:00 GMT",
+   "read": "escalation"
+  },
+  {
    "topic": "Iran / Hormuz",
    "title": "Iran says contacts over ending war continue as talks end with no breakthrough - Reuters",
    "source": "Reuters",
    "published": "Mon, 02 Nov 2026 13:53:43 GMT",
    "read": "unclear"
-  },
-  {
-   "topic": "Russia / Ukraine",
-   "title": "Ukraine, Russia report hacking attacks on emergency alert apps after Oleshky truce ends - DW.com",
-   "source": "DW.com",
-   "published": "Mon, 02 Nov 2026 12:33:45 GMT",
-   "read": "escalation"
-  },
-  {
-   "topic": "Taiwan / China",
-   "title": "Raising the bar: Taiwan alters draft rules to add thousands to armed forces - South China Morning Post",
-   "source": "South China Morning Post",
-   "published": "Mon, 02 Nov 2026 12:19:44 GMT",
-   "read": "escalation"
   }
  ],
  "ratings": [],
@@ -628,29 +628,29 @@
    {
     "code": "FR",
     "name": "France",
-    "level": 4.9023,
+    "level": 4.8966,
     "as_of": "2026-11-02",
-    "spread_bp": 160.9,
-    "d_day_bps": -7.4
+    "spread_bp": 160.7,
+    "d_day_bps": -7.9
    },
    {
     "code": "DE",
     "name": "Germany",
-    "level": 3.293,
+    "level": 3.29,
     "as_of": "2026-11-02",
     "spread_bp": null,
-    "d_day_bps": -3.1
+    "d_day_bps": -3.4
    },
    {
     "code": "IT",
     "name": "Italy",
-    "level": 4.4155,
+    "level": 4.4112,
     "as_of": "2026-11-02",
-    "spread_bp": 112.2,
-    "d_day_bps": -7.5
+    "spread_bp": 112.1,
+    "d_day_bps": -7.9
    }
   ],
-  "bund": 3.293,
+  "bund": 3.29,
   "note": "10-year government bonds; spread measured over Germany"
  },
  "auctions": {
